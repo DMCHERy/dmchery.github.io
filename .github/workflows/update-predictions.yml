@@ -30,7 +30,7 @@ jobs:
     - name: Run Backtester
       run: python backtesting_script.py
 
-       - name: Commit Updated Data
+    - name: Commit Updated Data
       env:
         TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       run: |
