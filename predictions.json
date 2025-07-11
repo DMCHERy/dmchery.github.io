@@ -1,0 +1,20 @@
+[
+  {
+    "question": "Will Anthropic release Claude 3.5 before August 2024?",
+    "probability": 0.72,
+    "date": "2025-07-11",
+    "link": "https://manifold.markets/ExampleLink1"
+  },
+  {
+    "question": "Will a major U.S. bank fail by the end of the year?",
+    "probability": 0.61,
+    "date": "2025-07-11",
+    "link": "https://manifold.markets/ExampleLink2"
+  },
+  {
+    "question": "Will ‘Surprising LLM reasoning failures’ hit mainstream media?",
+    "probability": 0.78,
+    "date": "2025-07-11",
+    "link": "https://manifold.markets/ExampleLink3"
+  }
+]

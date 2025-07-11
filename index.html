@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manifold Predictor Showcase</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #20232a;
+      color: #61dafb;
+      padding: 1rem;
+      text-align: center;
+    }
+    .container {
+      padding: 2rem;
+      max-width: 1200px;
+      margin: auto;
+    }
+    .card {
+      background: white;
+      border-radius: 10px;
+      padding: 1rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      margin-bottom: 1.5rem;
+      transition: 0.3s;
+    }
+    .card:hover {
+      transform: scale(1.01);
+    }
+    .question {
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+    .probability {
+      color: #333;
+      font-size: 1.1rem;
+    }
+    .date {
+      font-size: 0.9rem;
+      color: gray;
+    }
+    .button {
+      margin-top: 1rem;
+      background-color: #61dafb;
+      color: #000;
+      border: none;
+      padding: 0.5rem 1rem;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      color: #aaa;
+      font-size: 0.8rem;
+    }
+    .error-box {
+      background-color: #ffefef;
+      border: 1px solid #cc0000;
+      color: #cc0000;
+      padding: 1rem;
+      border-radius: 10px;
+      text-align: center;
+      max-width: 600px;
+      margin: 2rem auto;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1> Manifold Market Predictor</h1>
+    <p>Powered by GPT + Random Forest</p>
+  </header>
+
+  <div class="container" id="predictions">
+    <!-- Cards will be inserted here dynamically -->
+  </div>
+
+  <div class="error-box" id="errorBox" style="display:none">
+    <strong>Error:</strong> Could not load <code>predictions.json</code>. Please make sure the file exists and is in the correct location.
+  </div>
+
+  <footer>
+    Not affiliated with <a href="https://manifold.markets" target="_blank">Manifold Markets</a>. Predictions are for educational use only.
+  </footer>
+
+  <script>
+    async function loadPredictions() {
+      try {
+        const response = await fetch('predictions.json');
+        if (!response.ok) throw new Error('File not found or inaccessible');
+        const data = await response.json();
+        const container = document.getElementById('predictions');
+
+        data.slice().reverse().forEach(pred => {
+          const card = document.createElement('div');
+          card.className = 'card';
+          card.innerHTML = `
+            <div class="question">${pred.question}</div>
+            <div class="probability">🟢 Predicted YES Probability: <strong>${(pred.probability * 100).toFixed(1)}%</strong></div>
+            <div class="date"> Predicted on ${pred.date}</div>
+            <a href="${pred.link}" target="_blank"><button class="button"> View on Manifold</button></a>
+          `;
+          container.appendChild(card);
+        });
+
+      } catch (error) {
+        console.error('Could not load predictions.json:', error);
+        document.getElementById('errorBox').style.display = 'block';
+      }
+    }
+
+    loadPredictions();
+  </script>
+</body>
+</html>
