@@ -3,184 +3,283 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Manifold Predictor Showcase</title>
+  <title>Manifold Market Predictor</title>
+  <!-- Styles for the page -->
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
+      font-family: "Segoe UI", Tahoma, sans-serif;
+      background: #fafafa;
+      color: #333;
       margin: 0;
-      padding: 0;
+      line-height: 1.6;
     }
-    header {
-      background-color: #20232a;
-      color: #61dafb;
-      padding: 1rem;
-      text-align: center;
-    }
-    .container {
-      padding: 2rem;
+    h1, h2 { color: #111; margin: 0; }
+    h1 { font-size: 2rem; margin: 1rem 0; }
+    h2 { font-size: 1.5rem; margin: 2rem 0 1rem; }
+    p { margin: 0.5rem 0; }
+
+    header, main, footer {
       max-width: 1200px;
       margin: auto;
+      padding: 1rem 1.5rem;
     }
-    /* Card styles for prediction cards */
-    .card {
-      background: white;
-      border-radius: 10px;
-      padding: 1rem;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      margin-bottom: 1.5rem;
-      transition: 0.3s;
+    header { border-bottom: 2px solid #eee; }
+    .tagline { font-size: 0.9rem; color: #555; margin: 0 0 0.5rem; }
+
+    /* Prediction Cards section */
+    #predictions input[type="text"] {
+      margin-bottom: 1rem;
+      padding: 0.5rem;
+      width: 100%;
+      max-width: 400px;
+      font-size: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
     }
-    .card:hover {
-      transform: scale(1.01);
-    }
-    .question {
-      font-size: 1.2rem;
-      font-weight: bold;
-    }
-    .probability {
-      color: #333;
-      font-size: 1.1rem;
-    }
-    .date {
-      font-size: 0.9rem;
-      color: gray;
-    }
-    .button {
-      margin-top: 1rem;
-      background-color: #61dafb;
-      color: #000;
-      border: none;
-      padding: 0.5rem 1rem;
-      border-radius: 5px;
-      cursor: pointer;
-    }
-    /* New: Grid layout for the predictions container */
-    #predictions {
+    .cards-container {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
       gap: 1rem;
     }
-    .error-box {
-      background-color: #ffefef;
-      border: 1px solid #cc0000;
-      color: #cc0000;
+    .card {
+      background: #fff;
+      border-radius: 8px;
       padding: 1rem;
-      border-radius: 10px;
-      text-align: center;
-      max-width: 600px;
-      margin: 2rem auto;
-      display: none; /* hidden by default, shown on error */
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      transition: opacity 0.3s;
     }
-    /* New: About/Readme section styles */
-    .about-section {
-      background-color: #fff;
-      border-radius: 10px;
-      padding: 2rem;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      max-width: 1200px;
-      margin: 3rem auto 2rem auto;
+    .card h3 { font-size: 1.1rem; margin-top: 0; }
+    .card p { margin: 0.5rem 0 0; font-size: 0.95rem; color: #333; }
+    .card.filtered-out {
+      opacity: 0;
+      pointer-events: none;
     }
-    .about-section h2, .about-section h3 {
-      margin-top: 0;
+    #loadMoreBtn {
+      margin: 1.5rem 0;
+      padding: 0.6rem 1.2rem;
+      font-size: 1rem;
+      background: #007BFF;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.2s;
     }
-    /* New: Scrollable data viewer styles */
-    .data-container {
-      background-color: #f9f9f9;
+    #loadMoreBtn:hover { background-color: #0056b3; }
+
+    /* Backtested Data section */
+    #backtest input[type="text"] {
+      margin: 0.5rem 0 1rem;
+      padding: 0.5rem;
+      width: 100%;
+      max-width: 400px;
+      font-size: 1rem;
       border: 1px solid #ccc;
-      border-radius: 5px;
-      padding: 1rem;
-      max-height: 300px;
-      overflow: auto;
-      font-family: monospace;
+      border-radius: 4px;
+    }
+    .table-container {
+      max-height: 400px;
+      overflow-y: auto;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+    }
+    table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+    thead th {
+      position: sticky;
+      top: 0;
+      background: #f0f0f0;
+      padding: 0.5rem;
+      text-align: left;
+      font-weight: bold;
+      border-bottom: 2px solid #ccc;
+    }
+    tbody td {
+      padding: 0.5rem;
+      border-bottom: 1px solid #eee;
+    }
+    .highlight { background-color: #fff200; }
+
+    /* Footer */
+    footer {
+      margin-top: 2rem;
+      padding: 1rem 1.5rem;
+      background: #f9f9f9;
+      text-align: center;
       font-size: 0.9rem;
-      white-space: pre-wrap;
+      color: #555;
+    }
+    .contacts {
+      list-style: none;
+      padding: 0;
+      margin: 0.5rem 0 0;
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+    }
+    .contacts li { display: inline; }
+    .contacts a { color: #007BFF; text-decoration: none; }
+    .contacts a:hover { text-decoration: underline; }
+
+    @media(max-width: 600px) {
+      header, footer { padding: 1rem; }
+      #loadMoreBtn { width: 100%; }
+      .contacts { flex-direction: column; gap: 0.5rem; }
     }
   </style>
 </head>
 <body>
+
   <header>
     <h1>Manifold Market Predictor</h1>
-    <p>Powered by GPT + Random Forest</p>
+    <p class="tagline">
+      An unofficial project by <a href="https://www.dmcher.store" target="_blank">DMCHER.store</a>
+      – Created by Dinmukhammed Toleubay
+    </p>
   </header>
 
-  <!-- Predictions Grid Section -->
-  <div class="container" id="predictions">
-    <!-- Prediction cards will be inserted here dynamically by JS -->
-  </div>
+  <main>
+    <!-- Prediction Cards Section -->
+    <section id="predictions">
+      <h2>Top Predictions</h2>
+      <input type="text" id="cardSearch" placeholder="Search predictions..." oninput="filterCards()" />
+      <div class="cards-container" id="cardsContainer"></div>
+      <button id="loadMoreBtn" onclick="loadMore()">Load More</button>
+    </section>
 
-  <!-- Error message (hidden unless predictions.json fails to load) -->
-  <div class="error-box" id="errorBox">
-    <strong>Error:</strong> Could not load <code>predictions.json</code>. Please make sure the file exists and is in the correct location.
-  </div>
+    <!-- Backtested Data Section -->
+    <section id="backtest">
+      <h2>Backtested Results</h2>
+      <input type="text" id="backtestSearch" placeholder="Search past questions..." oninput="filterBacktest()" />
+      <div class="table-container">
+        <table id="backtestTable">
+          <thead>
+            <tr><th>Question</th><th>Predicted Probability</th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
 
-  <!-- About/Explanation Section at the bottom -->
-  <div class="about-section">
-    <h2>About this Project</h2>
-    <p><strong>Tech Stack & Model:</strong> This project is built with HTML, CSS, and vanilla JavaScript on the front-end. The prediction engine uses OpenAI's GPT for analyzing market questions and a Random Forest machine learning model (an ensemble of decision trees) to compute the final "Yes" probability:contentReference[oaicite:4]{index=4}. Data is sourced from the public APIs of <a href="https://manifold.markets" target="_blank">Manifold Markets</a>.</p>
-    <p><strong>Disclaimer:</strong> This is an unofficial, personal project created for fun and educational purposes. Predictions are not guaranteed to be accurate and should <em>not</em> be taken as financial advice. The site is <strong>not affiliated</strong> with Manifold Markets or any official trading platform. Use it at your own risk!</p>
-    <p><strong>How GPT is Integrated:</strong> The system uses GPT to interpret each market question's context and nuances. Those AI-generated insights are combined with historical data and fed into the Random Forest model, which then outputs a predicted probability for a "YES" outcome. In short, GPT helps understand the question, and the Random Forest uses that understanding (plus data) to make a prediction.</p>
-    <h3>Historical Backtested Data</h3>
-    <p>Below is some historical backtesting data demonstrating how the predictor performed on past market questions. Scroll through the data to review past predictions versus actual outcomes:</p>
-    <div class="data-container">
-      <pre id="backtestData"><!-- Filled by JS --></pre>
-    </div>
-    <h3>Contact & Project Info</h3>
-    <p>Project by Dinmukhammed Toleubay – this is a playful summer project to explore prediction markets and AI. Feel free to reach out or check out my work:</p>
-    <p>
-      Instagram: <a href="#" target="_blank">https://www.instagram.com/dinmukhammed.toleubay/</a><br>
-      GitHub: <a href="#" target="_blank">https://github.com/DMCHERy</a><br>
-      Email: <a href="#">dinmukhammed.toleubay@gmail.com</a>
-    </p>
-  </div>
+    <!-- About Section -->
+    <section id="about">
+      <h2>About this Project</h2>
+      <p>
+        The Manifold Market Predictor is an <strong>unofficial, educational tool</strong> that uses real-time data from 
+        Manifold Markets to forecast outcomes of unresolved binary questions. It combines <strong>GPT-3.5</strong> (for 
+        analyzing the market question) and a <strong>Random Forest</strong> machine learning model (trained on past resolved markets) 
+        to estimate the probability of a "YES" resolution for each market:contentReference[oaicite:25]{index=25}:contentReference[oaicite:26]{index=26}. The model outputs a ranked list of 
+        predictions, as shown above, without needing to wait for actual market resolutions:contentReference[oaicite:27]{index=27}.
+      </p>
+      <p>
+        <strong>Disclaimer:</strong> This project is not affiliated with Manifold Markets. It is for research and educational purposes only, 
+        and its predictions are speculative. Use these results for curiosity and insight, not as financial advice or a guaranteed edge in forecasting:contentReference[oaicite:28]{index=28}.
+      </p>
+    </section>
+  </main>
 
   <footer>
-    Not affiliated with <a href="https://manifold.markets" target="_blank">Manifold Markets</a>. Predictions are for educational use only.
+    <p>Connect with the creator:</p>
+    <ul class="contacts">
+      <li><a href="https://www.instagram.com/dinmukhammed.toleubay/" target="_blank">Instagram</a></li>
+      <li><a href="https://github.com/DMCHERy/dmchery.github.io" target="_blank">GitHub</a></li>
+      <li><a href="mailto:dinmukhammed.toleubay@gmail.com">Email</a></li>
+    </ul>
   </footer>
 
+  <!-- Scripts -->
   <script>
-    // Function to load and display the latest predictions
-    async function loadPredictions() {
-      try {
-        const response = await fetch('predictions.json');
-        if (!response.ok) throw new Error('File not found or inaccessible');
-        const data = await response.json();
-        const container = document.getElementById('predictions');
+    let allPredictions = [];
+    let cardsShown = 0;
+    const cardsContainer = document.getElementById('cardsContainer');
+    const loadMoreBtn = document.getElementById('loadMoreBtn');
 
-        // Reverse the data array so newest predictions appear first
-        data.slice().reverse().forEach(pred => {
-          const card = document.createElement('div');
-          card.className = 'card';
-          card.innerHTML = `
-            <div class="question">${pred.question}</div>
-            <div class="probability">🟢 Predicted YES Probability: <strong>${(pred.probability * 100).toFixed(1)}%</strong></div>
-            <div class="date">Predicted on ${pred.date}</div>
-            <a href="${pred.link}" target="_blank"><button class="button">View on Manifold</button></a>
-          `;
-          container.appendChild(card);
-        });
-      } catch (error) {
-        console.error('Could not load predictions.json:', error);
-        document.getElementById('errorBox').style.display = 'block';
+    // Fetch predictions data
+    fetch('predictions.json')
+      .then(response => response.json())
+      .then(data => {
+        allPredictions = data;
+        displayNextBatch(7);  // Show initial 7 cards
+        populateBacktestTable();  // Populate the backtest table with all data
+      });
+
+    // Display next N predictions as cards
+    function displayNextBatch(count) {
+      const nextSlice = allPredictions.slice(cardsShown, cardsShown + count);
+      nextSlice.forEach(pred => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.innerHTML = `
+          <h3 class="question">${pred.question}</h3>
+          <p class="prediction">Predicted chance: <strong>${(pred.probability * 100).toFixed(1)}%</strong></p>
+        `;
+        cardsContainer.appendChild(card);
+      });
+      cardsShown += nextSlice.length;
+      if (cardsShown >= allPredictions.length) {
+        loadMoreBtn.style.display = 'none';
       }
     }
 
-    // Function to load and display historical backtest data
-    async function loadBacktestData() {
-      try {
-        const response = await fetch('backtest_data.txt');
-        if (!response.ok) throw new Error('File not found or inaccessible');
-        const textData = await response.text();
-        document.getElementById('backtestData').textContent = textData;
-      } catch (error) {
-        console.error('Could not load backtest data:', error);
-        document.getElementById('backtestData').textContent = "Error: Could not load backtest data.";
-      }
+    // Load More button handler
+    function loadMore() {
+      displayNextBatch(10);
     }
 
-    // Load predictions and backtest data on page load
-    loadPredictions();
-    loadBacktestData();
+    // Filter visible cards by search query
+    function filterCards() {
+      const query = document.getElementById('cardSearch').value.toLowerCase();
+      document.querySelectorAll('.card').forEach(card => {
+        const text = card.querySelector('.question').textContent.toLowerCase();
+        // Toggle filtered-out class for smooth hide/show
+        if (text.includes(query)) {
+          card.classList.remove('filtered-out');
+        } else {
+          card.classList.add('filtered-out');
+        }
+      });
+    }
+
+    // Populate backtest table with all predictions
+    const backtestTableBody = document.querySelector('#backtestTable tbody');
+    function populateBacktestTable() {
+      backtestTableBody.innerHTML = '';
+      allPredictions.forEach(pred => {
+        const row = document.createElement('tr');
+        // store original question for reuse
+        row.dataset.question = pred.question;
+        row.innerHTML = `
+          <td class="qCell">${pred.question}</td>
+          <td>${(pred.probability * 100).toFixed(1)}%</td>
+        `;
+        backtestTableBody.appendChild(row);
+      });
+    }
+
+    // Highlight helper for search terms
+    function highlightMatches(text, term) {
+      if (!term) return text;
+      const safeTerm = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const regex = new RegExp(safeTerm, 'gi');
+      return text.replace(regex, match => `<span class="highlight">${match}</span>`);
+    }
+
+    // Filter backtest table rows by search query, with highlights
+    function filterBacktest() {
+      const query = document.getElementById('backtestSearch').value.toLowerCase();
+      const rows = backtestTableBody.querySelectorAll('tr');
+      rows.forEach(row => {
+        const questionText = row.dataset.question.toLowerCase();
+        if (questionText.includes(query)) {
+          // Show row and highlight matches
+          row.style.display = '';
+          const highlightedHTML = highlightMatches(row.dataset.question, query);
+          row.querySelector('.qCell').innerHTML = highlightedHTML;
+        } else {
+          // Hide row
+          row.style.display = 'none';
+        }
+      });
+    }
   </script>
 </body>
 </html>
