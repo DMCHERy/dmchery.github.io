@@ -1,5 +1,11 @@
 [
   {
+    "question":"Will any US federal judge be impeached in 2025?",
+    "probability":0.79,
+    "link":"https:\/\/manifold.markets\/Mana\/will-any-us-federal-judge-be-impeac",
+    "date":"2025-07-12"
+  },
+  {
     "question":"Zohran Mamdani wins NYC Mayoral general election mandate (50%)?",
     "probability":0.8,
     "link":"https:\/\/manifold.markets\/MichaelEdgar\/zohran-mamdani-wins-nyc-mayoral-gen",
@@ -673,7 +679,7 @@
   },
   {
     "question":"Will any major climate anomaly (heatwave, storm, snow, etc.) hit a major city before July 15?",
-    "probability":0.74,
+    "probability":0.75,
     "link":"https:\/\/manifold.markets\/Seer\/will-any-major-climate-anomaly-heat",
     "date":"2025-07-12"
   },
@@ -1171,7 +1177,7 @@
   },
   {
     "question":"Will Jake Matthews win his UFC Nashville fight against Chidi Njokuani?",
-    "probability":0.87,
+    "probability":0.89,
     "link":"https:\/\/manifold.markets\/makingtoolsforme\/will-jake-matthews-win-his-ufc-nash",
     "date":"2025-07-12"
   },
@@ -1573,7 +1579,7 @@
   },
   {
     "question":"Will 2026 turnout exceed 2022? (US midterms, percentage)",
-    "probability":0.68,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/EvanDaniel\/will-2026-turnout-exceed-2022-us-mi",
     "date":"2025-07-12"
   },
@@ -1635,12 +1641,6 @@
     "question":"At the end of destiny's research will he think covid came from a lab?",
     "probability":0.87,
     "link":"https:\/\/manifold.markets\/strutheo\/at-the-end-of-destinys-research-wil",
-    "date":"2025-07-12"
-  },
-  {
-    "question":"I haven't decided yet but I I'll resolve this market either YES or NO depending on various comments and influences",
-    "probability":0.57,
-    "link":"https:\/\/manifold.markets\/Lorelai\/i-havent-decided-yet-but-i-ill-reso",
     "date":"2025-07-12"
   }
 ]
