@@ -22,7 +22,18 @@
       max-width: 1200px;
       margin: auto;
     }
-    /* Card styles for prediction cards */
+    .search-input {
+      width: 100%;
+      padding: 0.5rem;
+      font-size: 1rem;
+      margin-bottom: 2rem;
+      box-sizing: border-box;
+    }
+    #predictions {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+    }
     .card {
       background: white;
       border-radius: 10px;
@@ -46,7 +57,7 @@
       font-size: 0.9rem;
       color: gray;
     }
-    .button {
+    .button, #loadMore {
       margin-top: 1rem;
       background-color: #61dafb;
       color: #000;
@@ -55,272 +66,108 @@
       border-radius: 5px;
       cursor: pointer;
     }
-    /* Grid layout for the predictions container */
-    #predictions {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 1rem;
-    }
-    .error-box {
-      background-color: #ffefef;
-      border: 1px solid #cc0000;
-      color: #cc0000;
-      padding: 1rem;
-      border-radius: 10px;
-      text-align: center;
-      max-width: 600px;
-      margin: 2rem auto;
-      display: none; /* shown only on error */
-    }
-    /* About/Readme section styles */
-    .about-section {
-      background-color: #fff;
-      border-radius: 10px;
-      padding: 2rem;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      max-width: 1200px;
-      margin: 3rem auto 2rem auto;
-    }
-    .about-section h2, .about-section h3 {
-      margin-top: 0;
-    }
-    /* Scrollable data viewer styles */
-    .data-container {
-      background-color: #f9f9f9;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      padding: 1rem;
-      max-height: 300px;
-      overflow: auto;
-      font-family: monospace;
-      font-size: 0.9rem;
-      white-space: pre-wrap;
-    }
-    /* New styles for search and unresolved items */
-    .unresolved { display: none; }  /* hidden by default */
-    .search-input {
-      width: 100%;
-      padding: 0.5rem;
-      font-size: 1rem;
-      margin-bottom: 1rem;
-      box-sizing: border-box;
-    }
-    mark {
-      background-color: #fffa8b;  /* highlight color for search matches */
-    }
+    .hidden { display: none; }
   </style>
 </head>
+   <!-- About Section -->
+    <section id="about">
+      <h2>About this Project</h2>
+      <p>
+        The Manifold Market Predictor is an <strong>unofficial, educational tool</strong> that uses real-time data from 
+        Manifold Markets to forecast outcomes of unresolved binary questions. It combines <strong>GPT-3.5</strong> (for 
+        analyzing the market question) and a <strong>Random Forest</strong> machine learning model (trained on past resolved markets) 
+        to estimate the probability of a "YES" resolution for each market:contentReference[oaicite:25]{index=25}:contentReference[oaicite:26]{index=26}. The model outputs a ranked list of 
+        predictions, as shown above, without needing to wait for actual market resolutions:contentReference[oaicite:27]{index=27}.
+      </p>
+      <p>
+        <strong>Disclaimer:</strong> This project is not affiliated with Manifold Markets. It is for research and educational purposes only, 
+        and its predictions are speculative. Use these results for curiosity and insight, not as financial advice or a guaranteed edge in forecasting:contentReference[oaicite:28]{index=28}.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    Not affiliated with <a href="https://manifold.markets" target="_blank">Manifold Markets</a>. Predictions are for educational use only.
+    <p>Connect with the creator:</p>
+    <ul class="contacts">
+      <li><a href="https://www.instagram.com/dinmukhammed.toleubay/" target="_blank">Instagram</a></li>
+      <li><a href="https://github.com/DMCHERy/dmchery.github.io" target="_blank">GitHub</a></li>
+      <li><a href="mailto:dinmukhammed.toleubay@gmail.com">Email</a></li>
+    </ul>
+  </footer>
+
 <body>
   <header>
     <h1>Manifold Market Predictor</h1>
     <p>Powered by GPT + Random Forest</p>
   </header>
 
-  <!-- Search bar -->
   <div class="container">
     <input type="text" id="searchInput" class="search-input" placeholder="Search predictions...">
+    <div id="predictions"></div>
+    <button id="loadMore" class="hidden">Load More</button>
   </div>
-
-  <!-- Predictions Grid Section -->
-  <div class="container" id="predictions">
-    <!-- Prediction cards will be inserted here dynamically by JS -->
-  </div>
-
-  <!-- Error message (hidden unless data files fail to load) -->
-  <div class="error-box" id="errorBox">
-    <strong>Error:</strong> Could not load data. Please make sure the files exist and are in the correct location.
-  </div>
-
-  <!-- About/Explanation Section -->
-  <div class="about-section">
-    <h2>About this Project</h2>
-    <p><strong>Tech Stack & Model:</strong> This project is built with HTML, CSS, and vanilla JavaScript on the front-end. The prediction engine uses OpenAI's GPT for analyzing market questions and a Random Forest machine learning model (an ensemble of decision trees) to compute the final "Yes" probability. Data is sourced from the public APIs of <a href="https://manifold.markets" target="_blank">Manifold Markets</a>.</p>
-    <p><strong>Disclaimer:</strong> This is an unofficial, personal project created for fun and educational purposes. Predictions are not guaranteed to be accurate and should <em>not</em> be taken as financial advice. The site is <strong>not affiliated</strong> with Manifold Markets or any official trading platform. Use it at your own risk!</p>
-    <p><strong>How GPT is Integrated:</strong> The system uses GPT to interpret each market question's context and nuances. Those AI-generated insights are combined with historical data and fed into the Random Forest model, which then outputs a predicted probability for a "YES" outcome. In short, GPT helps understand the question, and the Random Forest uses that understanding (plus data) to make a prediction.</p>
-    <h3>Historical Backtested Data</h3>
-    <p>Below is some historical backtesting data demonstrating how the predictor performed on past market questions. Scroll through the data to review past predictions versus actual outcomes:</p>
-    <div class="data-container">
-      <pre id="backtestData"><!-- Filled by JS --></pre>
-    </div>
-    <h3>Contact & Project Info</h3>
-    <p>Project by [Your Name] – this is a playful summer project to explore prediction markets and AI. Feel free to reach out or check out my work:</p>
-    <p>
-      Instagram: <a href="#" target="_blank">your Instagram link</a><br>
-      GitHub: <a href="#" target="_blank">your GitHub link</a><br>
-      Email: <a href="#">your email</a>
-    </p>
-  </div>
-
-  <footer>
-    Not affiliated with <a href="https://manifold.markets" target="_blank">Manifold Markets</a>. Predictions are for educational use only.
-  </footer>
 
   <script>
-    // Helper: parse CSV text (manifold_predictions.csv) into an array of objects
-    function parseCSV(csvText) {
-      const lines = csvText.trim().split(/\\r?\\n/);
-      if (lines.length === 0) return [];
-      let startIdx = 0;
-      // If first line looks like a header, skip it
-      const headers = lines[0].split(',');
-      if (headers[0].toLowerCase().includes('question')) {
-        startIdx = 1;
+    let allPredictions = [];
+    let visibleCount = 0;
+    const BATCH_SIZE = 7;
+
+    function renderPredictions(batch = false) {
+      const container = document.getElementById('predictions');
+      const fragment = document.createDocumentFragment();
+      const end = Math.min(visibleCount + BATCH_SIZE, allPredictions.length);
+
+      for (let i = visibleCount; i < end; i++) {
+        const pred = allPredictions[i];
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.dataset.question = pred.question.toLowerCase();
+        const result = pred.probability >= 0.5 ? "Predicted YES" : "Predicted NO";
+        const percent = (pred.probability * 100).toFixed(1);
+        card.innerHTML = `
+          <div class="question">${pred.question}</div>
+          <div class="probability">${result}: <strong>${percent}%</strong></div>
+          <div class="date">Predicted on ${pred.date}</div>
+          <a href="${pred.link}" target="_blank"><button class="button">View on Manifold</button></a>
+        `;
+        fragment.appendChild(card);
       }
-      const data = [];
-      for (let i = startIdx; i < lines.length; i++) {
-        const line = lines[i].trim();
-        if (!line) continue;
-        let tokens = [], token = '', inQuotes = false;
-        for (let ch of line) {
-          if (ch === '\"') {
-            if (inQuotes && token.length > 0 && token[token.length-1] === '\"') {
-              // Escaped quote (double quote inside quoted field)
-              token = token.slice(0, -1) + '\"';
-            }
-            inQuotes = !inQuotes;
-          } else if (ch === ',' && !inQuotes) {
-            tokens.push(token);
-            token = '';
-          } else {
-            token += ch;
-          }
-        }
-        tokens.push(token);  // last token
-        if (tokens.length >= 4) {
-          const [q, probStr, dateStr, link] = tokens;
-          const probTrim = probStr.trim();
-          let prob;
-          if (probTrim === '' || probTrim.toLowerCase() === 'undefined') {
-            prob = NaN;
-          } else if (probTrim.endsWith('%')) {
-            // e.g. "65%" -> 0.65
-            const num = parseFloat(probTrim);
-            prob = isNaN(num) ? NaN : num / 100;
-          } else {
-            prob = parseFloat(probTrim);
-            if (isNaN(prob)) prob = NaN;
-          }
-          data.push({ question: q, probability: prob, date: dateStr, link: link });
-        }
+
+      container.appendChild(fragment);
+      visibleCount = end;
+
+      const loadMoreBtn = document.getElementById('loadMore');
+      if (visibleCount < allPredictions.length) {
+        loadMoreBtn.classList.remove('hidden');
+      } else {
+        loadMoreBtn.classList.add('hidden');
       }
-      return data;
     }
 
-    // Load and display predictions
     async function loadPredictions() {
       try {
-        const res = await fetch('predictions.json');
-        if (!res.ok) throw new Error('Failed to load predictions.json');
-        let predictionsList = await res.json();
-        // Load unresolved predictions (if available)
-        let unresolvedList = [];
-        try {
-          const csvRes = await fetch('manifold_predictions.csv');
-          if (csvRes.ok) {
-            const csvText = await csvRes.text();
-            unresolvedList = parseCSV(csvText);
-          }
-        } catch (err) {
-          console.error('Failed to load manifold_predictions.csv:', err);
-        }
-        // Remove any predictions from JSON that are still unresolved (by matching links)
-        if (unresolvedList.length > 0) {
-          const unresolvedLinks = new Set(unresolvedList.map(p => p.link));
-          predictionsList = predictionsList.filter(pred => !unresolvedLinks.has(pred.link));
-        }
-        // Combine resolved and unresolved into one array
-        const resolvedPredictions = predictionsList.map(p => ({ ...p, resolved: true }));
-        const unresolvedPredictions = unresolvedList.map(p => ({ ...p, resolved: false }));
-        const allPredictions = [...resolvedPredictions, ...unresolvedPredictions];
-        // Sort all by date (newest first)
-        allPredictions.sort((a, b) => {
-          const dateA = Date.parse(a.date);
-          const dateB = Date.parse(b.date);
-          if (!isNaN(dateA) && !isNaN(dateB)) {
-            return dateB - dateA;
-          }
-          // Fallback to string comparison if date format is non-standard
-          return a.date < b.date ? 1 : (a.date > b.date ? -1 : 0);
-        });
-        // Render each prediction as a card
-        const container = document.getElementById('predictions');
-        allPredictions.forEach(pred => {
-          const card = document.createElement('div');
-          card.className = 'card' + (pred.resolved ? '' : ' unresolved');
-          card.dataset.question = pred.question;
-          card.innerHTML = `
-            <div class="question">${pred.question}</div>
-            <div class="probability">
-              🟢 Predicted YES Probability: <strong>${isNaN(pred.probability) ? '?' : (pred.probability * 100).toFixed(1)}%</strong>
-            </div>
-            <div class="date">Predicted on ${pred.date}</div>
-            <a href="${pred.link}" target="_blank">
-              <button class="button">View on Manifold</button>
-            </a>
-          `;
-          container.appendChild(card);
-        });
-      } catch (error) {
-        console.error(error);
-        document.getElementById('errorBox').style.display = 'block';
+        const response = await fetch('predictions.json');
+        if (!response.ok) throw new Error('File not found');
+        allPredictions = await response.json();
+        allPredictions.reverse();
+        renderPredictions();
+      } catch (err) {
+        console.error('Failed to load predictions:', err);
       }
     }
 
-    // Load and display historical backtest data
-    async function loadBacktestData() {
-      try {
-        const res = await fetch('backtest_data.txt');
-        if (!res.ok) throw new Error('Failed to load backtest_data.txt');
-        let textData = await res.text();
-        // Replace "undefined" with "?" for readability
-        textData = textData.replace(/undefined/g, '?');
-        document.getElementById('backtestData').textContent = textData;
-      } catch (error) {
-        console.error(error);
-        document.getElementById('backtestData').textContent = "Error: Could not load backtest data.";
-      }
-    }
+    document.getElementById('loadMore').addEventListener('click', () => renderPredictions(true));
 
-    // Initialize the page
-    loadPredictions().then(() => {
-      // Set up search/filter functionality after predictions have loaded
-      const searchInput = document.getElementById('searchInput');
-      const cards = document.getElementsByClassName('card');
-      searchInput.addEventListener('input', () => {
-        const query = searchInput.value.trim().toLowerCase();
-        if (query === "") {
-          // Show only resolved predictions, hide unresolved
-          for (let card of cards) {
-            // Restore original question text (remove highlights)
-            card.querySelector('.question').textContent = card.dataset.question;
-            if (card.classList.contains('unresolved')) {
-              card.style.display = "none";
-            } else {
-              card.style.display = "block";
-            }
-          }
-        } else {
-          // Filter and highlight matches
-          for (let card of cards) {
-            const questionText = card.dataset.question.toLowerCase();
-            const questionElem = card.querySelector('.question');
-            if (questionText.includes(query)) {
-              // Highlight the query text in the question
-              const regex = new RegExp(`(${ query.replace(/[.*+?^${}()|[\\]\\]/g, '\\$&') })`, 'gi');
-              questionElem.innerHTML = card.dataset.question.replace(regex, '<mark>$1</mark>');
-              card.style.display = "block";  // ensure visible (even if it was unresolved)
-            } else {
-              card.style.display = "none";
-            }
-          }
-        }
+    document.getElementById('searchInput').addEventListener('input', e => {
+      const query = e.target.value.toLowerCase();
+      const cards = document.querySelectorAll('.card');
+      cards.forEach(card => {
+        card.style.display = card.dataset.question.includes(query) ? 'block' : 'none';
       });
-      // If a query was pre-filled (unlikely), apply it
-      if (searchInput.value.trim() !== "") {
-        searchInput.dispatchEvent(new Event('input'));
-      }
     });
-    loadBacktestData();
+
+    loadPredictions();
   </script>
 </body>
 </html>
