@@ -1,7 +1,31 @@
 [
   {
+    "question":"Will Stacey Patton write a Substack addressing allegations that she writes her articles with AI by end of September?",
+    "probability":0.92,
+    "link":"https:\/\/manifold.markets\/Conflux\/will-stacey-patton-write-a-post-add",
+    "date":"2025-07-12"
+  },
+  {
+    "question":"Fatal attack preventable by TSA shoe screening before 2030?",
+    "probability":0.87,
+    "link":"https:\/\/manifold.markets\/BoltonBailey\/fatal-attack-preventable-by-shoe-sc",
+    "date":"2025-07-12"
+  },
+  {
+    "question":"Will climate intervention (geoengineering) reduce global mean surface temperature by at least 0.1\u00b0C by 2030?",
+    "probability":0.99,
+    "link":"https:\/\/manifold.markets\/thatMikeBishop\/will-climate-intervention-geoengine",
+    "date":"2025-07-12"
+  },
+  {
+    "question":"Will Charlie Kirk and Nick Fuentes debate each other this year? [Kalshi]",
+    "probability":0.97,
+    "link":"https:\/\/manifold.markets\/theorist\/will-charlie-kirk-and-nick-fuentes",
+    "date":"2025-07-12"
+  },
+  {
     "question":"Gemini 3 and GPT-5 both released in 2 week span?",
-    "probability":0.84,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/Bayesian\/gemini-3-and-gpt5-both-released-in",
     "date":"2025-07-12"
   },
@@ -103,7 +127,7 @@
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.66,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-cSsAL0RdqP",
     "date":"2025-07-12"
   },
@@ -457,7 +481,7 @@
   },
   {
     "question":"Will Google release Gemini 3 during July 2025",
-    "probability":0.95,
+    "probability":0.92,
     "link":"https:\/\/manifold.markets\/typeofemale\/will-google-release-gemini-3-during",
     "date":"2025-07-12"
   },
@@ -1647,12 +1671,6 @@
     "question":"Will Hasan Piker be banned from Twitch before 2026?",
     "probability":0.96,
     "link":"https:\/\/manifold.markets\/ScottO\/will-hasan-piker-be-banned-from-twi",
-    "date":"2025-07-12"
-  },
-  {
-    "question":"Frontier Valley breaks ground in the Bay Area by EOY2026?",
-    "probability":0.93,
-    "link":"https:\/\/manifold.markets\/npfoss\/frontier-valley-breaks-ground-in-th",
     "date":"2025-07-12"
   }
 ]
