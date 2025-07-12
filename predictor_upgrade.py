@@ -6,19 +6,18 @@ from sklearn.metrics import accuracy_score
 import matplotlib.pyplot as plt
 import openai
 import os
+import json
+from datetime import datetime
 from dotenv import load_dotenv
-
 
 load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
-
 
 def fetch_markets():
     url = "https://api.manifold.markets/v0/markets"
     response = requests.get(url)
     response.raise_for_status()
     return response.json()
-
 
 def filter_binary_resolved(markets):
     return [
@@ -27,7 +26,6 @@ def filter_binary_resolved(markets):
         and m.get('isResolved') is True
         and m.get('resolution') in ['YES', 'NO']
     ]
-
 
 def get_gpt_opinion_summary(question):
     try:
@@ -45,7 +43,6 @@ def get_gpt_opinion_summary(question):
         return {'yes_confidence': score}
     except:
         return {'yes_confidence': 0.5}
-
 
 def build_feature_set(markets):
     data = []
@@ -86,7 +83,6 @@ def train_and_evaluate(df):
 
     return clf
 
-
 def fetch_unresolved_binary():
     url = "https://api.manifold.markets/v0/markets"
     response = requests.get(url)
@@ -94,13 +90,15 @@ def fetch_unresolved_binary():
     return [
         m for m in response.json()
         if m['outcomeType'] == 'BINARY'
-        and m.get('isResolved', False) and m['resolution'] in ['YES', 'NO']
+        and not m.get('isResolved', False)
     ]
 
 def build_unresolved_features(markets):
     data = []
     ids = []
     questions = []
+    links = []
+    dates = []
     for m in markets:
         try:
             gpt = get_gpt_opinion_summary(m['question'])
@@ -114,12 +112,16 @@ def build_unresolved_features(markets):
             data.append(row)
             ids.append(m['id'])
             questions.append(m['question'])
+            links.append(f"https://manifold.markets/{m['creatorUsername']}/{m['slug']}")
+            dates.append(datetime.utcnow().strftime('%Y-%m-%d'))
         except:
             continue
 
     df = pd.DataFrame(data)
     df['id'] = ids
     df['question'] = questions
+    df['link'] = links
+    df['date'] = dates
     return df
 
 def predict_unresolved(model):
@@ -130,7 +132,7 @@ def predict_unresolved(model):
         return
 
     df_features = build_unresolved_features(unresolved)
-    X = df_features.drop(columns=["id", "question"])
+    X = df_features.drop(columns=["id", "question", "link", "date"])
 
     print("Predicting...")
     df_features['predicted_prob_yes'] = model.predict_proba(X)[:, 1]
@@ -142,6 +144,11 @@ def predict_unresolved(model):
     df_features.to_csv("manifold_predictions.csv", index=False)
     print("Predictions saved to 'manifold_predictions.csv'")
 
+    # Save subset for frontend as JSON
+    predictions_json = df_features[['question', 'predicted_prob_yes', 'link', 'date']].copy()
+    predictions_json.rename(columns={"predicted_prob_yes": "probability"}, inplace=True)
+    predictions_json.to_json("predictions.json", orient="records", indent=2)
+    print("Predictions also saved to 'predictions.json'")
 
 if __name__ == "__main__":
     try:
