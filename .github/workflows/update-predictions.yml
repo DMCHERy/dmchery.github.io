@@ -1,20 +1,20 @@
 name: Update Predictions and Backtest
 
 on:
-  workflow_dispatch:  # Manual trigger from GitHub Actions
+  workflow_dispatch:  # Trigger manually from GitHub Actions tab
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.11
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
@@ -29,13 +29,8 @@ jobs:
 
       - name: Commit and push updated files
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
           git add predictions.json backtest_results.csv
-          git commit -m "Auto-update: predictions and backtest results" || echo "Nothing to commit"
-          git push
-        env:
-          # Use your personal access token added in repo settings → Secrets
-          # Go to Settings > Secrets > Actions > New repository secret
-          # Name it PERSONAL_ACCESS_TOKEN
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          git commit -m "Auto-update: predictions and backtest results" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/DMCHERy/dmchery.github.io.git HEAD:main
