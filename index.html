@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Manifold Predictor Showcase</title>
   <style>
     body {
@@ -22,6 +22,7 @@
       max-width: 1200px;
       margin: auto;
     }
+    /* Card styles for prediction cards */
     .card {
       background: white;
       border-radius: 10px;
@@ -54,11 +55,11 @@
       border-radius: 5px;
       cursor: pointer;
     }
-    footer {
-      text-align: center;
-      padding: 2rem;
-      color: #aaa;
-      font-size: 0.8rem;
+    /* New: Grid layout for the predictions container */
+    #predictions {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
     }
     .error-box {
       background-color: #ffefef;
@@ -69,21 +70,68 @@
       text-align: center;
       max-width: 600px;
       margin: 2rem auto;
+      display: none; /* hidden by default, shown on error */
+    }
+    /* New: About/Readme section styles */
+    .about-section {
+      background-color: #fff;
+      border-radius: 10px;
+      padding: 2rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      max-width: 1200px;
+      margin: 3rem auto 2rem auto;
+    }
+    .about-section h2, .about-section h3 {
+      margin-top: 0;
+    }
+    /* New: Scrollable data viewer styles */
+    .data-container {
+      background-color: #f9f9f9;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      padding: 1rem;
+      max-height: 300px;
+      overflow: auto;
+      font-family: monospace;
+      font-size: 0.9rem;
+      white-space: pre-wrap;
     }
   </style>
 </head>
 <body>
   <header>
-    <h1> Manifold Market Predictor</h1>
+    <h1>Manifold Market Predictor</h1>
     <p>Powered by GPT + Random Forest</p>
   </header>
 
+  <!-- Predictions Grid Section -->
   <div class="container" id="predictions">
-    <!-- Cards will be inserted here dynamically -->
+    <!-- Prediction cards will be inserted here dynamically by JS -->
   </div>
 
-  <div class="error-box" id="errorBox" style="display:none">
+  <!-- Error message (hidden unless predictions.json fails to load) -->
+  <div class="error-box" id="errorBox">
     <strong>Error:</strong> Could not load <code>predictions.json</code>. Please make sure the file exists and is in the correct location.
+  </div>
+
+  <!-- About/Explanation Section at the bottom -->
+  <div class="about-section">
+    <h2>About this Project</h2>
+    <p><strong>Tech Stack & Model:</strong> This project is built with HTML, CSS, and vanilla JavaScript on the front-end. The prediction engine uses OpenAI's GPT for analyzing market questions and a Random Forest machine learning model (an ensemble of decision trees) to compute the final "Yes" probability:contentReference[oaicite:4]{index=4}. Data is sourced from the public APIs of <a href="https://manifold.markets" target="_blank">Manifold Markets</a>.</p>
+    <p><strong>Disclaimer:</strong> This is an unofficial, personal project created for fun and educational purposes. Predictions are not guaranteed to be accurate and should <em>not</em> be taken as financial advice. The site is <strong>not affiliated</strong> with Manifold Markets or any official trading platform. Use it at your own risk!</p>
+    <p><strong>How GPT is Integrated:</strong> The system uses GPT to interpret each market question's context and nuances. Those AI-generated insights are combined with historical data and fed into the Random Forest model, which then outputs a predicted probability for a "YES" outcome. In short, GPT helps understand the question, and the Random Forest uses that understanding (plus data) to make a prediction.</p>
+    <h3>Historical Backtested Data</h3>
+    <p>Below is some historical backtesting data demonstrating how the predictor performed on past market questions. Scroll through the data to review past predictions versus actual outcomes:</p>
+    <div class="data-container">
+      <pre id="backtestData"><!-- Filled by JS --></pre>
+    </div>
+    <h3>Contact & Project Info</h3>
+    <p>Project by [Your Name] – this is a playful summer project to explore prediction markets and AI. Feel free to reach out or check out my work:</p>
+    <p>
+      Instagram: <a href="#" target="_blank">your Instagram link</a><br>
+      GitHub: <a href="#" target="_blank">your GitHub link</a><br>
+      Email: <a href="#">your email</a>
+    </p>
   </div>
 
   <footer>
@@ -91,6 +139,7 @@
   </footer>
 
   <script>
+    // Function to load and display the latest predictions
     async function loadPredictions() {
       try {
         const response = await fetch('predictions.json');
@@ -98,25 +147,40 @@
         const data = await response.json();
         const container = document.getElementById('predictions');
 
+        // Reverse the data array so newest predictions appear first
         data.slice().reverse().forEach(pred => {
           const card = document.createElement('div');
           card.className = 'card';
           card.innerHTML = `
             <div class="question">${pred.question}</div>
             <div class="probability">🟢 Predicted YES Probability: <strong>${(pred.probability * 100).toFixed(1)}%</strong></div>
-            <div class="date"> Predicted on ${pred.date}</div>
-            <a href="${pred.link}" target="_blank"><button class="button"> View on Manifold</button></a>
+            <div class="date">Predicted on ${pred.date}</div>
+            <a href="${pred.link}" target="_blank"><button class="button">View on Manifold</button></a>
           `;
           container.appendChild(card);
         });
-
       } catch (error) {
         console.error('Could not load predictions.json:', error);
         document.getElementById('errorBox').style.display = 'block';
       }
     }
 
+    // Function to load and display historical backtest data
+    async function loadBacktestData() {
+      try {
+        const response = await fetch('backtest_data.txt');
+        if (!response.ok) throw new Error('File not found or inaccessible');
+        const textData = await response.text();
+        document.getElementById('backtestData').textContent = textData;
+      } catch (error) {
+        console.error('Could not load backtest data:', error);
+        document.getElementById('backtestData').textContent = "Error: Could not load backtest data.";
+      }
+    }
+
+    // Load predictions and backtest data on page load
     loadPredictions();
+    loadBacktestData();
   </script>
 </body>
 </html>
