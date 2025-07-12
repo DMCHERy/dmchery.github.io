@@ -162,7 +162,7 @@
   let predictions = [];
   let backtestIndex = 0;
   let visibleIndex = 0;
-  const batchSize = 7;
+  const batchSize = 8;
 
   async function loadData() {
     const res = await fetch("predictions.json");
@@ -178,7 +178,7 @@
     slice.forEach(pred => {
       const card = document.createElement("div");
       card.className = "card";
-      const isYes = pred.probability >= 0.5;
+      const isYes = pred.probability >= 0.65;
       card.innerHTML = `
         <div class="question">${pred.question}</div>
         <div class="probability ${isYes ? 'yes' : 'no'}">Predicted ${isYes ? 'YES' : 'NO'}: <strong>${(pred.probability * 100).toFixed(1)}%</strong></div>
@@ -201,7 +201,7 @@
       const pred = predictions[i];
       if (!("actualOutcome" in pred)) continue;
 
-      const predicted = pred.probability >= 0.5 ? "YES" : "NO";
+      const predicted = pred.probability >= 0.65 ? "YES" : "NO";
       const actual = pred.actualOutcome || "?";
       const isCorrect = actual !== "?" && predicted === actual;
       if (actual !== "?") total++;
@@ -221,7 +221,7 @@
     }
 
     if (!batchAdded) {
-      tbody.innerHTML = `<tr><td colspan="5">No backtest data available yet.</td></tr>`;
+      tbody.innerHTML = `<tr><td colspan="5">No backtest data available yet.Wait for Markets to resolve.</td></tr>`;
       document.getElementById("accuracySummary").textContent = '';
       document.getElementById("loadMoreBacktest").classList.add("hidden");
       return;
