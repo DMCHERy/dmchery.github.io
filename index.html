@@ -5,83 +5,248 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Manifold Predictor Showcase</title>
   <style>
+    /* Global Styles and Theme */
     body {
+      background-color: #0e0e0e; /* dark background */
+      color: #ffffff;            /* default text color */
       font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
       margin: 0;
       padding: 0;
     }
     header {
-      background-color: #20232a;
+      background-color: #000000;
       color: #61dafb;
       padding: 1rem;
       text-align: center;
+      /* Neon glow effect for header text */
+      text-shadow: 0 0 5px #61dafb, 0 0 10px #61dafb;
     }
+    header h1 {
+      margin: 0;
+    }
+    header p {
+      margin: 0;
+    }
+
+    /* Container and Layout */
     .container {
-      padding: 2rem;
       max-width: 1200px;
+      padding: 2rem;
       margin: auto;
     }
+    .tabs {
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+    .tabs button {
+      background: #333333;
+      color: #61dafb;
+      border: none;
+      padding: 0.5rem 1rem;
+      margin: 0 0.5rem;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 1rem;
+    }
+    .tabs button:hover {
+      background: #444444;
+    }
+    .tabs button.active {
+      background: #61dafb;
+      color: #000000;
+      font-weight: bold;
+    }
+
+    /* Search Inputs */
     .search-input {
       width: 100%;
       padding: 0.5rem;
       font-size: 1rem;
-      margin-bottom: 2rem;
+      margin-bottom: 1rem;
       box-sizing: border-box;
+      background: #1e1e1e;
+      border: 1px solid #444444;
+      color: #ffffff;
+      border-radius: 4px;
     }
+    .search-input::placeholder {
+      color: #888888;
+    }
+    .search-input:focus {
+      outline: none;
+      border-color: #61dafb;
+      box-shadow: 0 0 5px #61dafb;
+    }
+
+    /* Prediction Cards Grid */
     #predictions {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
       gap: 1rem;
     }
     .card {
-      background: white;
+      background: #1e1e1e;
+      border: 1px solid #333333;
       border-radius: 10px;
       padding: 1rem;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      margin-bottom: 1.5rem;
-      transition: 0.3s;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+      transition: transform 0.3s, box-shadow 0.3s;
     }
     .card:hover {
       transform: scale(1.01);
+      box-shadow: 0 0 10px rgba(97, 218, 251, 0.7);
+    }
+    .card a {
+      text-decoration: none;
     }
     .question {
-      font-size: 1.2rem;
+      font-size: 1.1rem;
       font-weight: bold;
+      color: #ffffff;
+      margin-bottom: 0.5rem;
     }
     .probability {
-      color: #333;
-      font-size: 1.1rem;
+      font-size: 1rem;
+      color: #cccccc;
     }
     .date {
       font-size: 0.9rem;
-      color: gray;
+      color: #888888;
     }
     .button, #loadMore {
       margin-top: 1rem;
       background-color: #61dafb;
-      color: #000;
+      color: #000000;
       border: none;
       padding: 0.5rem 1rem;
       border-radius: 5px;
       cursor: pointer;
+      font: inherit;
     }
-    .hidden { display: none; }
+    .button:hover, #loadMore:hover {
+      background-color: #52c7e6;
+    }
+
+    /* Hidden class for toggling visibility */
+    .hidden {
+      display: none;
+    }
+
+    /* Backtest Table Styles */
+    #backtestSection {
+      margin-top: 2rem;
+    }
+    #backtestTable {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+    #backtestTable th, #backtestTable td {
+      border: 1px solid #444444;
+      padding: 0.5rem;
+      text-align: left;
+    }
+    #backtestTable th {
+      background: #333333;
+      color: #61dafb;
+    }
+    #backtestTable td {
+      background: #1e1e1e;
+      color: #ffffff;
+    }
+    #backtestTable td.qCell {
+      max-width: 300px;
+      overflow-wrap: break-word;
+    }
+    #accuracySummary {
+      margin-top: 1rem;
+      font-size: 1.1rem;
+      color: #ffffff;
+    }
+    .highlight {
+      background-color: yellow;
+      color: #000000;
+    }
+
+    /* Footer Styles */
+    footer {
+      background: #20232a;
+      color: #ffffff;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+    footer a {
+      color: #61dafb;
+      text-decoration: none;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+    footer .contacts {
+      list-style: none;
+      padding: 0;
+      margin: 0.5rem 0 0;
+    }
+    footer .contacts li {
+      display: inline;
+      margin: 0 0.5rem;
+    }
   </style>
 </head>
-   <!-- About Section -->
+<body>
+  <header>
+    <h1>Manifold Market Predictor</h1>
+    <p>Powered by GPT + Random Forest</p>
+  </header>
+
+  <main class="container">
+    <!-- Tab Buttons to toggle sections -->
+    <div class="tabs">
+      <button id="predictionsTab" class="active">Predictions</button>
+      <button id="backtestTab">Backtest</button>
+    </div>
+
+    <!-- Predictions Section -->
+    <section id="predictionsSection">
+      <input type="text" id="searchInput" class="search-input" placeholder="Search predictions..." />
+      <div id="predictions"></div>
+      <button id="loadMore" class="hidden">Load More</button>
+    </section>
+
+    <!-- Backtest Section (hidden by default) -->
+    <section id="backtestSection" class="hidden">
+      <input type="text" id="backtestSearch" class="search-input" placeholder="Search past predictions..." />
+      <p id="accuracySummary"></p>
+      <table id="backtestTable">
+        <thead>
+          <tr>
+            <th>Question</th>
+            <th>Predicted&nbsp;Prob.</th>
+            <th>Predicted&nbsp;Outcome</th>
+            <th>Actual&nbsp;Outcome</th>
+            <th>Correct?</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Rows will be populated by script -->
+        </tbody>
+      </table>
+    </section>
+
+    <!-- About Section -->
     <section id="about">
       <h2>About this Project</h2>
       <p>
         The Manifold Market Predictor is an <strong>unofficial, educational tool</strong> that uses real-time data from 
         Manifold Markets to forecast outcomes of unresolved binary questions. It combines <strong>GPT-3.5</strong> (for 
         analyzing the market question) and a <strong>Random Forest</strong> machine learning model (trained on past resolved markets) 
-        to estimate the probability of a "YES" resolution for each market:contentReference[oaicite:25]{index=25}:contentReference[oaicite:26]{index=26}. The model outputs a ranked list of 
-        predictions, as shown above, without needing to wait for actual market resolutions:contentReference[oaicite:27]{index=27}.
+        to estimate the probability of a "YES" resolution for each market. The model outputs a ranked list of 
+        predictions, as shown above, without needing to wait for actual market resolutions.
       </p>
       <p>
         <strong>Disclaimer:</strong> This project is not affiliated with Manifold Markets. It is for research and educational purposes only, 
-        and its predictions are speculative. Use these results for curiosity and insight, not as financial advice or a guaranteed edge in forecasting:contentReference[oaicite:28]{index=28}.
+        and its predictions are speculative. Use these results for curiosity and insight, not as financial advice or a guaranteed edge in forecasting.
       </p>
     </section>
   </main>
@@ -96,47 +261,37 @@
     </ul>
   </footer>
 
-<body>
-  <header>
-    <h1>Manifold Market Predictor</h1>
-    <p>Powered by GPT + Random Forest</p>
-  </header>
-
-  <div class="container">
-    <input type="text" id="searchInput" class="search-input" placeholder="Search predictions...">
-    <div id="predictions"></div>
-    <button id="loadMore" class="hidden">Load More</button>
-  </div>
-
   <script>
+    // Global state for predictions
     let allPredictions = [];
     let visibleCount = 0;
     const BATCH_SIZE = 7;
 
-    function renderPredictions(batch = false) {
+    // Render a batch of prediction cards
+    function renderPredictions() {
       const container = document.getElementById('predictions');
-      const fragment = document.createDocumentFragment();
       const end = Math.min(visibleCount + BATCH_SIZE, allPredictions.length);
-
       for (let i = visibleCount; i < end; i++) {
         const pred = allPredictions[i];
+        // Create card element
         const card = document.createElement('div');
         card.className = 'card';
+        // Store question text in lowercase for search filtering
         card.dataset.question = pred.question.toLowerCase();
-        const result = pred.probability >= 0.5 ? "Predicted YES" : "Predicted NO";
+        // Determine predicted outcome text
+        const resultText = pred.probability >= 0.5 ? "Predicted YES" : "Predicted NO";
         const percent = (pred.probability * 100).toFixed(1);
+        // Card inner HTML structure
         card.innerHTML = `
           <div class="question">${pred.question}</div>
-          <div class="probability">${result}: <strong>${percent}%</strong></div>
+          <div class="probability">${resultText}: <strong>${percent}%</strong></div>
           <div class="date">Predicted on ${pred.date}</div>
           <a href="${pred.link}" target="_blank"><button class="button">View on Manifold</button></a>
         `;
-        fragment.appendChild(card);
+        container.appendChild(card);
       }
-
-      container.appendChild(fragment);
       visibleCount = end;
-
+      // Show or hide "Load More" button based on remaining predictions
       const loadMoreBtn = document.getElementById('loadMore');
       if (visibleCount < allPredictions.length) {
         loadMoreBtn.classList.remove('hidden');
@@ -145,28 +300,116 @@
       }
     }
 
+    // Load predictions from JSON file and initialize page content
     async function loadPredictions() {
       try {
         const response = await fetch('predictions.json');
-        if (!response.ok) throw new Error('File not found');
+        if (!response.ok) throw new Error('Predictions file not found');
         allPredictions = await response.json();
-        allPredictions.reverse();
-        renderPredictions();
+        allPredictions.reverse(); // ensure newest predictions come first
+        renderPredictions();      // display initial batch of predictions
+        populateBacktestTable();  // prepare the backtest table with historical data
       } catch (err) {
         console.error('Failed to load predictions:', err);
       }
     }
 
-    document.getElementById('loadMore').addEventListener('click', () => renderPredictions(true));
+    // Populate the backtest table with all predictions that have actual outcomes
+    function populateBacktestTable() {
+      const tableBody = document.querySelector('#backtestTable tbody');
+      const summary = document.getElementById('accuracySummary');
+      let correctCount = 0;
+      let totalCount = 0;
+      tableBody.innerHTML = '';  // clear any existing rows
+      // Go through each prediction and include only those with actual outcomes
+      allPredictions.forEach(pred => {
+        if (!pred.actualOutcome || (pred.actualOutcome !== 'YES' && pred.actualOutcome !== 'NO')) {
+          return; // skip if no actual result (unresolved market)
+        }
+        totalCount++;
+        const predictedOutcome = (pred.probability > 0.5 ? 'YES' : 'NO');
+        const actualOutcome = pred.actualOutcome;
+        const isCorrect = (predictedOutcome === actualOutcome);
+        if (isCorrect) correctCount++;
+        // Create a table row for this prediction
+        const row = document.createElement('tr');
+        row.dataset.question = pred.question;  // store original question for search highlighting
+        row.innerHTML = `
+          <td class="qCell">${pred.question}</td>
+          <td>${(pred.probability * 100).toFixed(1)}%</td>
+          <td>${predictedOutcome}</td>
+          <td>${actualOutcome}</td>
+          <td>${isCorrect ? '✔️' : '❌'}</td>
+        `;
+        tableBody.appendChild(row);
+      });
+      // Display accuracy summary
+      if (totalCount > 0) {
+        const accuracyPercent = (correctCount / totalCount * 100).toFixed(1);
+        summary.innerHTML = `<strong>Model Accuracy:</strong> ${accuracyPercent}% correct (${correctCount} / ${totalCount})`;
+      } else {
+        summary.textContent = '';
+      }
+    }
 
+    // Highlight matching text in a string (case-insensitive)
+    function highlightMatches(text, term) {
+      if (!term) return text;
+      const safeTerm = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');  // escape regex characters
+      const regex = new RegExp(safeTerm, 'gi');
+      return text.replace(regex, match => `<span class="highlight">${match}</span>`);
+    }
+
+    // Filter backtest table rows based on search query
+    function filterBacktest() {
+      const query = document.getElementById('backtestSearch').value.toLowerCase();
+      const rows = document.querySelectorAll('#backtestTable tbody tr');
+      rows.forEach(row => {
+        const questionText = row.dataset.question.toLowerCase();
+        if (questionText.includes(query)) {
+          row.style.display = '';
+          // Highlight query matches in the Question column
+          const originalText = row.dataset.question;
+          const highlighted = highlightMatches(originalText, query);
+          row.querySelector('.qCell').innerHTML = highlighted;
+        } else {
+          row.style.display = 'none';
+        }
+      });
+    }
+
+    // Tab toggle event listeners
+    const predictionsTab = document.getElementById('predictionsTab');
+    const backtestTab = document.getElementById('backtestTab');
+    const predictionsSection = document.getElementById('predictionsSection');
+    const backtestSection = document.getElementById('backtestSection');
+    predictionsTab.addEventListener('click', () => {
+      // Show Predictions, hide Backtest
+      predictionsSection.classList.remove('hidden');
+      backtestSection.classList.add('hidden');
+      predictionsTab.classList.add('active');
+      backtestTab.classList.remove('active');
+    });
+    backtestTab.addEventListener('click', () => {
+      // Show Backtest, hide Predictions
+      backtestSection.classList.remove('hidden');
+      predictionsSection.classList.add('hidden');
+      backtestTab.classList.add('active');
+      predictionsTab.classList.remove('active');
+    });
+
+    // Search filter event listeners
     document.getElementById('searchInput').addEventListener('input', e => {
       const query = e.target.value.toLowerCase();
       const cards = document.querySelectorAll('.card');
       cards.forEach(card => {
+        // Show card if its question (dataset) includes the query, otherwise hide it
         card.style.display = card.dataset.question.includes(query) ? 'block' : 'none';
       });
     });
+    document.getElementById('backtestSearch').addEventListener('input', filterBacktest);
 
+    // Initialize the page by loading predictions data
     loadPredictions();
   </script>
 </body>
