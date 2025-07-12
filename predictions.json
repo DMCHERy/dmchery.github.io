@@ -1,13 +1,19 @@
 [
   {
+    "question":"Bank of England to cut interest rates before September 1, 2025",
+    "probability":0.9,
+    "link":"https:\/\/manifold.markets\/sahaj\/bank-of-england-to-cut-interest-rat",
+    "date":"2025-07-12"
+  },
+  {
     "question":"Will Stacey Patton write a Substack addressing allegations that she writes her articles with AI by end of September?",
-    "probability":0.97,
+    "probability":0.99,
     "link":"https:\/\/manifold.markets\/Conflux\/will-stacey-patton-write-a-post-add",
     "date":"2025-07-12"
   },
   {
     "question":"Fatal attack preventable by TSA shoe screening before 2030?",
-    "probability":0.91,
+    "probability":0.88,
     "link":"https:\/\/manifold.markets\/BoltonBailey\/fatal-attack-preventable-by-shoe-sc",
     "date":"2025-07-12"
   },
@@ -85,7 +91,7 @@
   },
   {
     "question":"Will any top officials leave the Trump administration over the Epstein case?",
-    "probability":0.93,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/BlueDragon\/will-any-top-officials-leave-the-tr",
     "date":"2025-07-12"
   },
@@ -307,7 +313,7 @@
   },
   {
     "question":"Grok AI integrated into Tesla vehicles by July 18, 2025",
-    "probability":0.8,
+    "probability":0.79,
     "link":"https:\/\/manifold.markets\/barelyanything\/grok-ai-integrated-into-tesla-vehic",
     "date":"2025-07-12"
   },
@@ -373,7 +379,7 @@
   },
   {
     "question":"Bitcoin $125K in July?",
-    "probability":0.42,
+    "probability":0.35,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-125k-in-july",
     "date":"2025-07-12"
   },
@@ -391,7 +397,7 @@
   },
   {
     "question":"Will Congress pass the rescissions package by July 18?",
-    "probability":0.87,
+    "probability":0.81,
     "link":"https:\/\/manifold.markets\/JoshuaHedlund\/will-congress-pass-the-rescissions",
     "date":"2025-07-12"
   },
@@ -1111,7 +1117,7 @@
   },
   {
     "question":"Zoro get a black blade?",
-    "probability":0.61,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/Jazper__Gambler\/zoro-get-a-black-blade",
     "date":"2025-07-12"
   },
@@ -1659,12 +1665,6 @@
     "question":"Will the United States Space Force suffer their first death of a guardian on duty before the end of 2027?",
     "probability":0.99,
     "link":"https:\/\/manifold.markets\/strutheo\/will-the-united-states-space-force-RunI2LR8S5",
-    "date":"2025-07-12"
-  },
-  {
-    "question":"Delivery Ritalin exists in one year?",
-    "probability":0.98,
-    "link":"https:\/\/manifold.markets\/MichaelBlume\/delivery-ritalin-exists-in-one-year",
     "date":"2025-07-12"
   }
 ]
