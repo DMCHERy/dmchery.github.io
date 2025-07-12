@@ -3,296 +3,324 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Manifold Market Predictor</title>
-
-  <!-- Font Awesome for icons -->
-  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-
+  <title>Manifold Predictor Showcase</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f8f9fa;
+      background-color: #f4f4f4;
       margin: 0;
       padding: 0;
-      line-height: 1.6;
     }
-
-    header, main, footer {
+    header {
+      background-color: #20232a;
+      color: #61dafb;
+      padding: 1rem;
+      text-align: center;
+    }
+    .container {
+      padding: 2rem;
       max-width: 1200px;
       margin: auto;
-      padding: 1rem 1.5rem;
     }
-
-    header {
-      border-bottom: 2px solid #ddd;
+    /* Card styles for prediction cards */
+    .card {
+      background: white;
+      border-radius: 10px;
+      padding: 1rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      margin-bottom: 1.5rem;
+      transition: 0.3s;
     }
-
-    h1 {
-      font-size: 2rem;
-      margin-bottom: 0.3rem;
+    .card:hover {
+      transform: scale(1.01);
     }
-
-    .tagline {
-      font-size: 0.95rem;
-      color: #666;
+    .question {
+      font-size: 1.2rem;
+      font-weight: bold;
     }
-
-    input[type="text"] {
-      padding: 0.5rem;
-      margin: 1rem 0;
-      width: 100%;
-      max-width: 400px;
-      border: 1px solid #ccc;
-      border-radius: 4px;
+    .probability {
+      color: #333;
+      font-size: 1.1rem;
     }
-
-    .cards-container {
+    .date {
+      font-size: 0.9rem;
+      color: gray;
+    }
+    .button {
+      margin-top: 1rem;
+      background-color: #61dafb;
+      color: #000;
+      border: none;
+      padding: 0.5rem 1rem;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    /* Grid layout for the predictions container */
+    #predictions {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
       gap: 1rem;
     }
-
-    .card {
-      background: #fff;
+    .error-box {
+      background-color: #ffefef;
+      border: 1px solid #cc0000;
+      color: #cc0000;
       padding: 1rem;
-      border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-      transition: opacity 0.3s;
-    }
-
-    .card.filtered-out {
-      opacity: 0;
-      pointer-events: none;
-    }
-
-    #loadMoreBtn {
-      margin: 1.5rem 0;
-      padding: 0.6rem 1.2rem;
-      font-size: 1rem;
-      background: #007bff;
-      color: #fff;
-      border: none;
-      border-radius: 4px;
-      cursor: pointer;
-    }
-
-    #loadMoreBtn:hover {
-      background-color: #0056b3;
-    }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 0.95rem;
-      margin-top: 1rem;
-    }
-
-    thead th {
-      background: #f0f0f0;
-      padding: 0.5rem;
-      text-align: left;
-      border-bottom: 2px solid #ccc;
-      position: sticky;
-      top: 0;
-    }
-
-    tbody td {
-      padding: 0.5rem;
-      border-bottom: 1px solid #eee;
-    }
-
-    .highlight {
-      background-color: yellow;
-    }
-
-    .table-container {
-      max-height: 400px;
-      overflow-y: auto;
-      border: 1px solid #ddd;
-      border-radius: 4px;
-    }
-
-    footer {
+      border-radius: 10px;
       text-align: center;
-      padding: 2rem 1rem;
-      background: #f1f1f1;
+      max-width: 600px;
+      margin: 2rem auto;
+      display: none; /* shown only on error */
+    }
+    /* About/Readme section styles */
+    .about-section {
+      background-color: #fff;
+      border-radius: 10px;
+      padding: 2rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      max-width: 1200px;
+      margin: 3rem auto 2rem auto;
+    }
+    .about-section h2, .about-section h3 {
+      margin-top: 0;
+    }
+    /* Scrollable data viewer styles */
+    .data-container {
+      background-color: #f9f9f9;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      padding: 1rem;
+      max-height: 300px;
+      overflow: auto;
+      font-family: monospace;
       font-size: 0.9rem;
-      color: #555;
+      white-space: pre-wrap;
     }
-
-    .contacts {
-      list-style: none;
-      display: flex;
-      justify-content: center;
-      gap: 1.5rem;
-      padding: 0;
-      margin-top: 0.5rem;
+    /* New styles for search and unresolved items */
+    .unresolved { display: none; }  /* hidden by default */
+    .search-input {
+      width: 100%;
+      padding: 0.5rem;
+      font-size: 1rem;
+      margin-bottom: 1rem;
+      box-sizing: border-box;
     }
-
-    .contacts li {
-      display: flex;
-      align-items: center;
-    }
-
-    .contacts i {
-      margin-right: 0.5rem;
-    }
-
-    @media (max-width: 600px) {
-      .contacts {
-        flex-direction: column;
-        align-items: center;
-      }
+    mark {
+      background-color: #fffa8b;  /* highlight color for search matches */
     }
   </style>
 </head>
 <body>
   <header>
     <h1>Manifold Market Predictor</h1>
-    <p class="tagline">An unofficial project by <strong>DMCHER.store</strong> – Created by Dinmukhammed Toleubay</p>
+    <p>Powered by GPT + Random Forest</p>
   </header>
 
-  <main>
-    <section id="predictions">
-      <h2>Top Predictions</h2>
-      <input type="text" id="cardSearch" placeholder="Search predictions..." oninput="filterCards()" />
-      <div class="cards-container" id="cardsContainer"></div>
-      <button id="loadMoreBtn" onclick="loadMore()">Load More</button>
-    </section>
+  <!-- Search bar -->
+  <div class="container">
+    <input type="text" id="searchInput" class="search-input" placeholder="Search predictions...">
+  </div>
 
-    <section id="backtest">
-      <h2>Backtested Results</h2>
-      <div id="accuracySummary"><strong>Model Accuracy:</strong> ...</div>
-      <input type="text" id="backtestSearch" placeholder="Search past questions..." oninput="filterBacktest()" />
-      <div class="table-container">
-        <table>
-          <thead>
-            <tr>
-              <th>Question</th>
-              <th>Predicted %</th>
-              <th>Predicted</th>
-              <th>Actual</th>
-              <th>Result</th>
-            </tr>
-          </thead>
-          <tbody id="backtestTable"></tbody>
-        </table>
-      </div>
-    </section>
+  <!-- Predictions Grid Section -->
+  <div class="container" id="predictions">
+    <!-- Prediction cards will be inserted here dynamically by JS -->
+  </div>
 
-    <section id="about">
-      <h2>About this Project</h2>
-      <p>
-        The Manifold Market Predictor is an unofficial, educational tool that uses real-time data from Manifold Markets to forecast outcomes of unresolved binary (YES/NO) questions. It combines GPT analysis of market text with a Random Forest model trained on resolved markets to estimate the probability of a "YES" outcome.
-      </p>
-      <p>
-        Disclaimer: This project is not affiliated with Manifold Markets. Predictions are speculative and for educational use only.
-      </p>
-    </section>
-  </main>
+  <!-- Error message (hidden unless data files fail to load) -->
+  <div class="error-box" id="errorBox">
+    <strong>Error:</strong> Could not load data. Please make sure the files exist and are in the correct location.
+  </div>
+
+  <!-- About/Explanation Section -->
+  <div class="about-section">
+    <h2>About this Project</h2>
+    <p><strong>Tech Stack & Model:</strong> This project is built with HTML, CSS, and vanilla JavaScript on the front-end. The prediction engine uses OpenAI's GPT for analyzing market questions and a Random Forest machine learning model (an ensemble of decision trees) to compute the final "Yes" probability. Data is sourced from the public APIs of <a href="https://manifold.markets" target="_blank">Manifold Markets</a>.</p>
+    <p><strong>Disclaimer:</strong> This is an unofficial, personal project created for fun and educational purposes. Predictions are not guaranteed to be accurate and should <em>not</em> be taken as financial advice. The site is <strong>not affiliated</strong> with Manifold Markets or any official trading platform. Use it at your own risk!</p>
+    <p><strong>How GPT is Integrated:</strong> The system uses GPT to interpret each market question's context and nuances. Those AI-generated insights are combined with historical data and fed into the Random Forest model, which then outputs a predicted probability for a "YES" outcome. In short, GPT helps understand the question, and the Random Forest uses that understanding (plus data) to make a prediction.</p>
+    <h3>Historical Backtested Data</h3>
+    <p>Below is some historical backtesting data demonstrating how the predictor performed on past market questions. Scroll through the data to review past predictions versus actual outcomes:</p>
+    <div class="data-container">
+      <pre id="backtestData"><!-- Filled by JS --></pre>
+    </div>
+    <h3>Contact & Project Info</h3>
+    <p>Project by [Your Name] – this is a playful summer project to explore prediction markets and AI. Feel free to reach out or check out my work:</p>
+    <p>
+      Instagram: <a href="#" target="_blank">your Instagram link</a><br>
+      GitHub: <a href="#" target="_blank">your GitHub link</a><br>
+      Email: <a href="#">your email</a>
+    </p>
+  </div>
 
   <footer>
-    <p>Connect with the creator:</p>
-    <ul class="contacts">
-      <li><i class="fab fa-instagram"></i><a href="https://www.instagram.com/dinmukhammed.toleubay/" target="_blank">Instagram</a></li>
-      <li><i class="fab fa-github"></i><a href="https://github.com/DMCHERy/dmchery.github.io" target="_blank">GitHub</a></li>
-      <li><i class="fas fa-envelope"></i><a href="mailto:dinmukhammed.toleubay@gmail.com">Email</a></li>
-    </ul>
+    Not affiliated with <a href="https://manifold.markets" target="_blank">Manifold Markets</a>. Predictions are for educational use only.
   </footer>
 
   <script>
-    let allPredictions = [];
-    let cardsShown = 0;
-
-    async function fetchPredictions() {
-      const response = await fetch('predictions.json');
-      allPredictions = await response.json();
-      displayNextBatch(7);
-      populateBacktestTable();
+    // Helper: parse CSV text (manifold_predictions.csv) into an array of objects
+    function parseCSV(csvText) {
+      const lines = csvText.trim().split(/\\r?\\n/);
+      if (lines.length === 0) return [];
+      let startIdx = 0;
+      // If first line looks like a header, skip it
+      const headers = lines[0].split(',');
+      if (headers[0].toLowerCase().includes('question')) {
+        startIdx = 1;
+      }
+      const data = [];
+      for (let i = startIdx; i < lines.length; i++) {
+        const line = lines[i].trim();
+        if (!line) continue;
+        let tokens = [], token = '', inQuotes = false;
+        for (let ch of line) {
+          if (ch === '\"') {
+            if (inQuotes && token.length > 0 && token[token.length-1] === '\"') {
+              // Escaped quote (double quote inside quoted field)
+              token = token.slice(0, -1) + '\"';
+            }
+            inQuotes = !inQuotes;
+          } else if (ch === ',' && !inQuotes) {
+            tokens.push(token);
+            token = '';
+          } else {
+            token += ch;
+          }
+        }
+        tokens.push(token);  // last token
+        if (tokens.length >= 4) {
+          const [q, probStr, dateStr, link] = tokens;
+          const probTrim = probStr.trim();
+          let prob;
+          if (probTrim === '' || probTrim.toLowerCase() === 'undefined') {
+            prob = NaN;
+          } else if (probTrim.endsWith('%')) {
+            // e.g. "65%" -> 0.65
+            const num = parseFloat(probTrim);
+            prob = isNaN(num) ? NaN : num / 100;
+          } else {
+            prob = parseFloat(probTrim);
+            if (isNaN(prob)) prob = NaN;
+          }
+          data.push({ question: q, probability: prob, date: dateStr, link: link });
+        }
+      }
+      return data;
     }
 
-    function displayNextBatch(count) {
-      const container = document.getElementById('cardsContainer');
-      const next = allPredictions.slice(cardsShown, cardsShown + count);
-      next.forEach(pred => {
-        const card = document.createElement('div');
-        card.className = 'card';
-        card.innerHTML = `
-          <h3 class="question">${pred.question}</h3>
-          <p>Predicted chance: <strong>${(pred.probability * 100).toFixed(1)}%</strong></p>
-        `;
-        container.appendChild(card);
-      });
-      cardsShown += next.length;
-      if (cardsShown >= allPredictions.length) {
-        document.getElementById('loadMoreBtn').style.display = 'none';
+    // Load and display predictions
+    async function loadPredictions() {
+      try {
+        const res = await fetch('predictions.json');
+        if (!res.ok) throw new Error('Failed to load predictions.json');
+        let predictionsList = await res.json();
+        // Load unresolved predictions (if available)
+        let unresolvedList = [];
+        try {
+          const csvRes = await fetch('manifold_predictions.csv');
+          if (csvRes.ok) {
+            const csvText = await csvRes.text();
+            unresolvedList = parseCSV(csvText);
+          }
+        } catch (err) {
+          console.error('Failed to load manifold_predictions.csv:', err);
+        }
+        // Remove any predictions from JSON that are still unresolved (by matching links)
+        if (unresolvedList.length > 0) {
+          const unresolvedLinks = new Set(unresolvedList.map(p => p.link));
+          predictionsList = predictionsList.filter(pred => !unresolvedLinks.has(pred.link));
+        }
+        // Combine resolved and unresolved into one array
+        const resolvedPredictions = predictionsList.map(p => ({ ...p, resolved: true }));
+        const unresolvedPredictions = unresolvedList.map(p => ({ ...p, resolved: false }));
+        const allPredictions = [...resolvedPredictions, ...unresolvedPredictions];
+        // Sort all by date (newest first)
+        allPredictions.sort((a, b) => {
+          const dateA = Date.parse(a.date);
+          const dateB = Date.parse(b.date);
+          if (!isNaN(dateA) && !isNaN(dateB)) {
+            return dateB - dateA;
+          }
+          // Fallback to string comparison if date format is non-standard
+          return a.date < b.date ? 1 : (a.date > b.date ? -1 : 0);
+        });
+        // Render each prediction as a card
+        const container = document.getElementById('predictions');
+        allPredictions.forEach(pred => {
+          const card = document.createElement('div');
+          card.className = 'card' + (pred.resolved ? '' : ' unresolved');
+          card.dataset.question = pred.question;
+          card.innerHTML = `
+            <div class="question">${pred.question}</div>
+            <div class="probability">
+              🟢 Predicted YES Probability: <strong>${isNaN(pred.probability) ? '?' : (pred.probability * 100).toFixed(1)}%</strong>
+            </div>
+            <div class="date">Predicted on ${pred.date}</div>
+            <a href="${pred.link}" target="_blank">
+              <button class="button">View on Manifold</button>
+            </a>
+          `;
+          container.appendChild(card);
+        });
+      } catch (error) {
+        console.error(error);
+        document.getElementById('errorBox').style.display = 'block';
       }
     }
 
-    function loadMore() {
-      displayNextBatch(10);
+    // Load and display historical backtest data
+    async function loadBacktestData() {
+      try {
+        const res = await fetch('backtest_data.txt');
+        if (!res.ok) throw new Error('Failed to load backtest_data.txt');
+        let textData = await res.text();
+        // Replace "undefined" with "?" for readability
+        textData = textData.replace(/undefined/g, '?');
+        document.getElementById('backtestData').textContent = textData;
+      } catch (error) {
+        console.error(error);
+        document.getElementById('backtestData').textContent = "Error: Could not load backtest data.";
+      }
     }
 
-    function filterCards() {
-      const query = document.getElementById('cardSearch').value.toLowerCase();
-      document.querySelectorAll('.card').forEach(card => {
-        const text = card.querySelector('.question').textContent.toLowerCase();
-        card.classList.toggle('filtered-out', !text.includes(query));
-      });
-    }
-
-    function populateBacktestTable() {
-      const tbody = document.getElementById('backtestTable');
-      const summary = document.getElementById('accuracySummary');
-      let correct = 0;
-
-      tbody.innerHTML = '';
-      allPredictions.forEach(pred => {
-        const predicted = pred.probability > 0.5 ? 'YES' : 'NO';
-        const actual = pred.actualOutcome;
-        const isCorrect = predicted === actual;
-        if (isCorrect) correct++;
-
-        const row = document.createElement('tr');
-        row.dataset.question = pred.question;
-
-        row.innerHTML = `
-          <td class="qCell">${pred.question}</td>
-          <td>${(pred.probability * 100).toFixed(1)}%</td>
-          <td>${predicted}</td>
-          <td>${actual}</td>
-          <td>${isCorrect ? '✔️' : '❌'}</td>
-        `;
-        tbody.appendChild(row);
-      });
-
-      const percent = (correct / allPredictions.length * 100).toFixed(1);
-      summary.innerHTML = `<strong>Model Accuracy:</strong> ${percent}% correct`;
-    }
-
-    function highlightMatches(text, term) {
-      const safeTerm = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-      const regex = new RegExp(safeTerm, 'gi');
-      return text.replace(regex, match => `<span class="highlight">${match}</span>`);
-    }
-
-    function filterBacktest() {
-      const query = document.getElementById('backtestSearch').value.toLowerCase();
-      const rows = document.querySelectorAll('#backtestTable tr');
-
-      rows.forEach(row => {
-        const original = row.dataset.question;
-        const text = original.toLowerCase();
-        const match = text.includes(query);
-        row.style.display = match ? '' : 'none';
-        if (match) {
-          const highlighted = highlightMatches(original, query);
-          row.querySelector('.qCell').innerHTML = highlighted;
+    // Initialize the page
+    loadPredictions().then(() => {
+      // Set up search/filter functionality after predictions have loaded
+      const searchInput = document.getElementById('searchInput');
+      const cards = document.getElementsByClassName('card');
+      searchInput.addEventListener('input', () => {
+        const query = searchInput.value.trim().toLowerCase();
+        if (query === "") {
+          // Show only resolved predictions, hide unresolved
+          for (let card of cards) {
+            // Restore original question text (remove highlights)
+            card.querySelector('.question').textContent = card.dataset.question;
+            if (card.classList.contains('unresolved')) {
+              card.style.display = "none";
+            } else {
+              card.style.display = "block";
+            }
+          }
+        } else {
+          // Filter and highlight matches
+          for (let card of cards) {
+            const questionText = card.dataset.question.toLowerCase();
+            const questionElem = card.querySelector('.question');
+            if (questionText.includes(query)) {
+              // Highlight the query text in the question
+              const regex = new RegExp(`(${ query.replace(/[.*+?^${}()|[\\]\\]/g, '\\$&') })`, 'gi');
+              questionElem.innerHTML = card.dataset.question.replace(regex, '<mark>$1</mark>');
+              card.style.display = "block";  // ensure visible (even if it was unresolved)
+            } else {
+              card.style.display = "none";
+            }
+          }
         }
       });
-    }
-
-    fetchPredictions();
+      // If a query was pre-filled (unlikely), apply it
+      if (searchInput.value.trim() !== "") {
+        searchInput.dispatchEvent(new Event('input'));
+      }
+    });
+    loadBacktestData();
   </script>
 </body>
 </html>
