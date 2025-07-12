@@ -1,5 +1,11 @@
 [
   {
+    "question":"Will we be able to print a smart humanoid bot at home by 2030?",
+    "probability":0.76,
+    "link":"https:\/\/manifold.markets\/SimoneRomeo\/will-we-be-able-to-print-a-smart-hu",
+    "date":"2025-07-12"
+  },
+  {
     "question":"Will any US federal judge be impeached in 2025?",
     "probability":0.79,
     "link":"https:\/\/manifold.markets\/Mana\/will-any-us-federal-judge-be-impeac",
@@ -31,7 +37,7 @@
   },
   {
     "question":"Will any top officials leave the Trump administration over the Epstein case?",
-    "probability":0.89,
+    "probability":0.9,
     "link":"https:\/\/manifold.markets\/BlueDragon\/will-any-top-officials-leave-the-tr",
     "date":"2025-07-12"
   },
@@ -85,13 +91,13 @@
   },
   {
     "question":"Jeffrey Epstein fowl play confirmed in 2025?",
-    "probability":0.75,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/PaulBenjaminPhotographer\/jeffrey-epstein-fowl-play-confirmed",
     "date":"2025-07-12"
   },
   {
     "question":"Dan Bongino resigns as FBI Deputy Director before August 1, 2025",
-    "probability":0.86,
+    "probability":0.79,
     "link":"https:\/\/manifold.markets\/Dleamer\/dan-bongino-resigns-as-fbi-deputy-d",
     "date":"2025-07-12"
   },
@@ -211,7 +217,7 @@
   },
   {
     "question":"Probability of this question lower than 50?",
-    "probability":0.79,
+    "probability":0.8,
     "link":"https:\/\/manifold.markets\/Gabu\/probability-of-this-question-lower",
     "date":"2025-07-12"
   },
@@ -1339,7 +1345,7 @@
   },
   {
     "question":"Will 1% of any city (>1m pop) in the EU, UK, or US die in any year from disaster by mid 2035",
-    "probability":0.78,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/Ernie\/will-1-of-any-city-1m-pop-in-the-eu",
     "date":"2025-07-12"
   },
@@ -1579,7 +1585,7 @@
   },
   {
     "question":"Will 2026 turnout exceed 2022? (US midterms, percentage)",
-    "probability":0.7,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/EvanDaniel\/will-2026-turnout-exceed-2022-us-mi",
     "date":"2025-07-12"
   },
@@ -1635,12 +1641,6 @@
     "question":"Will \"Authors Have a Responsibility to Communicate ...\" make the top fifty posts in LessWrong's 2025 Annual Review?",
     "probability":0.75,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-authors-have-a-responsibility",
-    "date":"2025-07-12"
-  },
-  {
-    "question":"At the end of destiny's research will he think covid came from a lab?",
-    "probability":0.87,
-    "link":"https:\/\/manifold.markets\/strutheo\/at-the-end-of-destinys-research-wil",
     "date":"2025-07-12"
   }
 ]
