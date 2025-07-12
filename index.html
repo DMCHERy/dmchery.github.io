@@ -159,103 +159,113 @@
 
 
   <script>
-    let predictions = [];
-    let backtestIndex = 0;
-    let visibleIndex = 0;
-    const batchSize = 7;
+  let predictions = [];
+  let backtestIndex = 0;
+  let visibleIndex = 0;
+  const batchSize = 7;
 
-    async function loadData() {
-      const res = await fetch("predictions.json");
-      predictions = await res.json();
-      predictions.reverse();
-      showNextBatch();
-      showNextBacktestBatch();
-    }
+  async function loadData() {
+    const res = await fetch("predictions.json");
+    predictions = await res.json();
+    predictions.reverse();
+    showNextBatch();
+    showNextBacktestBatch();
+  }
 
-    function showNextBatch() {
-      const container = document.getElementById("predictions");
-      const slice = predictions.slice(visibleIndex, visibleIndex + batchSize);
-      slice.forEach(pred => {
-        const card = document.createElement("div");
-        card.className = "card";
-        const isYes = pred.probability >= 0.5;
-        card.innerHTML = `
-          <div class="question">${pred.question}</div>
-          <div class="probability ${isYes ? 'yes' : 'no'}">Predicted ${isYes ? 'YES' : 'NO'}: <strong>${(pred.probability * 100).toFixed(1)}%</strong></div>
-          <div class="date">Date: ${pred.date}</div>
-          <a href="${pred.link}" target="_blank"><button class="button">View Market</button></a>
-        `;
-        container.appendChild(card);
-      });
-      visibleIndex += batchSize;
-      if (visibleIndex >= predictions.length) document.getElementById("loadMore").classList.add("hidden");
-    }
-
-    function showNextBacktestBatch() {
-      const tbody = document.querySelector("#backtestTable tbody");
-      let correct = 0;
-      let total = 0;
-
-      for (let i = backtestIndex; i < backtestIndex + batchSize && i < predictions.length; i++) {
-        const pred = predictions[i];
-        if (!("actualOutcome" in pred)) continue;
-
-        const predicted = pred.probability >= 0.5 ? "YES" : "NO";
-        const actual = pred.actualOutcome || "?";
-        const isCorrect = actual !== "?" && predicted === actual;
-        if (actual !== "?") total++;
-        if (isCorrect) correct++;
-
-        const row = document.createElement("tr");
-        row.dataset.question = pred.question.toLowerCase();
-        row.innerHTML = `
-          <td class="qCell">${pred.question}</td>
-          <td>${(pred.probability * 100).toFixed(1)}%</td>
-          <td>${predicted}</td>
-          <td>${actual}</td>
-          <td>${actual === "?" ? "?" : (isCorrect ? "✔️" : "❌")}</td>
-        `;
-        tbody.appendChild(row);
-      }
-
-      if (total > 0) {
-        const accuracy = (correct / total * 100).toFixed(1);
-        document.getElementById("accuracySummary").textContent = `Accuracy: ${accuracy}%`;
-      }
-
-      backtestIndex += batchSize;
-      if (backtestIndex >= predictions.length) document.getElementById("loadMoreBacktest").classList.add("hidden");
-    }
-
-    // Search Filters
-    document.getElementById("searchInput").addEventListener("input", e => {
-      const q = e.target.value.toLowerCase();
-      document.querySelectorAll("#predictions .card").forEach(card => {
-        card.style.display = card.querySelector(".question").textContent.toLowerCase().includes(q) ? "block" : "none";
-      });
+  function showNextBatch() {
+    const container = document.getElementById("predictions");
+    const slice = predictions.slice(visibleIndex, visibleIndex + batchSize);
+    slice.forEach(pred => {
+      const card = document.createElement("div");
+      card.className = "card";
+      const isYes = pred.probability >= 0.5;
+      card.innerHTML = `
+        <div class="question">${pred.question}</div>
+        <div class="probability ${isYes ? 'yes' : 'no'}">Predicted ${isYes ? 'YES' : 'NO'}: <strong>${(pred.probability * 100).toFixed(1)}%</strong></div>
+        <div class="date">Date: ${pred.date}</div>
+        <a href="${pred.link}" target="_blank"><button class="button">View Market</button></a>
+      `;
+      container.appendChild(card);
     });
+    visibleIndex += batchSize;
+    if (visibleIndex >= predictions.length) document.getElementById("loadMore").classList.add("hidden");
+  }
 
-    document.getElementById("backtestSearch").addEventListener("input", e => {
-      const q = e.target.value.toLowerCase();
-      document.querySelectorAll("#backtestTable tbody tr").forEach(row => {
-        const text = row.dataset.question;
-        row.style.display = text.includes(q) ? "" : "none";
-        row.querySelector(".qCell").innerHTML = highlightMatch(text, q);
-      });
-    });
+  function showNextBacktestBatch() {
+    const tbody = document.querySelector("#backtestTable tbody");
+    let correct = 0;
+    let total = 0;
+    let batchAdded = false;
 
-    function highlightMatch(text, q) {
-      if (!q) return text;
-      return text.replace(new RegExp(q, 'gi'), match => `<span class="highlight">${match}</span>`);
+    for (let i = backtestIndex; i < backtestIndex + batchSize && i < predictions.length; i++) {
+      const pred = predictions[i];
+      if (!("actualOutcome" in pred)) continue;
+
+      const predicted = pred.probability >= 0.5 ? "YES" : "NO";
+      const actual = pred.actualOutcome || "?";
+      const isCorrect = actual !== "?" && predicted === actual;
+      if (actual !== "?") total++;
+      if (isCorrect) correct++;
+
+      const row = document.createElement("tr");
+      row.dataset.question = pred.question.toLowerCase();
+      row.innerHTML = `
+        <td class="qCell">${pred.question}</td>
+        <td>${(pred.probability * 100).toFixed(1)}%</td>
+        <td>${predicted}</td>
+        <td>${actual}</td>
+        <td>${actual === "?" ? "?" : (isCorrect ? "✔️" : "❌")}</td>
+      `;
+      tbody.appendChild(row);
+      batchAdded = true;
     }
 
-    document.getElementById("loadMore").onclick = showNextBatch;
-    document.getElementById("loadMoreBacktest").onclick = showNextBacktestBatch;
-    document.getElementById("toggleBacktest").onclick = () => {
-      document.getElementById("backtestSection").classList.toggle("hidden");
-    };
+    if (!batchAdded) {
+      tbody.innerHTML = `<tr><td colspan="5">No backtest data available yet.</td></tr>`;
+      document.getElementById("accuracySummary").textContent = '';
+      document.getElementById("loadMoreBacktest").classList.add("hidden");
+      return;
+    }
 
-    loadData();
-  </script>
+    if (total > 0) {
+      const accuracy = (correct / total * 100).toFixed(1);
+      document.getElementById("accuracySummary").textContent = `Accuracy: ${accuracy}%`;
+    }
+
+    backtestIndex += batchSize;
+    if (backtestIndex >= predictions.length) document.getElementById("loadMoreBacktest").classList.add("hidden");
+  }
+
+  // Search Filters
+  document.getElementById("searchInput").addEventListener("input", e => {
+    const q = e.target.value.toLowerCase();
+    document.querySelectorAll("#predictions .card").forEach(card => {
+      card.style.display = card.querySelector(".question").textContent.toLowerCase().includes(q) ? "block" : "none";
+    });
+  });
+
+  document.getElementById("backtestSearch").addEventListener("input", e => {
+    const q = e.target.value.toLowerCase();
+    document.querySelectorAll("#backtestTable tbody tr").forEach(row => {
+      const text = row.dataset.question;
+      row.style.display = text.includes(q) ? "" : "none";
+      row.querySelector(".qCell").innerHTML = highlightMatch(text, q);
+    });
+  });
+
+  function highlightMatch(text, q) {
+    if (!q) return text;
+    return text.replace(new RegExp(q, 'gi'), match => `<span class="highlight">${match}</span>`);
+  }
+
+  document.getElementById("loadMore").onclick = showNextBatch;
+  document.getElementById("loadMoreBacktest").onclick = showNextBacktestBatch;
+  document.getElementById("toggleBacktest").onclick = () => {
+    document.getElementById("backtestSection").classList.toggle("hidden");
+  };
+
+  loadData();
+</script>
+
 </body>
 </html>
