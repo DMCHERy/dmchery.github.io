@@ -7,7 +7,7 @@
   },
   {
     "question":"Dan Bongino resigns as FBI Deputy Director before August 1, 2025",
-    "probability":0.73,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/Dleamer\/dan-bongino-resigns-as-fbi-deputy-d",
     "date":"2025-07-12"
   },
@@ -19,7 +19,7 @@
   },
   {
     "question":"TACO on 35% Canadian tariff before it goes into effect?",
-    "probability":0.83,
+    "probability":0.88,
     "link":"https:\/\/manifold.markets\/Bandors\/taco-on-35-canadian-tariff-before-i",
     "date":"2025-07-12"
   },
@@ -313,7 +313,7 @@
   },
   {
     "question":"Will xAI stick to their announced release timeline?",
-    "probability":0.85,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/AffineTyped\/will-xai-stick-to-their-announced-r",
     "date":"2025-07-12"
   },
@@ -1647,12 +1647,6 @@
     "question":"Will KIC Write overtake Microsoft Word in MAU by the end of 2025?",
     "probability":0.85,
     "link":"https:\/\/manifold.markets\/dvkramer\/will-kic-write-overtake-microsoft-w",
-    "date":"2025-07-12"
-  },
-  {
-    "question":"Zoro beats Mihalk?",
-    "probability":0.72,
-    "link":"https:\/\/manifold.markets\/omni\/zoro-beats-mihalk",
     "date":"2025-07-12"
   }
 ]
