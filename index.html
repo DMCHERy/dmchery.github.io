@@ -4,141 +4,155 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Manifold Market Predictor</title>
-  <!-- Styles for the page -->
+
+  <!-- Font Awesome for icons -->
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+
   <style>
     body {
-      font-family: "Segoe UI", Tahoma, sans-serif;
-      background: #fafafa;
-      color: #333;
+      font-family: Arial, sans-serif;
+      background-color: #f8f9fa;
       margin: 0;
+      padding: 0;
       line-height: 1.6;
     }
-    h1, h2 { color: #111; margin: 0; }
-    h1 { font-size: 2rem; margin: 1rem 0; }
-    h2 { font-size: 1.5rem; margin: 2rem 0 1rem; }
-    p { margin: 0.5rem 0; }
 
     header, main, footer {
       max-width: 1200px;
       margin: auto;
       padding: 1rem 1.5rem;
     }
-    header { border-bottom: 2px solid #eee; }
-    .tagline { font-size: 0.9rem; color: #555; margin: 0 0 0.5rem; }
 
-    /* Prediction Cards section */
-    #predictions input[type="text"] {
-      margin-bottom: 1rem;
+    header {
+      border-bottom: 2px solid #ddd;
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 0.3rem;
+    }
+
+    .tagline {
+      font-size: 0.95rem;
+      color: #666;
+    }
+
+    input[type="text"] {
       padding: 0.5rem;
+      margin: 1rem 0;
       width: 100%;
       max-width: 400px;
-      font-size: 1rem;
       border: 1px solid #ccc;
       border-radius: 4px;
     }
+
     .cards-container {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
       gap: 1rem;
     }
+
     .card {
       background: #fff;
-      border-radius: 8px;
       padding: 1rem;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
       transition: opacity 0.3s;
     }
-    .card h3 { font-size: 1.1rem; margin-top: 0; }
-    .card p { margin: 0.5rem 0 0; font-size: 0.95rem; color: #333; }
+
     .card.filtered-out {
       opacity: 0;
       pointer-events: none;
     }
+
     #loadMoreBtn {
       margin: 1.5rem 0;
       padding: 0.6rem 1.2rem;
       font-size: 1rem;
-      background: #007BFF;
+      background: #007bff;
       color: #fff;
       border: none;
       border-radius: 4px;
       cursor: pointer;
-      transition: background-color 0.2s;
     }
-    #loadMoreBtn:hover { background-color: #0056b3; }
 
-    /* Backtested Data section */
-    #backtest input[type="text"] {
-      margin: 0.5rem 0 1rem;
-      padding: 0.5rem;
-      width: 100%;
-      max-width: 400px;
-      font-size: 1rem;
-      border: 1px solid #ccc;
-      border-radius: 4px;
+    #loadMoreBtn:hover {
+      background-color: #0056b3;
     }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.95rem;
+      margin-top: 1rem;
+    }
+
+    thead th {
+      background: #f0f0f0;
+      padding: 0.5rem;
+      text-align: left;
+      border-bottom: 2px solid #ccc;
+      position: sticky;
+      top: 0;
+    }
+
+    tbody td {
+      padding: 0.5rem;
+      border-bottom: 1px solid #eee;
+    }
+
+    .highlight {
+      background-color: yellow;
+    }
+
     .table-container {
       max-height: 400px;
       overflow-y: auto;
       border: 1px solid #ddd;
       border-radius: 4px;
     }
-    table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
-    thead th {
-      position: sticky;
-      top: 0;
-      background: #f0f0f0;
-      padding: 0.5rem;
-      text-align: left;
-      font-weight: bold;
-      border-bottom: 2px solid #ccc;
-    }
-    tbody td {
-      padding: 0.5rem;
-      border-bottom: 1px solid #eee;
-    }
-    .highlight { background-color: #fff200; }
 
-    /* Footer */
     footer {
-      margin-top: 2rem;
-      padding: 1rem 1.5rem;
-      background: #f9f9f9;
       text-align: center;
+      padding: 2rem 1rem;
+      background: #f1f1f1;
       font-size: 0.9rem;
       color: #555;
     }
+
     .contacts {
       list-style: none;
-      padding: 0;
-      margin: 0.5rem 0 0;
       display: flex;
       justify-content: center;
       gap: 1.5rem;
+      padding: 0;
+      margin-top: 0.5rem;
     }
-    .contacts li { display: inline; }
-    .contacts a { color: #007BFF; text-decoration: none; }
-    .contacts a:hover { text-decoration: underline; }
 
-    @media(max-width: 600px) {
-      header, footer { padding: 1rem; }
-      #loadMoreBtn { width: 100%; }
-      .contacts { flex-direction: column; gap: 0.5rem; }
+    .contacts li {
+      display: flex;
+      align-items: center;
+    }
+
+    .contacts i {
+      margin-right: 0.5rem;
+    }
+
+    @media (max-width: 600px) {
+      .contacts {
+        flex-direction: column;
+        align-items: center;
+      }
     }
   </style>
 </head>
 <body>
-
   <header>
     <h1>Manifold Market Predictor</h1>
-    <p class="tagline">
-      An unofficial project by <a href="https://www.dmcher.store" target="_blank">DMCHER.store</a>
-      – Created by Dinmukhammed Toleubay
-    </p>
+    <p class="tagline">An unofficial project by <strong>DMCHER.store</strong> – Created by Dinmukhammed Toleubay</p>
   </header>
 
   <main>
-    <!-- Prediction Cards Section -->
     <section id="predictions">
       <h2>Top Predictions</h2>
       <input type="text" id="cardSearch" placeholder="Search predictions..." oninput="filterCards()" />
@@ -146,33 +160,33 @@
       <button id="loadMoreBtn" onclick="loadMore()">Load More</button>
     </section>
 
-    <!-- Backtested Data Section -->
     <section id="backtest">
       <h2>Backtested Results</h2>
+      <div id="accuracySummary"><strong>Model Accuracy:</strong> ...</div>
       <input type="text" id="backtestSearch" placeholder="Search past questions..." oninput="filterBacktest()" />
       <div class="table-container">
-        <table id="backtestTable">
+        <table>
           <thead>
-            <tr><th>Question</th><th>Predicted Probability</th></tr>
+            <tr>
+              <th>Question</th>
+              <th>Predicted %</th>
+              <th>Predicted</th>
+              <th>Actual</th>
+              <th>Result</th>
+            </tr>
           </thead>
-          <tbody></tbody>
+          <tbody id="backtestTable"></tbody>
         </table>
       </div>
     </section>
 
-    <!-- About Section -->
     <section id="about">
       <h2>About this Project</h2>
       <p>
-        The Manifold Market Predictor is an <strong>unofficial, educational tool</strong> that uses real-time data from 
-        Manifold Markets to forecast outcomes of unresolved binary questions. It combines <strong>GPT-3.5</strong> (for 
-        analyzing the market question) and a <strong>Random Forest</strong> machine learning model (trained on past resolved markets) 
-        to estimate the probability of a "YES" resolution for each market:contentReference[oaicite:25]{index=25}:contentReference[oaicite:26]{index=26}. The model outputs a ranked list of 
-        predictions, as shown above, without needing to wait for actual market resolutions:contentReference[oaicite:27]{index=27}.
+        The Manifold Market Predictor is an unofficial, educational tool that uses real-time data from Manifold Markets to forecast outcomes of unresolved binary (YES/NO) questions. It combines GPT analysis of market text with a Random Forest model trained on resolved markets to estimate the probability of a "YES" outcome.
       </p>
       <p>
-        <strong>Disclaimer:</strong> This project is not affiliated with Manifold Markets. It is for research and educational purposes only, 
-        and its predictions are speculative. Use these results for curiosity and insight, not as financial advice or a guaranteed edge in forecasting:contentReference[oaicite:28]{index=28}.
+        Disclaimer: This project is not affiliated with Manifold Markets. Predictions are speculative and for educational use only.
       </p>
     </section>
   </main>
@@ -180,106 +194,105 @@
   <footer>
     <p>Connect with the creator:</p>
     <ul class="contacts">
-      <li><a href="https://www.instagram.com/dinmukhammed.toleubay/" target="_blank">Instagram</a></li>
-      <li><a href="https://github.com/DMCHERy/dmchery.github.io" target="_blank">GitHub</a></li>
-      <li><a href="mailto:dinmukhammed.toleubay@gmail.com">Email</a></li>
+      <li><i class="fab fa-instagram"></i><a href="https://www.instagram.com/dinmukhammed.toleubay/" target="_blank">Instagram</a></li>
+      <li><i class="fab fa-github"></i><a href="https://github.com/DMCHERy/dmchery.github.io" target="_blank">GitHub</a></li>
+      <li><i class="fas fa-envelope"></i><a href="mailto:dinmukhammed.toleubay@gmail.com">Email</a></li>
     </ul>
   </footer>
 
-  <!-- Scripts -->
   <script>
     let allPredictions = [];
     let cardsShown = 0;
-    const cardsContainer = document.getElementById('cardsContainer');
-    const loadMoreBtn = document.getElementById('loadMoreBtn');
 
-    // Fetch predictions data
-    fetch('predictions.json')
-      .then(response => response.json())
-      .then(data => {
-        allPredictions = data;
-        displayNextBatch(7);  // Show initial 7 cards
-        populateBacktestTable();  // Populate the backtest table with all data
-      });
+    async function fetchPredictions() {
+      const response = await fetch('predictions.json');
+      allPredictions = await response.json();
+      displayNextBatch(7);
+      populateBacktestTable();
+    }
 
-    // Display next N predictions as cards
     function displayNextBatch(count) {
-      const nextSlice = allPredictions.slice(cardsShown, cardsShown + count);
-      nextSlice.forEach(pred => {
+      const container = document.getElementById('cardsContainer');
+      const next = allPredictions.slice(cardsShown, cardsShown + count);
+      next.forEach(pred => {
         const card = document.createElement('div');
         card.className = 'card';
         card.innerHTML = `
           <h3 class="question">${pred.question}</h3>
-          <p class="prediction">Predicted chance: <strong>${(pred.probability * 100).toFixed(1)}%</strong></p>
+          <p>Predicted chance: <strong>${(pred.probability * 100).toFixed(1)}%</strong></p>
         `;
-        cardsContainer.appendChild(card);
+        container.appendChild(card);
       });
-      cardsShown += nextSlice.length;
+      cardsShown += next.length;
       if (cardsShown >= allPredictions.length) {
-        loadMoreBtn.style.display = 'none';
+        document.getElementById('loadMoreBtn').style.display = 'none';
       }
     }
 
-    // Load More button handler
     function loadMore() {
       displayNextBatch(10);
     }
 
-    // Filter visible cards by search query
     function filterCards() {
       const query = document.getElementById('cardSearch').value.toLowerCase();
       document.querySelectorAll('.card').forEach(card => {
         const text = card.querySelector('.question').textContent.toLowerCase();
-        // Toggle filtered-out class for smooth hide/show
-        if (text.includes(query)) {
-          card.classList.remove('filtered-out');
-        } else {
-          card.classList.add('filtered-out');
-        }
+        card.classList.toggle('filtered-out', !text.includes(query));
       });
     }
 
-    // Populate backtest table with all predictions
-    const backtestTableBody = document.querySelector('#backtestTable tbody');
     function populateBacktestTable() {
-      backtestTableBody.innerHTML = '';
+      const tbody = document.getElementById('backtestTable');
+      const summary = document.getElementById('accuracySummary');
+      let correct = 0;
+
+      tbody.innerHTML = '';
       allPredictions.forEach(pred => {
+        const predicted = pred.probability > 0.5 ? 'YES' : 'NO';
+        const actual = pred.actualOutcome;
+        const isCorrect = predicted === actual;
+        if (isCorrect) correct++;
+
         const row = document.createElement('tr');
-        // store original question for reuse
         row.dataset.question = pred.question;
+
         row.innerHTML = `
           <td class="qCell">${pred.question}</td>
           <td>${(pred.probability * 100).toFixed(1)}%</td>
+          <td>${predicted}</td>
+          <td>${actual}</td>
+          <td>${isCorrect ? '✔️' : '❌'}</td>
         `;
-        backtestTableBody.appendChild(row);
+        tbody.appendChild(row);
       });
+
+      const percent = (correct / allPredictions.length * 100).toFixed(1);
+      summary.innerHTML = `<strong>Model Accuracy:</strong> ${percent}% correct`;
     }
 
-    // Highlight helper for search terms
     function highlightMatches(text, term) {
-      if (!term) return text;
       const safeTerm = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
       const regex = new RegExp(safeTerm, 'gi');
       return text.replace(regex, match => `<span class="highlight">${match}</span>`);
     }
 
-    // Filter backtest table rows by search query, with highlights
     function filterBacktest() {
       const query = document.getElementById('backtestSearch').value.toLowerCase();
-      const rows = backtestTableBody.querySelectorAll('tr');
+      const rows = document.querySelectorAll('#backtestTable tr');
+
       rows.forEach(row => {
-        const questionText = row.dataset.question.toLowerCase();
-        if (questionText.includes(query)) {
-          // Show row and highlight matches
-          row.style.display = '';
-          const highlightedHTML = highlightMatches(row.dataset.question, query);
-          row.querySelector('.qCell').innerHTML = highlightedHTML;
-        } else {
-          // Hide row
-          row.style.display = 'none';
+        const original = row.dataset.question;
+        const text = original.toLowerCase();
+        const match = text.includes(query);
+        row.style.display = match ? '' : 'none';
+        if (match) {
+          const highlighted = highlightMatches(original, query);
+          row.querySelector('.qCell').innerHTML = highlighted;
         }
       });
     }
+
+    fetchPredictions();
   </script>
 </body>
 </html>
