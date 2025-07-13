@@ -1,5 +1,23 @@
 [
   {
+    "question":"Will a company officially own and run a country by 2030",
+    "probability":0.92,
+    "link":"https:\/\/manifold.markets\/Necrum\/will-a-company-officially-own-and-r",
+    "date":"2025-07-13"
+  },
+  {
+    "question":"DIAMOND league user below 5k mana net worth in August?",
+    "probability":0.87,
+    "link":"https:\/\/manifold.markets\/100Anonymous\/diamond-league-user-below-5k-mana-n",
+    "date":"2025-07-13"
+  },
+  {
+    "question":"Will there be a master's league in 2025 with no whales (mana net worth > 1 million mana)?",
+    "probability":0.96,
+    "link":"https:\/\/manifold.markets\/100Anonymous\/will-there-be-a-masters-league-in-2",
+    "date":"2025-07-13"
+  },
+  {
     "question":"Trump tries to fire Powell before September 1?",
     "probability":0.99,
     "link":"https:\/\/manifold.markets\/PaperBoy\/trump-tries-to-fire-powell-before-s",
@@ -13,13 +31,13 @@
   },
   {
     "question":"Will a member of Generation X become president of the United States?",
-    "probability":0.94,
+    "probability":0.96,
     "link":"https:\/\/manifold.markets\/theincredibleholk\/will-a-member-of-generation-x-becom",
     "date":"2025-07-13"
   },
   {
     "question":"Will Trump's approval rating return to 47%+ before his second term ends?",
-    "probability":1.0,
+    "probability":0.96,
     "link":"https:\/\/manifold.markets\/Panfilo\/will-trumps-approval-rating-return",
     "date":"2025-07-13"
   },
@@ -127,7 +145,7 @@
   },
   {
     "question":"Will any top officials leave the Trump administration over the Epstein case?",
-    "probability":0.93,
+    "probability":0.94,
     "link":"https:\/\/manifold.markets\/BlueDragon\/will-any-top-officials-leave-the-tr",
     "date":"2025-07-13"
   },
@@ -199,7 +217,7 @@
   },
   {
     "question":"TACO on 35% Canadian tariff before it goes into effect?",
-    "probability":0.92,
+    "probability":0.9,
     "link":"https:\/\/manifold.markets\/Bandors\/taco-on-35-canadian-tariff-before-i",
     "date":"2025-07-13"
   },
@@ -295,7 +313,7 @@
   },
   {
     "question":"Metallica express displeasure with Pete Hegseth for using their music within a week?",
-    "probability":0.96,
+    "probability":0.95,
     "link":"https:\/\/manifold.markets\/JussiVilleHeiskanen\/metallica-express-displeasure-with",
     "date":"2025-07-13"
   },
