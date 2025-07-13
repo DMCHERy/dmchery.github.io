@@ -43,13 +43,13 @@
   },
   {
     "question":"Will Trump's approval rating return to 47%+ before his second term ends?",
-    "probability":0.88,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/Panfilo\/will-trumps-approval-rating-return",
     "date":"2025-07-13"
   },
   {
     "question":"US imposes secondary sanctions on Russia in 2025",
-    "probability":0.91,
+    "probability":0.94,
     "link":"https:\/\/manifold.markets\/nonnihil\/us-imposes-secondary-sanctions-on-r",
     "date":"2025-07-13"
   },
@@ -205,7 +205,7 @@
   },
   {
     "question":"Jeffrey Epstein fowl play confirmed in 2025?",
-    "probability":0.57,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/PaulBenjaminPhotographer\/jeffrey-epstein-fowl-play-confirmed",
     "date":"2025-07-13"
   },
@@ -1701,12 +1701,6 @@
     "question":"Will 2026 turnout exceed 2022? (US midterms, percentage)",
     "probability":0.68,
     "link":"https:\/\/manifold.markets\/EvanDaniel\/will-2026-turnout-exceed-2022-us-mi",
-    "date":"2025-07-13"
-  },
-  {
-    "question":"Max Verstappen joins Mercedes?",
-    "probability":0.94,
-    "link":"https:\/\/manifold.markets\/PrijwalNaidu\/max-verstappen-joins-mercedes",
     "date":"2025-07-13"
   }
 ]
