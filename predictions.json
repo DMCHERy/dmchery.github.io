@@ -1,5 +1,23 @@
 [
   {
+    "question":"Will \"Surprises and learnings from almost two month...\" make the top fifty posts in LessWrong's 2025 Annual Review?",
+    "probability":0.95,
+    "link":"https:\/\/manifold.markets\/LessWrong\/will-surprises-and-learnings-from-a",
+    "date":"2025-07-13"
+  },
+  {
+    "question":"Will \"Vitalik's Response to AI 2027\" make the top fifty posts in LessWrong's 2025 Annual Review?",
+    "probability":0.88,
+    "link":"https:\/\/manifold.markets\/LessWrong\/will-vitaliks-response-to-ai-2027-m",
+    "date":"2025-07-13"
+  },
+  {
+    "question":"Will the S&P 500 close above 4,500 on July 31, 2025?",
+    "probability":0.94,
+    "link":"https:\/\/manifold.markets\/Judge\/will-the-sp-500-close-above-4500-on-8nstLnUQCp",
+    "date":"2025-07-13"
+  },
+  {
     "question":"Will the price of Bitcoin increase by at least 5% within the next 7 days?",
     "probability":0.97,
     "link":"https:\/\/manifold.markets\/Himanshushukla\/will-the-price-of-bitcoin-increase-Oyh8O9uLC8",
@@ -25,7 +43,7 @@
   },
   {
     "question":"Will Trump succeed in revoking the citizenship of any birthright US citizen?",
-    "probability":0.96,
+    "probability":0.93,
     "link":"https:\/\/manifold.markets\/BlueDragon\/will-trump-succeed-in-revoking-the",
     "date":"2025-07-13"
   },
@@ -37,7 +55,7 @@
   },
   {
     "question":"Bitcoin exceeds $138,000 before August 1, 2025?",
-    "probability":0.89,
+    "probability":0.9,
     "link":"https:\/\/manifold.markets\/ElarneTamayomanglicmot\/bitcoin-exceeds-138000-before-augus",
     "date":"2025-07-13"
   },
@@ -49,7 +67,7 @@
   },
   {
     "question":"Religiously motivated dog massacre in EU country before the end of 2026?",
-    "probability":0.88,
+    "probability":0.94,
     "link":"https:\/\/manifold.markets\/skibidist\/religiously-motivated-dog-massacre",
     "date":"2025-07-13"
   },
@@ -91,13 +109,13 @@
   },
   {
     "question":"2028 US election: peaceful transfer of power to a non-authoritarian leader?",
-    "probability":0.91,
+    "probability":0.96,
     "link":"https:\/\/manifold.markets\/SuryaPali\/2028-us-election-peaceful-transfer",
     "date":"2025-07-13"
   },
   {
     "question":"Will I complete a track before end of August 2025?",
-    "probability":0.76,
+    "probability":0.82,
     "link":"https:\/\/manifold.markets\/ae\/will-i-complete-a-track-before-end",
     "date":"2025-07-13"
   },
@@ -133,7 +151,7 @@
   },
   {
     "question":"China invades Taiwan by August 1, 2025?",
-    "probability":0.66,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/ElarneTamayomanglicmot\/china-invades-taiwan-by-august-1-20",
     "date":"2025-07-13"
   },
@@ -145,7 +163,7 @@
   },
   {
     "question":"Will a company officially own and run a country by 2030",
-    "probability":0.96,
+    "probability":0.97,
     "link":"https:\/\/manifold.markets\/Necrum\/will-a-company-officially-own-and-r",
     "date":"2025-07-13"
   },
@@ -163,7 +181,7 @@
   },
   {
     "question":"Trump tries to fire Powell before September 1?",
-    "probability":0.82,
+    "probability":0.94,
     "link":"https:\/\/manifold.markets\/PaperBoy\/trump-tries-to-fire-powell-before-s",
     "date":"2025-07-13"
   },
@@ -379,7 +397,7 @@
   },
   {
     "question":"Dan Bongino out by end of July?",
-    "probability":0.63,
+    "probability":0.6,
     "link":"https:\/\/manifold.markets\/Ziddletwix\/dan-bongino-out-by-end-of-july",
     "date":"2025-07-13"
   },
@@ -571,13 +589,13 @@
   },
   {
     "question":"Will Congress pass the rescissions package by July 18?",
-    "probability":0.97,
+    "probability":0.96,
     "link":"https:\/\/manifold.markets\/JoshuaHedlund\/will-congress-pass-the-rescissions",
     "date":"2025-07-13"
   },
   {
     "question":"Will Grok cause a disaster before 2030?",
-    "probability":0.69,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/Interrobang\/will-grok-cause-a-disaster-before-2",
     "date":"2025-07-13"
   },
@@ -1713,30 +1731,6 @@
     "question":"Will I qualify for USA(J)MO in 2026?",
     "probability":0.66,
     "link":"https:\/\/manifold.markets\/aaron10\/will-i-qualify-for-usajmo-in-2026",
-    "date":"2025-07-13"
-  },
-  {
-    "question":"will portugal win the fifa world cup 2026",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/lomiboii\/will-portugal-win-the-fifa-world-cu",
-    "date":"2025-07-13"
-  },
-  {
-    "question":"The average value for the bids of this question >= 1000",
-    "probability":0.96,
-    "link":"https:\/\/manifold.markets\/ZandaZhu\/the-average-value-for-the-bids-of-t",
-    "date":"2025-07-13"
-  },
-  {
-    "question":"Humanity\u2019s Last Exam lists grok 4 at 45%+?",
-    "probability":0.67,
-    "link":"https:\/\/manifold.markets\/Bayesian\/humanitys-last-exam-lists-grok-4-at",
-    "date":"2025-07-13"
-  },
-  {
-    "question":"Kramer Intelligence released on Microsoft Store by 2026?",
-    "probability":0.87,
-    "link":"https:\/\/manifold.markets\/dvkramer\/kramer-intelligence-released-on-mic",
     "date":"2025-07-13"
   }
 ]
