@@ -1,5 +1,11 @@
 [
   {
+    "question":"Chelsea wins Club World Cup?",
+    "probability":0.56,
+    "link":"https:\/\/manifold.markets\/Remmy\/chelsea-wins-club-world-cup",
+    "date":"2025-07-13"
+  },
+  {
     "question":"Will Poobah apologise for anything by Monday?",
     "probability":0.73,
     "link":"https:\/\/manifold.markets\/PoobahSays\/will-poobah-apologise-for-anything",
@@ -31,19 +37,19 @@
   },
   {
     "question":"Market will be resolved to num_traders^2 mod 101",
-    "probability":0.91,
+    "probability":0.89,
     "link":"https:\/\/manifold.markets\/fornever\/market-will-be-resolved-to-numtrade",
     "date":"2025-07-13"
   },
   {
     "question":"Will a company officially own and run a country by 2030",
-    "probability":0.88,
+    "probability":0.9,
     "link":"https:\/\/manifold.markets\/Necrum\/will-a-company-officially-own-and-r",
     "date":"2025-07-13"
   },
   {
     "question":"DIAMOND league user below 5k mana net worth in August?",
-    "probability":0.86,
+    "probability":0.84,
     "link":"https:\/\/manifold.markets\/100Anonymous\/diamond-league-user-below-5k-mana-n",
     "date":"2025-07-13"
   },
@@ -61,7 +67,7 @@
   },
   {
     "question":"Will a Millennial become president of the United States?",
-    "probability":0.86,
+    "probability":0.84,
     "link":"https:\/\/manifold.markets\/theincredibleholk\/will-a-millennial-become-president",
     "date":"2025-07-13"
   },
@@ -79,7 +85,7 @@
   },
   {
     "question":"US imposes secondary sanctions on Russia in 2025",
-    "probability":0.89,
+    "probability":0.9,
     "link":"https:\/\/manifold.markets\/nonnihil\/us-imposes-secondary-sanctions-on-r",
     "date":"2025-07-13"
   },
@@ -379,7 +385,7 @@
   },
   {
     "question":"Lionel Messi extends his contract with Inter Miami before January 1, 2026",
-    "probability":0.65,
+    "probability":0.95,
     "link":"https:\/\/manifold.markets\/Remmy\/lionel-messi-extends-his-contract-w",
     "date":"2025-07-13"
   },
@@ -421,7 +427,7 @@
   },
   {
     "question":"Bitcoin last digit price - Odd or Even? July 12 Noon",
-    "probability":0.95,
+    "probability":0.98,
     "link":"https:\/\/manifold.markets\/Pedro\/bitcoin-last-digit-price-odd-or-eve",
     "date":"2025-07-13"
   },
@@ -1195,7 +1201,7 @@
   },
   {
     "question":"Zoro get a black blade?",
-    "probability":0.67,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/Jazper__Gambler\/zoro-get-a-black-blade",
     "date":"2025-07-13"
   },
@@ -1707,12 +1713,6 @@
     "question":"Will the Portuguese ex-prime-minister Jos\u00e9 S\u00f3crates serve time in prison due to Opera\u00e7\u00e3o Marqu\u00eas?",
     "probability":0.97,
     "link":"https:\/\/manifold.markets\/silva95gustavo\/will-the-portuguese-exprimeminister",
-    "date":"2025-07-13"
-  },
-  {
-    "question":"Will Trump be mentioned in some way on Jid\u2019s upcoming album God Does Like Ugly?",
-    "probability":0.95,
-    "link":"https:\/\/manifold.markets\/MBZZ92\/will-trump-be-mentioned-in-some-way",
     "date":"2025-07-13"
   }
 ]
