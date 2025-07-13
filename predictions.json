@@ -1,5 +1,23 @@
 [
   {
+    "question":"Will the Governing Body issue new guidance by January 1, 2026 allowing the celebration of Father\u2019s Day or Mother\u2019s Day?",
+    "probability":0.96,
+    "link":"https:\/\/manifold.markets\/SpecificMachine2021\/will-the-governing-body-issue-new-g",
+    "date":"2025-07-13"
+  },
+  {
+    "question":"Will the Folded game created by @Bandors get at least 20 participants?",
+    "probability":0.9,
+    "link":"https:\/\/manifold.markets\/SaviorofPlant\/will-the-folded-game-created-by-ban",
+    "date":"2025-07-13"
+  },
+  {
+    "question":"Will Jehovah\u2019s Witnesses be allowed to celebrate birthdays by Jan 1, 2026?",
+    "probability":0.89,
+    "link":"https:\/\/manifold.markets\/SpecificMachine2021\/will-jehovahs-witnesses-be-allowed",
+    "date":"2025-07-13"
+  },
+  {
     "question":"Will \"Surprises and learnings from almost two month...\" make the top fifty posts in LessWrong's 2025 Annual Review?",
     "probability":0.95,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-surprises-and-learnings-from-a",
@@ -13,7 +31,7 @@
   },
   {
     "question":"Will the S&P 500 close above 4,500 on July 31, 2025?",
-    "probability":0.94,
+    "probability":0.9,
     "link":"https:\/\/manifold.markets\/Judge\/will-the-sp-500-close-above-4500-on-8nstLnUQCp",
     "date":"2025-07-13"
   },
@@ -79,7 +97,7 @@
   },
   {
     "question":"Will Dembele score vs Chelsea tonight?",
-    "probability":0.57,
+    "probability":0.47,
     "link":"https:\/\/manifold.markets\/Damola\/will-dembele-score-vs-chelsea-tonig",
     "date":"2025-07-13"
   },
@@ -679,7 +697,7 @@
   },
   {
     "question":"Will Google release Gemini 3 during July 2025",
-    "probability":0.93,
+    "probability":0.94,
     "link":"https:\/\/manifold.markets\/typeofemale\/will-google-release-gemini-3-during",
     "date":"2025-07-13"
   },
@@ -691,7 +709,7 @@
   },
   {
     "question":"Will Bitcoin reach $120k in July?",
-    "probability":0.64,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/HillaryClinton\/will-bitcoin-reach-120k-in-july",
     "date":"2025-07-13"
   },
@@ -1719,18 +1737,6 @@
     "question":"Is the Kakube the most OP one piece technique?",
     "probability":0.54,
     "link":"https:\/\/manifold.markets\/Kakube\/is-the-kakube-the-most-op-one-piece",
-    "date":"2025-07-13"
-  },
-  {
-    "question":"GTA 6 delayed past May 26th, 2026?",
-    "probability":0.53,
-    "link":"https:\/\/manifold.markets\/egga22\/gta-6-delayed-past-may-26th-2026",
-    "date":"2025-07-13"
-  },
-  {
-    "question":"Will I qualify for USA(J)MO in 2026?",
-    "probability":0.66,
-    "link":"https:\/\/manifold.markets\/aaron10\/will-i-qualify-for-usajmo-in-2026",
     "date":"2025-07-13"
   }
 ]
