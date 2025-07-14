@@ -1,19 +1,25 @@
 [
   {
+    "question":"\"The Fantastic Four\" gross more than \"Superman\" opening weekend domestically?",
+    "probability":0.66,
+    "link":"https:\/\/manifold.markets\/JeffKirk\/the-fantastic-four-gross-more-than",
+    "date":"2025-07-14"
+  },
+  {
     "question":"Will Bitcoin be worth more than $120,000 at 12:00 AM UTC on 2025-07-15?",
-    "probability":0.47,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/bigd\/will-bitcoin-be-worth-more-than-120",
     "date":"2025-07-14"
   },
   {
     "question":"Will LLMs Daydream by EOY 2026?",
-    "probability":0.4,
+    "probability":0.42,
     "link":"https:\/\/manifold.markets\/jim\/will-llms-daydream-by-eoy-2026",
     "date":"2025-07-14"
   },
   {
     "question":"Kimi K2 rank 5 or better on LMArena?",
-    "probability":0.52,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/jim\/kimi-k2-top-5-on-lmarena",
     "date":"2025-07-14"
   },
@@ -61,7 +67,7 @@
   },
   {
     "question":"\u201cGrok Companions\u201d to feature a character with uncanny resemblance to any of Musk\u2019s exes by EOY2025?",
-    "probability":0.86,
+    "probability":0.84,
     "link":"https:\/\/manifold.markets\/KJW_01294\/grok-companions-to-feature-a-charac",
     "date":"2025-07-14"
   },
@@ -115,7 +121,7 @@
   },
   {
     "question":"Bitcoin closes above $125K on July 20?",
-    "probability":0.9,
+    "probability":0.91,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-closes-above-125k-on-july-2",
     "date":"2025-07-14"
   },
@@ -637,7 +643,7 @@
   },
   {
     "question":"TACO on 35% Canadian tariff before it goes into effect?",
-    "probability":0.97,
+    "probability":0.96,
     "link":"https:\/\/manifold.markets\/Bandors\/taco-on-35-canadian-tariff-before-i",
     "date":"2025-07-14"
   },
@@ -1719,12 +1725,6 @@
     "question":"Will \"\"Buckle up bucko, this ain't over till it's o...\" make the top fifty posts in LessWrong's 2025 Annual Review?",
     "probability":0.73,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-buckle-up-bucko-this-aint-over",
-    "date":"2025-07-14"
-  },
-  {
-    "question":"UFC fight at the White House by end of Trump's term?",
-    "probability":0.91,
-    "link":"https:\/\/manifold.markets\/Marnix\/ufc-fight-at-the-white-house-by-end",
     "date":"2025-07-14"
   }
 ]
