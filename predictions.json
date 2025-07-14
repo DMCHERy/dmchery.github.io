@@ -1,7 +1,13 @@
 [
   {
+    "question":"\u201cGrok Companions\u201d to feature a character with uncanny resemblance to any of Musk\u2019s exes by EOY2025?",
+    "probability":0.64,
+    "link":"https:\/\/manifold.markets\/KJW_01294\/grok-companions-to-feature-a-charac",
+    "date":"2025-07-14"
+  },
+  {
     "question":"Will Dog n Suds still have at least one location open at the end of 2028?",
-    "probability":0.48,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/strutheo\/will-dog-n-suds-still-have-at-least",
     "date":"2025-07-14"
   },
@@ -19,7 +25,7 @@
   },
   {
     "question":"Zohran Mamdani condemns \"globalize the intifada\" before the election?",
-    "probability":0.61,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/UnspecifiedPerson\/zohran-mamdani-condemns-globalize-t",
     "date":"2025-07-14"
   },
@@ -73,13 +79,13 @@
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.74,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-gE6N0yA9sL",
     "date":"2025-07-14"
   },
   {
     "question":"Will a child of Elon Musk be CEO of Tesla, X, xAI, or SpaceX by the end of 2035?",
-    "probability":0.67,
+    "probability":0.75,
     "link":"https:\/\/manifold.markets\/strutheo\/will-a-child-of-elon-musk-be-ceo-of",
     "date":"2025-07-14"
   },
@@ -205,7 +211,7 @@
   },
   {
     "question":"Will the Governing Body issue new guidance by January 1, 2026 allowing the celebration of Father\u2019s Day or Mother\u2019s Day?",
-    "probability":0.48,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/SpecificMachine2021\/will-the-governing-body-issue-new-g",
     "date":"2025-07-14"
   },
@@ -235,7 +241,7 @@
   },
   {
     "question":"Will the S&P 500 close above 4,500 on July 31, 2025?",
-    "probability":0.68,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/Judge\/will-the-sp-500-close-above-4500-on-8nstLnUQCp",
     "date":"2025-07-14"
   },
@@ -1743,12 +1749,6 @@
     "question":"Will \"\"What's my goal?\"\" make the top fifty posts in LessWrong's 2025 Annual Review?",
     "probability":0.63,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-whats-my-goal-make-the-top-fif",
-    "date":"2025-07-14"
-  },
-  {
-    "question":"Will the America party run a candidate in the 2028 election?",
-    "probability":0.61,
-    "link":"https:\/\/manifold.markets\/strutheo\/will-the-america-party-run-a-candid",
     "date":"2025-07-14"
   }
 ]
