@@ -1,9 +1,9 @@
 questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,date,predicted_prob_yes
 82,0.0,0,2.998894085648148,0.5,NNP6O6I0sl,Will West Indies win the ongoing 3rd test match between Australia and West Indies?,https://manifold.markets/KrazyMarketer/will-west-indies-win-the-ongoing-3r,2025-07-14,0.65
-38,286.9370149818651,4,6.9726301388888885,0.5,6nUhZhLIId,Bitcoin closes above $125K on July 20?,https://manifold.markets/predyx_markets/bitcoin-closes-above-125k-on-july-2,2025-07-14,0.5
+38,384.55996009058197,6,6.9726301388888885,0.5,6nUhZhLIId,Bitcoin closes above $125K on July 20?,https://manifold.markets/predyx_markets/bitcoin-closes-above-125k-on-july-2,2025-07-14,0.58
 66,9.0,2,13.99964324074074,0.5,lOlO6QSzSZ,If bitcoin reaches $150k USD will it reach $160k within two weeks?,https://manifold.markets/strutheo/if-bitcoin-reaches-150k-usd-will-it,2025-07-14,0.39
-65,18.0,3,170.0411475,0.5,2yNUzlu2Ip,If bitcoin reaches $125k USD will it reach $130k within 48 hours?,https://manifold.markets/strutheo/if-bitcoin-reaches-125k-usd-will-it,2025-07-14,0.35
-65,67.0,3,170.9630904976852,0.5,ZIZnCRLSRO,If bitcoin reaches $130k USD will it reach $150k within 72 hours?,https://manifold.markets/strutheo/if-bitcoin-reaches-130k-usd-will-it,2025-07-14,0.39
+65,38.0,4,170.0411475,0.5,2yNUzlu2Ip,If bitcoin reaches $125k USD will it reach $130k within 48 hours?,https://manifold.markets/strutheo/if-bitcoin-reaches-125k-usd-will-it,2025-07-14,0.42
+65,167.0,4,170.9630904976852,0.5,ZIZnCRLSRO,If bitcoin reaches $130k USD will it reach $150k within 72 hours?,https://manifold.markets/strutheo/if-bitcoin-reaches-130k-usd-will-it,2025-07-14,0.38
 14,338.8115642630919,5,1.921732349537037,0.5,zQC2yQhL85,Daily Coinflip,https://manifold.markets/Traveel/daily-coinflip-gE6N0yA9sL,2025-07-14,0.54
 80,78.18047620029614,6,3822.762786377315,0.5,pLL59dqLLL,"Will a child of Elon Musk be CEO of Tesla, X, xAI, or SpaceX by the end of 2035?",https://manifold.markets/strutheo/will-a-child-of-elon-musk-be-ceo-of,2025-07-14,0.65
 75,17.0,2,900.768264375,0.5,LAO0UtAgO2,Will Lego's new carbon-neutral factory in Virginia open by the end of 2027?,https://manifold.markets/strutheo/will-legos-new-carbonneutral-factor-8CdN2EOIqz,2025-07-14,0.39
@@ -54,7 +54,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 52,8.0,2,1.6199220601851851,0.5,u6P9p25tcN,Will Poobah be accused of insider trading by Monday?,https://manifold.markets/PoobahSays/will-poobah-be-accused-of-insider-t,2025-07-14,0.43
 42,9.0,2,0.9991659837962963,0.5,ncQ9Q5Ay86,Will Poobah rug $POOBAH holders by Monday?,https://manifold.markets/PoobahSays/will-poobah-rug-poobah-holders-by-m,2025-07-14,0.51
 59,9.0,2,1.6297421990740741,0.5,NshcQIIAZS,Will Poobah declare himself King of the Internet by Monday?,https://manifold.markets/PoobahSays/will-poobah-declare-himself-king-of,2025-07-14,0.44
-39,22542.69733582806,42,18.808672372685184,0.5,chP2lqNcdU,"China invades Taiwan by August 1, 2025?",https://manifold.markets/TesterOne/china-invades-taiwan-by-august-1-20,2025-07-14,0.69
+39,23617.69733582806,45,18.808672372685184,0.5,chP2lqNcdU,"China invades Taiwan by August 1, 2025?",https://manifold.markets/TesterOne/china-invades-taiwan-by-august-1-20,2025-07-14,0.69
 48,89.0,6,6.999055798611111,0.5,A0Aq2dpCUq,Market will be resolved to num_traders^2 mod 101,https://manifold.markets/fornever/market-will-be-resolved-to-numtrade,2025-07-14,0.49
 55,433.0383662628998,15,1632.8112498148148,0.5,nNgz0qpN9n,Will a company officially own and run a country by 2030,https://manifold.markets/Necrum/will-a-company-officially-own-and-r,2025-07-14,0.74
 54,107.0,7,19.818975127314815,0.5,C0gyzE9SzP,DIAMOND league user below 5k mana net worth in August?,https://manifold.markets/100Anonymous/diamond-league-user-below-5k-mana-n,2025-07-14,0.47
@@ -70,7 +70,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 59,1181.73461358862,18,1633.2197269328703,0.5,ZIyUl9lcu0,Fatal attack preventable by TSA shoe screening before 2030?,https://manifold.markets/BoltonBailey/fatal-attack-preventable-by-shoe-sc,2025-07-14,0.92
 108,97.75252316519469,6,1633.224195150463,0.5,5OIg2s585L,Will climate intervention (geoengineering) reduce global mean surface temperature by at least 0.1°C by 2030?,https://manifold.markets/thatMikeBishop/will-climate-intervention-geoengine,2025-07-14,0.52
 72,93.0,4,172.22554288194445,0.5,zUPSCqRR0R,Will Charlie Kirk and Nick Fuentes debate each other this year? [Kalshi],https://manifold.markets/theorist/will-charlie-kirk-and-nick-fuentes,2025-07-14,0.42
-48,326.98061923535545,15,49.999141898148146,0.5,lUq0AUE6zp,Gemini 3 and GPT-5 both released in 2 week span?,https://manifold.markets/Bayesian/gemini-3-and-gpt5-both-released-in,2025-07-14,0.77
+48,356.98061923535545,16,49.999141898148146,0.5,lUq0AUE6zp,Gemini 3 and GPT-5 both released in 2 week span?,https://manifold.markets/Bayesian/gemini-3-and-gpt5-both-released-in,2025-07-14,0.76
 111,57.0,2,568.2613474074074,0.5,7Q7DPSk4iG,"Will ""An Opinionated Guide to Using Anki Correctly"" make the top fifty posts in LessWrong's 2025 Annual Review?",https://manifold.markets/LessWrong/will-an-opinionated-guide-to-using,2025-07-14,0.45
 69,202.0,5,9303.2977428125,0.5,9Eq5uhz2nU,Machine using energy measured in imaginary numbers exists by EOY2050?,https://manifold.markets/Chachachi/machine-using-energy-measured-in-im,2025-07-14,0.5
 31,112.26130677618306,8,364.9987820949074,0.5,qqpPd06gZy,Gemini 3 releases before GPT-5?,https://manifold.markets/Dulaman/gemini-3-releases-before-gpt5,2025-07-14,0.49
@@ -81,14 +81,14 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 72,33.0,6,89.45632503472223,0.5,s68cZ0gRZh,"EU Council approves Catalan as official language before October 10, 2025",https://manifold.markets/cosmicmiskatonic/eu-council-approves-catalan-as-offi,2025-07-14,0.52
 76,1310.4153584304095,34,172.03611165509258,0.5,dgqLtnq9sN,Will any top officials leave the Trump administration over the Epstein case?,https://manifold.markets/BlueDragon/will-any-top-officials-leave-the-tr,2025-07-14,0.83
 46,182.0,6,172.04012707175926,0.5,NZQQqtLL6s,Will we finish our university crypto workshop?,https://manifold.markets/3458/will-we-finish-our-university-crypt,2025-07-14,0.47
-96,90.99999999999991,3,1268.6063687962962,0.5,sd5ZcAph0n,Any Top-5 Linux distro replace Xorg with XLibre (or any other alternative X-server) before 2029?,https://manifold.markets/Chachachi/any-top5-linux-distro-replace-xorg,2025-07-14,0.56
-63,107.0,2,27200.628277835647,0.5,O9zq8h86nl,Will the Clamwilliam Aloe (Aloe comosa) become Extinct by 2100?,https://manifold.markets/ConservationForecasts/will-the-clamwilliam-aloe-aloe-como,2025-07-14,0.35
+96,97.99999999999989,3,1268.6063687962962,0.5,sd5ZcAph0n,Any Top-5 Linux distro replace Xorg with XLibre (or any other alternative X-server) before 2029?,https://manifold.markets/Chachachi/any-top5-linux-distro-replace-xorg,2025-07-14,0.56
+63,116.55694353424283,2,27200.628277835647,0.5,O9zq8h86nl,Will the Clamwilliam Aloe (Aloe comosa) become Extinct by 2100?,https://manifold.markets/ConservationForecasts/will-the-clamwilliam-aloe-aloe-como,2025-07-14,0.34
 44,26.715718922094958,3,365.99984341435186,0.5,2Zd82qAQPl,Will Legally Blonde 3 release before Grok 6?,https://manifold.markets/strutheo/will-legally-blonde-3-release-befor-Qg6lCNPpgP,2025-07-14,0.33
 48,164.96219295623393,4,353.7640206481482,0.5,qIIy2UnOAN,"Kash Patel remains FBI Director on June 30, 2026",https://manifold.markets/PGdCIN9/kash-patel-remains-fbi-director-on,2025-07-14,0.38
 44,11509.308701641017,104,172.87464876157406,0.5,L6OEAqApCI,Jeffrey Epstein fowl play confirmed in 2025?,https://manifold.markets/PaulBenjaminPhotographer/jeffrey-epstein-fowl-play-confirmed,2025-07-14,0.67
 64,259.56860497698,20,19.943600381944446,0.5,Q0P6t299tI,"Dan Bongino resigns as FBI Deputy Director before August 1, 2025",https://manifold.markets/Dleamer/dan-bongino-resigns-as-fbi-deputy-d,2025-07-14,0.7
 38,86.01503035835375,4,360.9255788773148,0.5,gR6LNnunN6,Will I be on the 2026 Canada IMO team?,https://manifold.markets/KevinLong/will-i-be-on-the-2026-canada-imo-te,2025-07-14,0.39
-55,2017.7950619759715,29,20.680492430555557,0.5,SqS5yszLlS,TACO on 35% Canadian tariff before it goes into effect?,https://manifold.markets/Bandors/taco-on-35-canadian-tariff-before-i,2025-07-14,0.9
+55,2019.2387527542826,29,20.680492430555557,0.5,SqS5yszLlS,TACO on 35% Canadian tariff before it goes into effect?,https://manifold.markets/Bandors/taco-on-35-canadian-tariff-before-i,2025-07-14,0.9
 82,14.000000000000004,1,243.99255194444444,0.5,Py5cs80QqE,Will Hazbin Hotel S2 release before the next episode of The Amazing Digital Circus,https://manifold.markets/PowerTrick/will-hazbin-hotel-s2-release-before,2025-07-14,0.59
 115,13.999999999999545,1,569.0876787152778,0.5,jtqcsARGtm,"Will ""Reducing LLM deception at scale with self-oth..."" make the top fifty posts in LessWrong's 2025 Annual Review?",https://manifold.markets/LessWrong/will-reducing-llm-deception-at-scal,2025-07-14,0.51
 52,19.30877817195616,2,1495.1002347916667,0.5,qc8h66pQcd,Rupert Lowe still UK MP after 2029 general election?,https://manifold.markets/LukeShadwell/rupert-lowe-still-uk-mp-after-2029,2025-07-14,0.28
@@ -111,7 +111,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 109,13.999999999999545,1,569.4691198148148,0.5,vHsjEgL44d,"Will ""The Milton Friedman Model of Policy Change"" make the top fifty posts in LessWrong's 2025 Annual Review?",https://manifold.markets/LessWrong/will-the-milton-friedman-model-of-p,2025-07-14,0.51
 73,106.75127565069887,7,173.44916043981482,0.5,LunOtngyI2,"Lionel Messi extends his contract with Inter Miami before January 1, 2026",https://manifold.markets/Remmy/lionel-messi-extends-his-contract-w,2025-07-14,0.59
 43,172.18183528278254,11,29.999226608796295,0.5,R9PlhZhnny,Will Grok 4 achieve over 69% on SimpleBench,https://manifold.markets/Mad2live/will-grok-4-achieve-over-69-on-simp,2025-07-14,0.61
-55,4208.783661210432,46,8.99662892361111,0.5,ILARpudCSt,"Grok AI integrated into Tesla vehicles by July 18, 2025",https://manifold.markets/barelyanything/grok-ai-integrated-into-tesla-vehic,2025-07-14,0.76
+55,4544.328983163096,47,8.99662892361111,0.5,ILARpudCSt,"Grok AI integrated into Tesla vehicles by July 18, 2025",https://manifold.markets/barelyanything/grok-ai-integrated-into-tesla-vehic,2025-07-14,0.76
 40,326.5094347843778,13,173.6632788773148,0.5,EqqQPnSn6Q,I get my cat sex change surgery in 2025?,https://manifold.markets/skibidist/i-get-my-cat-sex-change-surgery-in,2025-07-14,0.74
 112,130.324217308039,7,538.6766582291667,0.5,UdP52p9Qsl,Will the United Kingdom cease to proscribe Hay'at Tahrir al-Sham as a terrorist organisation by the end of 2026?,https://manifold.markets/a_l_e_x/will-the-united-kingdom-cease-to-pr,2025-07-14,0.48
 93,132.08989643603073,11,538.7139895833334,0.5,LU2Cg8L6Ug,Trump admin member or their immediate family member indicted for insider trading before 2027?,https://manifold.markets/ElijahRavitzCampbell/trump-admin-member-or-their-immedia,2025-07-14,0.73
@@ -121,9 +121,9 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 86,30.53019276930805,4,21.82352138888889,0.5,zLC8puyQnO,"Will the tariff imposed by the US on Brazilian imports be below 50% by August 1, 2025?",https://manifold.markets/Brierbr/will-the-tariff-imposed-by-the-us-o,2025-07-14,0.63
 115,13.999999999999545,1,569.8550410995371,0.5,naAeSkQur8,"Will ""Generalized Hangriness: A Standard Rationalis..."" make the top fifty posts in LessWrong's 2025 Annual Review?",https://manifold.markets/LessWrong/will-generalized-hangriness-a-stand,2025-07-14,0.51
 37,43.580293126369384,4,52.059461203703705,0.5,pnNPNzu98z,Bitcoin reaches 130k by August's end?,https://manifold.markets/Mochi/bitcoin-reaches-130k-by-augusts-end,2025-07-14,0.41
-22,7732.820087220157,52,21.071179895833332,0.5,tLutRngQLQ,Bitcoin $125K in July?,https://manifold.markets/predyx_markets/bitcoin-125k-in-july,2025-07-14,0.6
+22,8364.52055188109,55,21.071179895833332,0.5,tLutRngQLQ,Bitcoin $125K in July?,https://manifold.markets/predyx_markets/bitcoin-125k-in-july,2025-07-14,0.62
 60,1581.1938539244263,20,82353.53129472223,0.5,RyzCApcARI,JRR Tolkien will be canonized by the Catholic Church by 2250,https://manifold.markets/Ernie/jrr-tolkien-will-be-canonized-by-th,2025-07-14,0.93
-54,918.4720042053651,20,8.245261296296297,0.5,uSCPPhL8Zc,Will Congress pass the rescissions package by July 18?,https://manifold.markets/JoshuaHedlund/will-congress-pass-the-rescissions,2025-07-14,0.85
+54,928.4720042053651,20,8.245261296296297,0.5,uSCPPhL8Zc,Will Congress pass the rescissions package by July 18?,https://manifold.markets/JoshuaHedlund/will-congress-pass-the-rescissions,2025-07-14,0.91
 39,238.54367808787322,10,1636.0299293287037,0.5,9qt9NzqELc,Will Grok cause a disaster before 2030?,https://manifold.markets/Interrobang/will-grok-cause-a-disaster-before-2,2025-07-14,0.64
 67,152.50339962411758,10,174.30883318287036,0.5,5PlLcssp82,Will my startup exceed $500K in funding before the end of the year?,https://manifold.markets/ethanfangg/will-i-get-more-than-500k-in-fundin,2025-07-14,0.65
 70,779.8615343190834,10,175.33841734953702,0.5,ZZPLOulpPp,Nick Adams (Alpha Male) confirmed as ambassador to Malaysia this year?,https://manifold.markets/zax/nick-adams-confirmed-as-ambassador,2025-07-14,0.72
@@ -168,7 +168,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 60,5580.282690780501,60,0.9991358217592593,0.5,Azzh2lZNtq,xAI acknowledges MechaHitler in today's Grok 4 presentation?,https://manifold.markets/IsaacKing/xai-acknowledges-mechahitler-in-tod,2025-07-14,0.4
 115,34.86864127083898,2,571.3098476736111,0.5,ghESoA8mo3,"Will ""Why Do Some Language Models Fake Alignment Wh..."" make the top fifty posts in LessWrong's 2025 Annual Review?",https://manifold.markets/LessWrong/will-why-do-some-language-models-fa,2025-07-14,0.51
 74,416.0936412793471,7,1271.3235102083333,0.5,ULpSI62E5E,Medicare/Medicaid no longer #1 US budget item in 2028? (excluding defense),https://manifold.markets/PGdCIN9/medicaremedicaid-no-longer-1-us-bud,2025-07-14,0.62
-38,12150.147584547043,92,10.972541319444444,0.5,OdI2zh9gyt,Does AI love Trump? [READ DESCRIPTION],https://manifold.markets/realDonaldTrump/does-ai-love-trump-read-description,2025-07-14,0.67
+38,12161.123973537877,92,10.972541319444444,0.5,OdI2zh9gyt,Does AI love Trump? [READ DESCRIPTION],https://manifold.markets/realDonaldTrump/does-ai-love-trump-read-description,2025-07-14,0.67
 54,227.9947678447685,7,175.3854929050926,0.5,9RdUlzEPPc,Will Roglic crash and abandon the 2025 Tour de France?,https://manifold.markets/MachiNi/will-roglic-crash-and-abandon-the-2,2025-07-14,0.45
 49,4121.4678813997425,21,30.996754270833332,0.5,2UlpAltQ8d,Open-source OpenAI model beats Grok 4 on LMArena?,https://manifold.markets/Bayesian/opensource-openai-model-beats-grok,2025-07-14,0.88
 39,56.34454602750494,6,175.42422107638887,0.5,Q9cCuOENNQ,Will I have another job by end of year?,https://manifold.markets/RKCarn/will-i-have-another-job-by-end-of-y,2025-07-14,0.48
@@ -201,7 +201,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 95,195.1654503731441,8,145.09410329861112,0.5,qP6NqICnOh,"Will Eric Adams, Andrew Cuomo, or Curtis Sliwa drop out of the 2025 New York City Mayoral race?",https://manifold.markets/HenryRodgers/will-eric-adams-andrew-cuomo-or-cur,2025-07-14,0.69
 46,79.78076932596227,7,601.1150570023149,0.5,Pd6AZqqgqp,China CO2 emissions in 2026 less than in 2025?,https://manifold.markets/cvja/china-co2-emissions-in-2026-less-th,2025-07-14,0.52
 67,5.0,1,477913.32759125,0.5,cNNIyRglZh,"If Matt Kaeberlein were to arm-wrestle Bryan Johnson, would he win?",https://manifold.markets/AutopoieticErgodicity/if-matt-kaeberlein-were-to-armwrest,2025-07-14,0.46
-57,313.9635399807146,15,23.163098726851853,0.5,NQ8Zd6ElZZ,"Japan and US reach trade agreement before August 1, 2025?",https://manifold.markets/105du/japan-and-us-reach-trade-agreement,2025-07-14,0.72
+57,323.9635399807146,15,23.163098726851853,0.5,NQ8Zd6ElZZ,"Japan and US reach trade agreement before August 1, 2025?",https://manifold.markets/105du/japan-and-us-reach-trade-agreement,2025-07-14,0.72
 108,177.8113313903148,3,1637.1812406944443,0.5,RIZ62dy6In,Will there be another record setting deadliest natural disaster in the United States before the end of 2029?,https://manifold.markets/strutheo/will-there-be-another-record-settin-g0RP2AQcZp,2025-07-14,0.47
 77,127.03889629033799,5,176.18172309027779,0.5,gUIZLqzUgC,Will the wholesale price of a dozen eggs reach $5 in the second half of 2025?,https://manifold.markets/JoshuaHedlund/will-the-wholesale-price-of-a-dozen,2025-07-14,0.61
 31,117.86574929510908,3,541.1847900925926,0.5,OOQ8NNP5El,Karen Bass arrested by EOY2026?,https://manifold.markets/Marnix/karen-bass-arrested-by-eoy2026,2025-07-14,0.36
@@ -213,7 +213,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 39,2260.358864746316,8,6.999370046296296,0.5,SCNhA5E5lh,What is the weapon Urenas in One Piece?,https://manifold.markets/soumyadiptadas508L/what-is-the-weapon-urenas-in-one-pi,2025-07-14,0.9
 97,1112.8722314778483,16,541.4287086342592,0.5,ZA8292N5QC,"Will a robot be created that is capable of passing Steve Wozniak's ""The Coffee Test"" before 2027?",https://manifold.markets/AlanTuring/will-a-robot-be-created-that-is-cap-l92Q228LNL,2025-07-14,0.9
 92,1203.596211124781,10,242.9353152662037,0.5,8ns89InthR,"Will ""Chameleon Flow"" receive 25,000 listens on Soundcloud within six months of its release?",https://manifold.markets/SteveSokolowski/will-chameleon-flow-receive-20000-l,2025-07-14,0.93
-50,10133.923527803887,95,176.5205162962963,0.5,n6llpZNcUU,Will the UK introduce a wealth tax by end of 2025?,https://manifold.markets/Fion/will-the-uk-introduce-a-wealth-tax-0dCOOOC9tQ,2025-07-14,0.67
+50,10134.923527803887,95,176.5205162962963,0.5,n6llpZNcUU,Will the UK introduce a wealth tax by end of 2025?,https://manifold.markets/Fion/will-the-uk-introduce-a-wealth-tax-0dCOOOC9tQ,2025-07-14,0.67
 35,246.01184156920738,13,176.04132634259258,0.5,z2APOlOzy9,Will Labour introduce a wealth tax?,https://manifold.markets/PennyRobins/will-labour-introduce-a-wealth-tax-IcRsP2sE5g,2025-07-14,0.58
 44,1894.2949656815554,23,7.997707337962963,0.5,6zLRy885RI,5% dip in S&P 500 following the 9th of July?,https://manifold.markets/foldguesser/5-dip-in-sp-500-following-the-9th-o,2025-07-14,0.96
 95,45.633071827422896,2,23.54183324074074,0.5,nlSzcSq2OE,Will the NIS/USD exchange rate fall below 3.0 NIS/USD at any point between now and Jul 31 2025?,https://manifold.markets/YN613613613/will-the-nisusd-exchange-rate-fall,2025-07-14,0.62
