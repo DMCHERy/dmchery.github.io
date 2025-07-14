@@ -1,5 +1,17 @@
 [
   {
+    "question":"Will there be at least 10 Stewart's restaurants open in the USA at the end of 2028?",
+    "probability":0.49,
+    "link":"https:\/\/manifold.markets\/strutheo\/will-there-be-at-least-10-stewarts",
+    "date":"2025-07-14"
+  },
+  {
+    "question":"Will a majority of tariffs Trump announces in letters in July go into effect for at least a day before September 8?",
+    "probability":0.51,
+    "link":"https:\/\/manifold.markets\/SaviorofPlant\/will-a-majority-of-tariffs-trump-an",
+    "date":"2025-07-14"
+  },
+  {
     "question":"Will 30 or more states have no death penalty at the end of 2030?",
     "probability":0.28,
     "link":"https:\/\/manifold.markets\/strutheo\/will-30-or-more-states-have-no-deat",
@@ -7,13 +19,13 @@
   },
   {
     "question":"Will 25 or more states have no death penalty at the end of 2027?",
-    "probability":0.26,
+    "probability":0.47,
     "link":"https:\/\/manifold.markets\/strutheo\/will-25-or-more-states-have-no-deat",
     "date":"2025-07-14"
   },
   {
     "question":"\u201cGrok Companions\u201d to feature a character with uncanny resemblance to any of Musk\u2019s exes by EOY2025?",
-    "probability":0.58,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/KJW_01294\/grok-companions-to-feature-a-charac",
     "date":"2025-07-14"
   },
@@ -25,7 +37,7 @@
   },
   {
     "question":"Haredi parties exit Israeli coalition before Knesset recess on July 31, 2025",
-    "probability":0.46,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/VonGadke\/haredi-parties-exit-israeli-coaliti",
     "date":"2025-07-14"
   },
@@ -37,7 +49,7 @@
   },
   {
     "question":"Zohran Mamdani condemns \"globalize the intifada\" before the election?",
-    "probability":0.67,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/UnspecifiedPerson\/zohran-mamdani-condemns-globalize-t",
     "date":"2025-07-14"
   },
@@ -67,7 +79,7 @@
   },
   {
     "question":"Bitcoin closes above $125K on July 20?",
-    "probability":0.66,
+    "probability":0.74,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-closes-above-125k-on-july-2",
     "date":"2025-07-14"
   },
@@ -283,7 +295,7 @@
   },
   {
     "question":"Will Trump succeed in revoking the citizenship of any birthright US citizen?",
-    "probability":0.72,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/BlueDragon\/will-trump-succeed-in-revoking-the",
     "date":"2025-07-14"
   },
@@ -481,7 +493,7 @@
   },
   {
     "question":"Gemini 3 and GPT-5 both released in 2 week span?",
-    "probability":0.72,
+    "probability":0.73,
     "link":"https:\/\/manifold.markets\/Bayesian\/gemini-3-and-gpt5-both-released-in",
     "date":"2025-07-14"
   },
@@ -799,7 +811,7 @@
   },
   {
     "question":"Will Congress pass the rescissions package by July 18?",
-    "probability":0.71,
+    "probability":0.73,
     "link":"https:\/\/manifold.markets\/JoshuaHedlund\/will-congress-pass-the-rescissions",
     "date":"2025-07-14"
   },
@@ -841,7 +853,7 @@
   },
   {
     "question":"Another MechaHitler in one month?",
-    "probability":0.58,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/Bandors\/another-mechahitler-in-one-month",
     "date":"2025-07-14"
   },
@@ -913,7 +925,7 @@
   },
   {
     "question":"Will GrokAI publicly produce new extremist or hate-speech text before 11:59 PM UTC on August 1, 2025?",
-    "probability":0.64,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/JimAusman\/will-grokai-publicly-produce-new-ex",
     "date":"2025-07-14"
   },
@@ -1713,18 +1725,6 @@
     "question":"Will we launch a WeChat Miniapp prediction market prototype by July 31?",
     "probability":0.59,
     "link":"https:\/\/manifold.markets\/SimoneRomeo\/will-we-launch-a-wechat-miniapp-pre",
-    "date":"2025-07-14"
-  },
-  {
-    "question":"Will the America Party be more successful  than the Forward Party by the 2026 midterm elections?",
-    "probability":0.74,
-    "link":"https:\/\/manifold.markets\/TimothyJohnson5c16\/will-the-america-party-be-more-succ",
-    "date":"2025-07-14"
-  },
-  {
-    "question":"Will a self-described 'democratic socialist' win the US presidential election in 2028?",
-    "probability":0.67,
-    "link":"https:\/\/manifold.markets\/Yoae\/will-a-selfdescribed-democratic-soc",
     "date":"2025-07-14"
   }
 ]
