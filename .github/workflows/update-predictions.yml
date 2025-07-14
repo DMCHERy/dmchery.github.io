@@ -2,7 +2,7 @@ name: Update Predictions and Backtest
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: 1 */6 * * *
   workflow_dispatch:
 
 jobs:
