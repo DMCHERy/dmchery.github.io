@@ -1,7 +1,19 @@
 [
   {
+    "question":"Matt goes to the gym before 15:30 PDT on 2025-07-16?",
+    "probability":0.5,
+    "link":"https:\/\/manifold.markets\/birdmanz\/matt-goes-to-the-gym-before-1530-pd",
+    "date":"2025-07-14"
+  },
+  {
+    "question":"Is David Wallace wrong about decoherence and branching in quantum physics?",
+    "probability":0.5,
+    "link":"https:\/\/manifold.markets\/ttoe\/is-david-wallace-wrong-about-decohe",
+    "date":"2025-07-14"
+  },
+  {
     "question":"Will the White House host a UFC event by the end of 2026?",
-    "probability":0.18,
+    "probability":0.29,
     "link":"https:\/\/manifold.markets\/strutheo\/will-the-white-house-host-a-ufc-eve",
     "date":"2025-07-14"
   },
@@ -67,7 +79,7 @@
   },
   {
     "question":"Sundar Pichai current Google CEO on 12\/31\/2025?",
-    "probability":0.58,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/SteveWilkens\/sundar-pichai-current-google-ceo-on",
     "date":"2025-07-14"
   },
@@ -79,7 +91,7 @@
   },
   {
     "question":"Will West Indies win the ongoing 3rd test match between Australia and West Indies?",
-    "probability":0.66,
+    "probability":0.78,
     "link":"https:\/\/manifold.markets\/KrazyMarketer\/will-west-indies-win-the-ongoing-3r",
     "date":"2025-07-14"
   },
@@ -175,7 +187,7 @@
   },
   {
     "question":"Bitcoin $130K in July?",
-    "probability":0.61,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-130k-in-july",
     "date":"2025-07-14"
   },
@@ -337,7 +349,7 @@
   },
   {
     "question":"In an apocalyptic world, would you kill a zombie cat?",
-    "probability":0.56,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/PoobahSays\/in-an-apocalyptic-world-would-you-k-Rq90ZcNIQp",
     "date":"2025-07-14"
   },
@@ -679,7 +691,7 @@
   },
   {
     "question":"Will nothing happen before August? (Read description)",
-    "probability":0.54,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/Jessef0226\/will-nothing-happen-before-august-r",
     "date":"2025-07-14"
   },
@@ -1249,7 +1261,7 @@
   },
   {
     "question":"Will Eric Adams, Andrew Cuomo, or Curtis Sliwa drop out of the 2025 New York City Mayoral race?",
-    "probability":0.71,
+    "probability":0.73,
     "link":"https:\/\/manifold.markets\/HenryRodgers\/will-eric-adams-andrew-cuomo-or-cur",
     "date":"2025-07-14"
   },
@@ -1309,7 +1321,7 @@
   },
   {
     "question":"Will the S&P 500 hit 6000 again before hitting 6500?",
-    "probability":0.59,
+    "probability":0.6,
     "link":"https:\/\/manifold.markets\/SaviorofPlant\/will-the-sp-500-hit-6000-again-befo",
     "date":"2025-07-14"
   },
@@ -1357,7 +1369,7 @@
   },
   {
     "question":"Will the NIS\/USD exchange rate fall below 3.0 NIS\/USD at any point between now and Jul 31 2025?",
-    "probability":0.6,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/YN613613613\/will-the-nisusd-exchange-rate-fall",
     "date":"2025-07-14"
   },
@@ -1701,24 +1713,6 @@
     "question":"Will Max Verstappen move to Mercedes by the end of the 2025 season?",
     "probability":0.51,
     "link":"https:\/\/manifold.markets\/siuumessi\/will-max-verstappen-move-to-mercede-6ZsNZ0NRnt",
-    "date":"2025-07-14"
-  },
-  {
-    "question":"Stop Killing Games initiative reaches 1.5 million signatures by July 31, 2025",
-    "probability":0.66,
-    "link":"https:\/\/manifold.markets\/stupididiot\/stop-killing-games-initiative-reach",
-    "date":"2025-07-14"
-  },
-  {
-    "question":"Will the Royal Navy launch a ship named HMS Blinky Wombat by 2028?",
-    "probability":0.62,
-    "link":"https:\/\/manifold.markets\/PoobahSays\/will-the-royal-navy-launch-a-ship-n",
-    "date":"2025-07-14"
-  },
-  {
-    "question":"Will the EU introduce a regulation on acceptable lengths of cucumbers in selfies by 2027?",
-    "probability":0.7,
-    "link":"https:\/\/manifold.markets\/PoobahSays\/will-the-eu-introduce-a-regulation",
     "date":"2025-07-14"
   }
 ]
