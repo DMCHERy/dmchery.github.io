@@ -1,25 +1,31 @@
 [
   {
+    "question":"Haredi parties exit Israeli coalition before Knesset recess on July 31, 2025",
+    "probability":0.7,
+    "link":"https:\/\/manifold.markets\/VonGadke\/haredi-parties-exit-israeli-coaliti",
+    "date":"2025-07-14"
+  },
+  {
     "question":"EU ends unanimous decision-making by EOY 2035?",
-    "probability":0.52,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/ermitsou\/eu-ends-unanimous-decisionmaking-by",
     "date":"2025-07-14"
   },
   {
     "question":"Zohran Mamdani condemns \"globalize the intifada\" before the election?",
-    "probability":0.64,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/UnspecifiedPerson\/zohran-mamdani-condemns-globalize-t",
     "date":"2025-07-14"
   },
   {
     "question":"Will the UK introduce a land value tax by end of 2025?",
-    "probability":0.59,
+    "probability":0.6,
     "link":"https:\/\/manifold.markets\/Fion\/will-the-uk-introduce-a-land-value",
     "date":"2025-07-14"
   },
   {
     "question":"Sundar Pichai current Google CEO on 12\/31\/2025?",
-    "probability":0.52,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/SteveWilkens\/sundar-pichai-current-google-ceo-on",
     "date":"2025-07-14"
   },
@@ -235,7 +241,7 @@
   },
   {
     "question":"Will Trump be impeached over Epstein files and will JD Vance assume the role?",
-    "probability":0.71,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/VladimirNesic\/will-trump-be-impeached-over-epstei",
     "date":"2025-07-14"
   },
@@ -307,7 +313,7 @@
   },
   {
     "question":"In an apocalyptic world, would you kill a zombie baby?",
-    "probability":0.54,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/PoobahSays\/in-an-apocalyptic-world-would-you-k",
     "date":"2025-07-14"
   },
@@ -391,7 +397,7 @@
   },
   {
     "question":"Trump tries to fire Powell before September 1?",
-    "probability":0.73,
+    "probability":0.74,
     "link":"https:\/\/manifold.markets\/PaperBoy\/trump-tries-to-fire-powell-before-s",
     "date":"2025-07-14"
   },
@@ -499,13 +505,13 @@
   },
   {
     "question":"Will Hack Club experience a severe vulnerability by the end of 2026?",
-    "probability":0.6,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/khang2009\/will-hack-club-experience-a-severe",
     "date":"2025-07-14"
   },
   {
     "question":"EU Council approves Catalan as official language before October 10, 2025",
-    "probability":0.67,
+    "probability":0.66,
     "link":"https:\/\/manifold.markets\/cosmicmiskatonic\/eu-council-approves-catalan-as-offi",
     "date":"2025-07-14"
   },
@@ -1435,7 +1441,7 @@
   },
   {
     "question":"Will Zelensky wear a tie in 2025?",
-    "probability":0.73,
+    "probability":0.8,
     "link":"https:\/\/manifold.markets\/HillaryClinton\/will-zelensky-wear-a-tie-in-2025",
     "date":"2025-07-14"
   },
@@ -1743,12 +1749,6 @@
     "question":"Will the America party run a candidate in the 2028 election?",
     "probability":0.65,
     "link":"https:\/\/manifold.markets\/strutheo\/will-the-america-party-run-a-candid",
-    "date":"2025-07-14"
-  },
-  {
-    "question":"America party candidate wins any election in 2026?",
-    "probability":0.68,
-    "link":"https:\/\/manifold.markets\/turtleleo77\/america-party-candidate-wins-any-el",
     "date":"2025-07-14"
   }
 ]
