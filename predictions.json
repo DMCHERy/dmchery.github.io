@@ -1,5 +1,17 @@
 [
   {
+    "question":"Will West Indies win the ongoing 3rd test match between Australia and West Indies?",
+    "probability":0.65,
+    "link":"https:\/\/manifold.markets\/KrazyMarketer\/will-west-indies-win-the-ongoing-3r",
+    "date":"2025-07-14"
+  },
+  {
+    "question":"Bitcoin closes above $125K on July 20?",
+    "probability":0.5,
+    "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-closes-above-125k-on-july-2",
+    "date":"2025-07-14"
+  },
+  {
     "question":"If bitcoin reaches $150k USD will it reach $160k within two weeks?",
     "probability":0.39,
     "link":"https:\/\/manifold.markets\/strutheo\/if-bitcoin-reaches-150k-usd-will-it",
@@ -19,7 +31,7 @@
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.34,
+    "probability":0.54,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-gE6N0yA9sL",
     "date":"2025-07-14"
   },
@@ -49,7 +61,7 @@
   },
   {
     "question":"Will Eli Manning and Abby Mcgrew still be together at the end of 2026?",
-    "probability":0.36,
+    "probability":0.41,
     "link":"https:\/\/manifold.markets\/strutheo\/will-eli-manning-and-abby-mcgrew-st",
     "date":"2025-07-14"
   },
@@ -85,7 +97,7 @@
   },
   {
     "question":"Bitcoin $130K in July?",
-    "probability":0.55,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-130k-in-july",
     "date":"2025-07-14"
   },
@@ -1737,30 +1749,6 @@
     "question":"Will my substack reach 100 subscribers by the end of 2025?",
     "probability":0.33,
     "link":"https:\/\/manifold.markets\/mariopasquato\/will-my-substack-reach-100-subscrib",
-    "date":"2025-07-14"
-  },
-  {
-    "question":"Will I finish reading War and Peace before 2026?",
-    "probability":0.59,
-    "link":"https:\/\/manifold.markets\/MachiNi\/will-i-finish-reading-war-and-peace",
-    "date":"2025-07-14"
-  },
-  {
-    "question":"Will Musk-backed third-party candidate(s) win any seats in Congress by the end of 2026?",
-    "probability":0.91,
-    "link":"https:\/\/manifold.markets\/ZaneMiller\/will-a-muskbacked-thirdparty-candid",
-    "date":"2025-07-14"
-  },
-  {
-    "question":"Will any America Party candidate appear on a federal midterm election ballot in 2026?",
-    "probability":0.64,
-    "link":"https:\/\/manifold.markets\/Simon74fe\/will-any-america-party-candidate-ap",
-    "date":"2025-07-14"
-  },
-  {
-    "question":"Will any current Congress member join the America Party in 2025?",
-    "probability":0.84,
-    "link":"https:\/\/manifold.markets\/Simon74fe\/will-any-current-congress-member-jo",
     "date":"2025-07-14"
   }
 ]
