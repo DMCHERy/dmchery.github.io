@@ -1,25 +1,49 @@
 [
   {
+    "question":"Will I have a positive peer score on Metaculus on March 1, 2026?",
+    "probability":0.13,
+    "link":"https:\/\/manifold.markets\/maozedong31415\/will-i-have-a-positive-peer-score-o",
+    "date":"2025-07-23"
+  },
+  {
+    "question":"Asgore boss battle in Deltarune Chapter 5?",
+    "probability":0.13,
+    "link":"https:\/\/manifold.markets\/AllTerrainXenomoth\/asgore-boss-battle-in-deltarune-cha",
+    "date":"2025-07-23"
+  },
+  {
+    "question":"Donald Trump's net approval on August 20, 2025? [Read Description]",
+    "probability":0.13,
+    "link":"https:\/\/manifold.markets\/hiperson\/donald-trumps-net-approval-on-augus",
+    "date":"2025-07-23"
+  },
+  {
+    "question":"lilypad moded server up by august 15?",
+    "probability":0.16,
+    "link":"https:\/\/manifold.markets\/Bayesian\/lilypad-moded-server-up-by-august-1",
+    "date":"2025-07-23"
+  },
+  {
     "question":"Will police in the usa kill more people in 2025 than in 2024?",
-    "probability":0.19,
+    "probability":0.18,
     "link":"https:\/\/manifold.markets\/strutheo\/will-police-in-the-usa-kill-more-pe",
     "date":"2025-07-23"
   },
   {
     "question":"Will Ghislaine Maxwell still be alive on January 1, 2027?",
-    "probability":0.21,
+    "probability":0.2,
     "link":"https:\/\/manifold.markets\/snazzlePop\/will-ghislaine-maxwell-still-be-ali-OgzzItIpQA",
     "date":"2025-07-23"
   },
   {
     "question":"Will Ghislaine Maxwell still be alive on January 1, 2026?",
-    "probability":0.33,
+    "probability":0.34,
     "link":"https:\/\/manifold.markets\/snazzlePop\/will-ghislaine-maxwell-still-be-ali-OuqAtQORRt",
     "date":"2025-07-23"
   },
   {
     "question":"Will the US Navy continue their streak of never having a nuclear accident at the end of 2026?",
-    "probability":0.12,
+    "probability":0.14,
     "link":"https:\/\/manifold.markets\/strutheo\/will-the-us-navy-continue-their-str",
     "date":"2025-07-23"
   },
@@ -43,7 +67,7 @@
   },
   {
     "question":"Will Joe Biden die today?",
-    "probability":0.52,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/AndrewG\/will-joe-biden-die-today",
     "date":"2025-07-23"
   },
@@ -67,7 +91,7 @@
   },
   {
     "question":"Harvard\u2019s frozen funds restored before September?",
-    "probability":0.18,
+    "probability":0.16,
     "link":"https:\/\/manifold.markets\/arbogast\/will-the-us-federal-government-resu",
     "date":"2025-07-23"
   },
@@ -79,7 +103,7 @@
   },
   {
     "question":"Will Polymarket IPO before 2028?",
-    "probability":0.27,
+    "probability":0.24,
     "link":"https:\/\/manifold.markets\/SG\/will-polymarket-ipo-before-2028",
     "date":"2025-07-23"
   },
@@ -102,8 +126,8 @@
     "date":"2025-07-23"
   },
   {
-    "question":"Will Chelsea Voss get to play a @T90Official regicide diplomacy\/regicide rumble game by EOY2033?",
-    "probability":0.15,
+    "question":"Will Chelsea Voss OR Michael Tartre get to play a @T90Official regicide diplomacy\/regicide rumble game by EOY2033?",
+    "probability":0.2,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-chelsea-voss-get-to-play-a-t90",
     "date":"2025-07-23"
   },
@@ -115,7 +139,7 @@
   },
   {
     "question":"Did Ozzy Osbourne die via assisted euthanasia?",
-    "probability":0.17,
+    "probability":0.35,
     "link":"https:\/\/manifold.markets\/ikoukas\/did-ozzy-osbourne-die-via-assisted",
     "date":"2025-07-23"
   },
@@ -163,7 +187,7 @@
   },
   {
     "question":"Does Trump want negative real interest rates? If he wants less than 1 percent interest rates and inflation is 3 percent",
-    "probability":0.13,
+    "probability":0.26,
     "link":"https:\/\/manifold.markets\/trevortaylor\/does-trump-want-negative-real-inter",
     "date":"2025-07-23"
   },
@@ -205,7 +229,7 @@
   },
   {
     "question":"Will I pass my driving test on July 23rd?",
-    "probability":0.15,
+    "probability":0.29,
     "link":"https:\/\/manifold.markets\/Potato2017\/will-i-pass-my-driving-test-on-july",
     "date":"2025-07-23"
   },
@@ -295,13 +319,13 @@
   },
   {
     "question":"New evidence linking Trump to Epstein before August 15, 2025?",
-    "probability":0.4,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/VonGadke\/new-evidence-linking-trump-to-epste",
     "date":"2025-07-23"
   },
   {
     "question":"Who wins the UFC Saudi main event (July 26th), Whittaker or de Ridderon?",
-    "probability":0.13,
+    "probability":0.08,
     "link":"https:\/\/manifold.markets\/ChiragBaid\/who-wins-the-ufc-saudi-main-event-j",
     "date":"2025-07-23"
   },
@@ -319,7 +343,7 @@
   },
   {
     "question":"ESS2: Will someone score 100 points in a single RR Match",
-    "probability":0.21,
+    "probability":0.2,
     "link":"https:\/\/manifold.markets\/AdvaiSrinivasanLgZ0\/ess2-will-someone-score-100-points",
     "date":"2025-07-23"
   },
@@ -403,7 +427,7 @@
   },
   {
     "question":"Will Australia win the second match in the ongoing T20I series with the West Indies?",
-    "probability":0.36,
+    "probability":0.38,
     "link":"https:\/\/manifold.markets\/KrazyMarketer\/will-australia-win-the-second-match",
     "date":"2025-07-23"
   },
@@ -523,7 +547,7 @@
   },
   {
     "question":"Will Bitcoin\u2019s price drop by more than 5% in the next 7days ?",
-    "probability":0.19,
+    "probability":0.23,
     "link":"https:\/\/manifold.markets\/Himanshushukla\/will-bitcoins-price-drop-by-more-th",
     "date":"2025-07-23"
   },
@@ -685,7 +709,7 @@
   },
   {
     "question":"Open-Source AI model gets perfect IMO 2026 score? [International Math Olympiad 2026]",
-    "probability":0.15,
+    "probability":0.24,
     "link":"https:\/\/manifold.markets\/Bayesian\/opensource-ai-model-gets-perfect-im",
     "date":"2025-07-23"
   },
@@ -859,7 +883,7 @@
   },
   {
     "question":"Will I win the FOLDED grand prize?",
-    "probability":0.23,
+    "probability":0.22,
     "link":"https:\/\/manifold.markets\/retr0id\/will-i-win-the-folded-grand-prize",
     "date":"2025-07-23"
   },
@@ -967,7 +991,7 @@
   },
   {
     "question":"Does the riddle provided in the description have a solution?",
-    "probability":0.42,
+    "probability":0.4,
     "link":"https:\/\/manifold.markets\/MindcraftMax\/does-the-riddle-provided-in-the-des",
     "date":"2025-07-23"
   },
@@ -1093,7 +1117,7 @@
   },
   {
     "question":"Coca-Cola announces cane sugar use in US products before August 31st, 2025",
-    "probability":0.25,
+    "probability":0.24,
     "link":"https:\/\/manifold.markets\/Dynd\/cocacola-announces-cane-sugar-use-i",
     "date":"2025-07-23"
   },
@@ -1129,7 +1153,7 @@
   },
   {
     "question":"Jerome Powell out as Fed Chair in 2025?",
-    "probability":0.09,
+    "probability":0.2,
     "link":"https:\/\/manifold.markets\/sahaj\/jerome-powell-out-as-fed-chair-in-2",
     "date":"2025-07-23"
   },
@@ -1399,7 +1423,7 @@
   },
   {
     "question":"Labor wins the 2025 Tasmanian state election?",
-    "probability":0.26,
+    "probability":0.28,
     "link":"https:\/\/manifold.markets\/brod\/labor-wins-the-2025-tasmanian-state",
     "date":"2025-07-23"
   },
@@ -1437,36 +1461,6 @@
     "question":"Will LLMs Daydream by EOY 2026?",
     "probability":0.14,
     "link":"https:\/\/manifold.markets\/jim\/will-llms-daydream-by-eoy-2026",
-    "date":"2025-07-23"
-  },
-  {
-    "question":"Is David Wallace wrong about decoherence and branching in quantum physics?",
-    "probability":0.12,
-    "link":"https:\/\/manifold.markets\/ttoe\/is-david-wallace-wrong-about-decohe",
-    "date":"2025-07-23"
-  },
-  {
-    "question":"Will the White House host a UFC event by the end of 2026?",
-    "probability":0.24,
-    "link":"https:\/\/manifold.markets\/strutheo\/will-the-white-house-host-a-ufc-eve",
-    "date":"2025-07-23"
-  },
-  {
-    "question":"Will there be at least 10 Stewart's restaurants open in the USA at the end of 2028?",
-    "probability":0.17,
-    "link":"https:\/\/manifold.markets\/strutheo\/will-there-be-at-least-10-stewarts",
-    "date":"2025-07-23"
-  },
-  {
-    "question":"Will a majority of tariffs Trump announces in letters in July go into effect for at least a day before September 8?",
-    "probability":0.26,
-    "link":"https:\/\/manifold.markets\/SaviorofPlant\/will-a-majority-of-tariffs-trump-an",
-    "date":"2025-07-23"
-  },
-  {
-    "question":"Will 30 or more states have no death penalty at the end of 2030?",
-    "probability":0.13,
-    "link":"https:\/\/manifold.markets\/strutheo\/will-30-or-more-states-have-no-deat",
     "date":"2025-07-23"
   }
 ]
