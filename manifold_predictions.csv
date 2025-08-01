@@ -1,69 +1,79 @@
 questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,date,predicted_prob_yes
-14,150.0,2,1.9334519097222223,0.5,c9C0qCOn8N,Daily Coinflip,https://manifold.markets/Traveel/daily-coinflip-dUtUzqzzNs,2025-08-01,0.43
+34,126.0,7,7.499417337962963,0.5,OslZnnPQqQ,Will GPT-5 be released by 08.08.25,https://manifold.markets/Donald/will-gpt5-be-released-by-080825,2025-08-01,0.57
+40,0.0,0,29.99850954861111,0.5,2uhusNsgtZ,Will the AI summary resolve this to YES?,https://manifold.markets/SCS/will-the-ai-summary-resolve-this-to,2025-08-01,0.62
+53,11.0,1,151.53039664351851,0.5,9PytgRRzLu,"U.S. Legal, Coinbase owned Prediction Market by 2026?",https://manifold.markets/No_uh/us-legal-coinbase-owned-prediction,2025-08-01,0.67
+49,902.9191034352418,7,152.03631358796295,0.5,9Oqu6cEyQg,Will OpenAI's open source model have 120B params?,https://manifold.markets/SCS/will-openais-open-source-model-have,2025-08-01,0.79
+76,21.0,2,517.6367536111111,0.5,0CzqPu6syZ,Will any public eval show >1 % intentional deception rate before 2026-12-31?,https://manifold.markets/AnkitMaloo/will-any-public-eval-show-1-intenti,2025-08-01,0.61
+68,31.0,3,1978.6646925694445,0.5,PLPPzntAEz,Will there be a live action LEGO Ninjago movie released before 2031?,https://manifold.markets/asmith/will-there-be-a-live-action-lego-ni,2025-08-01,0.61
+29,21.0,2,30.678162615740742,0.5,0INg0SN9zI,Bitcoin below 105K in August?,https://manifold.markets/predyx_markets/bitcoin-below-105k-in-july,2025-08-01,0.6
+29,231.0,3,30.678947673611113,0.5,8qdgZQ2dpS,Bitcoin below 100K in August?,https://manifold.markets/predyx_markets/bitcoin-below-100k-in-july,2025-08-01,0.57
+51,146.0,6,30.683445520833335,0.5,Q2hh6Sq0UR,Will this question have 50+ traders by September 1?,https://manifold.markets/DevonFritz/will-this-question-have-50-traders,2025-08-01,0.59
+71,1117.0,4,364.90921278935184,0.5,cpQ2EOEgsg,Will a Wind Waker re-release for the Switch 2 exist before August 2026?,https://manifold.markets/Robincvgr/will-a-wind-waker-rerelease-for-the-ElOcCS8Z08,2025-08-01,0.76
+14,2307.8034460724143,10,1.9334519097222223,0.5,c9C0qCOn8N,Daily Coinflip,https://manifold.markets/Traveel/daily-coinflip-dUtUzqzzNs,2025-08-01,0.4
 41,21.0,2,517.8586194097222,0.5,gZLyz6ynqt,Will Meshuggah play in Australia in 2026?,https://manifold.markets/KeithManning/will-meshuggah-play-in-australia-in,2025-08-01,0.62
-43,21.0,2,157.85999685185186,0.5,LnOEyh2Zhz,Will Eliezer Yudkowsky speak on TV in 2025?,https://manifold.markets/LeonLinuxlu/will-eliezer-yudkowsky-speak-on-tv,2025-08-01,0.66
+43,130.88240421794598,8,157.85999685185186,0.5,LnOEyh2Zhz,Will Eliezer Yudkowsky speak on TV in 2025?,https://manifold.markets/LeonLinuxlu/will-eliezer-yudkowsky-speak-on-tv,2025-08-01,0.59
 115,11.0,1,548.9061865277778,0.5,tEZa7PouYa,"Will ""I am worried about near-term non-LLM AI devel..."" make the top fifty posts in LessWrong's 2025 Annual Review?",https://manifold.markets/LessWrong/will-i-am-worried-about-nearterm-no,2025-08-01,0.67
 60,31.0,3,517.9490915625,0.5,EutgPpSqNt,Will Jstlk and Chaeiry still be together at the end of 2026?,https://manifold.markets/strutheo/will-jstlk-and-chaeiry-still-be-tog,2025-08-01,0.66
-57,114.0,5,364.9587145023148,0.5,czESSygIPZ,Will Trump set foot in Greenland by the end of July 2026?,https://manifold.markets/strutheo/will-trump-set-foot-in-greenland-by-8lIOR5SO8N,2025-08-01,0.59
+57,124.0,6,364.9587145023148,0.5,czESSygIPZ,Will Trump set foot in Greenland by the end of July 2026?,https://manifold.markets/strutheo/will-trump-set-foot-in-greenland-by-8lIOR5SO8N,2025-08-01,0.59
 109,41.0,2,60.959412916666665,0.5,y9O55tg5c8,Will Marques Brownlee (MKBHD) release a review of the Friend AI wearable device before the end of  September?,https://manifold.markets/strutheo/will-marques-brownlee-mkbhd-release-dhSU2uUgqy,2025-08-01,0.67
 74,21.0,2,153.20252987268518,0.5,tQCRgnyh5z,will Jose Luis Ricon's GF #RiconGF ratio at least 3 ppl on Twitter in 2025,https://manifold.markets/AutopoieticErgodicity/will-jose-luis-ricons-gf-ricongf-ra,2025-08-01,0.61
-45,281.0,5,1614.0152186574073,0.5,APZuIOh8ph,Will the UN declare a famine in Gaza by 2030?,https://manifold.markets/nathanwei/will-the-un-declare-a-famine-in-gaz,2025-08-01,0.61
+45,4491.0,8,1614.0152186574073,0.5,APZuIOh8ph,Will the UN declare a famine in Gaza by 2030?,https://manifold.markets/nathanwei/will-the-un-declare-a-famine-in-gaz,2025-08-01,0.55
 115,261.0,2,549.0347105208333,0.5,vxfEtbCwmZ,"Will ""Proposal for making credible commitments to AIs."" make the top fifty posts in LessWrong's 2025 Annual Review?",https://manifold.markets/LessWrong/will-proposal-for-making-credible-c,2025-08-01,0.63
-94,31.0,3,152.02849438657407,0.5,tqcCZZNIEP,Will Google's model accessible through AI studio successfully navigate 10x10 maze before 2026?,https://manifold.markets/Metastable/will-googles-model-accessible-throu,2025-08-01,0.66
-30,130.52029053734464,9,1.3736555324074073,0.5,6Uhz6ylpqE,Coinflip but it resolves early,https://manifold.markets/maozedong31415/coinflip-0hIZgdO9SU,2025-08-01,0.51
-28,82.0,4,12.999658935185185,0.5,zgzUndcdyE,Is Horizon Alpha GPT-5-nano?,https://manifold.markets/Bayesian/is-horizon-alpha-gpt5nano,2025-08-01,0.59
-72,127.0,6,31.141281770833334,0.5,RAEAUEERhC,Will the S&P500 close within 1% of all time high at the end of Aug 2025?,https://manifold.markets/Magnify/will-the-sp500-close-within-1-of-al,2025-08-01,0.54
-72,166.0,7,29.981299375,0.5,UZtRUPg0us,Will I support Israel (Yes) or Palestine (No) after talking to Manifold?,https://manifold.markets/Henry38hw/will-i-support-israel-yes-or-palest,2025-08-01,0.53
-42,527.0,11,31.279532511574075,0.5,IQ5qSsIu8N,"Will Bitcoin BTC reach $130,000 in August?",https://manifold.markets/HillaryClinton/will-bitcoin-btc-reach-130000-in-au,2025-08-01,0.72
+94,158.10513909561348,8,152.02849438657407,0.5,tqcCZZNIEP,Will Google's model accessible through AI studio successfully navigate 10x10 maze before 2026?,https://manifold.markets/Metastable/will-googles-model-accessible-throu,2025-08-01,0.58
+30,161.52029053734464,10,1.3736555324074073,0.5,6Uhz6ylpqE,Coinflip but it resolves early,https://manifold.markets/maozedong31415/coinflip-0hIZgdO9SU,2025-08-01,0.51
+28,190.18258513939705,6,12.999658935185185,0.5,zgzUndcdyE,Is Horizon Alpha GPT-5-nano?,https://manifold.markets/Bayesian/is-horizon-alpha-gpt5nano,2025-08-01,0.55
+72,137.0,7,31.141281770833334,0.5,RAEAUEERhC,Will the S&P500 close within 1% of all time high at the end of Aug 2025?,https://manifold.markets/Magnify/will-the-sp500-close-within-1-of-al,2025-08-01,0.53
+72,463.25261054590896,17,29.981299375,0.5,UZtRUPg0us,Will I support Israel (Yes) or Palestine (No) after talking to Manifold?,https://manifold.markets/Henry38hw/will-i-support-israel-yes-or-palest,2025-08-01,0.46
+42,529.0,12,31.279532511574075,0.5,IQ5qSsIu8N,"Will Bitcoin BTC reach $130,000 in August?",https://manifold.markets/HillaryClinton/will-bitcoin-btc-reach-130000-in-au,2025-08-01,0.71
 108,1352.7869690974103,2,31.48396074074074,0.5,htycIh9EtE,I will resolve this market NO at the end of August unless I am persuaded to resolve it YES (Impossible Mode),https://manifold.markets/121/i-will-resolve-this-market-no-at-th-09I62O0dQp,2025-08-01,0.75
-107,2181.404067056945,31,185.33336599537037,0.5,POZ6U8UNl9,Will a GPT-4 level efficient HRM based language model be released before Feb 2026? [Details in description],https://manifold.markets/Jasonb/will-a-gpt4-level-efficient-hrm-bas,2025-08-01,0.59
+107,2534.404067056945,34,185.33336599537037,0.5,POZ6U8UNl9,Will a GPT-4 level efficient HRM based language model be released before Feb 2026? [Details in description],https://manifold.markets/Jasonb/will-a-gpt4-level-efficient-hrm-bas,2025-08-01,0.46
 74,328.4760264213293,6,5632.35277837963,0.5,SqtzuZSLpg,Retrocausal interpretation of quantum mechanics consensus view by EOY2040?,https://manifold.markets/JoppeWidstam/retrocausal-interpretation-of-quant,2025-08-01,0.57
 13,11.0,1,518.2792573958334,0.5,y9CSA2ICu6,Good service?,https://manifold.markets/voocccie/good-service,2025-08-01,0.47
 54,31.0,3,153.58001005787037,0.5,I0un9S6Igg,Will Jose Luis Ricon RATIO at least 4 ppl on X in 2025,https://manifold.markets/AutopoieticErgodicity/will-jose-luis-ricon-ratio-at-least,2025-08-01,0.66
-41,454.0,10,31.400112916666668,0.5,uPnygPCdc9,"Will Ethereum ETH reach $4,000 in August?",https://manifold.markets/HillaryClinton/will-ethereum-reach-4000-in-august,2025-08-01,0.66
+41,510.89485630760015,11,31.400112916666668,0.5,uPnygPCdc9,"Will Ethereum ETH reach $4,000 in August?",https://manifold.markets/HillaryClinton/will-ethereum-reach-4000-in-august,2025-08-01,0.69
 42,515.6251879098877,7,31.430382233796298,0.5,nZRO0Psd9y,Will there be a Nintendo Direct in August?,https://manifold.markets/Robincvgr/will-there-be-a-nintendo-direct-in-sy9czyuUpp,2025-08-01,0.7
-70,11.0,1,27181.496302546297,0.5,ct6U5IRUQn,Will the Cozumel Thrasher (Toxostoma guttatum) become Extinct by 2100?,https://manifold.markets/ConservationForecasts/will-the-cozumel-thrasher-toxostoma,2025-08-01,0.61
-49,527.0,13,364.9999298611111,0.5,dUzApqSQdN,Will Hamas “disarm and relinquish power” in Gaza?,https://manifold.markets/Gen/will-hamas-disarm-and-relinquish-po,2025-08-01,0.61
-39,846.9787640235272,10,6.9845646643518515,0.5,9Rnl96gIuy,Bitcoin closes above $118K on August 6?,https://manifold.markets/predyx_markets/bitcoin-closes-above-118k-on-august,2025-08-01,0.77
-65,771.1225605930504,13,518.7252089583334,0.5,SP9EQhcs9S,Will Matt Damon and Ben Affleck be married to each other by 2027?,https://manifold.markets/chuddinator/will-matt-damon-and-ben-affleck-be,2025-08-01,0.56
+70,1511.0,2,27181.496302546297,0.5,ct6U5IRUQn,Will the Cozumel Thrasher (Toxostoma guttatum) become Extinct by 2100?,https://manifold.markets/ConservationForecasts/will-the-cozumel-thrasher-toxostoma,2025-08-01,0.72
+49,792.0,15,364.9999298611111,0.5,dUzApqSQdN,Will Hamas “disarm and relinquish power” in Gaza?,https://manifold.markets/Gen/will-hamas-disarm-and-relinquish-po,2025-08-01,0.66
+39,1564.8443417745004,13,6.9845646643518515,0.5,9Rnl96gIuy,Bitcoin closes above $118K on August 6?,https://manifold.markets/predyx_markets/bitcoin-closes-above-118k-on-august,2025-08-01,0.72
+65,987.4690654119495,14,518.7252089583334,0.5,SP9EQhcs9S,Will Matt Damon and Ben Affleck be married to each other by 2027?,https://manifold.markets/chuddinator/will-matt-damon-and-ben-affleck-be,2025-08-01,0.57
 75,51.0,5,31.993462372685187,0.5,EEyqRypgI8,Vanilla Ice Cream – Häagen-Dazs most scanned ice cream on OFF by September?,https://manifold.markets/ArtimisFowl/vanilla-ice-cream-haagendazs-most-s,2025-08-01,0.58
 62,62.0,5,153.03577069444444,0.5,lgU2upypIy,Trump cabinet member leaves before UN Ambassador confirmation?,https://manifold.markets/Marnix/trump-cabinet-member-leaves-before,2025-08-01,0.58
-38,2486.671104205311,24,15.094828935185186,0.5,6ldspsc60S,"GPT-5 released before August 15, 2025?",https://manifold.markets/predyx_markets/gpt5-released-before-august-15-2025,2025-08-01,0.62
-49,2350.0,3,29.996665682870372,0.5,E5hzudNCcn,Will the $1000 Isaac King Turing Test bet happen?,https://manifold.markets/Bayesian/will-the-1000-isaac-king-turing-tes,2025-08-01,0.73
+38,8115.114155695238,50,15.094828935185186,0.5,6ldspsc60S,"GPT-5 released before August 15, 2025?",https://manifold.markets/predyx_markets/gpt5-released-before-august-15-2025,2025-08-01,0.35
+49,2549.9999999999995,4,29.996665682870372,0.5,E5hzudNCcn,Will the $1000 Isaac King Turing Test bet happen?,https://manifold.markets/Bayesian/will-the-1000-isaac-king-turing-tes,2025-08-01,0.73
 68,31.0,2,154.0402939699074,0.5,2gsglQ9E6y,Will GPT-5 exceed exceed a mean net worth of $5000 in vending-bench?,https://manifold.markets/JaundicedBaboon/will-gpt5-exceed-exceed-a-mean-net,2025-08-01,0.61
 34,481.24042288186774,12,92.99889096064815,0.5,9ld9Od50gp,Will GPT-5 exceed 70% on WebArena?,https://manifold.markets/JaundicedBaboon/will-gpt5-exceed-70-on-webarena,2025-08-01,0.69
-54,559.3223828297271,10,61.99626028935185,0.5,OSA5929PPP,Will OpenRouter's Horizon Alpha be confirmed as GPT-5?,https://manifold.markets/venki/will-openrouters-horizon-alpha-be-c,2025-08-01,0.71
+54,579.3223828297271,11,61.99626028935185,0.5,OSA5929PPP,Will OpenRouter's Horizon Alpha be confirmed as GPT-5?,https://manifold.markets/venki/will-openrouters-horizon-alpha-be-c,2025-08-01,0.72
 72,160.0,4,25.99770335648148,0.5,Z6szRgqsnZ,Any ARC‑AGI‑3 Preview submission solves at least one private game level?,https://manifold.markets/LeonLinuxlu/any-arcagi3-preview-submission-solv,2025-08-01,0.59
 115,11.0,1,549.9356959027778,0.5,CM7AsQoBxD,"Will ""Optimizing The Final Output Can Obfuscate CoT..."" make the top fifty posts in LessWrong's 2025 Annual Review?",https://manifold.markets/LessWrong/will-optimizing-the-final-output-ca,2025-08-01,0.67
 49,1106.645216919375,8,0.9666705902777778,0.5,LAuE8n5Idq,"S&P 500 Index closes above 6,450 on July 31, 2025",https://manifold.markets/RamakrishnaNarayanaswamy/sp-500-index-closes-above-6450-on-j,2025-08-01,0.81
-38,131.0,5,523.0215834837963,0.5,y69hUEQE99,2026 Congressional candidate arrested?,https://manifold.markets/EvanDaniel/2026-congressional-candidate-arrest,2025-08-01,0.53
+38,136.0,6,523.0215834837963,0.5,y69hUEQE99,2026 Congressional candidate arrested?,https://manifold.markets/EvanDaniel/2026-congressional-candidate-arrest,2025-08-01,0.53
 39,272.2503581607577,7,1250.0733339814815,0.5,h6q9s90L56,Will persona 6 be announced before 2029,https://manifold.markets/Elemental/will-persona-6-be-announced-before,2025-08-01,0.57
-52,66.0,6,1615.080907361111,0.5,SIuntCLUgq,Will Palestine hold a national election before 2030?,https://manifold.markets/cash/will-palestine-hold-a-national-elec,2025-08-01,0.63
+52,76.0,7,1615.080907361111,0.5,SIuntCLUgq,Will Palestine hold a national election before 2030?,https://manifold.markets/cash/will-palestine-hold-a-national-elec,2025-08-01,0.58
 50,511.0,5,6.998737685185185,0.5,SL9qASnsSL,Was Laurentius Clung real? (resolves to my belief),https://manifold.markets/Conflux/is-laurentius-clung-real-resolves-t,2025-08-01,0.7
 38,326.0,5,154.13074302083334,0.5,Pu9SCOlSlZ,South Park cancelled during Season 27?,https://manifold.markets/EvanDaniel/south-park-cancelled-during-season,2025-08-01,0.57
-108,1061.3062595126069,6,4.132475717592593,0.5,E9sNtRqSIc,"Will any rider finish in the 2025 Tour de France Femmes GC top 5, who was not in the front group on Stage 5?",https://manifold.markets/Eliza/will-any-rider-finish-the-2025-tour,2025-08-01,0.89
+108,1761.3062595126069,8,4.132475717592593,0.5,E9sNtRqSIc,"Will any rider finish in the 2025 Tour de France Femmes GC top 5, who was not in the front group on Stage 5?",https://manifold.markets/Eliza/will-any-rider-finish-the-2025-tour,2025-08-01,0.84
 108,412.0,2,550.1900196875,0.5,8ojWtREJjK,"Will ""Jaan Tallinn's 2024 Philanthropy Overview"" make the top fifty posts in LessWrong's 2025 Annual Review?",https://manifold.markets/LessWrong/will-jaan-tallinns-2024-philanthrop,2025-08-01,0.71
-87,2154.255621931685,31,32.20476784722222,0.5,0CnuNStpA6,American Eagle or Dunkin Donuts apologize for “genetics“ ads backlash before September?,https://manifold.markets/NeoMalthusian/american-eagle-or-dunkin-donuts-apo,2025-08-01,0.57
+87,2236.255621931685,35,32.20476784722222,0.5,0CnuNStpA6,American Eagle or Dunkin Donuts apologize for “genetics“ ads backlash before September?,https://manifold.markets/NeoMalthusian/american-eagle-or-dunkin-donuts-apo,2025-08-01,0.44
 38,136.0,4,213.03531921296297,0.5,clhIyzqIny,"Fetterman unfettered for ""Unfettered""?",https://manifold.markets/Marnix/fetterman-unfettered-for-unfettered,2025-08-01,0.59
 74,11.0,1,32.23663590277778,0.5,ysuN2tdzPU,Is aye aye mandem gonna take over the insta reels before the end of august,https://manifold.markets/kenzfijas/is-aye-aye-mandem-gonna-take-over-t,2025-08-01,0.61
 35,203.36014027279225,7,0.9988159027777778,0.5,5SCQU9gNNg,will speed bark on his next stream?,https://manifold.markets/ayman/will-speed-bark-on-his-next-stream,2025-08-01,0.56
-82,59.0,6,16.306732997685184,0.5,lhhqS5ZR8L,Will Brazilian President Lula da Silva say or do anything controversial in August?,https://manifold.markets/Leinboige/will-brazilian-president-lula-da-si,2025-08-01,0.58
+82,119.0,7,16.306732997685184,0.5,lhhqS5ZR8L,Will Brazilian President Lula da Silva say or do anything controversial in August?,https://manifold.markets/Leinboige/will-brazilian-president-lula-da-si,2025-08-01,0.53
 33,21.0,2,5.3300940625,0.5,PId9Q20yLI,Will it storm during Gen in 2025?,https://manifold.markets/Echidna/will-it-storm-during-gen-in-2025,2025-08-01,0.65
 46,41.0,2,76.44496878472222,0.5,UzydOQpOyQ,SHIFT adopted into Nikkei 225 in October 2025?,https://manifold.markets/gyogyo6666/shift-adopted-into-nikkei-225-in-oc,2025-08-01,0.68
 36,10.0,2,1805707.876636088,0.5,qRI55NuQ9E,Shucklelord's Bot Testing Playground,https://manifold.markets/PowerTrick/shucklelords-bot-testing-playground,2025-08-01,0.6
-65,501.0,9,29.99910892361111,0.5,cqc0pAZz8q,"Federal Reserve announces interest rate change on August 30, 2025",https://manifold.markets/AlirezaSakhaei/federal-reserve-announces-interest,2025-08-01,0.6
-53,31.0,3,3441.5044044212964,0.5,ItCQlCzQp2,Singapore have a working nuclear power plant by 2035?,https://manifold.markets/Ansel/singapore-have-a-working-nuclear-po,2025-08-01,0.67
-69,95.11990189326085,7,18602.59694851852,0.5,h9IsRCOn96,"Hollywood American Revolution film box office top 10 by July 4, 2076?",https://manifold.markets/Chumchulum/hollywood-american-revolution-film,2025-08-01,0.53
-59,21.0,2,1615.7146729976853,0.5,cZ6qsnNI2l,Proof that Amy Lynn Bradley did not fall overboard by 2030?,https://manifold.markets/DontGoHome/proof-that-amy-lynn-bradley-did-not,2025-08-01,0.66
+65,520.770178484464,9,29.99910892361111,0.5,cqc0pAZz8q,"Federal Reserve announces interest rate change on August 30, 2025",https://manifold.markets/AlirezaSakhaei/federal-reserve-announces-interest,2025-08-01,0.63
+53,41.896802657499144,3,3441.5044044212964,0.5,ItCQlCzQp2,Singapore have a working nuclear power plant by 2035?,https://manifold.markets/Ansel/singapore-have-a-working-nuclear-po,2025-08-01,0.67
+69,109.00739981834806,7,18602.59694851852,0.5,h9IsRCOn96,"Hollywood American Revolution film box office top 10 by July 4, 2076?",https://manifold.markets/Chumchulum/hollywood-american-revolution-film,2025-08-01,0.53
+59,32.89755972014936,2,1615.7146729976853,0.5,cZ6qsnNI2l,Proof that Amy Lynn Bradley did not fall overboard by 2030?,https://manifold.markets/DontGoHome/proof-that-amy-lynn-bradley-did-not,2025-08-01,0.66
 56,98.41355689628834,4,1615.927905162037,0.5,8l8QCQpdU8,Will there be a Rust-written version of AOE2 by EOY2029?,https://manifold.markets/AutopoieticErgodicity/will-there-be-a-rustwritten-version,2025-08-01,0.65
-41,228.6069471507043,10,154.74316927083333,0.5,Cp0Isd6SAZ,Will Bitcoin dip below $100k before 2026?,https://manifold.markets/Mana/will-bitcoin-dip-below-100k-before,2025-08-01,0.56
+41,238.6069471507043,10,154.74316927083333,0.5,Cp0Isd6SAZ,Will Bitcoin dip below $100k before 2026?,https://manifold.markets/Mana/will-bitcoin-dip-below-100k-before,2025-08-01,0.56
 68,2089.769174482255,3,31.998201574074074,0.5,UNPc2ISdOc,Will Parliament return before the end of planned Summer Recess 2025?,https://manifold.markets/Noit/will-parliament-return-before-the-e,2025-08-01,0.71
 81,117.46955425315836,4,3807.01511443287,0.5,C9ull5SNqu,"Will Danielle Fong, janus/repligate, or Joule Munich integer-overflow by EOY2035?",https://manifold.markets/AutopoieticErgodicity/will-danielle-fong-or-j0ule-munich,2025-08-01,0.59
 95,158.6340956535596,4,1981.0217924652777,0.5,Q0tQPl66lc,Will Andrej Karpathy regularly wear gas masks (or N95+ masks) for at least 3 months by EOY2030?,https://manifold.markets/AutopoieticErgodicity/will-andrej-karpathy-regularly-wear,2025-08-01,0.65
 101,75.0,3,1616.0343555208333,0.5,dh22QCUSsy,Will Andrej Karpathy get a personal chromatography/spectroscopy machine? [for purity testing] by 2030,https://manifold.markets/AutopoieticErgodicity/will-andrej-karpathy-get-a-personal,2025-08-01,0.63
 83,22.0,1,1981.0666336226852,0.5,lA6COAy8sP,Did/Will Andrej Karpathy play Oregon Trail 2 [or any Oregon Trail game] by EOY2030?,https://manifold.markets/AutopoieticErgodicity/didwill-andrej-karpathy-play-oregon,2025-08-01,0.62
 80,22.0,1,1981.0691959837964,0.5,2QcRQLzRuI,Will Lada Nuzhna visit Cascadia (Washington/Oregon/British Columbia) by EOY2030?,https://manifold.markets/AutopoieticErgodicity/will-lada-nuzhna-visit-oregon-by-eo,2025-08-01,0.61
-39,3096.7529053016847,47,154.882620625,0.5,cQU6QRnuA2,Tsunami causes over $1M damage in 2025?,https://manifold.markets/SteveBright/tsunami-causes-over-1m-damage-in-20,2025-08-01,0.35
+39,3146.7529053016847,47,154.882620625,0.5,cQU6QRnuA2,Tsunami causes over $1M damage in 2025?,https://manifold.markets/SteveBright/tsunami-causes-over-1m-damage-in-20,2025-08-01,0.35
 109,81.45352462459513,3,550.8914813310186,0.5,mmbFEhqebg,"Will ""The Purpose of a System is what it Rewards"" make the top fifty posts in LessWrong's 2025 Annual Review?",https://manifold.markets/LessWrong/will-the-purpose-of-a-system-is-wha,2025-08-01,0.63
 115,269.7065167999442,2,550.9476667939815,0.5,JANqfGrMyB,"Will ""About 30% of Humanity’s Last Exam chemistry/b..."" make the top fifty posts in LessWrong's 2025 Annual Review?",https://manifold.markets/LessWrong/will-about-30-of-humanitys-last-exa,2025-08-01,0.63
 64,2030.693776750906,2,13.999814733796295,0.5,LyclnsQPRR,Will there be a break between Chainsaw Man chapters 211 and 212?,https://manifold.markets/dwax/will-there-be-a-break-between-chain-zOlRl8ut2y,2025-08-01,0.71
@@ -82,7 +92,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 86,35.39605741750017,3,885.3155105092593,0.5,CCShcdS2OE,Will South Korea make the Blue House the presidential office again by the end of 2027?,https://manifold.markets/strutheo/will-south-korea-return-their-presi,2025-08-01,0.65
 96,407.35802091167113,12,520.3813194675926,0.5,pSqnuhgns2,Will generative artificial intelligence be banned in at least one G7 country by the end of 2026?,https://manifold.markets/Leinboige/will-generative-artificial-intellig,2025-08-01,0.65
 29,281.2256965448791,4,155.45065447916667,0.5,06A2pRQE9U,50 open monke markets by EOY?,https://manifold.markets/realDonaldTrump/50-active-monke-markets-by-eoy,2025-08-01,0.59
-67,894.2640923402229,15,520.4916028356481,0.5,h2Iz8ZLpzO,Will Wikipedia be unavailable in the UK before 2027 due to the OSA?,https://manifold.markets/Gabrielle/will-wikipedia-be-unavailable-in-th,2025-08-01,0.55
+67,901.2640923402229,16,520.4916028356481,0.5,h2Iz8ZLpzO,Will Wikipedia be unavailable in the UK before 2027 due to the OSA?,https://manifold.markets/Gabrielle/will-wikipedia-be-unavailable-in-th,2025-08-01,0.54
 92,575.0692971575249,17,32.10435505787037,0.5,CN22csPLns,Will the majority of participants favor digital over paper session schedule after LWCW 2025?,https://manifold.markets/Omar/do-the-majority-of-participants-fav,2025-08-01,0.54
 23,71.46086298526168,2,155.34996177083335,0.5,L8Q2EqAzU2,Brook is Gunko's father,https://manifold.markets/OmkarSuryawanshi/brook-is-gunkos-father,2025-08-01,0.57
 73,21.0,2,0.013902511574074074,0.5,RcPp009CZ5,"China and Japan engage in direct military conflict before January 1, 2026",https://manifold.markets/Stonestone/china-and-japan-engage-in-direct-mi,2025-08-01,0.52
@@ -111,9 +121,9 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 45,155.83238282736875,8,5714.142743854167,0.5,cp6dpNZcE5,Will Barron Trump be a billionaire at age 35?,https://manifold.markets/Leinboige/will-barron-trump-be-a-billionaire,2025-08-01,0.61
 34,169.1050865156272,7,156.04092942129628,0.5,lnndpzZ6Rq,Will I win the FOLDED grand prize?,https://manifold.markets/121/will-i-win-the-folded-grand-prize-hOzLLdOqgl,2025-08-01,0.57
 79,325.0922424844402,4,3808.1780610416668,0.5,L2Adl0In2Q,Will Greater Dubai overtake Greater Chicago in population size before EOY 2035?,https://manifold.markets/MiguelSanchezB/will-greater-dubai-overtake-greater,2025-08-01,0.61
-51,383.6546118928663,15,1617.3934046296297,0.5,lytEZyOq59,Will Tesla acquire Lyft or Uber by the end of 2029?,https://manifold.markets/strutheo/will-tesla-acquire-lyft-or-uber-by,2025-08-01,0.53
+51,583.6546118928663,15,1617.3934046296297,0.5,lytEZyOq59,Will Tesla acquire Lyft or Uber by the end of 2029?,https://manifold.markets/strutheo/will-tesla-acquire-lyft-or-uber-by,2025-08-01,0.58
 39,285.3821018345144,5,886.1854474768519,0.5,nuEAZNPss0,Will I be in a coma at the end of 2027?,https://manifold.markets/strutheo/will-i-be-in-a-coma-at-the-end-of-2,2025-08-01,0.54
-100,154.43687574133435,7,156.1874363773148,0.5,nQnphn9P2O,"By the end of 2025, will a NATO country announce that it will use AI for military defense decisions?",https://manifold.markets/Leinboige/by-the-end-of-2025-will-a-nato-coun,2025-08-01,0.6
+100,264.43687574133435,9,156.1874363773148,0.5,nQnphn9P2O,"By the end of 2025, will a NATO country announce that it will use AI for military defense decisions?",https://manifold.markets/Leinboige/by-the-end-of-2025-will-a-nato-coun,2025-08-01,0.57
 57,423.48527953869086,7,429.1878363541667,0.5,L0nQl9ppNs,Will hello-lume ship a robot by the end of September 2026,https://manifold.markets/jdilla/will-hellolume-ship-a-robot-by-the,2025-08-01,0.67
 87,71.46086298526168,2,341.19702068287035,0.5,dcSpsRRhSZ,"Will the American Boxing Revival Act of 2025 (ABRA) be signed into law by July 4, 2026.",https://manifold.markets/ChristopherLibertelli/will-the-american-boxing-revival-ac,2025-08-01,0.61
 19,131.51422304048265,8,29.999167037037036,0.5,sNycq92tg9,Will my ex comeback,https://manifold.markets/kenzfijas/will-my-ex-comeback,2025-08-01,0.51
@@ -135,16 +145,16 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 43,1823.230877743733,16,156.73027278935186,0.5,2uU5RCq9Nq,Is jail programmed for Drew Pavlou in 2025?,https://manifold.markets/akarlin/is-jail-programmed-for-drew-pavlou,2025-08-01,0.63
 70,22.0,1,1768.7530472800927,0.5,nl9d826Rnn,Will Mathis Albert play in a UCL quarter finals game before June 2030?,https://manifold.markets/ave01/will-mathis-albert-play-in-a-ucl-qu,2025-08-01,0.61
 69,272.0861875161779,8,156.86841967592594,0.5,9g2ngUsnUE,Will Cal Raleigh finish the 2025 MLB Season with 60 or more Homeruns?,https://manifold.markets/LBeesley/will-cal-raleigh-finish-the-2025-ml,2025-08-01,0.52
-70,763.498548984013,24,34.87147841435185,0.5,lgCqpnpdUy,Will there be a Gaza ceasefire and hostage deal before September 2025?,https://manifold.markets/PoliticalEconomyPK/will-there-be-a-gaza-ceasefire-and-Oq2ZQ8EOtl,2025-08-01,0.53
+70,1063.498548984013,25,34.87147841435185,0.5,lgCqpnpdUy,Will there be a Gaza ceasefire and hostage deal before September 2025?,https://manifold.markets/PoliticalEconomyPK/will-there-be-a-gaza-ceasefire-and-Oq2ZQ8EOtl,2025-08-01,0.55
 37,77.0,7,1.1101176736111111,0.5,Ru2U28ydlN,will i get to bed before 5am tonight?,https://manifold.markets/Racheld7njf/will-i-get-to-bed-before-5am-tonigh,2025-08-01,0.56
-46,1254.1450680424846,16,157.02330086805554,0.5,09hsyuylqd,Will I manage to do a one-arm pull up in 2025?,https://manifold.markets/retr0id/will-i-manage-to-do-a-onearm-pull-u-6dPLy9h29y,2025-08-01,0.61
+46,1264.1450680424846,17,157.02330086805554,0.5,09hsyuylqd,Will I manage to do a one-arm pull up in 2025?,https://manifold.markets/retr0id/will-i-manage-to-do-a-onearm-pull-u-6dPLy9h29y,2025-08-01,0.62
 48,1252.3810243681514,18,157.2760069675926,0.5,ChgPq8hOy8,Will Brazilian President Lula pass away in 2025?,https://manifold.markets/predyx_markets/will-brazilian-president-lula-pass,2025-08-01,0.63
 66,103.66473175029938,4,35.190422060185185,0.5,P9u6h0Qz8u,"Will I finish ""The Amulet of Samarkand"" by the end of August 2025?",https://manifold.markets/EnopoletusHarding/will-i-finish-the-amulet-of-samarka,2025-08-01,0.59
 50,115.39742566634565,6,396.9984094212963,0.5,8RdZCqRR98,Michael Jordan cameo in The Coyote vs. ACME movie?,https://manifold.markets/MiguelSousa/michael-jordan-cameo-in-the-coyote,2025-08-01,0.59
 60,22.0,1,7.104111423611111,0.5,gNEPZc6CP0,Will I edit chapters 8 and 9 by 21:00 of 3rd of August 2025?,https://manifold.markets/KatrielVonNeward/will-i-edit-chapters-8-and-9-by-210,2025-08-01,0.66
 43,357.02834972691085,8,248.9546917824074,0.5,6cR9Zd8dAz,Will I pass CFA Level 1 exam first attempt?,https://manifold.markets/Gen/will-i-pass-cfa-level-1-exam-first,2025-08-01,0.63
 68,217.38264634415833,10,1253.257176574074,0.5,6NZ5yP0t5U,Will Andorra get an airport within their borders by the end of 2028?,https://manifold.markets/strutheo/will-andorra-get-an-airport-within,2025-08-01,0.5
-54,265.26246960851046,10,157.48877508101853,0.5,EUdnsPUsRS,Bill Clinton had sex with underage girl per 2025 poll?,https://manifold.markets/WilliamBarr/bill-clinton-had-sex-with-underage,2025-08-01,0.57
+54,265.62427176720405,10,157.48877508101853,0.5,EUdnsPUsRS,Bill Clinton had sex with underage girl per 2025 poll?,https://manifold.markets/WilliamBarr/bill-clinton-had-sex-with-underage,2025-08-01,0.57
 63,137.20917343053065,2,338.2948982175926,0.5,5hQqdqSOg9,Will I be on the all-time profits leaderboard by 1st July 2026?,https://manifold.markets/Fion/will-i-be-on-the-alltime-profits-le,2025-08-01,0.57
 75,175.76714233026865,7,1253.3358918402778,0.5,zdgq0LQIph,Top 1% of US wealth holders control over 45% of nation's wealth by EOY2028?,https://manifold.markets/GageMason/top-1-of-us-wealth-holders-control,2025-08-01,0.53
 39,243.11642138562416,11,6.998185891203704,0.5,yUuztugdI9,Will I be active on manifold in 1 week?,https://manifold.markets/Mrdudeguy/will-i-be-active-on-manifold-in-1-w,2025-08-01,0.59
@@ -156,11 +166,11 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 75,54.47342538065669,5,34.99500893518518,0.5,8qIdzOPsnu,Will a popular TikToker be exposed for lying about their “healing journey”?,https://manifold.markets/dramastrologist/will-a-popular-tiktoker-be-exposed,2025-08-01,0.58
 51,30.900546965859938,2,1254.5491910069445,0.5,uEgZ0Uh2In,Judge Richard Berman & Alison Nathan alive in 2029?,https://manifold.markets/Predictor/judge-richard-berman-alison-nathan,2025-08-01,0.67
 74,873.7709633446586,22,7.573350069444444,0.5,dunhA2y6zU,"❓Will Trump mention “Hunter” in a Truth Social post before August 4, 2025?",https://manifold.markets/dramastrologist/will-trump-mention-hunter-in-a-trut,2025-08-01,0.54
-50,6120.802637955555,48,6.6087203472222225,0.5,nh0pOs992U,"🔮 Will Elon Musk tweet “AI” before August 3, 2025?",https://manifold.markets/dramastrologist/-will-elon-musk-tweet-ai-before-aug,2025-08-01,0.29
-24,1671.4028886726337,22,35.644261192129626,0.5,QCPN5S8UOs,Bitcoin $130K in August?,https://manifold.markets/predyx_markets/bitcoin-130k-in-august,2025-08-01,0.67
+50,6121.802637955555,49,6.6087203472222225,0.5,nh0pOs992U,"🔮 Will Elon Musk tweet “AI” before August 3, 2025?",https://manifold.markets/dramastrologist/-will-elon-musk-tweet-ai-before-aug,2025-08-01,0.29
+24,1817.2323664358544,22,35.644261192129626,0.5,QCPN5S8UOs,Bitcoin $130K in August?,https://manifold.markets/predyx_markets/bitcoin-130k-in-august,2025-08-01,0.67
 72,144.49272970355986,6,34.767314525462965,0.5,QqSELSCgLZ,"Liverpool vs Arsenal, at Anfield, on August 31st, 2025 to end in a DRAW?",https://manifold.markets/HemantThakur/liverpool-vs-arsenal-at-anfield-on,2025-08-01,0.54
 85,416.87970236549285,6,90.99936899305555,0.5,OICCZQUPp8,"A red card in El Clásico match between Real Madrid and Barcelona on October 26, 2025?",https://manifold.markets/HemantThakur/a-red-card-in-el-clasico-match-betw,2025-08-01,0.64
-77,36.40981135411272,3,91.7710633912037,0.5,AR9sNyqSNP,"Lamine Yamal scores in Real Madrid vs Barcelona El Clásico, October 26, 2025?",https://manifold.markets/HemantThakur/lamine-yamal-scores-in-real-madrid,2025-08-01,0.61
+77,40.90054696585988,3,91.7710633912037,0.5,AR9sNyqSNP,"Lamine Yamal scores in Real Madrid vs Barcelona El Clásico, October 26, 2025?",https://manifold.markets/HemantThakur/lamine-yamal-scores-in-real-madrid,2025-08-01,0.61
 97,22.0,1,90.99928972222222,0.5,0gcqEltSRc,"Will Kylian Mbappé score at least 1 goal against Barcelona in the El Clásico on October 26, 2025?",https://manifold.markets/HemantThakur/will-kylian-mbappe-score-at-least-1,2025-08-01,0.67
 71,293.68605158668225,7,757.8151645023148,0.5,qNAt9ONyAc,"Manifold announces domain change to manifold.com before August 24, 2027",https://manifold.markets/kurt/manifold-announces-domain-change-to,2025-08-01,0.53
 44,187.65543222636637,10,523.9589637731482,0.5,dRzShQ0U5P,Death from AI addiction before Jan 1st 2027?,https://manifold.markets/Interrobang/death-from-ai-addiction-before-jan,2025-08-01,0.59
@@ -181,7 +191,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 62,41.23264800195186,4,29.422103194444446,0.5,qqhCzNChEC,"OpenAI maintains top position on LiveBench by August 25, 2025?",https://manifold.markets/ilikepolarbears/openai-maintains-top-position-on-li,2025-08-01,0.63
 35,2892.9572465969977,12,1619.6001146412036,0.5,qg0utdUlEL,@jim pays off the US national debt?,https://manifold.markets/jim/jim-pays-off-us-national-debt,2025-08-01,0.67
 54,949.3599563228504,13,7.594323020833333,0.5,IO9EpOsgZ9,Piastri or Norris podium in Hungarian Grand Prix 2025?,https://manifold.markets/HemantThakur/piastri-or-norris-podium-in-hungari,2025-08-01,0.66
-70,451.22683665358585,18,196.64812042824073,0.5,OAdpyups0p,Will Travis Kelce and Taylor Swift break up before Super Bowl 2026? 💔🏈,https://manifold.markets/HemantThakur/will-travis-kelce-and-taylor-swift-lNC9PURSIS,2025-08-01,0.48
+70,462.22683665358585,19,196.64812042824073,0.5,OAdpyups0p,Will Travis Kelce and Taylor Swift break up before Super Bowl 2026? 💔🏈,https://manifold.markets/HemantThakur/will-travis-kelce-and-taylor-swift-lNC9PURSIS,2025-08-01,0.47
 40,143.7818808532605,9,30.888409351851852,0.5,nRQSdctZu2,"Is the ""Lobster"" model on lmarena GPT-5?",https://manifold.markets/MingCat/is-the-lobster-model-on-lmarena-gpt,2025-08-01,0.56
 102,604.1755885925529,10,94.99865366898148,0.5,S8NZOLphRL,"Party for Freedom (PVV) secures the most seats in the Dutch parliamentary election on October 29, 2025",https://manifold.markets/NeoMalthusian/party-for-freedom-pvv-secures-the-m,2025-08-01,0.69
 66,83.18317665565124,4,137338.96801899307,0.5,CqPqp52sQ9,Will the eventual fate of the universe be heat death / big freeze?,https://manifold.markets/strutheo/will-the-eventual-fate-of-the-unive,2025-08-01,0.59
@@ -191,7 +201,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 30,4443.449117013381,28,159.36936398148148,0.5,gRu5PPCsRP,Trump pardons Maxwell in 2025?,https://manifold.markets/predyx_markets/trump-pardons-maxwell-in-2025,2025-08-01,0.58
 50,87.03197509133712,5,159.03965273148148,0.5,pyO6LO9SNg,Jailbreak the AI summary to say the secret phrase?,https://manifold.markets/NivlacM/jailbreak-the-ai-summary-to-say-the,2025-08-01,0.59
 85,351.20211053590685,6,159.06130756944444,0.5,ttUAzCZZ5U,Will the Federal Reserve announce an increase in interest rates at any point in 2025?,https://manifold.markets/Luxeed/will-the-federal-reserve-announce-a-58lys2PLyd,2025-08-01,0.58
-24,2605.989702689173,18,37.08028267361111,0.5,5gEEgPRpgt,Bitcoin $125K in August?,https://manifold.markets/predyx_markets/bitcoin-125k-in-august,2025-08-01,0.62
+24,2797.033776501108,20,37.08028267361111,0.5,5gEEgPRpgt,Bitcoin $125K in August?,https://manifold.markets/predyx_markets/bitcoin-125k-in-august,2025-08-01,0.62
 100,336.6176199088771,7,555.0827364814814,0.5,FY697dJJv9,"Will ""HPMOR: The (Probably) Untold Lore"" make the top fifty posts in LessWrong's 2025 Annual Review?",https://manifold.markets/LessWrong/will-hpmor-the-probably-untold-lore,2025-08-01,0.63
 29,231.39666335782863,12,6.986003032407408,0.5,h8hsUqnL6g,Will I feel better in a week?,https://manifold.markets/jks/will-i-feel-better-in-a-week,2025-08-01,0.63
 71,7253.761322800262,49,1825.9795810416667,0.5,CA8yEczQAQ,Will Anthropic be ordered to pay $1B+ in damages in Bartz v. Anthropic?,https://manifold.markets/CharlesFoster/will-anthropic-be-ordered-to-pay-1b,2025-08-01,0.15
@@ -207,7 +217,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 79,1043.8140677445529,14,41.25126579861111,0.5,nc5ql89ql9,"Chinese military parade on September 3, 2025, features marching humanoid robots",https://manifold.markets/JakeDee/chinese-military-parade-on-septembe,2025-08-01,0.58
 73,117.01505844141322,6,524.2850136689815,0.5,S2c9ItE8np,Will people get blackmailed due to UK's age verification law before 2027?,https://manifold.markets/HannesLynchburg/will-people-get-blackmailed-due-to,2025-08-01,0.54
 57,302.29512320208886,10,2.9989659722222224,0.5,RLOO89yc0A,Figma stock price above $50 at close on first trading day,https://manifold.markets/AliShahed/figma-stock-price-above-50-at-close,2025-08-01,0.67
-59,406.76795121417183,9,6.99879355324074,0.5,cq2ppEhSRh,Market will be resolved to round(100*abs(sin(num_traders))),https://manifold.markets/fornever/market-will-be-resolved-to-round100,2025-08-01,0.66
+59,413.3452773517264,10,6.99879355324074,0.5,cq2ppEhSRh,Market will be resolved to round(100*abs(sin(num_traders))),https://manifold.markets/fornever/market-will-be-resolved-to-round100,2025-08-01,0.66
 18,44.47342538065669,3,9.549659814814815,0.5,OSscOPgE2l,San replay con Mia,https://manifold.markets/JavierBerardini/san-replay-con-mia,2025-08-01,0.52
 66,238.7345840590239,4,27187.522100358798,0.5,u0u5uCOPpc,Will the Kunimasu (Oncorhynchus kawamurae) become Extinct by 2100?,https://manifold.markets/ConservationForecasts/will-the-kunimasu-oncorhynchus-kawa,2025-08-01,0.59
 52,1656.0,17,159.60972339120372,0.5,ucItl9PR0S,Ghislaine Maxwell testifies before Congress in 2025?,https://manifold.markets/predyx_markets/ghislaine-maxwell-testifies-before,2025-08-01,0.64
@@ -244,12 +254,3 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 73,60.32932071745344,4,525.1540723032407,0.5,uNy9IcytCE,Will I spend at least 10K USD trying to get a US visa by the end of 2026?,https://manifold.markets/NuñoSempere/will-i-spend-at-least-10k-usd-tryin,2025-08-01,0.63
 41,172.96403110765084,6,280.86378667824073,0.5,PshuN6tld0,Bezos acquires CNBC by end of April 2026?,https://manifold.markets/Predictor/bezos-acquires-cnbc-by-end-of-april,2025-08-01,0.54
 68,274.40997109275236,10,187.03666193287037,0.5,lySpsUItul,Wikipedia implement a quota system for UK users accessing it's site?,https://manifold.markets/JussiVilleHeiskanen/wikipedia-implement-a-quota-system,2025-08-01,0.5
-111,368.780712206522,6,341.70803675925924,0.5,d5htICgqIy,Has there been / will there be any covert Israeli 🇮🇱 sabotage activity inside Iran 🇮🇷 after the June ceasefire?,https://manifold.markets/PoliticalEconomyPK/has-there-been-will-there-be-any-co,2025-08-01,0.64
-120,52.0,2,159.95260693287037,0.5,ySLyLnqL0h,"Will Nettspend surpass 2m monthly listeners in the week following the release of his upcoming album ""Early Life Crisis""?",https://manifold.markets/SymmetryXZ/will-nettspend-surpass-2m-monthly-l,2025-08-01,0.67
-35,387.73846451507103,12,160.92456608796297,0.5,hIZh09US9R,Will GPT-5 earn Bronze on IMO 2025?,https://manifold.markets/JaundicedBaboon/will-gpt5-earn-bronze-on-imo-2025,2025-08-01,0.65
-35,157.21574280106623,6,160.92560646990742,0.5,P2IRCnAqd0,Will GPT-5 earn Silver on IMO 2025?,https://manifold.markets/JaundicedBaboon/will-gpt5-earn-silver-on-imo-2025,2025-08-01,0.55
-70,75.6788781280177,3,3447.929722210648,0.5,qCqQdUZ6g2,Will there be a new longest serving member of Congress by end of 2034?,https://manifold.markets/strutheo/will-there-be-a-new-longest-serving,2025-08-01,0.57
-60,915.6838514736809,3,890.933677337963,0.5,NqLtcUOAdP,Will Larfleeze be added to Marvel Rivals by the end of 2027?,https://manifold.markets/strutheo/will-larfleeze-be-added-to-marvel-r,2025-08-01,0.82
-56,32.69519217113136,2,525.9365442708333,0.5,pn5cU8NgIl,Will MODOK be added to Marvel Rivals by the end of 2026?,https://manifold.markets/strutheo/will-modok-be-added-to-marvel-rival,2025-08-01,0.67
-57,33.98249596149798,2,525.9372743055555,0.5,RC5qzR85zc,Will Kraven be added to Marvel Rivals by the end of 2026?,https://manifold.markets/strutheo/will-kraven-be-added-to-marvel-riva,2025-08-01,0.66
-23,4287.941639845909,16,160.96436815972223,0.5,s8d9RQLZuz,Obama indicted in 2025?,https://manifold.markets/Predictor/obama-indicted-in-2025,2025-08-01,0.5
