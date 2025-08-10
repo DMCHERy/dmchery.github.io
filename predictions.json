@@ -1,19 +1,37 @@
 [
   {
+    "question":"Will there be a British nationalist terrorist organization in the next 5 years with massive public support?",
+    "probability":0.34,
+    "link":"https:\/\/manifold.markets\/benjaminIkuta\/will-there-be-a-british-nationalist",
+    "date":"2025-08-10"
+  },
+  {
+    "question":"Will I ever get to the Masters League this year on Manifold?",
+    "probability":0.38,
+    "link":"https:\/\/manifold.markets\/musuko384\/will-i-ever-get-to-the-masters-leag",
+    "date":"2025-08-10"
+  },
+  {
+    "question":"Will GPT-4o be available to ChatGPT free users in 2025?",
+    "probability":0.43,
+    "link":"https:\/\/manifold.markets\/CDBiddulph\/will-gpt4o-be-available-to-chatgpt",
+    "date":"2025-08-10"
+  },
+  {
     "question":"Will I study math 3 hours per day this week?",
-    "probability":0.29,
+    "probability":0.36,
     "link":"https:\/\/manifold.markets\/ab2024\/will-i-study-math-3-hours-per-day-t",
     "date":"2025-08-10"
   },
   {
     "question":"Will OpenAI announce a new model that EpochAI estimates is at least as large as GPT-4.5, before August 2026?",
-    "probability":0.39,
+    "probability":0.38,
     "link":"https:\/\/manifold.markets\/Bayesian\/will-openai-announce-a-new-model-th-udLOcyEIOc",
     "date":"2025-08-10"
   },
   {
     "question":"Will OpenAI announce a new model that EpochAI estimates is at least as large as GPT-4.5, in 2025?",
-    "probability":0.38,
+    "probability":0.37,
     "link":"https:\/\/manifold.markets\/Bayesian\/will-openai-announce-a-new-model-th",
     "date":"2025-08-10"
   },
@@ -21,12 +39,6 @@
     "question":"Will Jose Luis Ricon attend gwern's BIRTHDAY PARTY in 2025?",
     "probability":0.32,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-jose-luis-ricon-attend-gwerns",
-    "date":"2025-08-10"
-  },
-  {
-    "question":"Game site",
-    "probability":0.36,
-    "link":"https:\/\/manifold.markets\/khalidACpP\/game-site",
     "date":"2025-08-10"
   },
   {
@@ -85,7 +97,7 @@
   },
   {
     "question":"Google Partnership with Apple for Gemini integration into iPhone by EOY?",
-    "probability":0.31,
+    "probability":0.29,
     "link":"https:\/\/manifold.markets\/jim\/google-partnership-with-apple-for-g",
     "date":"2025-08-10"
   },
@@ -115,7 +127,7 @@
   },
   {
     "question":"Will 4o be available for ChatGPT Plus subscribers on 1st of October 2025?",
-    "probability":0.29,
+    "probability":0.33,
     "link":"https:\/\/manifold.markets\/Donald\/will-4o-be-available-for-chatgpt-pl",
     "date":"2025-08-10"
   },
@@ -133,7 +145,7 @@
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.91,
+    "probability":0.92,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-Zn6R09ZSNd",
     "date":"2025-08-10"
   },
@@ -175,7 +187,7 @@
   },
   {
     "question":"OpenAI releases GPT-5.1 in 2025?",
-    "probability":0.28,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/JoshYou\/openai-releases-gpt51-this-year",
     "date":"2025-08-10"
   },
@@ -253,7 +265,7 @@
   },
   {
     "question":"Will lab grown salmon be available at Whole Foods by the end of 2025?",
-    "probability":0.39,
+    "probability":0.37,
     "link":"https:\/\/manifold.markets\/Apple_\/will-lab-grown-salmon-be-available",
     "date":"2025-08-10"
   },
@@ -355,7 +367,7 @@
   },
   {
     "question":"ChatGPT experiences major bug\/glitch before August 14, 2025?",
-    "probability":0.35,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/Himanshushukla\/chatgpt-experiences-major-bugglitch",
     "date":"2025-08-10"
   },
@@ -463,7 +475,7 @@
   },
   {
     "question":"Bitcoin closes above $115K on August 14?",
-    "probability":0.31,
+    "probability":0.3,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-closes-above-115k-on-august",
     "date":"2025-08-10"
   },
@@ -583,7 +595,7 @@
   },
   {
     "question":"Bitcoin exceeds $120,000 by end of August 2025?",
-    "probability":0.33,
+    "probability":0.31,
     "link":"https:\/\/manifold.markets\/pesci9521\/bitcoin-exceeds-120000-by-end-of-au",
     "date":"2025-08-10"
   },
@@ -715,7 +727,7 @@
   },
   {
     "question":"Will Dragon die before he makes a move?",
-    "probability":0.29,
+    "probability":0.27,
     "link":"https:\/\/manifold.markets\/Ziyad0Nt9\/will-dragon-die-before-he-makes-a-m",
     "date":"2025-08-10"
   },
@@ -997,7 +1009,7 @@
   },
   {
     "question":"Next James Bond actor announced by October 31, 2025?",
-    "probability":0.39,
+    "probability":0.37,
     "link":"https:\/\/manifold.markets\/LouisZhang\/next-james-bond-actor-announced-by",
     "date":"2025-08-10"
   },
@@ -1009,7 +1021,7 @@
   },
   {
     "question":"Will Bitcoin BTC reach $130,000 in 2025?",
-    "probability":0.36,
+    "probability":0.37,
     "link":"https:\/\/manifold.markets\/HillaryClinton\/will-bitcoin-btc-reach-130000-in-20",
     "date":"2025-08-10"
   },
@@ -1293,30 +1305,6 @@
     "question":"Will there be a confirmed or reliable sighting of a wild Bishop's 'o'o by the end of 2030?",
     "probability":0.29,
     "link":"https:\/\/manifold.markets\/strutheo\/will-there-be-a-confirmed-or-reliab-h6P6ns5PQd",
-    "date":"2025-08-10"
-  },
-  {
-    "question":"Will there be a confirmed or reliable sighting of a wild Oloma'o by the end of 2030?",
-    "probability":0.36,
-    "link":"https:\/\/manifold.markets\/strutheo\/will-there-be-a-confirmed-or-reliab",
-    "date":"2025-08-10"
-  },
-  {
-    "question":"Will there be a confirmed or reliable sighting of a wild Eskimo Curlew by the end of 2030?",
-    "probability":0.29,
-    "link":"https:\/\/manifold.markets\/strutheo\/will-there-be-a-confirmed-signing-o",
-    "date":"2025-08-10"
-  },
-  {
-    "question":"Will the average car sold in the US in 2030 be smaller than the average car sold (in the US) in 2025",
-    "probability":0.29,
-    "link":"https:\/\/manifold.markets\/Emeline\/us-average-car-size-smaller-in-2030",
-    "date":"2025-08-10"
-  },
-  {
-    "question":"The next time Mt Vesuvius erupts, will 100 or more people die?",
-    "probability":0.42,
-    "link":"https:\/\/manifold.markets\/strutheo\/the-next-time-mt-vesuvius-erupts-wi",
     "date":"2025-08-10"
   }
 ]
