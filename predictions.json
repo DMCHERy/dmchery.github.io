@@ -1,5 +1,23 @@
 [
   {
+    "question":"Will a song from Conan Gray\u2019s \u201cWishbone\u201d hit top 10 in the Billboard Hot 100 by month\u2019s end?",
+    "probability":0.49,
+    "link":"https:\/\/manifold.markets\/geuber\/will-a-song-from-conan-grays-wishbo",
+    "date":"2025-08-15"
+  },
+  {
+    "question":"Widespread reports of ICE or DHS agents guarding polling stations during Trump II",
+    "probability":0.47,
+    "link":"https:\/\/manifold.markets\/AlexanderTheGreater\/widespread-reports-of-ice-or-dhs-ag",
+    "date":"2025-08-15"
+  },
+  {
+    "question":"Will someone post a 6+ minute YouTube video eating at a restaurant with Jose Luis Ricon by 2027",
+    "probability":0.49,
+    "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-someone-post-a-6-minute-youtub",
+    "date":"2025-08-15"
+  },
+  {
     "question":"Daily Coinflip 2",
     "probability":0.66,
     "link":"https:\/\/manifold.markets\/121\/daily-coinflip-2",
@@ -13,13 +31,13 @@
   },
   {
     "question":"Will xAI Open Source Grok 2 by August 18th",
-    "probability":0.51,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/AffineTyped\/will-xai-open-source-grok-2-by-augu",
     "date":"2025-08-15"
   },
   {
     "question":"Will Mt. Etna erupt before 2026? [Kalshi]",
-    "probability":0.52,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/arbogast\/will-mt-etna-erupt-before-2026-kals",
     "date":"2025-08-15"
   },
@@ -49,7 +67,7 @@
   },
   {
     "question":"Will my Air Canada flight tomorrow be canceled?",
-    "probability":0.61,
+    "probability":0.66,
     "link":"https:\/\/manifold.markets\/cherrvak\/will-my-air-canada-flight-tomorrow",
     "date":"2025-08-15"
   },
@@ -109,7 +127,7 @@
   },
   {
     "question":"Will Kesha represent the US at Eurovision 2026?",
-    "probability":0.46,
+    "probability":0.5,
     "link":"https:\/\/manifold.markets\/SG\/will-kesha-represent-the-us-at-euro",
     "date":"2025-08-15"
   },
@@ -139,7 +157,7 @@
   },
   {
     "question":"Will Gemini 2.5 pro be the top AI model as per LMArena by the end August",
-    "probability":0.39,
+    "probability":0.37,
     "link":"https:\/\/manifold.markets\/AnilkumarA0dg\/will-gemini-25-pro-be-the-top-ai-mo",
     "date":"2025-08-15"
   },
@@ -163,13 +181,13 @@
   },
   {
     "question":"Will California pass a mid-cycle redistricting referendum in 2025?",
-    "probability":0.46,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/zax\/will-california-pass-a-midcycle-red",
     "date":"2025-08-15"
   },
   {
     "question":"'Lisa - Dream' video to cross 4.72 views at 8:00 pm?",
-    "probability":0.74,
+    "probability":0.41,
     "link":"https:\/\/manifold.markets\/AnilkumarA0dg\/lisa-dream-video-to-cross-472-views",
     "date":"2025-08-15"
   },
@@ -235,7 +253,7 @@
   },
   {
     "question":"Will Kalo bag Joyce by EoY 2025?",
-    "probability":0.48,
+    "probability":0.42,
     "link":"https:\/\/manifold.markets\/Ueaj\/will-kalo-bag-joyce-by-eoy-2025",
     "date":"2025-08-15"
   },
@@ -289,13 +307,13 @@
   },
   {
     "question":"Will Air Canada flight attendants strike before Sunday, Aug 17?",
-    "probability":0.58,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/GoodGuesser\/will-air-canada-flight-attendants-s",
     "date":"2025-08-15"
   },
   {
     "question":"Will my Air Canada flight on Sunday, Aug 17 get cancelled?",
-    "probability":0.26,
+    "probability":0.29,
     "link":"https:\/\/manifold.markets\/GoodGuesser\/will-my-air-canada-flight-on-sunday",
     "date":"2025-08-15"
   },
@@ -1359,12 +1377,6 @@
     "question":"Will there be 20,000 or more White Rhinos alive at the end of 2028?",
     "probability":0.41,
     "link":"https:\/\/manifold.markets\/strutheo\/will-there-be-20000-or-more-white-r",
-    "date":"2025-08-15"
-  },
-  {
-    "question":"Wird der 28.11.2028 eine gro\u00dfe \u00dcberraschung f\u00fcr HelixHD?",
-    "probability":0.44,
-    "link":"https:\/\/manifold.markets\/megasammy\/wird-der-28112028-eine-groe-uberras",
     "date":"2025-08-15"
   }
 ]
