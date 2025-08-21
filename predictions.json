@@ -1,5 +1,35 @@
 [
   {
+    "question":"Will any MF DOOM songs be played during the MCU film DOOMSDAY?",
+    "probability":0.58,
+    "link":"https:\/\/manifold.markets\/CraigDemel\/will-any-mf-doom-songs-be-played-du",
+    "date":"2025-08-21"
+  },
+  {
+    "question":"Will I find someone I like more than Aella liked her ex before 2031?",
+    "probability":0.52,
+    "link":"https:\/\/manifold.markets\/asmith\/will-i-find-someone-i-like-more-tha-n8RPyO9hpt",
+    "date":"2025-08-21"
+  },
+  {
+    "question":"50%+ of interpreters and translators lose jobs by 2030?",
+    "probability":0.6,
+    "link":"https:\/\/manifold.markets\/CoffeeFlux\/50-of-interpreters-and-translators",
+    "date":"2025-08-21"
+  },
+  {
+    "question":"5%+ of interpreters and translators lose jobs by 2026?",
+    "probability":0.51,
+    "link":"https:\/\/manifold.markets\/CoffeeFlux\/5-of-interpreters-and-translators-l",
+    "date":"2025-08-21"
+  },
+  {
+    "question":"Mexico summons US ambassador before midnight Christmas Eve 2025?",
+    "probability":0.57,
+    "link":"https:\/\/manifold.markets\/JussiVilleHeiskanen\/mexico-summons-us-ambassador-before",
+    "date":"2025-08-21"
+  },
+  {
     "question":"Hurricane Erin causes 40+ fatalities?",
     "probability":0.64,
     "link":"https:\/\/manifold.markets\/waitblock\/hurricane-erin-causes-40-fatalities",
@@ -37,7 +67,7 @@
   },
   {
     "question":"Will there be another assassination of a US politician before the 2026 midterms?",
-    "probability":0.47,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/EvanDaniel\/will-there-be-another-assassination-StRlcEuPUp",
     "date":"2025-08-21"
   },
@@ -91,7 +121,7 @@
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.7,
+    "probability":0.78,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-2RLUyZdI2z",
     "date":"2025-08-21"
   },
@@ -115,7 +145,7 @@
   },
   {
     "question":"Will Trump Wear a Crown?",
-    "probability":0.36,
+    "probability":0.35,
     "link":"https:\/\/manifold.markets\/jim\/will-trump-wear-a-crown",
     "date":"2025-08-21"
   },
@@ -145,7 +175,7 @@
   },
   {
     "question":"Will the UK Government move to restrict access to VPNs this Parliament?",
-    "probability":0.43,
+    "probability":0.41,
     "link":"https:\/\/manifold.markets\/Noit\/will-the-uk-government-move-to-rest",
     "date":"2025-08-21"
   },
@@ -193,7 +223,7 @@
   },
   {
     "question":"Will OpenAI display ads to free tier users within one year?",
-    "probability":0.4,
+    "probability":0.46,
     "link":"https:\/\/manifold.markets\/Bandors\/will-openai-display-ads-to-free-tie",
     "date":"2025-08-21"
   },
@@ -235,13 +265,13 @@
   },
   {
     "question":"Will there be a Glass of Water emoji by the end of 2028?",
-    "probability":0.5,
+    "probability":0.47,
     "link":"https:\/\/manifold.markets\/strutheo\/will-there-be-a-glass-of-water-emoj",
     "date":"2025-08-21"
   },
   {
     "question":"Will my penis measure over 6 inches the next time I measure it?",
-    "probability":0.55,
+    "probability":0.54,
     "link":"https:\/\/manifold.markets\/fedor\/will-my-penis-measure-over-6-inches",
     "date":"2025-08-21"
   },
@@ -253,7 +283,7 @@
   },
   {
     "question":"My 2nd Substack post exceeds 34 views before August 26th, 2025?",
-    "probability":0.55,
+    "probability":0.5,
     "link":"https:\/\/manifold.markets\/Carrotcake\/my-2nd-substack-post-exceeds-34-vie",
     "date":"2025-08-21"
   },
@@ -379,7 +409,7 @@
   },
   {
     "question":"Putin meets Zelensky before October?",
-    "probability":0.71,
+    "probability":0.74,
     "link":"https:\/\/manifold.markets\/predyx_markets\/putin-meets-zelensky-before-october",
     "date":"2025-08-21"
   },
@@ -577,7 +607,7 @@
   },
   {
     "question":"By the end of 2026, will I care about any Manifold market about Jose Luis Ricon?",
-    "probability":0.45,
+    "probability":0.43,
     "link":"https:\/\/manifold.markets\/jcb\/by-the-end-of-2026-will-i-care-abou",
     "date":"2025-08-21"
   },
@@ -595,7 +625,7 @@
   },
   {
     "question":"will i lock in 2025~2026 school year",
-    "probability":0.51,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/icytZtZ\/will-i-lock-in-20252026-school-year",
     "date":"2025-08-21"
   },
@@ -745,7 +775,7 @@
   },
   {
     "question":"Bitcoin above $117K on August 23?",
-    "probability":0.71,
+    "probability":0.75,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-above-117k-on-august-23",
     "date":"2025-08-21"
   },
@@ -1327,7 +1357,7 @@
   },
   {
     "question":"Will Trump eliminate the Office of Children\u2019s Health Protection from the EPA by the end of 2027?",
-    "probability":0.46,
+    "probability":0.45,
     "link":"https:\/\/manifold.markets\/strutheo\/will-trump-eliminate-the-office-of",
     "date":"2025-08-21"
   },
@@ -1383,36 +1413,6 @@
     "question":"Before 2029, will OpenAI provide API access to a frontier LLM with 100,000,000+ context length?",
     "probability":0.5,
     "link":"https:\/\/manifold.markets\/JaundicedBaboon\/before-2029-will-openai-provide-api",
-    "date":"2025-08-21"
-  },
-  {
-    "question":"Will AI be able to generate a realistic map of the US with all 50 states labeled correctly (no typos) by EOY 2026?",
-    "probability":0.38,
-    "link":"https:\/\/manifold.markets\/bens\/will-ai-be-able-to-generate-a-reali",
-    "date":"2025-08-21"
-  },
-  {
-    "question":"Low hanging fruit in dataviz due to causality?",
-    "probability":0.56,
-    "link":"https:\/\/manifold.markets\/mariopasquato\/low-hanging-fruit-in-dataviz-due-to",
-    "date":"2025-08-21"
-  },
-  {
-    "question":"Will the MLB detect Ohtani using PEDs by end of 2030?",
-    "probability":0.66,
-    "link":"https:\/\/manifold.markets\/10thOfficial\/will-the-mlb-detect-ohtani-using-pe",
-    "date":"2025-08-21"
-  },
-  {
-    "question":"Britons' pride in British history increases by 2026?",
-    "probability":0.46,
-    "link":"https:\/\/manifold.markets\/LukeShadwell\/britons-pride-in-british-history-in",
-    "date":"2025-08-21"
-  },
-  {
-    "question":"Robot assembles IKEA furniture using printed instructions, before 2030?",
-    "probability":0.63,
-    "link":"https:\/\/manifold.markets\/Bayesian\/robot-assembles-ikea-furniture-usin",
     "date":"2025-08-21"
   }
 ]
