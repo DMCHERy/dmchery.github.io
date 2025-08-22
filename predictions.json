@@ -1,13 +1,55 @@
 [
   {
+    "question":"Will Deepseek release Deepseek V3.14?",
+    "probability":0.31,
+    "link":"https:\/\/manifold.markets\/TotalVerb\/will-deepseek-release-deepseek-v314",
+    "date":"2025-08-22"
+  },
+  {
+    "question":"Will Vingegaard dominate La Vuelta?",
+    "probability":0.56,
+    "link":"https:\/\/manifold.markets\/robert\/will-vingegaard-dominate-la-vuelta",
+    "date":"2025-08-22"
+  },
+  {
+    "question":"Will Peter Magyar be arrested before the 2026 elections in Hungary?",
+    "probability":0.4,
+    "link":"https:\/\/manifold.markets\/DanielNielsenIC50\/will-peter-magyar-be-arrested-befor",
+    "date":"2025-08-22"
+  },
+  {
+    "question":"IF I pursue my own products\/projects as the primary occupation: will 12-month satisfaction be \u22657\/10?",
+    "probability":0.38,
+    "link":"https:\/\/manifold.markets\/HansPeter\/if-i-pursue-my-own-productsprojects",
+    "date":"2025-08-22"
+  },
+  {
+    "question":"IF I accept a remote-first role: will 12-month satisfaction be \u22657\/10?",
+    "probability":0.55,
+    "link":"https:\/\/manifold.markets\/HansPeter\/if-i-accept-a-remotefirst-role-will",
+    "date":"2025-08-22"
+  },
+  {
+    "question":"IF I accept a local on-site\/hybrid role: will 12-month satisfaction be \u22657\/10?",
+    "probability":0.54,
+    "link":"https:\/\/manifold.markets\/HansPeter\/if-i-accept-a-local-onsitehybrid-ro",
+    "date":"2025-08-22"
+  },
+  {
+    "question":"IF I stay at my current employer: will 12-month satisfaction be \u22657\/10?",
+    "probability":0.55,
+    "link":"https:\/\/manifold.markets\/HansPeter\/if-i-stay-at-my-current-employer-wi",
+    "date":"2025-08-22"
+  },
+  {
     "question":"Will protests involving 1,000+ participants occur in Moscow, St. Petersburg, or Novosibirsk before January 1, 2026?",
     "probability":0.3,
     "link":"https:\/\/manifold.markets\/NathanpmYoung\/will-protests-involving-1000-partic",
     "date":"2025-08-22"
   },
   {
-    "question":"Daily Coinflip 8",
-    "probability":0.51,
+    "question":"Daily Coinflip 9",
+    "probability":0.31,
     "link":"https:\/\/manifold.markets\/121\/daily-coinflip-8",
     "date":"2025-08-22"
   },
@@ -43,7 +85,7 @@
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.9,
+    "probability":0.96,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-dA0gts55Qh",
     "date":"2025-08-22"
   },
@@ -61,19 +103,19 @@
   },
   {
     "question":"Will \"Four ways learning Econ makes people dumber r...\" make the top fifty posts in LessWrong's 2025 Annual Review?",
-    "probability":0.38,
+    "probability":0.29,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-four-ways-learning-econ-makes",
     "date":"2025-08-22"
   },
   {
     "question":"Will \"Church Planting: When Venture Capital Finds Jesus\" make the top fifty posts in LessWrong's 2025 Annual Review?",
-    "probability":0.38,
+    "probability":0.26,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-church-planting-when-venture-c",
     "date":"2025-08-22"
   },
   {
     "question":"Trump says or writes \u201cCat in the Hat\u201d by end of 2026",
-    "probability":0.32,
+    "probability":0.33,
     "link":"https:\/\/manifold.markets\/CryptoNeoLiberalist\/trump-says-or-writes-cat-in-the-hat",
     "date":"2025-08-22"
   },
@@ -85,25 +127,25 @@
   },
   {
     "question":"Cracker Barrel reverts back to old logo by end of 2025?",
-    "probability":0.47,
+    "probability":0.35,
     "link":"https:\/\/manifold.markets\/Predictor\/cracker-barrel-reverts-back-to-old",
     "date":"2025-08-22"
   },
   {
-    "question":"US win Intervision 2025?",
-    "probability":0.38,
+    "question":"US wins Intervision 2025?",
+    "probability":0.4,
     "link":"https:\/\/manifold.markets\/JussiVilleHeiskanen\/us-win-intervision-2025",
     "date":"2025-08-22"
   },
   {
     "question":"Will I (@Bayesian) reach #2 in the All-time profit leaderboard in 2025?",
-    "probability":0.38,
+    "probability":0.35,
     "link":"https:\/\/manifold.markets\/Bayesian\/will-i-bayesian-reach-2-in-the-allt",
     "date":"2025-08-22"
   },
   {
     "question":"Victor Taelin's HigherOrderCO merger in 2025?",
-    "probability":0.41,
+    "probability":0.39,
     "link":"https:\/\/manifold.markets\/Bayesian\/victor-taelins-higherorderco-merger",
     "date":"2025-08-22"
   },
@@ -133,7 +175,7 @@
   },
   {
     "question":"Is the coin fair?",
-    "probability":0.37,
+    "probability":0.23,
     "link":"https:\/\/manifold.markets\/dfish\/is-the-coin-fair",
     "date":"2025-08-22"
   },
@@ -163,7 +205,7 @@
   },
   {
     "question":"Will the Goldbach conjecture be solved by the end of 2030?",
-    "probability":0.29,
+    "probability":0.32,
     "link":"https:\/\/manifold.markets\/strutheo\/will-the-goldbach-conjecture-be-sol",
     "date":"2025-08-22"
   },
@@ -187,7 +229,7 @@
   },
   {
     "question":"Will Microsoft\u2019s stock price on October 17, 2025 be higher than on August 24, 2025?",
-    "probability":0.47,
+    "probability":0.48,
     "link":"https:\/\/manifold.markets\/RiccardoBoscariol\/will-microsofts-stock-price-on-octo",
     "date":"2025-08-22"
   },
@@ -295,7 +337,7 @@
   },
   {
     "question":"Stack the Odds (Betters Edition)",
-    "probability":0.55,
+    "probability":0.61,
     "link":"https:\/\/manifold.markets\/Traveel\/stack-the-odds-betters-edition",
     "date":"2025-08-22"
   },
@@ -331,7 +373,7 @@
   },
   {
     "question":"Will tsunami hit Phuket, Thailand in 2025?",
-    "probability":0.42,
+    "probability":0.38,
     "link":"https:\/\/manifold.markets\/BusinessTrue\/will-tsunami-hit-phuket-thailand-in",
     "date":"2025-08-22"
   },
@@ -421,7 +463,7 @@
   },
   {
     "question":"Will Barcelona Beat Levante?\u26bd\ufe0f",
-    "probability":0.48,
+    "probability":0.45,
     "link":"https:\/\/manifold.markets\/MiguelRamirez\/will-barcelona-beat-levante",
     "date":"2025-08-22"
   },
@@ -451,7 +493,7 @@
   },
   {
     "question":"My 2nd Substack post exceeds 34 views before August 26th, 2025?",
-    "probability":0.33,
+    "probability":0.32,
     "link":"https:\/\/manifold.markets\/Carrotcake\/my-2nd-substack-post-exceeds-34-vie",
     "date":"2025-08-22"
   },
@@ -469,7 +511,7 @@
   },
   {
     "question":"Lithium deficiency causes Alzheimer's?",
-    "probability":0.45,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/zQ4Z82W\/lithium-deficiency-causes-alzheimer",
     "date":"2025-08-22"
   },
@@ -553,7 +595,7 @@
   },
   {
     "question":"Will the first Superintelligence try to end the practice of factory farming (including if only for mammals)?",
-    "probability":0.22,
+    "probability":0.25,
     "link":"https:\/\/manifold.markets\/Ataraxia\/will-the-first-super-intelligence-t-USu0gz2R9t",
     "date":"2025-08-22"
   },
@@ -637,7 +679,7 @@
   },
   {
     "question":"Another car-bar rhyme in Taylor Swift's new album?",
-    "probability":0.33,
+    "probability":0.36,
     "link":"https:\/\/manifold.markets\/ZandaZhu\/another-carbar-rhyme-in-taylor-swif",
     "date":"2025-08-22"
   },
@@ -925,7 +967,7 @@
   },
   {
     "question":"Trump, Putin, and Zelenskyy hold trilateral meeting before October 1, 2025?",
-    "probability":0.29,
+    "probability":0.27,
     "link":"https:\/\/manifold.markets\/AndreyFrantsev\/trump-putin-and-zelenskyy-hold-tril",
     "date":"2025-08-22"
   },
@@ -943,7 +985,7 @@
   },
   {
     "question":"Bitcoin above $117K on August 23?",
-    "probability":0.64,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-above-117k-on-august-23",
     "date":"2025-08-22"
   },
@@ -979,7 +1021,7 @@
   },
   {
     "question":"Russia invades Alaska by 2035",
-    "probability":0.33,
+    "probability":0.34,
     "link":"https:\/\/manifold.markets\/Predictor\/russia-invades-alaska-by-2035",
     "date":"2025-08-22"
   },
@@ -1093,7 +1135,7 @@
   },
   {
     "question":"Will the Frisian National Party get a seat in parliament?",
-    "probability":0.35,
+    "probability":0.36,
     "link":"https:\/\/manifold.markets\/WieDan\/will-the-frisian-national-party-get",
     "date":"2025-08-22"
   },
@@ -1141,7 +1183,7 @@
   },
   {
     "question":"Will my boyfriend regret not going for a recommended ultrasound?",
-    "probability":0.33,
+    "probability":0.36,
     "link":"https:\/\/manifold.markets\/CrepuscularRodent\/will-my-boyfriend-regret-not-going",
     "date":"2025-08-22"
   },
@@ -1153,7 +1195,7 @@
   },
   {
     "question":"What % of SlutCon attendees will be women?",
-    "probability":0.35,
+    "probability":0.3,
     "link":"https:\/\/manifold.markets\/StandardDeviant\/what-of-slutcon-attendees-will-be-w",
     "date":"2025-08-22"
   },
@@ -1291,7 +1333,7 @@
   },
   {
     "question":"Will Gemini 2.5 pro be the top AI model as per LMArena by the end August",
-    "probability":0.28,
+    "probability":0.27,
     "link":"https:\/\/manifold.markets\/AnilkumarA0dg\/will-gemini-25-pro-be-the-top-ai-mo",
     "date":"2025-08-22"
   },
@@ -1347,66 +1389,6 @@
     "question":"Will Microsoft AI launch its first model by September 2025?",
     "probability":0.3,
     "link":"https:\/\/manifold.markets\/LeonLinuxlu\/will-microsoft-ai-launch-its-first",
-    "date":"2025-08-22"
-  },
-  {
-    "question":"Will Texas use a different U.S. House map in 2026 than in 2024?",
-    "probability":0.31,
-    "link":"https:\/\/manifold.markets\/yeeta\/will-texas-use-a-different-us-house",
-    "date":"2025-08-22"
-  },
-  {
-    "question":"Will the 2030 NYC census be less than the 2020 census?",
-    "probability":0.33,
-    "link":"https:\/\/manifold.markets\/asmith\/will-the-2030-nyc-census-be-less-th",
-    "date":"2025-08-22"
-  },
-  {
-    "question":"Will Trump agree to Russia earth minerals deal before end of 2025?",
-    "probability":0.38,
-    "link":"https:\/\/manifold.markets\/CryptoNeoLiberalist\/will-trump-agree-to-russia-earth-mi",
-    "date":"2025-08-22"
-  },
-  {
-    "question":"Taylor swift makes her 13th album within 5 years of laos release?",
-    "probability":0.28,
-    "link":"https:\/\/manifold.markets\/ZandaZhu\/taylor-swift-makes-her-13th-album-w",
-    "date":"2025-08-22"
-  },
-  {
-    "question":"Prospera breaks ground on an African charter city project before EOY 2028?",
-    "probability":0.26,
-    "link":"https:\/\/manifold.markets\/MiguelSanchezB\/prospera-breaks-ground-on-an-africa",
-    "date":"2025-08-22"
-  },
-  {
-    "question":"My stock portfolio reaches $10,000 by EOY 2025?",
-    "probability":0.37,
-    "link":"https:\/\/manifold.markets\/JeromeHPowell\/my-stock-portfolio-reaches-10000-by",
-    "date":"2025-08-22"
-  },
-  {
-    "question":"Will Kalo bag Joyce by EoY 2025?",
-    "probability":0.38,
-    "link":"https:\/\/manifold.markets\/Ueaj\/will-kalo-bag-joyce-by-eoy-2025",
-    "date":"2025-08-22"
-  },
-  {
-    "question":"Liberals still in Riksdag after next election?",
-    "probability":0.36,
-    "link":"https:\/\/manifold.markets\/Pazzaz\/liberals-still-in-riksdag-after-202",
-    "date":"2025-08-22"
-  },
-  {
-    "question":"Will they announce a presidential library at Trump's Bedminster golf course by the end of 2028?",
-    "probability":0.3,
-    "link":"https:\/\/manifold.markets\/strutheo\/will-they-announce-a-presidential-l-dNtSZLgpNl",
-    "date":"2025-08-22"
-  },
-  {
-    "question":"Will they announce a presidential library at Trump's Mar-A-Lago by the end of 2028?",
-    "probability":0.42,
-    "link":"https:\/\/manifold.markets\/strutheo\/will-they-announce-a-presidential-l-gu8I2Apllg",
     "date":"2025-08-22"
   }
 ]
