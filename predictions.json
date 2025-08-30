@@ -1,5 +1,17 @@
 [
   {
+    "question":"Is Trump dead?",
+    "probability":0.4,
+    "link":"https:\/\/manifold.markets\/jim\/is-trump-dead",
+    "date":"2025-08-30"
+  },
+  {
+    "question":"Will Starship fail in its zero-degree AoA deadzone?",
+    "probability":0.18,
+    "link":"https:\/\/manifold.markets\/iwakura\/will-starship-fail-in-its-zerodegre",
+    "date":"2025-08-30"
+  },
+  {
     "question":"Will there be a cheaper form of fatty15 (https:\/\/www.rapamycin.news\/t\/c15-0-fatty-acid\/14804\/27) by EOY2026?",
     "probability":0.27,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-there-be-a-cheaper-form-of-fat",
@@ -13,7 +25,7 @@
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.17,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-QdNh65Z5Ns",
     "date":"2025-08-30"
   },
@@ -25,13 +37,13 @@
   },
   {
     "question":"Dwarkesh's mystery guest revealed by Aug 21, 2026?",
-    "probability":0.18,
+    "probability":0.31,
     "link":"https:\/\/manifold.markets\/ItsMe\/dwarkeshs-mystery-guest-revealed-by",
     "date":"2025-08-30"
   },
   {
     "question":"Trump president on 12\/31\/2025?",
-    "probability":0.63,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/CivilizedGuy\/trump-president-on-12312025",
     "date":"2025-08-30"
   },
@@ -54,8 +66,8 @@
     "date":"2025-08-30"
   },
   {
-    "question":"Supreme Court rules Trump tariffs unlawful?",
-    "probability":0.35,
+    "question":"Supreme Court rules Trump tariffs lawful?",
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/QuimLast\/supreme-court-rules-trump-tariffs-u",
     "date":"2025-08-30"
   },
@@ -79,7 +91,7 @@
   },
   {
     "question":"Taylor Swift pregnant before 2026?",
-    "probability":0.52,
+    "probability":0.46,
     "link":"https:\/\/manifold.markets\/Tej\/taylor-swift-pregnant-before-2026",
     "date":"2025-08-30"
   },
@@ -115,7 +127,7 @@
   },
   {
     "question":"Will Ukraine apologize for blowing up Nord stream 2 before 2030?",
-    "probability":0.5,
+    "probability":0.71,
     "link":"https:\/\/manifold.markets\/HannesLynchburg\/will-ukraine-apologize-for-blowing",
     "date":"2025-08-30"
   },
@@ -139,13 +151,13 @@
   },
   {
     "question":"Minecraft tops 2025 box office?",
-    "probability":0.67,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/predyx_markets\/minecraft-movie-tops-2025-box-offic",
     "date":"2025-08-30"
   },
   {
     "question":"OpenAI browser by Oct 31?",
-    "probability":0.74,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/predyx_markets\/openai-releases-a-browser-by-octobe",
     "date":"2025-08-30"
   },
@@ -301,7 +313,7 @@
   },
   {
     "question":"Military conflict between the US and Venezuela in 2025?",
-    "probability":0.71,
+    "probability":0.73,
     "link":"https:\/\/manifold.markets\/AlexanderTheGreater\/military-conflict-between-the-us-an",
     "date":"2025-08-30"
   },
@@ -487,7 +499,7 @@
   },
   {
     "question":"Will a true autonomous Cannonball Run be completed in under 48 hours by the end of 2028?",
-    "probability":0.63,
+    "probability":0.66,
     "link":"https:\/\/manifold.markets\/strutheo\/will-an-autonomous-cannonball-run-b",
     "date":"2025-08-30"
   },
@@ -523,7 +535,7 @@
   },
   {
     "question":"French confidence vote fails?",
-    "probability":0.73,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/Bayesian\/french-confidence-vote-fails",
     "date":"2025-08-30"
   },
@@ -613,7 +625,7 @@
   },
   {
     "question":"XRP price exceeds $3 on September 1, 2025?",
-    "probability":0.6,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/Anamax\/xrp-price-exceeds-3-on-september-1",
     "date":"2025-08-30"
   },
@@ -745,7 +757,7 @@
   },
   {
     "question":"Bitcoin above $115K on August 31?",
-    "probability":0.43,
+    "probability":0.36,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-above-115k-on-august-31",
     "date":"2025-08-30"
   },
@@ -769,7 +781,7 @@
   },
   {
     "question":"Trump is US President on December 31, 2026?",
-    "probability":0.61,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/itsTomekK\/trump-is-us-president-on-december-3",
     "date":"2025-08-30"
   },
@@ -1045,7 +1057,7 @@
   },
   {
     "question":"Will Dr. Beatriz Villarroel\u2019s \u201caligned transients\u201d be independently replicated?",
-    "probability":0.77,
+    "probability":0.9,
     "link":"https:\/\/manifold.markets\/FranklinBaldo\/will-dr-beatriz-villarroels-aligned",
     "date":"2025-08-30"
   },
@@ -1099,7 +1111,7 @@
   },
   {
     "question":"Orgy at Slutcon 2025?",
-    "probability":0.53,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/RomanHauksson\/orgy-at-slutcon-2025",
     "date":"2025-08-30"
   },
@@ -1231,7 +1243,7 @@
   },
   {
     "question":"Will I get loan\/investment?",
-    "probability":0.39,
+    "probability":0.48,
     "link":"https:\/\/manifold.markets\/vdb\/will-i-gather-mana-from-other-playe",
     "date":"2025-08-30"
   },
@@ -1291,7 +1303,7 @@
   },
   {
     "question":"Ukraine recognizes Russian sovereignty over Ukrainian territory in 2025? [Polymarket]",
-    "probability":0.88,
+    "probability":0.87,
     "link":"https:\/\/manifold.markets\/bagelfan\/ukraine-recognizes-russian-sovereig-nLEOnLzlRE",
     "date":"2025-08-30"
   },
@@ -1311,12 +1323,6 @@
     "question":"Conditional on a NATO country being invaded, will >80% of NATO honor Article 5?",
     "probability":0.79,
     "link":"https:\/\/manifold.markets\/Siebe\/conditional-on-a-nato-country-being",
-    "date":"2025-08-30"
-  },
-  {
-    "question":"will deepseek-v4 destroy all other models?",
-    "probability":0.66,
-    "link":"https:\/\/manifold.markets\/jim\/will-deepseekv4-destroy-all-other-m",
     "date":"2025-08-30"
   }
 ]
