@@ -1,5 +1,47 @@
 [
   {
+    "question":"Democrat inaugurated as US president in January 2029?",
+    "probability":0.16,
+    "link":"https:\/\/manifold.markets\/vee\/democrat-inaugurated-as-us-presiden",
+    "date":"2025-09-16"
+  },
+  {
+    "question":"Will someone be charged in the death of Trey Reed by the end of 2025?",
+    "probability":0.16,
+    "link":"https:\/\/manifold.markets\/strutheo\/will-someone-be-charged-in-the-deat",
+    "date":"2025-09-16"
+  },
+  {
+    "question":"Will there be a Metagame 2026?",
+    "probability":0.28,
+    "link":"https:\/\/manifold.markets\/IsaacKing\/will-there-be-a-metagame-2026",
+    "date":"2025-09-16"
+  },
+  {
+    "question":"Will \"Downstream applications as validation of inte...\" make the top fifty posts in LessWrong's 2025 Annual Review?",
+    "probability":0.24,
+    "link":"https:\/\/manifold.markets\/LessWrong\/will-downstream-applications-as-val",
+    "date":"2025-09-16"
+  },
+  {
+    "question":"Will \"Obligated to Respond\" make the top fifty posts in LessWrong's 2025 Annual Review?",
+    "probability":0.27,
+    "link":"https:\/\/manifold.markets\/LessWrong\/will-obligated-to-respond-make-the",
+    "date":"2025-09-16"
+  },
+  {
+    "question":"Did Nikita actually just fix (part of) twitter's bot problem? (in my subjective experience)",
+    "probability":0.49,
+    "link":"https:\/\/manifold.markets\/jacksonpolack\/did-nikita-actually-fix-twitters-bo",
+    "date":"2025-09-16"
+  },
+  {
+    "question":"Israel holds free and fair election in 2026?",
+    "probability":0.49,
+    "link":"https:\/\/manifold.markets\/SefiKronenberg\/israel-holds-free-and-fair-election",
+    "date":"2025-09-16"
+  },
+  {
     "question":"Jon Jones on UFC White House card?",
     "probability":0.24,
     "link":"https:\/\/manifold.markets\/John2IdPh\/jon-jones-on-ufc-white-house-card",
@@ -7,7 +49,7 @@
   },
   {
     "question":"Charlie Kirk shooting suspect's roommate charged with crime in 2025?",
-    "probability":0.15,
+    "probability":0.1,
     "link":"https:\/\/manifold.markets\/CryptoNeoLiberalist\/charlie-kirk-shooting-suspects-room",
     "date":"2025-09-16"
   },
@@ -61,7 +103,7 @@
   },
   {
     "question":"Will U.S. employment in Diagonistic Imaging Centers (proxy for radiologists) go below 2022 levels by 2034?",
-    "probability":0.36,
+    "probability":0.38,
     "link":"https:\/\/manifold.markets\/MP\/will-us-employment-in-diagonistic-i",
     "date":"2025-09-16"
   },
@@ -79,7 +121,7 @@
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.83,
+    "probability":1.0,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-5NdOOILRNU",
     "date":"2025-09-16"
   },
@@ -187,7 +229,7 @@
   },
   {
     "question":"Russian violation of NATO airspace by October 31, 2025?",
-    "probability":0.49,
+    "probability":0.5,
     "link":"https:\/\/manifold.markets\/TheTrueTorus\/russian-violation-of-nato-airspace",
     "date":"2025-09-16"
   },
@@ -307,7 +349,7 @@
   },
   {
     "question":"Will Hasan be banned for more than 14 days from twitch by the end of 2026?",
-    "probability":0.34,
+    "probability":0.38,
     "link":"https:\/\/manifold.markets\/strutheo\/will-hasan-be-banned-for-more-than",
     "date":"2025-09-16"
   },
@@ -355,7 +397,7 @@
   },
   {
     "question":"Will Iraqi Prime Minister be re-elected this year? (Prime minster is Mohammed Shia' al-Sudani)",
-    "probability":0.21,
+    "probability":0.25,
     "link":"https:\/\/manifold.markets\/DismalScientist\/will-iraqi-prime-minister-be-reelec",
     "date":"2025-09-16"
   },
@@ -757,7 +799,7 @@
   },
   {
     "question":"Will any Mox member (as of Sep 11 2025) be a billionaire 5 years from now?",
-    "probability":0.81,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/Austin\/will-any-mox-member-as-of-sep-11-20",
     "date":"2025-09-16"
   },
@@ -1503,30 +1545,6 @@
     "question":"Critterz scores 55+ on Metacritic?",
     "probability":0.75,
     "link":"https:\/\/manifold.markets\/ZviMowshowitz\/critterz-scores-55-on-metacritic",
-    "date":"2025-09-16"
-  },
-  {
-    "question":"Will the Fourth Circuit Court of Appeals rule in Kalshi's favor?",
-    "probability":0.2,
-    "link":"https:\/\/manifold.markets\/eightyhi\/will-the-fourth-circuit-court-of-ap",
-    "date":"2025-09-16"
-  },
-  {
-    "question":"Will the Third Circuit Court of Appeals rule in Kalshi's favor?",
-    "probability":0.63,
-    "link":"https:\/\/manifold.markets\/eightyhi\/will-the-third-circuit-court-of-app",
-    "date":"2025-09-16"
-  },
-  {
-    "question":"WIll the United States National Guard kill someone before the 2026 Midterm Elections?",
-    "probability":0.72,
-    "link":"https:\/\/manifold.markets\/Panfilo\/will-the-united-states-national-gua",
-    "date":"2025-09-16"
-  },
-  {
-    "question":"Will the Supreme Court hear a case about prediction market pre-emption?",
-    "probability":0.56,
-    "link":"https:\/\/manifold.markets\/eightyhi\/will-the-supreme-court-hear-a-case",
     "date":"2025-09-16"
   }
 ]
