@@ -1,13 +1,37 @@
 [
   {
+    "question":"Will the Tesla Roadster (2nd gen) be the fastest production car before 2032?",
+    "probability":0.64,
+    "link":"https:\/\/manifold.markets\/EvanDaniel\/will-the-tesla-roadster-2nd-gen-be",
+    "date":"2025-09-21"
+  },
+  {
+    "question":"Will Synology reverse their new policy against third-party drives?",
+    "probability":0.56,
+    "link":"https:\/\/manifold.markets\/xjp\/will-synology-reverse-their-new-pol",
+    "date":"2025-09-21"
+  },
+  {
+    "question":"Has Lockheed Martin developed a compact fusion reactor?",
+    "probability":0.54,
+    "link":"https:\/\/manifold.markets\/bens\/has-lockheed-martin-developed-a-com",
+    "date":"2025-09-21"
+  },
+  {
+    "question":"Nothing Ever Happens: AI Edition [Polymarket]",
+    "probability":0.62,
+    "link":"https:\/\/manifold.markets\/vdb\/nothing-ever-happens-ai-edition",
+    "date":"2025-09-21"
+  },
+  {
     "question":"Bagram Airbase in Afghanistan under US control on November 7. 2028?",
-    "probability":0.52,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/JussiVilleHeiskanen\/bagram-airbase-in-afghanistan-under",
     "date":"2025-09-21"
   },
   {
     "question":"Before 2040, will an entirely AI-generated film earn a 5\/10 or better on IMDB?",
-    "probability":0.58,
+    "probability":0.61,
     "link":"https:\/\/manifold.markets\/JaundicedBaboon\/before-2040-will-an-entirely-aigene",
     "date":"2025-09-21"
   },
@@ -19,13 +43,13 @@
   },
   {
     "question":"Will there be a Trump Tower in North Korea before 2035?",
-    "probability":0.55,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/itsTomekK\/will-there-be-a-trump-tower-in-nort",
     "date":"2025-09-21"
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.38,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/121\/daily-coinflip-PQUt9yIZQc",
     "date":"2025-09-21"
   },
@@ -43,13 +67,13 @@
   },
   {
     "question":"H1B demand persists despite $100k fee?",
-    "probability":0.46,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/GustavoMafra\/h1b-demand-persists-despite-100k-fe",
     "date":"2025-09-21"
   },
   {
     "question":"HIRE Act passes by 2026",
-    "probability":0.5,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/GustavoMafra\/hire-act-passes-by-2026",
     "date":"2025-09-21"
   },
@@ -61,7 +85,7 @@
   },
   {
     "question":"Will the New York Jets go 0-17 in the 2025 NFL season?",
-    "probability":0.61,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/JaundicedBaboon\/will-the-new-york-jets-go-017-in-th",
     "date":"2025-09-21"
   },
@@ -109,13 +133,13 @@
   },
   {
     "question":"Am I screwed? [READ DESC]",
-    "probability":0.44,
+    "probability":0.42,
     "link":"https:\/\/manifold.markets\/realDonaldTrump\/am-i-screwed-read-desc",
     "date":"2025-09-21"
   },
   {
     "question":"AI system achieves full technological and economic autonomy before 2028?",
-    "probability":0.55,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/AranCarmon\/ai-system-achieves-full-technologic",
     "date":"2025-09-21"
   },
@@ -199,13 +223,13 @@
   },
   {
     "question":"Will \"Gaza genocide\" be posted to Wikipedia's Main Page?",
-    "probability":0.55,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/User_\/will-gaza-genocide-be-posted-to-wik",
     "date":"2025-09-21"
   },
   {
     "question":"Will Leopold Aschenbrenner go on a podcast by EOY 2026?",
-    "probability":0.54,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/jim\/will-leopold-aschenbrenner-go-on-a",
     "date":"2025-09-21"
   },
@@ -223,7 +247,7 @@
   },
   {
     "question":"Government shutdown on October 1st, 2025?",
-    "probability":0.58,
+    "probability":0.61,
     "link":"https:\/\/manifold.markets\/card4man\/government-shutdown-on-october-1st",
     "date":"2025-09-21"
   },
@@ -277,13 +301,13 @@
   },
   {
     "question":"Will Jimmy Kimmel sue the Trump administration by the end of November?",
-    "probability":0.59,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/strutheo\/will-jimmy-kimmel-sue-the-trump-adm-lZtShAEOhE",
     "date":"2025-09-21"
   },
   {
     "question":"2025 men's cycling road world champion wins in solo breakaway?",
-    "probability":0.57,
+    "probability":0.6,
     "link":"https:\/\/manifold.markets\/robert\/2025-mens-cycling-world-champion-wi",
     "date":"2025-09-21"
   },
@@ -361,7 +385,7 @@
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.32,
+    "probability":0.29,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-9Z2uOt9AgA",
     "date":"2025-09-21"
   },
@@ -463,7 +487,7 @@
   },
   {
     "question":"BNB closes the week above $1000?",
-    "probability":0.7,
+    "probability":0.76,
     "link":"https:\/\/manifold.markets\/KSp0IOI\/bnb-closes-the-week-above-1000",
     "date":"2025-09-21"
   },
@@ -547,7 +571,7 @@
   },
   {
     "question":"Will Nebraska beat Michigan in football on 9\/20\/25?",
-    "probability":0.68,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/postjawline\/will-nebraska-beat-michigan-in-foot",
     "date":"2025-09-21"
   },
@@ -853,7 +877,7 @@
   },
   {
     "question":"Bitcoin surpasses $120K before end of the week?",
-    "probability":0.75,
+    "probability":0.76,
     "link":"https:\/\/manifold.markets\/KSp0IOI\/bitcoin-surpasses-120k-before-end-o",
     "date":"2025-09-21"
   },
@@ -1333,7 +1357,7 @@
   },
   {
     "question":"Will I make 200 mana from trader bonuses on this market?",
-    "probability":0.55,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/ItsMe\/will-i-make-200-mana-from-trader-bo",
     "date":"2025-09-21"
   },
@@ -1371,12 +1395,6 @@
     "question":"WILL THERE BE A LEROY JENKINS MEMECOIN BY 2035",
     "probability":0.44,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-there-be-a-leroy-jenkins-memec",
-    "date":"2025-09-21"
-  },
-  {
-    "question":"Will Matthew Rognlie (https:\/\/sites.northwestern.edu\/rognlie\/) win the Nobel Prize in Economics in his lifetime?",
-    "probability":0.63,
-    "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-matthew-rognlie-httpssitesnort",
     "date":"2025-09-21"
   }
 ]
