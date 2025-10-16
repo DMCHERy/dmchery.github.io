@@ -1,5 +1,23 @@
 [
   {
+    "question":"Will the IRS refer major Democratic donors for criminal prosecution by EoY 2026?",
+    "probability":0.87,
+    "link":"https:\/\/manifold.markets\/JohnDavidPressman\/will-the-irs-refer-major-democratic",
+    "date":"2025-10-16"
+  },
+  {
+    "question":"Will Twitter\/X stop all monetization for blue checkmark users by the end of 2025?",
+    "probability":0.78,
+    "link":"https:\/\/manifold.markets\/strutheo\/will-twitterx-stop-all-monetization",
+    "date":"2025-10-16"
+  },
+  {
+    "question":"Will the USA government be shut down on Thanksgiving?",
+    "probability":0.56,
+    "link":"https:\/\/manifold.markets\/strutheo\/will-the-usa-government-be-shut-dow",
+    "date":"2025-10-16"
+  },
+  {
     "question":"Ordinary Sausage hospitalized for food poisoning by 2030?",
     "probability":0.61,
     "link":"https:\/\/manifold.markets\/Chumchulum\/ordinary-sausage-hospitalized-for-f",
@@ -25,7 +43,7 @@
   },
   {
     "question":"OpenAI reaches $100B revenue in 2028?",
-    "probability":0.73,
+    "probability":0.75,
     "link":"https:\/\/manifold.markets\/dreev\/openai-reaches-100b-revenue-in-2028",
     "date":"2025-10-16"
   },
@@ -37,7 +55,7 @@
   },
   {
     "question":"i get venture funding by friday?",
-    "probability":0.12,
+    "probability":0.11,
     "link":"https:\/\/manifold.markets\/skibidist\/i-get-venture-funding-by-friday",
     "date":"2025-10-16"
   },
@@ -127,7 +145,7 @@
   },
   {
     "question":"Will I get my shit together by the end of the year?",
-    "probability":0.79,
+    "probability":0.78,
     "link":"https:\/\/manifold.markets\/Bandors\/will-i-get-my-shit-together-by-the",
     "date":"2025-10-16"
   },
@@ -241,7 +259,7 @@
   },
   {
     "question":"Trump invokes Insurrection Act by EOY 2026?",
-    "probability":0.7,
+    "probability":0.74,
     "link":"https:\/\/manifold.markets\/predyx_markets\/trump-invokes-insurrection-act-by-e",
     "date":"2025-10-16"
   },
@@ -793,7 +811,7 @@
   },
   {
     "question":"Will I be poisoned in any serious way?",
-    "probability":0.72,
+    "probability":0.71,
     "link":"https:\/\/manifold.markets\/EnopoletusHarding\/will-i-be-poisoned-in-any-serious-w",
     "date":"2025-10-16"
   },
@@ -1129,7 +1147,7 @@
   },
   {
     "question":"Will over 1000 Gazans be killed by the IDF in 2026?",
-    "probability":0.74,
+    "probability":0.75,
     "link":"https:\/\/manifold.markets\/JaundicedBaboon\/will-over-1000-gazans-be-killed-by",
     "date":"2025-10-16"
   },
@@ -1395,12 +1413,6 @@
     "question":"Will all furloughed US federal workers receive backpay?",
     "probability":0.59,
     "link":"https:\/\/manifold.markets\/Gabrielle\/will-all-furloughed-us-federal-work",
-    "date":"2025-10-16"
-  },
-  {
-    "question":"US airspace has 43,000-45,000 flights on October 8, 2025?",
-    "probability":0.39,
-    "link":"https:\/\/manifold.markets\/you\/us-airspace-has-4300045000-flights",
     "date":"2025-10-16"
   }
 ]
