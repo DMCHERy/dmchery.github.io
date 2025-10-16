@@ -1,25 +1,67 @@
 [
   {
-    "question":"Will the IRS refer major Democratic donors for criminal prosecution by EoY 2026?",
+    "question":"Gemini 3.0 released before October 25?",
+    "probability":0.64,
+    "link":"https:\/\/manifold.markets\/vdb\/gemini-30-released-before-october-2-cIqcNnpsyI",
+    "date":"2025-10-16"
+  },
+  {
+    "question":"Trump golfs on >25% of days in 2025?",
+    "probability":0.6,
+    "link":"https:\/\/manifold.markets\/brod\/trump-golfs-for-25-of-2025",
+    "date":"2025-10-16"
+  },
+  {
+    "question":"when I drink beer tonight, will I relax (YES) or have a panic attack (NO)? N\/A if neither.",
+    "probability":0.83,
+    "link":"https:\/\/manifold.markets\/skibidist\/when-i-drink-beer-tonight-will-i-re",
+    "date":"2025-10-16"
+  },
+  {
+    "question":"Grok 5 released before March 31?",
+    "probability":0.67,
+    "link":"https:\/\/manifold.markets\/predyx_markets\/grok-5-released-before-march-31",
+    "date":"2025-10-16"
+  },
+  {
+    "question":"[Short fuse] Can I successfully cap my streak at 149 days (148 days at market creation)?",
+    "probability":0.89,
+    "link":"https:\/\/manifold.markets\/JussiVilleHeiskanen\/short-fuse-can-i-successfully-cap-m",
+    "date":"2025-10-16"
+  },
+  {
+    "question":"Will Jet Lag: The Game return to South Korea before 2028?",
+    "probability":0.82,
+    "link":"https:\/\/manifold.markets\/JoshuaWilkes\/will-jet-lag-the-game-return-to-sou",
+    "date":"2025-10-16"
+  },
+  {
+    "question":"Will any public interview of Peter Thiel mention microplastic or nanoplastic in 2026",
     "probability":0.87,
+    "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-any-public-interview-of-peter",
+    "date":"2025-10-16"
+  },
+  {
+    "question":"Will the IRS refer major Democratic donors for criminal prosecution by EoY 2026?",
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/JohnDavidPressman\/will-the-irs-refer-major-democratic",
     "date":"2025-10-16"
   },
   {
     "question":"Will Twitter\/X stop all monetization for blue checkmark users by the end of 2025?",
-    "probability":0.78,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/strutheo\/will-twitterx-stop-all-monetization",
     "date":"2025-10-16"
   },
   {
     "question":"Will the USA government be shut down on Thanksgiving?",
-    "probability":0.56,
+    "probability":0.6,
     "link":"https:\/\/manifold.markets\/strutheo\/will-the-usa-government-be-shut-dow",
     "date":"2025-10-16"
   },
   {
     "question":"Ordinary Sausage hospitalized for food poisoning by 2030?",
-    "probability":0.61,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/Chumchulum\/ordinary-sausage-hospitalized-for-f",
     "date":"2025-10-16"
   },
@@ -31,7 +73,7 @@
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.73,
+    "probability":0.66,
     "link":"https:\/\/manifold.markets\/121\/daily-coinflip-2hdRZI9I26",
     "date":"2025-10-16"
   },
@@ -55,25 +97,25 @@
   },
   {
     "question":"i get venture funding by friday?",
-    "probability":0.11,
+    "probability":0.1,
     "link":"https:\/\/manifold.markets\/skibidist\/i-get-venture-funding-by-friday",
     "date":"2025-10-16"
   },
   {
     "question":"Generative AI video used as false evidence in criminal trial by Dec 31, 2026?",
-    "probability":0.76,
+    "probability":0.8,
     "link":"https:\/\/manifold.markets\/Danielc583c\/generative-ai-video-used-as-false-e",
     "date":"2025-10-16"
   },
   {
     "question":"Swedish People's Party in finnish government formed after next Finnish Parliamentary Elections?",
-    "probability":0.76,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/JussiVilleHeiskanen\/swedish-peoples-party-in-finnish-go",
     "date":"2025-10-16"
   },
   {
     "question":"Over 5 million attend No Kings Day events in US on Oct 18?",
-    "probability":0.63,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/MichaeldelaMaza\/over-5-million-attend-no-kings-day",
     "date":"2025-10-16"
   },
@@ -91,7 +133,7 @@
   },
   {
     "question":"Gold price reaches $5000\/oz in 2025?",
-    "probability":0.6,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/itsTomekK\/gold-price-reaches-5000oz-in-2025",
     "date":"2025-10-16"
   },
@@ -103,7 +145,7 @@
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.74,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-NI8Ls20zPU",
     "date":"2025-10-16"
   },
@@ -139,7 +181,7 @@
   },
   {
     "question":"BTC Puzzle 71 solved in 2025",
-    "probability":0.73,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/Jubx\/btc-puzzle-71-solved-in-2025",
     "date":"2025-10-16"
   },
@@ -181,7 +223,7 @@
   },
   {
     "question":"Bitcoin below 102.8K in October?",
-    "probability":0.73,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-below-1028k-in-october",
     "date":"2025-10-16"
   },
@@ -205,7 +247,7 @@
   },
   {
     "question":"Gemini 3.0 released in November 2025?",
-    "probability":0.74,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/predyx_markets\/gemini-30-released-in-november-2025",
     "date":"2025-10-16"
   },
@@ -229,7 +271,7 @@
   },
   {
     "question":"Will some crazy shit happen at the No Kings protest on October 18?",
-    "probability":0.69,
+    "probability":0.81,
     "link":"https:\/\/manifold.markets\/GuyCohen\/will-some-crazy-shit-happen-at-the",
     "date":"2025-10-16"
   },
@@ -265,7 +307,7 @@
   },
   {
     "question":"U.S. 30 Year TIPS yield exceeds 3% before 2027?",
-    "probability":0.52,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/SamuelKnoche\/us-30-year-tips-yield-exceeds-3-bef-8t56O5csLq",
     "date":"2025-10-16"
   },
@@ -373,7 +415,7 @@
   },
   {
     "question":"Google announces Gemini 3.0 by Oct 19, 2025?",
-    "probability":0.69,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/Dulaman\/google-announces-gemini-30-by-oct-1",
     "date":"2025-10-16"
   },
@@ -403,7 +445,7 @@
   },
   {
     "question":"Barron Trump seen on a date before 2026?",
-    "probability":0.64,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/Louis_Z\/barron-trump-seen-on-a-date-before",
     "date":"2025-10-16"
   },
@@ -679,7 +721,7 @@
   },
   {
     "question":"Will Netflix\u2019s stock price on 19 October 2025 be higher than on 17 October 2025?",
-    "probability":0.62,
+    "probability":0.93,
     "link":"https:\/\/manifold.markets\/RiccardoBoscariol\/will-netflixs-stock-price-on-19-oct",
     "date":"2025-10-16"
   },
@@ -811,7 +853,7 @@
   },
   {
     "question":"Will I be poisoned in any serious way?",
-    "probability":0.71,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/EnopoletusHarding\/will-i-be-poisoned-in-any-serious-w",
     "date":"2025-10-16"
   },
@@ -1021,7 +1063,7 @@
   },
   {
     "question":"Bitcoin 126K again in October?",
-    "probability":0.69,
+    "probability":0.71,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-126k-again-in-october",
     "date":"2025-10-16"
   },
@@ -1081,7 +1123,7 @@
   },
   {
     "question":"SOAI#8: A Chinese lab overtakes the US lab dominated frontier on a major leaderboard (e.g. LMArena\/Artificial Analysis)",
-    "probability":0.93,
+    "probability":0.91,
     "link":"https:\/\/manifold.markets\/ZviMowshowitz\/soai8-a-chinese-lab-overtakes-the-u",
     "date":"2025-10-16"
   },
@@ -1395,24 +1437,6 @@
     "question":"Will anybody hold a full BUY share of BSI when Manifold League Season 30 ends?",
     "probability":0.8,
     "link":"https:\/\/manifold.markets\/Quroe\/will-anybody-hold-a-full-buy-share",
-    "date":"2025-10-16"
-  },
-  {
-    "question":"MrBeast reaches 450 million YouTube subscribers by December 31, 2025",
-    "probability":0.87,
-    "link":"https:\/\/manifold.markets\/MrS\/mrbeast-reaches-450-million-youtube",
-    "date":"2025-10-16"
-  },
-  {
-    "question":"Will Donald Trump be President of the USA on January 1, 2028?",
-    "probability":0.78,
-    "link":"https:\/\/manifold.markets\/itsTomekK\/will-donald-trump-be-president-of-t-cEPZE5Q8Ph",
-    "date":"2025-10-16"
-  },
-  {
-    "question":"Will all furloughed US federal workers receive backpay?",
-    "probability":0.59,
-    "link":"https:\/\/manifold.markets\/Gabrielle\/will-all-furloughed-us-federal-work",
     "date":"2025-10-16"
   }
 ]
