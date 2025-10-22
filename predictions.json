@@ -1,13 +1,43 @@
 [
   {
-    "question":"Tesla stock higher on Oct 23 than Oct 22?",
+    "question":"Will I find a working Crookes radiometer this year?",
+    "probability":0.44,
+    "link":"https:\/\/manifold.markets\/zax\/will-i-find-a-working-crookes-radio",
+    "date":"2025-10-22"
+  },
+  {
+    "question":"Will Uma Musume be involved in any game projects released by the TOKYO GAMES Foundation within the next year?",
+    "probability":0.46,
+    "link":"https:\/\/manifold.markets\/kazuma7o7\/will-uma-musume-be-involved-in-any",
+    "date":"2025-10-22"
+  },
+  {
+    "question":"Will any of the Alpha Arena chatbots have a positive PnL by the end of Season 1?",
+    "probability":0.27,
+    "link":"https:\/\/manifold.markets\/Bayesian\/will-any-of-the-alpha-arena-chatbot",
+    "date":"2025-10-22"
+  },
+  {
+    "question":"Trump flees to Argentina to escape prosecution?",
     "probability":0.5,
+    "link":"https:\/\/manifold.markets\/brubsby\/trump-flees-to-argentina-to-escape",
+    "date":"2025-10-22"
+  },
+  {
+    "question":"Will Bernie Sanders withdraw his endorsement of Graham Platner (or will Platner drop out before he does so)?",
+    "probability":0.49,
+    "link":"https:\/\/manifold.markets\/bens\/will-bernie-sanders-withdraw-his-en",
+    "date":"2025-10-22"
+  },
+  {
+    "question":"Tesla stock higher on Oct 23 than Oct 22?",
+    "probability":0.46,
     "link":"https:\/\/manifold.markets\/BrunoJ\/tesla-stock-higher-on-oct-23-than-o",
     "date":"2025-10-22"
   },
   {
     "question":"U.S. government reopens in 2025?",
-    "probability":0.48,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/ItsMe\/us-government-reopens-in-2025",
     "date":"2025-10-22"
   },
@@ -19,7 +49,7 @@
   },
   {
     "question":"USA reduces 50% tariff from Brazilian products before 2025?",
-    "probability":0.49,
+    "probability":0.41,
     "link":"https:\/\/manifold.markets\/BrunoLourenco\/usa-reduces-50-tariff-from-brazilia",
     "date":"2025-10-22"
   },
@@ -37,7 +67,7 @@
   },
   {
     "question":"Atlas browser searches create new chats after November 10?",
-    "probability":0.41,
+    "probability":0.4,
     "link":"https:\/\/manifold.markets\/LizLovelace\/atlas-browser-searches-create-new-c",
     "date":"2025-10-22"
   },
@@ -73,7 +103,7 @@
   },
   {
     "question":"Will Zvi use Atlas as primary browser by EOY 2025?",
-    "probability":0.48,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/ZviMowshowitz\/will-zvi-use-atlas-as-primary-brows",
     "date":"2025-10-22"
   },
@@ -97,13 +127,13 @@
   },
   {
     "question":"Will Louvre stolen jewelry be recovered in 2025?",
-    "probability":0.42,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/NB\/will-louvre-stolen-jewelry-be-recov",
     "date":"2025-10-22"
   },
   {
     "question":"[EU vs. NA] Will G2 beat FQ? (LoL Worlds)",
-    "probability":0.4,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/Ziddletwix\/eu-vs-na-will-g2-beat-fq-lol-worlds",
     "date":"2025-10-22"
   },
@@ -121,7 +151,7 @@
   },
   {
     "question":"Barnaby Joyce joins One Nation by EOY 2026?",
-    "probability":0.42,
+    "probability":0.39,
     "link":"https:\/\/manifold.markets\/brod\/barnaby-joyce-joins-one-nation-by-e",
     "date":"2025-10-22"
   },
@@ -193,7 +223,7 @@
   },
   {
     "question":"Louvre thief caught by EOY 2025?",
-    "probability":0.53,
+    "probability":0.5,
     "link":"https:\/\/manifold.markets\/Louis_Z\/louvre-thief-caught-by-eoy-2025",
     "date":"2025-10-22"
   },
@@ -217,7 +247,7 @@
   },
   {
     "question":"Will the market \"Will this market reach 1%?\" be at 2% for more than 30% of its duration?",
-    "probability":0.35,
+    "probability":0.29,
     "link":"https:\/\/manifold.markets\/256\/will-the-market-will-this-market-re",
     "date":"2025-10-22"
   },
@@ -307,7 +337,7 @@
   },
   {
     "question":"At least one main perpetrator of October 2025 Louvre heist arrested by 2026 ?",
-    "probability":0.34,
+    "probability":0.25,
     "link":"https:\/\/manifold.markets\/Norocvit\/at-least-one-main-perpetrator-of-oc",
     "date":"2025-10-22"
   },
@@ -337,7 +367,7 @@
   },
   {
     "question":"Will Alex Bores be the 2026 Democratic candidate for NY-12?",
-    "probability":0.62,
+    "probability":0.6,
     "link":"https:\/\/manifold.markets\/ms\/will-alex-bores-be-the-2026-democra",
     "date":"2025-10-22"
   },
@@ -403,7 +433,7 @@
   },
   {
     "question":"Will this market reach 4%?",
-    "probability":0.66,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/JackP\/will-this-market-reach-4",
     "date":"2025-10-22"
   },
@@ -481,7 +511,7 @@
   },
   {
     "question":"Louvre robbers apprehended before Christmas?",
-    "probability":0.65,
+    "probability":0.6,
     "link":"https:\/\/manifold.markets\/Ziddletwix\/louvre-robbers-apprehended-before-c",
     "date":"2025-10-22"
   },
@@ -505,13 +535,13 @@
   },
   {
     "question":"Will this market reach 2%?",
-    "probability":0.55,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/256\/will-this-market-reach-2",
     "date":"2025-10-22"
   },
   {
     "question":"Market in description resolves yes?",
-    "probability":0.57,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/JeromeHPowell\/market-in-description-resolves-yes",
     "date":"2025-10-22"
   },
@@ -601,7 +631,7 @@
   },
   {
     "question":"Will this market be above 50% when it closes?",
-    "probability":0.46,
+    "probability":0.45,
     "link":"https:\/\/manifold.markets\/JoshSnider\/will-this-market-be-above-50-when-i",
     "date":"2025-10-22"
   },
@@ -1395,18 +1425,6 @@
     "question":"Before 2026, will Gemini 3.0 exceed GPT-5 in Metr estimated time horizon?",
     "probability":0.26,
     "link":"https:\/\/manifold.markets\/JaundicedBaboon\/before-2026-will-gemini-30-exceed-g",
-    "date":"2025-10-22"
-  },
-  {
-    "question":"Will islamist group(s) take over Pakistan before 2035?",
-    "probability":0.47,
-    "link":"https:\/\/manifold.markets\/JonathanRay\/will-islamist-groups-take-over-paki",
-    "date":"2025-10-22"
-  },
-  {
-    "question":"Will \"If Anyone Builds It Everyone Dies, a semi-out...\" make the top fifty posts in LessWrong's 2025 Annual Review?",
-    "probability":0.35,
-    "link":"https:\/\/manifold.markets\/LessWrong\/will-if-anyone-builds-it-everyone-d-NuOq6ytpqd",
     "date":"2025-10-22"
   }
 ]
