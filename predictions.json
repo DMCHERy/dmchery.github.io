@@ -1,5 +1,23 @@
 [
   {
+    "question":"Will Hurricane Melissa make landfall in the continental United States?",
+    "probability":0.3,
+    "link":"https:\/\/manifold.markets\/GuyCohen\/will-hurricane-melissa-make-landfal",
+    "date":"2025-10-23"
+  },
+  {
+    "question":"Will \"Consider donating to AI safety champion Scott...\" make the top fifty posts in LessWrong's 2025 Annual Review?",
+    "probability":0.36,
+    "link":"https:\/\/manifold.markets\/LessWrong\/will-consider-donating-to-ai-safety",
+    "date":"2025-10-23"
+  },
+  {
+    "question":"White House ballroom completed before the end of Trump's second term?",
+    "probability":0.31,
+    "link":"https:\/\/manifold.markets\/jb456\/white-house-ballroom-completed-befo",
+    "date":"2025-10-23"
+  },
+  {
     "question":"Will Vince Giuliano (https:\/\/www.anti-agingfirewalls.com\/) become a centenarian?",
     "probability":0.36,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-vince-giuliano-httpswwwantiagi",
@@ -25,19 +43,19 @@
   },
   {
     "question":"3-month EURIBOR rate at\/above 2.00% on November 14, 2025?",
-    "probability":0.49,
+    "probability":0.45,
     "link":"https:\/\/manifold.markets\/Lenta\/3month-euribor-rate-atabove-200-on",
     "date":"2025-10-23"
   },
   {
     "question":"Bari Weiss remains CBS News editor-in-chief through 2026?",
-    "probability":0.48,
+    "probability":0.47,
     "link":"https:\/\/manifold.markets\/JFlavius1\/bari-weiss-remains-cbs-news-editori",
     "date":"2025-10-23"
   },
   {
     "question":"Will Jake's replacement at Asterisk Magazine (managing editor) also have a name starting with J?",
-    "probability":0.33,
+    "probability":0.36,
     "link":"https:\/\/manifold.markets\/Eliza\/will-jakes-replacement-at-asterisk",
     "date":"2025-10-23"
   },
@@ -55,7 +73,7 @@
   },
   {
     "question":"Will Marc Andreessen become a major investor in Anthropic before AGI is reached, as prophesied by Scott Alexander?",
-    "probability":0.32,
+    "probability":0.31,
     "link":"https:\/\/manifold.markets\/IsaacKing\/will-marc-andreessen-become-a-major",
     "date":"2025-10-23"
   },
@@ -73,19 +91,19 @@
   },
   {
     "question":"Tyler Robinson sentenced to death by December 31, 2026",
-    "probability":0.46,
+    "probability":0.45,
     "link":"https:\/\/manifold.markets\/Lenta\/tyler-robinson-sentenced-to-death-b",
     "date":"2025-10-23"
   },
   {
     "question":"Another major museum robbery (>$1M value) before April 18, 2026",
-    "probability":0.36,
+    "probability":0.35,
     "link":"https:\/\/manifold.markets\/generalconsensus\/another-major-museum-robbery-1m-val",
     "date":"2025-10-23"
   },
   {
     "question":"Will this market hit 50%? [24h GRACE PERIOD]",
-    "probability":0.43,
+    "probability":0.34,
     "link":"https:\/\/manifold.markets\/MaxE\/will-this-market-hit-50",
     "date":"2025-10-23"
   },
@@ -121,7 +139,7 @@
   },
   {
     "question":"Xi and Trump officially meet before end of 2025?",
-    "probability":0.44,
+    "probability":0.4,
     "link":"https:\/\/manifold.markets\/SnowJi\/xi-and-trump-officially-meet-before",
     "date":"2025-10-23"
   },
@@ -205,13 +223,13 @@
   },
   {
     "question":"Tesla stock higher on Oct 23 than Oct 22?",
-    "probability":0.81,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/BrunoJ\/tesla-stock-higher-on-oct-23-than-o",
     "date":"2025-10-23"
   },
   {
     "question":"U.S. government reopens in 2025?",
-    "probability":0.46,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/ItsMe\/us-government-reopens-in-2025",
     "date":"2025-10-23"
   },
@@ -253,7 +271,7 @@
   },
   {
     "question":"Colorado ski area opens before October 31st for 25\/26 season?",
-    "probability":0.34,
+    "probability":0.31,
     "link":"https:\/\/manifold.markets\/lrq88\/colorado-ski-area-opens-before-octo",
     "date":"2025-10-23"
   },
@@ -601,7 +619,7 @@
   },
   {
     "question":"Will this market reach 4%?",
-    "probability":0.47,
+    "probability":0.46,
     "link":"https:\/\/manifold.markets\/JackP\/will-this-market-reach-4",
     "date":"2025-10-23"
   },
@@ -799,7 +817,7 @@
   },
   {
     "question":"Will this market be above 50% when it closes?",
-    "probability":0.35,
+    "probability":0.41,
     "link":"https:\/\/manifold.markets\/JoshSnider\/will-this-market-be-above-50-when-i",
     "date":"2025-10-23"
   },
@@ -853,7 +871,7 @@
   },
   {
     "question":"Trump puts tariffs\/sanctions on Russia this year?",
-    "probability":0.66,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/Gemc\/trump-puts-tariffssanctions-on-russ",
     "date":"2025-10-23"
   },
@@ -1135,7 +1153,7 @@
   },
   {
     "question":"Gemini 3.0 released before October 23?",
-    "probability":0.43,
+    "probability":0.35,
     "link":"https:\/\/manifold.markets\/BrunoLourenco\/gemini-30-released-before-october-2-LddcyUlnlp",
     "date":"2025-10-23"
   },
@@ -1381,7 +1399,7 @@
   },
   {
     "question":"Government shutdown ends before November 7, 2025",
-    "probability":0.45,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/NicholasBugajhuRS\/government-shutdown-ends-before-nov",
     "date":"2025-10-23"
   },
@@ -1449,30 +1467,6 @@
     "question":"Will a player win a Super Smash Bros Melee major using a digital \/ leverless controller before January 1st 2028?",
     "probability":0.32,
     "link":"https:\/\/manifold.markets\/strutheo\/will-a-player-win-a-super-smash-bro-IgtsssRcZc",
-    "date":"2025-10-23"
-  },
-  {
-    "question":"At least one FIFA World Cup 2026 host city changes before the tournament",
-    "probability":0.28,
-    "link":"https:\/\/manifold.markets\/AlexanderTheGreater\/at-least-one-fifa-world-cup-2026-ho",
-    "date":"2025-10-23"
-  },
-  {
-    "question":"Will the 2028 Presidential Election be Vance vs. Newsom?",
-    "probability":0.33,
-    "link":"https:\/\/manifold.markets\/EvanDaniel\/will-the-2028-presidential-election-n9AhUICyZ5",
-    "date":"2025-10-23"
-  },
-  {
-    "question":"Gemini 3.0 released in November 2025?",
-    "probability":0.5,
-    "link":"https:\/\/manifold.markets\/predyx_markets\/gemini-30-released-in-november-2025",
-    "date":"2025-10-23"
-  },
-  {
-    "question":"Will @shankypanky regain her prior glory?",
-    "probability":0.59,
-    "link":"https:\/\/manifold.markets\/RobertCousineau\/will-shankypanky-regain-her-prior-g",
     "date":"2025-10-23"
   }
 ]
