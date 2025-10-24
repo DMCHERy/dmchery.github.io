@@ -1,5 +1,59 @@
 [
   {
+    "question":"Will \"Summary of our Workshop on Post-AGI Outcomes\" make the top fifty posts in LessWrong's 2025 Annual Review?",
+    "probability":0.57,
+    "link":"https:\/\/manifold.markets\/LessWrong\/will-summary-of-our-workshop-on-pos",
+    "date":"2025-10-24"
+  },
+  {
+    "question":"If I attend a CFAR workshop, will I think it was worth my time and money afterwards?",
+    "probability":0.58,
+    "link":"https:\/\/manifold.markets\/IsaacKing\/if-i-attend-a-cfar-workshop-will-i",
+    "date":"2025-10-24"
+  },
+  {
+    "question":"Haaland scores 2+ goals in matchweek 9?",
+    "probability":0.68,
+    "link":"https:\/\/manifold.markets\/Entahlah\/haaland-scores-2-goals-in-matchweek",
+    "date":"2025-10-24"
+  },
+  {
+    "question":"Will that market reach 1%? [short fuse]",
+    "probability":0.61,
+    "link":"https:\/\/manifold.markets\/retr0id\/will-that-market-reach-1-short-fuse",
+    "date":"2025-10-24"
+  },
+  {
+    "question":"Will my hoodie be in the lost and found",
+    "probability":0.57,
+    "link":"https:\/\/manifold.markets\/Bayesian\/will-my-hoodie-be-in-the-lost-and-f",
+    "date":"2025-10-24"
+  },
+  {
+    "question":"ChatGPT Atlas killed off before 2030?",
+    "probability":0.46,
+    "link":"https:\/\/manifold.markets\/waitblock\/chatgpt-atlas-killed-off-before-203",
+    "date":"2025-10-24"
+  },
+  {
+    "question":"SpaceX rocket launches by end of 2026?",
+    "probability":0.44,
+    "link":"https:\/\/manifold.markets\/LeolEPC0\/spacex-rocket-launches-by-end-of-20",
+    "date":"2025-10-24"
+  },
+  {
+    "question":"Will Section 230(c) of the Communications Decency Act be significantly amended or repealed by December 31, 2026?",
+    "probability":0.57,
+    "link":"https:\/\/manifold.markets\/Cogsdoc\/will-section-230c-of-the-communicat",
+    "date":"2025-10-24"
+  },
+  {
+    "question":"Chauncey Billups imprisoned before 2029?",
+    "probability":0.46,
+    "link":"https:\/\/manifold.markets\/MasterP05\/chauncey-billups-imprisoned-before",
+    "date":"2025-10-24"
+  },
+  {
     "question":"Maud Maron becomes Manhattan's next District Attorney?",
     "probability":0.51,
     "link":"https:\/\/manifold.markets\/LeeBressler\/maud-maron-becomes-manhattans-next",
@@ -7,13 +61,13 @@
   },
   {
     "question":"Will officials determine that the Oct 4, 2025 fire at Judge Diane Goodstein\u2019s home was intentionally set (arson)?",
-    "probability":0.57,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/CraigTalbert\/will-officials-determine-that-the-o",
     "date":"2025-10-24"
   },
   {
     "question":"218th signature on Epstein Files Discharge Petition from a Republican?",
-    "probability":0.58,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/LilyFleming\/218th-signature-on-epstein-files-di",
     "date":"2025-10-24"
   },
@@ -37,7 +91,7 @@
   },
   {
     "question":"Will Xubuntu have another security incident as bad as the trojaned torrent downloads by EoY 2026?",
-    "probability":0.58,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/JohnDavidPressman\/will-xubuntu-have-another-security",
     "date":"2025-10-24"
   },
@@ -55,7 +109,7 @@
   },
   {
     "question":"Anthropic's Skills have more github stars than MCP in 2025?",
-    "probability":0.53,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/Bayesian\/anthropics-skills-have-more-github",
     "date":"2025-10-24"
   },
@@ -73,13 +127,13 @@
   },
   {
     "question":"If Graham Platner is the democratic nominee, will he win the Maine Senate race in 2026?",
-    "probability":0.54,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/bens\/if-graham-platner-is-the-democratic",
     "date":"2025-10-24"
   },
   {
     "question":"S&P 500 closes up\/down 1%+ on October 24, 2025?",
-    "probability":0.68,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/Athena\/sp-500-closes-updown-1-on-october-2",
     "date":"2025-10-24"
   },
@@ -127,7 +181,7 @@
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.66,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-UlSCOAtllu",
     "date":"2025-10-24"
   },
@@ -445,7 +499,7 @@
   },
   {
     "question":"U.S. government reopens in 2025?",
-    "probability":0.3,
+    "probability":0.28,
     "link":"https:\/\/manifold.markets\/ItsMe\/us-government-reopens-in-2025",
     "date":"2025-10-24"
   },
@@ -463,7 +517,7 @@
   },
   {
     "question":"Will there be wild boar \ud83d\udc17 in North Dakota by the end of 2026?",
-    "probability":0.56,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/AlanTennant\/will-there-be-wild-boar-in-north-da",
     "date":"2025-10-24"
   },
@@ -499,7 +553,7 @@
   },
   {
     "question":"Will Atlas be available for Windows before November 8th?",
-    "probability":0.45,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/BenAybar\/will-atlas-be-available-for-windows",
     "date":"2025-10-24"
   },
@@ -631,7 +685,7 @@
   },
   {
     "question":"USD\/BRL closes at or below 5.00 on any trading day before December 31, 2026",
-    "probability":0.58,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/Brierbr\/usdbrl-closes-at-or-below-500-on-an",
     "date":"2025-10-24"
   },
@@ -685,7 +739,7 @@
   },
   {
     "question":"Will Daniel Naroditsky's death be revealed to be a suicide before April?",
-    "probability":0.51,
+    "probability":0.48,
     "link":"https:\/\/manifold.markets\/Robincvgr\/will-daniel-naroditskys-death-be-re",
     "date":"2025-10-24"
   },
@@ -763,7 +817,7 @@
   },
   {
     "question":"Will Alex Bores be the 2026 Democratic candidate for NY-12?",
-    "probability":0.26,
+    "probability":0.3,
     "link":"https:\/\/manifold.markets\/ms\/will-alex-bores-be-the-2026-democra",
     "date":"2025-10-24"
   },
@@ -1413,66 +1467,6 @@
     "question":"Will my friend read 52 books this year?",
     "probability":0.25,
     "link":"https:\/\/manifold.markets\/waterlilly\/will-my-friend-read-52-books-this-y",
-    "date":"2025-10-24"
-  },
-  {
-    "question":"Sig Sauer bankrupt by EOY 2035?",
-    "probability":0.49,
-    "link":"https:\/\/manifold.markets\/dgga\/sig-sauer-bankrupt-by-eoy-2035",
-    "date":"2025-10-24"
-  },
-  {
-    "question":"Will I be radicalized against taxes by having a job?",
-    "probability":0.22,
-    "link":"https:\/\/manifold.markets\/IsaacKing\/will-i-be-radicalized-against-taxes",
-    "date":"2025-10-24"
-  },
-  {
-    "question":"Will 3 Manifolders beat me at Drawback chess?",
-    "probability":0.47,
-    "link":"https:\/\/manifold.markets\/Henry38hw\/will-3-manifolders-beat-me-at-drawb",
-    "date":"2025-10-24"
-  },
-  {
-    "question":"Putin and Trump meet in Budapest before December 31, 2025",
-    "probability":0.24,
-    "link":"https:\/\/manifold.markets\/Symmetry\/putin-and-trump-meet-in-budapest-be",
-    "date":"2025-10-24"
-  },
-  {
-    "question":"Will Gemini 3.0 Pro outperform Gemini 2.5 Pro on the LMArena (Without Style Control)",
-    "probability":0.32,
-    "link":"https:\/\/manifold.markets\/Bayesian\/will-gemini-30-pro-outperform-gemin",
-    "date":"2025-10-24"
-  },
-  {
-    "question":"Will Fox News report Palestinian hostage bodies returned by Israel show signs of torture and execution?",
-    "probability":0.53,
-    "link":"https:\/\/manifold.markets\/Samaritan\/will-fox-news-report-palestinian-ho",
-    "date":"2025-10-24"
-  },
-  {
-    "question":"Will CNN report Palestinian hostage bodies returned by Israel show signs of torture and execution?",
-    "probability":0.53,
-    "link":"https:\/\/manifold.markets\/Samaritan\/will-cnn-report-palestinian-hostage",
-    "date":"2025-10-24"
-  },
-  {
-    "question":"Corruption charges against JB Pritzker by end of 2026?",
-    "probability":0.44,
-    "link":"https:\/\/manifold.markets\/SteveFlanagan\/corruption-charges-against-jb-pritz",
-    "date":"2025-10-24"
-  },
-  {
-    "question":"EU or UK citizen granted US asylum for anti-immigration views by end of 2028?",
-    "probability":0.59,
-    "link":"https:\/\/manifold.markets\/Simon74fe\/eu-or-uk-citizen-granted-us-asylum",
-    "date":"2025-10-24"
-  },
-  {
-    "question":"Are Vedinad and Dani the same person?",
-    "probability":0.5,
-    "link":"https:\/\/manifold.markets\/patrik\/are-vedinad-and-dani-the-same-perso-nzNUqRSsO0",
     "date":"2025-10-24"
   }
 ]
