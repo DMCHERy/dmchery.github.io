@@ -1,7 +1,49 @@
 [
   {
+    "question":"Will \"An Opinionated Guide to Privacy Despite Autho...\" make the top fifty posts in LessWrong's 2025 Annual Review?",
+    "probability":0.68,
+    "link":"https:\/\/manifold.markets\/LessWrong\/will-an-opinionated-guide-to-privac",
+    "date":"2025-10-30"
+  },
+  {
+    "question":"Will Aiden Kim be a Thiel Fellow before 2028?",
+    "probability":0.36,
+    "link":"https:\/\/manifold.markets\/AdamK\/will-aiden-kim-be-a-thiel-fellow-be",
+    "date":"2025-10-30"
+  },
+  {
+    "question":"Without SNAP, Organized Retail Crime (ORC) or a systemic shoplifting spree in multiple states in November?",
+    "probability":0.68,
+    "link":"https:\/\/manifold.markets\/SteveBright\/without-snap-organized-retail-crime",
+    "date":"2025-10-30"
+  },
+  {
+    "question":"Will South Korea start building a nuclear-powered submarine before 2030?",
+    "probability":0.67,
+    "link":"https:\/\/manifold.markets\/JoshuaWilkes\/will-south-korea-start-building-a-n",
+    "date":"2025-10-30"
+  },
+  {
+    "question":"\"Real\" Hunger Games using Teleoperated Robots, before 2028?",
+    "probability":0.68,
+    "link":"https:\/\/manifold.markets\/Bayesian\/real-hunger-games-using-teleoperate",
+    "date":"2025-10-30"
+  },
+  {
+    "question":"Will the US conduct a nuclear test before 2030?",
+    "probability":0.52,
+    "link":"https:\/\/manifold.markets\/JoshuaWilkes\/will-the-us-conduct-a-nuclear-test",
+    "date":"2025-10-30"
+  },
+  {
+    "question":"Next US nuclear test occurs on US soil?",
+    "probability":0.54,
+    "link":"https:\/\/manifold.markets\/Predictor\/next-us-nuclear-test-occurs-on-us-s",
+    "date":"2025-10-30"
+  },
+  {
     "question":"Fed makes 3rd interest rate adjustment before EoY 2025?",
-    "probability":0.32,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/PoliticalEconomyPK\/fed-makes-3rd-interest-rate-adjustm",
     "date":"2025-10-30"
   },
@@ -37,7 +79,7 @@
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.36,
+    "probability":0.37,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-I8qqQnAgcI",
     "date":"2025-10-30"
   },
@@ -55,7 +97,7 @@
   },
   {
     "question":"Will Sliwa vote for himself in the 2025 NYC Mayor Election?",
-    "probability":0.55,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/HillaryClinton\/will-sliwa-vote-for-himself-in-the",
     "date":"2025-10-30"
   },
@@ -67,7 +109,7 @@
   },
   {
     "question":"10+ people bet no on this market?",
-    "probability":0.66,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/Philliesdog\/10-people-bet-no-on-this-market",
     "date":"2025-10-30"
   },
@@ -79,13 +121,13 @@
   },
   {
     "question":"3000 free mana, as long as no more than 10 traders defect by end of Halloween",
-    "probability":0.63,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/spiderduckpig\/free-mana-as-long-as-no-more-than-1",
     "date":"2025-10-30"
   },
   {
     "question":"Free Lottery",
-    "probability":0.57,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/ttoe\/free-lottery-zUSdqd2Ncd",
     "date":"2025-10-30"
   },
@@ -97,7 +139,7 @@
   },
   {
     "question":"Will democrats \u201cwin\u201d the shutdown fight?",
-    "probability":0.48,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/TonyBaloney\/will-democrats-win-the-shutdown-fig",
     "date":"2025-10-30"
   },
@@ -217,7 +259,7 @@
   },
   {
     "question":"This market hits 70% after 1-minute grace period? (round 3)",
-    "probability":0.81,
+    "probability":0.82,
     "link":"https:\/\/manifold.markets\/Bayesian\/this-market-hits-70-after-1minute-g-Cn56czpZRQ",
     "date":"2025-10-30"
   },
@@ -403,7 +445,7 @@
   },
   {
     "question":"[short fuse] Trump US-China Trade deal this week?",
-    "probability":0.41,
+    "probability":0.43,
     "link":"https:\/\/manifold.markets\/Gen\/short-fuse-trump-uschina-trade-deal",
     "date":"2025-10-30"
   },
@@ -565,7 +607,7 @@
   },
   {
     "question":"Will Michael D. Higgins complete his term?",
-    "probability":0.58,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/GerardWalsh\/will-michael-d-higgins-complete-his",
     "date":"2025-10-30"
   },
@@ -1189,7 +1231,7 @@
   },
   {
     "question":"If Janet Mills is the democratic nominee, will she win the Maine Senate race in 2026?",
-    "probability":0.61,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/bens\/if-janet-mills-is-the-democratic-no",
     "date":"2025-10-30"
   },
@@ -1245,48 +1287,6 @@
     "question":"Anthropic reaches $1T+ valuation before OpenAI?",
     "probability":0.43,
     "link":"https:\/\/manifold.markets\/level2\/anthropic-reaches-1t-valuation-befo",
-    "date":"2025-10-30"
-  },
-  {
-    "question":"Google-Amazon AI training partnership by EOY 2026?",
-    "probability":0.41,
-    "link":"https:\/\/manifold.markets\/level2\/googleamazon-ai-training-partnershi",
-    "date":"2025-10-30"
-  },
-  {
-    "question":"OpenAI releases a creative writing model by June 1st 2026?",
-    "probability":0.52,
-    "link":"https:\/\/manifold.markets\/level2\/openai-releases-a-creative-writing-ISRp6uzCpN",
-    "date":"2025-10-30"
-  },
-  {
-    "question":"OpenAI releases a creative writing model by EOY?",
-    "probability":0.48,
-    "link":"https:\/\/manifold.markets\/level2\/openai-releases-a-creative-writing",
-    "date":"2025-10-30"
-  },
-  {
-    "question":"Will a major AI lab enter the aerospace industry by EOY 2026?",
-    "probability":0.58,
-    "link":"https:\/\/manifold.markets\/level2\/will-a-major-ai-lab-enter-the-aeros",
-    "date":"2025-10-30"
-  },
-  {
-    "question":"OpenAI announces an interactive world model by June 1st 2026?",
-    "probability":0.6,
-    "link":"https:\/\/manifold.markets\/level2\/openai-announces-an-interactive-wor",
-    "date":"2025-10-30"
-  },
-  {
-    "question":"Google releases an AI world model game by June 1st 2026?",
-    "probability":0.43,
-    "link":"https:\/\/manifold.markets\/level2\/google-releases-an-ai-world-model-g",
-    "date":"2025-10-30"
-  },
-  {
-    "question":"Google releases Sora competitor by EOY?",
-    "probability":0.49,
-    "link":"https:\/\/manifold.markets\/level2\/google-releases-sora-competitor-by",
     "date":"2025-10-30"
   }
 ]
