@@ -1,19 +1,43 @@
 [
   {
+    "question":"$NVDA up after earnings?",
+    "probability":0.75,
+    "link":"https:\/\/manifold.markets\/OKanon\/nvda-up-after-earnings",
+    "date":"2025-11-19"
+  },
+  {
+    "question":"Gemini 3 flash release in November 2025?",
+    "probability":0.66,
+    "link":"https:\/\/manifold.markets\/AibulatMusin\/gemini-3-flash-release-in-november",
+    "date":"2025-11-19"
+  },
+  {
+    "question":"Will \"Anthropic is (probably) not meeting its RSP s...\" make the top fifty posts in LessWrong's 2025 Annual Review?",
+    "probability":0.68,
+    "link":"https:\/\/manifold.markets\/LessWrong\/will-anthropic-is-probably-not-meet",
+    "date":"2025-11-19"
+  },
+  {
+    "question":"Will https:\/\/pickle.com\/memory allow import from Ideaflow by EOY2030",
+    "probability":0.73,
+    "link":"https:\/\/manifold.markets\/MARABOUSTORK\/will-httpspicklecommemory-allow-imp",
+    "date":"2025-11-19"
+  },
+  {
     "question":"Will AGI happen before GPT-67 is released?",
-    "probability":0.69,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/Incompleteusern\/will-agi-happen-before-gpt67-is-rel",
     "date":"2025-11-19"
   },
   {
     "question":"Will market B get more traders than market A?",
-    "probability":0.73,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/A\/will-market-b-get-more-traders-than",
     "date":"2025-11-19"
   },
   {
     "question":"Will market A get more traders than market B?",
-    "probability":0.72,
+    "probability":0.73,
     "link":"https:\/\/manifold.markets\/A\/will-market-a-get-more-traders-than",
     "date":"2025-11-19"
   },
@@ -37,7 +61,7 @@
   },
   {
     "question":"Will a Western team ever win the League of Legends World Championships again?",
-    "probability":0.66,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/RedzoneITG\/will-a-western-team-ever-win-the-le",
     "date":"2025-11-19"
   },
@@ -48,8 +72,8 @@
     "date":"2025-11-19"
   },
   {
-    "question":"Will I gain 100 rating on Chess.com? Month 1",
-    "probability":0.72,
+    "question":"Will I gain 100 rating (750 -> 850) on Chess.com? Month 1",
+    "probability":0.76,
     "link":"https:\/\/manifold.markets\/AustinChen\/will-i-gain-100-rating-on-chesscom",
     "date":"2025-11-19"
   },
@@ -67,7 +91,7 @@
   },
   {
     "question":"Will an AI bubble pop cause the next depression?",
-    "probability":0.63,
+    "probability":0.98,
     "link":"https:\/\/manifold.markets\/SpeaksForTrees\/will-an-ai-bubble-pop-cause-the-nex",
     "date":"2025-11-19"
   },
@@ -85,7 +109,7 @@
   },
   {
     "question":"Will Texas use its 2021 map for the 2026 midterms?",
-    "probability":0.52,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/Tetraspace\/will-texas-use-its-2021-map-for-the",
     "date":"2025-11-19"
   },
@@ -115,7 +139,7 @@
   },
   {
     "question":"Frontier LLM apps can be backgrounded mid reasoning in November 2026?",
-    "probability":0.92,
+    "probability":0.94,
     "link":"https:\/\/manifold.markets\/Bayesian\/frontier-llm-apps-can-be-background",
     "date":"2025-11-19"
   },
@@ -163,7 +187,7 @@
   },
   {
     "question":"Twitter (X) has another major outage before 2026?",
-    "probability":0.8,
+    "probability":0.78,
     "link":"https:\/\/manifold.markets\/AlistairgzAz\/twitter-x-has-another-major-outage",
     "date":"2025-11-19"
   },
@@ -175,7 +199,7 @@
   },
   {
     "question":"Will the Don't Build It March happen by EOY 2026?",
-    "probability":0.67,
+    "probability":0.5,
     "link":"https:\/\/manifold.markets\/UnspecifiedPerson\/will-the-dont-build-it-march-happen",
     "date":"2025-11-19"
   },
@@ -187,7 +211,7 @@
   },
   {
     "question":"Will anyone find a major bug, error, or design flaw in the new \/create UI?",
-    "probability":0.92,
+    "probability":0.95,
     "link":"https:\/\/manifold.markets\/Gen\/will-anyone-find-a-major-bug-error",
     "date":"2025-11-19"
   },
@@ -204,8 +228,8 @@
     "date":"2025-11-19"
   },
   {
-    "question":"Ubisoft bankrupt, acquired, or ceased by 2026?",
-    "probability":0.95,
+    "question":"Ubisoft bankrupt, acquired, or ceased before 2026?",
+    "probability":0.98,
     "link":"https:\/\/manifold.markets\/whotfistim\/ubisoft-bankrupt-acquired-or-ceased",
     "date":"2025-11-19"
   },
@@ -259,7 +283,7 @@
   },
   {
     "question":"CPI data released for October 2025?",
-    "probability":0.66,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/Cactus\/cpi-data-released-for-october-2025",
     "date":"2025-11-19"
   },
@@ -391,7 +415,7 @@
   },
   {
     "question":"Valve announce anything else in 2025?",
-    "probability":0.45,
+    "probability":0.4,
     "link":"https:\/\/manifold.markets\/Bandors\/valve-announce-anything-else-in-202",
     "date":"2025-11-19"
   },
@@ -1183,7 +1207,7 @@
   },
   {
     "question":"Will Nvidia H100 compute prices be above 3.35 on 11\/20 at 12:00pm EST?",
-    "probability":0.87,
+    "probability":0.91,
     "link":"https:\/\/manifold.markets\/WayneNelmsE0t9\/will-nvidia-h100-compute-prices-be",
     "date":"2025-11-19"
   },
@@ -1249,7 +1273,7 @@
   },
   {
     "question":"Will someone manipulate their own mention market again?",
-    "probability":0.79,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/nikki\/will-someone-manipulate-their-own-m",
     "date":"2025-11-19"
   },
@@ -1261,7 +1285,7 @@
   },
   {
     "question":"Arsenal beats Tottenham Hotspur on November 23, 2025",
-    "probability":0.84,
+    "probability":0.91,
     "link":"https:\/\/manifold.markets\/tadohw\/arsenal-beats-tottenham-hotspur-on",
     "date":"2025-11-19"
   },
@@ -1353,18 +1377,6 @@
     "question":"test market",
     "probability":0.59,
     "link":"https:\/\/manifold.markets\/khang2009\/test-market-2R9Z9hznyS",
-    "date":"2025-11-19"
-  },
-  {
-    "question":"Will \"From Vitalik: Galaxy brain resistance\" make the top fifty posts in LessWrong's 2025 Annual Review?",
-    "probability":0.65,
-    "link":"https:\/\/manifold.markets\/LessWrong\/will-from-vitalik-galaxy-brain-resi",
-    "date":"2025-11-19"
-  },
-  {
-    "question":"Will \"People Seem Funny In The Head About Subtle Si...\" make the top fifty posts in LessWrong's 2025 Annual Review?",
-    "probability":0.61,
-    "link":"https:\/\/manifold.markets\/LessWrong\/will-people-seem-funny-in-the-head",
     "date":"2025-11-19"
   }
 ]
