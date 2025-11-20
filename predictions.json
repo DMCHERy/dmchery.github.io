@@ -1,5 +1,29 @@
 [
   {
+    "question":"Will an executive order preempt state AI laws by the end of November?",
+    "probability":0.37,
+    "link":"https:\/\/manifold.markets\/ms\/will-there-be-an-eo-that-preempts-s",
+    "date":"2025-11-20"
+  },
+  {
+    "question":"If AI is a finalist for Time's 2025 Person of the Year, will it win?",
+    "probability":0.56,
+    "link":"https:\/\/manifold.markets\/ItsMe\/if-ai-is-a-finalist-for-times-2025",
+    "date":"2025-11-20"
+  },
+  {
+    "question":"Will AI be a finalist for Time's 2025 Person of the Year?",
+    "probability":0.77,
+    "link":"https:\/\/manifold.markets\/ItsMe\/will-ai-be-a-finalist-for-times-202",
+    "date":"2025-11-20"
+  },
+  {
+    "question":"Is Intology's Locus really better than humans at AI R&D?",
+    "probability":0.79,
+    "link":"https:\/\/manifold.markets\/CDBiddulph\/is-intologys-locus-really-better-th",
+    "date":"2025-11-20"
+  },
+  {
     "question":"Trump's approval rating increases by end of January 2026?",
     "probability":0.39,
     "link":"https:\/\/manifold.markets\/hct\/trumps-approval-rating-increases-by",
@@ -7,13 +31,13 @@
   },
   {
     "question":"Will Exact Sciences be acquired by Abbott at a price over $100 per share by November 26th?",
-    "probability":0.41,
+    "probability":0.35,
     "link":"https:\/\/manifold.markets\/Investin2life\/will-exact-sciences-be-acquired-by",
     "date":"2025-11-20"
   },
   {
     "question":"TrumpMegaMillions (M10k Prize) DAY 9: We The People",
-    "probability":0.44,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/realDonaldTrump\/trumpmegamillions-m10k-prize-day-9-cuLgNg8S58",
     "date":"2025-11-20"
   },
@@ -25,13 +49,13 @@
   },
   {
     "question":"Bitcoin below $82K in 2025?",
-    "probability":0.53,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-below-82k-in-2025",
     "date":"2025-11-20"
   },
   {
     "question":"Bitcoin below $84K in 2025?",
-    "probability":0.47,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-below-84k-in-2025",
     "date":"2025-11-20"
   },
@@ -43,7 +67,7 @@
   },
   {
     "question":"Will the NDAA include preemption of state AI laws?",
-    "probability":0.52,
+    "probability":0.54,
     "link":"https:\/\/manifold.markets\/ms\/will-the-ndaa-include-preemption-of",
     "date":"2025-11-20"
   },
@@ -61,7 +85,7 @@
   },
   {
     "question":"Bitcoin below $88k on 20th November",
-    "probability":0.4,
+    "probability":0.39,
     "link":"https:\/\/manifold.markets\/InvestorOakmont\/bitcoin-below-88k-on-20th-november",
     "date":"2025-11-20"
   },
@@ -73,7 +97,7 @@
   },
   {
     "question":"Free Lottery (2k prize)",
-    "probability":0.64,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/ttoe\/free-lottery-2k-prize-S9ddqypy2C",
     "date":"2025-11-20"
   },
@@ -91,7 +115,7 @@
   },
   {
     "question":"The 2025 9-Way Game Awards Parlay",
-    "probability":0.51,
+    "probability":0.71,
     "link":"https:\/\/manifold.markets\/Marnix\/the-2025-9way-game-awards-parlay",
     "date":"2025-11-20"
   },
@@ -133,13 +157,13 @@
   },
   {
     "question":"$NVDA up after earnings?",
-    "probability":0.86,
+    "probability":0.88,
     "link":"https:\/\/manifold.markets\/OKanon\/nvda-up-after-earnings",
     "date":"2025-11-20"
   },
   {
     "question":"Gemini 3 flash release in November 2025?",
-    "probability":0.45,
+    "probability":0.38,
     "link":"https:\/\/manifold.markets\/AibulatMusin\/gemini-3-flash-release-in-november",
     "date":"2025-11-20"
   },
@@ -163,7 +187,7 @@
   },
   {
     "question":"Will market B get more traders than market A?",
-    "probability":0.58,
+    "probability":0.61,
     "link":"https:\/\/manifold.markets\/A\/will-market-b-get-more-traders-than",
     "date":"2025-11-20"
   },
@@ -241,7 +265,7 @@
   },
   {
     "question":"Will \"Video games are philosophy's playground\" make the top fifty posts in LessWrong's 2025 Annual Review?",
-    "probability":0.34,
+    "probability":0.3,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-video-games-are-philosophys-pl",
     "date":"2025-11-20"
   },
@@ -259,7 +283,7 @@
   },
   {
     "question":"Frontier LLM mobile apps can be backgrounded mid reasoning in November 2026?",
-    "probability":0.95,
+    "probability":0.94,
     "link":"https:\/\/manifold.markets\/Bayesian\/frontier-llm-apps-can-be-background",
     "date":"2025-11-20"
   },
@@ -283,7 +307,7 @@
   },
   {
     "question":"Gemini 3 Flash released by November 23, 2025?",
-    "probability":0.93,
+    "probability":0.94,
     "link":"https:\/\/manifold.markets\/AibulatMusin\/gemini-3-flash-released-by-november",
     "date":"2025-11-20"
   },
@@ -319,7 +343,7 @@
   },
   {
     "question":"Gemini 3 Deep Think available on API in 2025?",
-    "probability":0.63,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/Bayesian\/gemini-3-deep-think-available-on-ap",
     "date":"2025-11-20"
   },
@@ -1401,24 +1425,6 @@
     "question":"\u672c\u6708\u6bd4\u7279\u5e01\u4f1a\u4e0d\u4f1a\u7a81\u783413\u4e07",
     "probability":0.78,
     "link":"https:\/\/manifold.markets\/marketsyesno\/13",
-    "date":"2025-11-20"
-  },
-  {
-    "question":"Avowed on PS5 before July 2027?",
-    "probability":0.55,
-    "link":"https:\/\/manifold.markets\/AlexanderTheGreater\/avowed-on-ps5-before-july-2027",
-    "date":"2025-11-20"
-  },
-  {
-    "question":"Government is shutdown in February 2026?",
-    "probability":0.83,
-    "link":"https:\/\/manifold.markets\/robert\/government-is-shutdown-in-february",
-    "date":"2025-11-20"
-  },
-  {
-    "question":"Will any Caltech students become a Thiel Fellow by EOY2030?",
-    "probability":0.41,
-    "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-any-caltech-students-become-a",
     "date":"2025-11-20"
   }
 ]
