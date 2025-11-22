@@ -1,5 +1,29 @@
 [
   {
+    "question":"Will Cloudflare have another outage by Feb 2026?",
+    "probability":0.31,
+    "link":"https:\/\/manifold.markets\/kamn\/will-cloudflare-have-another-outage",
+    "date":"2025-11-22"
+  },
+  {
+    "question":"Does Manifold cares more about mana than money?",
+    "probability":0.31,
+    "link":"https:\/\/manifold.markets\/TonyBaloney\/manifold-cares-more-about-mana-than",
+    "date":"2025-11-22"
+  },
+  {
+    "question":"Marjorie Taylor Green runs for any office by November 2028?",
+    "probability":0.26,
+    "link":"https:\/\/manifold.markets\/moobunny\/marjorie-taylor-green-runs-for-any",
+    "date":"2025-11-22"
+  },
+  {
+    "question":"Will Kyriakos Mitsotakis be leader of New Democracy going into the next Greek parliamentary election?",
+    "probability":0.26,
+    "link":"https:\/\/manifold.markets\/Tetraspace\/will-kyriakos-mitsotakis-be-leader",
+    "date":"2025-11-22"
+  },
+  {
     "question":"Will TransCon CNP (navepegritide) be approved before 30th Nov 2025?",
     "probability":0.24,
     "link":"https:\/\/manifold.markets\/DomZ\/will-transcon-cnp-navepegritide-be",
@@ -7,7 +31,7 @@
   },
   {
     "question":"Will Trump and Mamdani openly feud before February 21?",
-    "probability":0.42,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/Conflux\/will-trump-and-mamdani-openly-feud",
     "date":"2025-11-22"
   },
@@ -19,19 +43,19 @@
   },
   {
     "question":"Olivia Nuzzi opens OnlyFans account before 2026?",
-    "probability":0.67,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/LyetKynes\/olivia-nuzzi-opens-onlyfans-account",
     "date":"2025-11-22"
   },
   {
     "question":"OpenAI collapses or gets acquired before IPO?",
-    "probability":0.44,
+    "probability":0.46,
     "link":"https:\/\/manifold.markets\/BrunoJ\/openai-collapses-or-gets-acquired-b",
     "date":"2025-11-22"
   },
   {
     "question":"Will \"Natural emergent misalignment from reward hac...\" make the top fifty posts in LessWrong's 2025 Annual Review?",
-    "probability":0.15,
+    "probability":0.17,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-natural-emergent-misalignment",
     "date":"2025-11-22"
   },
@@ -85,13 +109,13 @@
   },
   {
     "question":"Bitcoin below $80k at end of November 28?",
-    "probability":0.69,
+    "probability":0.71,
     "link":"https:\/\/manifold.markets\/InvestorOakmont\/bitcoin-below-80k-at-end-of-novembe",
     "date":"2025-11-22"
   },
   {
     "question":"Free Lottery",
-    "probability":0.57,
+    "probability":0.54,
     "link":"https:\/\/manifold.markets\/ttoe\/free-lottery-OA0q608Psd",
     "date":"2025-11-22"
   },
@@ -103,19 +127,19 @@
   },
   {
     "question":"MCRE Resources (Perak) receives approval to resume operations in 2025?",
-    "probability":0.26,
+    "probability":0.25,
     "link":"https:\/\/manifold.markets\/MikhailTal\/mcre-resources-perak-receives-appro",
     "date":"2025-11-22"
   },
   {
     "question":"Major ransomware attack on critical infrastructure by December 17, 2025",
-    "probability":0.7,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/ASPrince\/major-ransomware-attack-on-critical",
     "date":"2025-11-22"
   },
   {
     "question":"Bitcoin >= $87,000 by November 22nd?",
-    "probability":0.8,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/Careras\/will-bitcoin-reach-87000-by-novembe",
     "date":"2025-11-22"
   },
@@ -139,13 +163,13 @@
   },
   {
     "question":"Would I regret disabling System Integrity Protection to use yabai on my personal MacBook Pro?",
-    "probability":0.37,
+    "probability":0.4,
     "link":"https:\/\/manifold.markets\/Popsicle2338\/would-i-regret-disabling-system-int",
     "date":"2025-11-22"
   },
   {
     "question":"Willl Oliver car start in the morning?",
-    "probability":0.42,
+    "probability":0.4,
     "link":"https:\/\/manifold.markets\/MaxBodaan\/willl-oliver-car-start-in-the-morni",
     "date":"2025-11-22"
   },
@@ -247,7 +271,7 @@
   },
   {
     "question":"Will Manifold take official action against \"impersonation accounts\" before 2026?",
-    "probability":0.62,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/Eliza\/will-manifold-take-official-action",
     "date":"2025-11-22"
   },
@@ -283,7 +307,7 @@
   },
   {
     "question":"Will I procrastinate so hard that I have to do schoolwork in Europe?",
-    "probability":0.67,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/Conflux\/will-i-procrastinate-so-hard-that-i",
     "date":"2025-11-22"
   },
@@ -313,7 +337,7 @@
   },
   {
     "question":"Yann LeCun's new AI startup reaches $100M+ valuation by end of 2027?",
-    "probability":0.45,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/MikhailTal\/yann-lecuns-new-ai-startup-reaches",
     "date":"2025-11-22"
   },
@@ -607,7 +631,7 @@
   },
   {
     "question":"Gemini 3 flash release in November 2025?",
-    "probability":0.58,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/AibulatMusin\/gemini-3-flash-release-in-november",
     "date":"2025-11-22"
   },
@@ -751,7 +775,7 @@
   },
   {
     "question":"Gemini 3 Flash released by November 23, 2025?",
-    "probability":0.97,
+    "probability":0.84,
     "link":"https:\/\/manifold.markets\/AibulatMusin\/gemini-3-flash-released-by-november",
     "date":"2025-11-22"
   },
@@ -877,7 +901,7 @@
   },
   {
     "question":"Trump endorses Mtg for 2026 Republican primary?",
-    "probability":0.68,
+    "probability":0.75,
     "link":"https:\/\/manifold.markets\/Jack0\/trump-endorses-mtg-for-2026-republi",
     "date":"2025-11-22"
   },
@@ -931,7 +955,7 @@
   },
   {
     "question":"Will OpenAI ever release a model named GPT-5.2?",
-    "probability":0.63,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/BenAybar\/will-openai-ever-release-a-model-na",
     "date":"2025-11-22"
   },
@@ -1219,7 +1243,7 @@
   },
   {
     "question":"Will Marjorie Taylor Greene publicly reconcile with Donald Trump before her November 3, 2026 reelection?",
-    "probability":0.72,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/Cogsdoc\/will-marjorie-taylor-greene-publicl",
     "date":"2025-11-22"
   },
@@ -1509,18 +1533,6 @@
     "question":"Donald Trump President on 1 Jan 2026?",
     "probability":0.7,
     "link":"https:\/\/manifold.markets\/Jack0\/donald-trump-president-on-1-jan-202",
-    "date":"2025-11-22"
-  },
-  {
-    "question":"Trump Publicly comes Out As LGBTQ by The end of 2028",
-    "probability":0.84,
-    "link":"https:\/\/manifold.markets\/BurnerBurn\/trump-publicly-comes-out-as-lgbtq-b",
-    "date":"2025-11-22"
-  },
-  {
-    "question":"Wil Trump be impeached by the House in 2026?",
-    "probability":0.62,
-    "link":"https:\/\/manifold.markets\/AmmonLam\/wil-trump-be-impeached-by-the-house-ORIc658Qpc",
     "date":"2025-11-22"
   }
 ]
