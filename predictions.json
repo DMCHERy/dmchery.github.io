@@ -1,7 +1,31 @@
 [
   {
+    "question":"FURIA wins CS2 Budapest Major 2025 before December 10",
+    "probability":0.39,
+    "link":"https:\/\/manifold.markets\/chencarl\/furia-wins-cs2-budapest-major-2025",
+    "date":"2025-11-23"
+  },
+  {
+    "question":"Mamdani pushes Land Value Tax-like change in first term?",
+    "probability":0.17,
+    "link":"https:\/\/manifold.markets\/kamn\/mamdani-pushes-land-value-taxlike-c",
+    "date":"2025-11-23"
+  },
+  {
+    "question":"Vineeth comes back to raas",
+    "probability":0.28,
+    "link":"https:\/\/manifold.markets\/HarshShahcEdR\/vineeth-comes-back-to-raas",
+    "date":"2025-11-23"
+  },
+  {
+    "question":"any model on the Chatbot Arena LLM Leaderboard at https:\/\/lmarena.ai\/ reaches an Arena Score of at least 1520.0 (\u22651520)",
+    "probability":0.34,
+    "link":"https:\/\/manifold.markets\/AlvaLindqvist\/any-model-on-the-chatbot-arena-llm",
+    "date":"2025-11-23"
+  },
+  {
     "question":"Daily Coinflip",
-    "probability":0.56,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-ZcCIgs0yCt",
     "date":"2025-11-23"
   },
@@ -13,13 +37,13 @@
   },
   {
     "question":"Will the Supreme Court issue a merits decision that limits or overturns state or local rent-control laws before 2030?",
-    "probability":0.4,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/Khazar_Man_From_Turan\/will-the-supreme-court-issue-a-meri",
     "date":"2025-11-23"
   },
   {
     "question":"Musk ratioed in 2025?",
-    "probability":0.33,
+    "probability":0.36,
     "link":"https:\/\/manifold.markets\/ItsMe\/musk-ratioed-in-2025",
     "date":"2025-11-23"
   },
@@ -31,7 +55,7 @@
   },
   {
     "question":"Have you heard of Leah Kate?",
-    "probability":0.28,
+    "probability":0.3,
     "link":"https:\/\/manifold.markets\/MeimeiCao\/have-you-heard-of-leah-kate",
     "date":"2025-11-23"
   },
@@ -43,7 +67,7 @@
   },
   {
     "question":"Will the OpenAI GPT Store (or equivalent \u201cAI App Store\u201d) launch before August 1, 2026?",
-    "probability":0.29,
+    "probability":0.31,
     "link":"https:\/\/manifold.markets\/Cogsdoc\/will-the-openai-gpt-store-or-equiva",
     "date":"2025-11-23"
   },
@@ -73,7 +97,7 @@
   },
   {
     "question":"Will my net worth exceed 1e30 mana on dev.manifold.markets by EOY 2025?",
-    "probability":0.22,
+    "probability":0.26,
     "link":"https:\/\/manifold.markets\/khang2009\/will-my-net-worth-exceed-1e30-mana",
     "date":"2025-11-23"
   },
@@ -85,7 +109,7 @@
   },
   {
     "question":"Will putin win?",
-    "probability":0.5,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/Gemc\/will-putin-win",
     "date":"2025-11-23"
   },
@@ -97,7 +121,7 @@
   },
   {
     "question":"Any one of Half Life 3, the Winds of Winter, or Elder Scrolls 6 announced before the end of March 2026",
-    "probability":0.33,
+    "probability":0.37,
     "link":"https:\/\/manifold.markets\/spiderduckpig\/any-one-of-half-life-3-the-winds-of",
     "date":"2025-11-23"
   },
@@ -109,7 +133,7 @@
   },
   {
     "question":"Will Roshan Die on or before November 23rd",
-    "probability":0.17,
+    "probability":0.21,
     "link":"https:\/\/manifold.markets\/AdvaiSrinivasanLgZ0\/will-roshan-die-on-or-before-novemb",
     "date":"2025-11-23"
   },
@@ -121,7 +145,7 @@
   },
   {
     "question":"Will Cloudflare have another outage by Feb 2026?",
-    "probability":0.55,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/kamn\/will-cloudflare-have-another-outage",
     "date":"2025-11-23"
   },
@@ -132,8 +156,8 @@
     "date":"2025-11-23"
   },
   {
-    "question":"Marjorie Taylor Green runs for any office by November 2028?",
-    "probability":0.5,
+    "question":"Marjorie Taylor Greene runs for any office by November 2028?",
+    "probability":0.42,
     "link":"https:\/\/manifold.markets\/moobunny\/marjorie-taylor-green-runs-for-any",
     "date":"2025-11-23"
   },
@@ -181,13 +205,13 @@
   },
   {
     "question":"Lakers defeat Jazz on November 23, 2025",
-    "probability":0.41,
+    "probability":0.46,
     "link":"https:\/\/manifold.markets\/Kenzo\/lakers-defeat-jazz-on-november-23-2",
     "date":"2025-11-23"
   },
   {
     "question":"Will Apple block Google\u2019s Airdrop implementation before end of 2025?",
-    "probability":0.6,
+    "probability":0.74,
     "link":"https:\/\/manifold.markets\/Soli\/will-apple-block-googles-airdrop-im",
     "date":"2025-11-23"
   },
@@ -229,7 +253,7 @@
   },
   {
     "question":"Bitcoin below $80k at end of November 28?",
-    "probability":0.49,
+    "probability":0.47,
     "link":"https:\/\/manifold.markets\/InvestorOakmont\/bitcoin-below-80k-at-end-of-novembe",
     "date":"2025-11-23"
   },
@@ -618,14 +642,14 @@
     "date":"2025-11-23"
   },
   {
-    "question":"If AI is a finalist for Time's 2025 Person of the Year, will it win?",
-    "probability":0.66,
+    "question":"If AI is on the shortlist for Time's 2025 Person of the Year, will it win?",
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/ItsMe\/if-ai-is-a-finalist-for-times-2025",
     "date":"2025-11-23"
   },
   {
-    "question":"Will AI be a finalist for Time's 2025 Person of the Year?",
-    "probability":0.49,
+    "question":"Will AI be on the shortlist for Time's 2025 Person of the Year?",
+    "probability":0.48,
     "link":"https:\/\/manifold.markets\/ItsMe\/will-ai-be-a-finalist-for-times-202",
     "date":"2025-11-23"
   },
@@ -715,7 +739,7 @@
   },
   {
     "question":"Will there be any deaths in the 2025 Atlantic hurricane season after Hurricane Melissa?",
-    "probability":0.39,
+    "probability":0.48,
     "link":"https:\/\/manifold.markets\/Tetraspace\/will-there-be-any-deaths-in-the-202",
     "date":"2025-11-23"
   },
@@ -757,13 +781,13 @@
   },
   {
     "question":"Will market B get more traders than market A?",
-    "probability":0.56,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/A\/will-market-b-get-more-traders-than",
     "date":"2025-11-23"
   },
   {
     "question":"Will market A get more traders than market B?",
-    "probability":0.49,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/A\/will-market-a-get-more-traders-than",
     "date":"2025-11-23"
   },
@@ -793,7 +817,7 @@
   },
   {
     "question":"Will I gain 100 rating (750 -> 850) on Chess.com? Month 1",
-    "probability":0.32,
+    "probability":0.38,
     "link":"https:\/\/manifold.markets\/AustinChen\/will-i-gain-100-rating-on-chesscom",
     "date":"2025-11-23"
   },
@@ -895,7 +919,7 @@
   },
   {
     "question":"Gemini 3 Deep Think available on API in 2025?",
-    "probability":0.48,
+    "probability":0.47,
     "link":"https:\/\/manifold.markets\/Bayesian\/gemini-3-deep-think-available-on-ap",
     "date":"2025-11-23"
   },
@@ -1111,7 +1135,7 @@
   },
   {
     "question":"Will I be productive 3+ days this week?",
-    "probability":0.46,
+    "probability":0.5,
     "link":"https:\/\/manifold.markets\/notbayesian\/will-i-be-productive-3-days-this-we",
     "date":"2025-11-23"
   },
@@ -1201,7 +1225,7 @@
   },
   {
     "question":"Will there be a False Flag in New York after Mamdani Election",
-    "probability":0.64,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/KingGuy\/false-flag-in-new-york-after-mamdan",
     "date":"2025-11-23"
   },
@@ -1423,7 +1447,7 @@
   },
   {
     "question":"50+ unique marketers bid in this market?",
-    "probability":0.54,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/Uranus\/50-unique-marketers-bid-in-this-mar",
     "date":"2025-11-23"
   },
@@ -1509,18 +1533,6 @@
     "question":"TFT augment stats return before May 1, 2026?",
     "probability":0.2,
     "link":"https:\/\/manifold.markets\/Cy\/tft-augment-stats-return-before-may",
-    "date":"2025-11-23"
-  },
-  {
-    "question":"Trump confirmed to be bisexual?",
-    "probability":0.59,
-    "link":"https:\/\/manifold.markets\/lamp\/trump-confirmed-to-be-bisexual",
-    "date":"2025-11-23"
-  },
-  {
-    "question":"Will A marry an ethnic Jew",
-    "probability":0.34,
-    "link":"https:\/\/manifold.markets\/LukeStClair\/will-a-marry-an-ethnic-jew",
     "date":"2025-11-23"
   }
 ]
