@@ -1,13 +1,19 @@
 [
   {
+    "question":"China-Japan military clash or armed incident leading to injury by December 31, 2026",
+    "probability":0.4,
+    "link":"https:\/\/manifold.markets\/aimless_intent\/chinajapan-military-clash-or-armed",
+    "date":"2025-11-23"
+  },
+  {
     "question":"FURIA wins CS2 Budapest Major 2025 before December 10",
-    "probability":0.39,
+    "probability":0.4,
     "link":"https:\/\/manifold.markets\/chencarl\/furia-wins-cs2-budapest-major-2025",
     "date":"2025-11-23"
   },
   {
     "question":"Mamdani pushes Land Value Tax-like change in first term?",
-    "probability":0.17,
+    "probability":0.23,
     "link":"https:\/\/manifold.markets\/kamn\/mamdani-pushes-land-value-taxlike-c",
     "date":"2025-11-23"
   },
@@ -19,19 +25,19 @@
   },
   {
     "question":"any model on the Chatbot Arena LLM Leaderboard at https:\/\/lmarena.ai\/ reaches an Arena Score of at least 1520.0 (\u22651520)",
-    "probability":0.34,
+    "probability":0.46,
     "link":"https:\/\/manifold.markets\/AlvaLindqvist\/any-model-on-the-chatbot-arena-llm",
     "date":"2025-11-23"
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.7,
+    "probability":0.6,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-ZcCIgs0yCt",
     "date":"2025-11-23"
   },
   {
     "question":"Will I be convinced: system problem of decoherence",
-    "probability":0.25,
+    "probability":0.28,
     "link":"https:\/\/manifold.markets\/ttoe\/will-i-be-convinced-system-problem",
     "date":"2025-11-23"
   },
@@ -43,7 +49,7 @@
   },
   {
     "question":"Musk ratioed in 2025?",
-    "probability":0.36,
+    "probability":0.38,
     "link":"https:\/\/manifold.markets\/ItsMe\/musk-ratioed-in-2025",
     "date":"2025-11-23"
   },
@@ -67,7 +73,7 @@
   },
   {
     "question":"Will the OpenAI GPT Store (or equivalent \u201cAI App Store\u201d) launch before August 1, 2026?",
-    "probability":0.31,
+    "probability":0.35,
     "link":"https:\/\/manifold.markets\/Cogsdoc\/will-the-openai-gpt-store-or-equiva",
     "date":"2025-11-23"
   },
@@ -79,7 +85,7 @@
   },
   {
     "question":"Will Trump golf this weekend?",
-    "probability":0.25,
+    "probability":0.31,
     "link":"https:\/\/manifold.markets\/SaiVazquez\/will-trump-golf-this-weekend-Nl0SEnlAUN",
     "date":"2025-11-23"
   },
@@ -103,13 +109,13 @@
   },
   {
     "question":"If no lowering of interest rates in Dec. \u2192 Will Trump increasingly pressure Fed autonomy?",
-    "probability":0.33,
+    "probability":0.37,
     "link":"https:\/\/manifold.markets\/SpeaksForTrees\/if-no-lowering-of-interest-rates-in",
     "date":"2025-11-23"
   },
   {
     "question":"Will putin win?",
-    "probability":0.57,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/Gemc\/will-putin-win",
     "date":"2025-11-23"
   },
@@ -121,13 +127,13 @@
   },
   {
     "question":"Any one of Half Life 3, the Winds of Winter, or Elder Scrolls 6 announced before the end of March 2026",
-    "probability":0.37,
+    "probability":0.45,
     "link":"https:\/\/manifold.markets\/spiderduckpig\/any-one-of-half-life-3-the-winds-of",
     "date":"2025-11-23"
   },
   {
     "question":"BTC first falls below 80K in December, not November",
-    "probability":0.4,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/DannyqnOht\/btc-first-falls-below-80k-in-decemb",
     "date":"2025-11-23"
   },
@@ -145,7 +151,7 @@
   },
   {
     "question":"Will Cloudflare have another outage by Feb 2026?",
-    "probability":0.49,
+    "probability":0.45,
     "link":"https:\/\/manifold.markets\/kamn\/will-cloudflare-have-another-outage",
     "date":"2025-11-23"
   },
@@ -157,7 +163,7 @@
   },
   {
     "question":"Marjorie Taylor Greene runs for any office by November 2028?",
-    "probability":0.42,
+    "probability":0.43,
     "link":"https:\/\/manifold.markets\/moobunny\/marjorie-taylor-green-runs-for-any",
     "date":"2025-11-23"
   },
@@ -253,7 +259,7 @@
   },
   {
     "question":"Bitcoin below $80k at end of November 28?",
-    "probability":0.47,
+    "probability":0.35,
     "link":"https:\/\/manifold.markets\/InvestorOakmont\/bitcoin-below-80k-at-end-of-novembe",
     "date":"2025-11-23"
   },
@@ -379,7 +385,7 @@
   },
   {
     "question":"Bitcoin below $75K in 2025?",
-    "probability":0.64,
+    "probability":0.66,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-below-75k-in-2025",
     "date":"2025-11-23"
   },
@@ -391,7 +397,7 @@
   },
   {
     "question":"Bitcoin below 70k @ EOY?",
-    "probability":0.64,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/OKanon\/bitcoin-below-70k-eoy",
     "date":"2025-11-23"
   },
@@ -469,7 +475,7 @@
   },
   {
     "question":"Yann LeCun's new AI startup reaches $100M+ valuation by end of 2027?",
-    "probability":0.6,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/MikhailTal\/yann-lecuns-new-ai-startup-reaches",
     "date":"2025-11-23"
   },
@@ -1231,7 +1237,7 @@
   },
   {
     "question":"Infume hits 2800 Elo on Minecraft Ranked this year?",
-    "probability":0.28,
+    "probability":0.4,
     "link":"https:\/\/manifold.markets\/Bayesian\/infume-hits-2800-elo-on-minecraft-r",
     "date":"2025-11-23"
   },
@@ -1387,7 +1393,7 @@
   },
   {
     "question":"I reach a 10 day Manifold betting streak by December 11, 2025",
-    "probability":0.46,
+    "probability":0.47,
     "link":"https:\/\/manifold.markets\/jollyroger182\/i-reach-a-10-day-manifold-betting-s",
     "date":"2025-11-23"
   },
@@ -1533,6 +1539,12 @@
     "question":"TFT augment stats return before May 1, 2026?",
     "probability":0.2,
     "link":"https:\/\/manifold.markets\/Cy\/tft-augment-stats-return-before-may",
+    "date":"2025-11-23"
+  },
+  {
+    "question":"Trump confirmed to be bisexual?",
+    "probability":0.59,
+    "link":"https:\/\/manifold.markets\/lamp\/trump-confirmed-to-be-bisexual",
     "date":"2025-11-23"
   }
 ]
