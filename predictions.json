@@ -1,7 +1,55 @@
 [
   {
+    "question":"Will these Claude Plays Pokemon markets be fixed by Manfiold in the next 24h?",
+    "probability":0.49,
+    "link":"https:\/\/manifold.markets\/Anthem\/will-these-claude-plays-pokemon-mar",
+    "date":"2025-12-05"
+  },
+  {
+    "question":"Will OpenAI release a text model on December 9th?",
+    "probability":0.74,
+    "link":"https:\/\/manifold.markets\/BenAybar\/will-openai-release-a-text-model-on",
+    "date":"2025-12-05"
+  },
+  {
+    "question":"Free Lottery (4k prize)",
+    "probability":0.51,
+    "link":"https:\/\/manifold.markets\/ttoe\/free-lottery-4k-prize",
+    "date":"2025-12-05"
+  },
+  {
+    "question":"Will Chat GPT remove or hide their 'ai can make mistakes' disclaimer from website page at any point by the end of 2027?",
+    "probability":0.74,
+    "link":"https:\/\/manifold.markets\/strutheo\/will-chat-gpt-remove-or-hide-their-pzqdZUnItn",
+    "date":"2025-12-05"
+  },
+  {
+    "question":"Will Chat GPT remove or hide their 'ai can make mistakes' disclaimer from website page at any point by the end of 2026?",
+    "probability":0.74,
+    "link":"https:\/\/manifold.markets\/strutheo\/will-chat-gpt-remove-or-hide-their-th6u5OENNp",
+    "date":"2025-12-05"
+  },
+  {
+    "question":"S&P 500\u00ae Reaches 7000 by Dec 12?",
+    "probability":0.68,
+    "link":"https:\/\/manifold.markets\/jim\/sp-500-reaches-7000-by-dec-12",
+    "date":"2025-12-05"
+  },
+  {
+    "question":"S&P 500\u00ae Reaches 6900 by Dec 12?",
+    "probability":0.8,
+    "link":"https:\/\/manifold.markets\/jim\/sp-500-reaches-6900-by-dec-12",
+    "date":"2025-12-05"
+  },
+  {
+    "question":"S&P 500\u00ae Reaches 7000 by EOY 2025?",
+    "probability":0.69,
+    "link":"https:\/\/manifold.markets\/jim\/sp-500-reaches-7000-by-eoy-2025",
+    "date":"2025-12-05"
+  },
+  {
     "question":"Will Manifold *BAN* duplicate questions in 2025?",
-    "probability":0.66,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/ItsMe\/will-manifold-ban-duplicate-questio-hEU9hSgAAU",
     "date":"2025-12-05"
   },
@@ -19,7 +67,7 @@
   },
   {
     "question":"Will I get my first unassisted dip before February 2026?",
-    "probability":0.81,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/eatmorchikin\/will-i-get-my-first-unassisted-dip",
     "date":"2025-12-05"
   },
@@ -31,19 +79,19 @@
   },
   {
     "question":"Will \"Deceptive AI \u2260 Deceptively-aligned AI\" make the top fifty posts in LessWrong's 2024 Annual Review?",
-    "probability":0.84,
+    "probability":0.73,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-deceptive-ai-deceptivelyaligne",
     "date":"2025-12-05"
   },
   {
     "question":"Will China cause damage requiring drydock repair to a vessel between Jan 1 and June 30, 2026?",
-    "probability":0.81,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/GoDie\/will-china-cause-damage-requiring-d",
     "date":"2025-12-05"
   },
   {
     "question":"Will The proposed P6.793-trillion 2026 General Appropriations Bill (GAB) for the PH be signed before January 15, 2026?",
-    "probability":0.74,
+    "probability":0.73,
     "link":"https:\/\/manifold.markets\/GoDie\/will-the-proposed-p6793trillion-202",
     "date":"2025-12-05"
   },
@@ -55,7 +103,7 @@
   },
   {
     "question":"Graham Platner and Janet Mills top 2 candidates in Maine Senate Primary?",
-    "probability":0.69,
+    "probability":0.71,
     "link":"https:\/\/manifold.markets\/NzJack0n\/graham-platner-and-janet-mills-top",
     "date":"2025-12-05"
   },
@@ -67,13 +115,13 @@
   },
   {
     "question":"Will this 1962 Main Battle Tank sell at auction?",
-    "probability":0.53,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/CaptSlow\/will-this-1962-main-battle-tank-sel",
     "date":"2025-12-05"
   },
   {
     "question":"Will my friend and nurse joy be dating by March 1st",
-    "probability":0.69,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/jamesbakerR8py\/will-my-friend-and-princess-peach-b",
     "date":"2025-12-05"
   },
@@ -85,7 +133,7 @@
   },
   {
     "question":"Will Americans lose the right to dual citizenship before 2029?",
-    "probability":0.83,
+    "probability":0.8,
     "link":"https:\/\/manifold.markets\/Kronopath\/will-americans-lose-the-right-to-du",
     "date":"2025-12-05"
   },
@@ -93,12 +141,6 @@
     "question":"Will I get into MIT class of 2030?",
     "probability":0.73,
     "link":"https:\/\/manifold.markets\/Bunchofcells\/will-i-get-into-mit-class-of-2030",
-    "date":"2025-12-05"
-  },
-  {
-    "question":"Free Lottery (3k prize)",
-    "probability":0.51,
-    "link":"https:\/\/manifold.markets\/ttoe\/free-lottery-3k-prize-yZEZZ5A8p5",
     "date":"2025-12-05"
   },
   {
@@ -115,7 +157,7 @@
   },
   {
     "question":"Will I get Lou Gehrig\u2019s disease by 2027?",
-    "probability":0.64,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/Danielc583c\/will-i-get-lou-gehrigs-disease-by-2",
     "date":"2025-12-05"
   },
@@ -223,7 +265,7 @@
   },
   {
     "question":"Will Jos\u00e9 Antonio Kast win the Chilean election?(polymarket)",
-    "probability":0.7,
+    "probability":0.66,
     "link":"https:\/\/manifold.markets\/NzJack0n\/will-jose-antonio-kast-win-the-colo",
     "date":"2025-12-05"
   },
@@ -235,7 +277,7 @@
   },
   {
     "question":"Premier League Weekend Prop Bets, Dec 2-4(Matchday 14)",
-    "probability":0.74,
+    "probability":0.73,
     "link":"https:\/\/manifold.markets\/MeshackWinnerNI620\/premier-league-weekend-prop-bets-de-ZII6L0zQgd",
     "date":"2025-12-05"
   },
@@ -325,7 +367,7 @@
   },
   {
     "question":"Will Jos\u00e9 Antonio Kast win the Chilean Presidental Election?",
-    "probability":0.87,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/NzJack0n\/will-jose-antonio-kast-win-the-chil",
     "date":"2025-12-05"
   },
@@ -421,7 +463,7 @@
   },
   {
     "question":"I find a female partner\/companion in 2026?",
-    "probability":0.79,
+    "probability":0.8,
     "link":"https:\/\/manifold.markets\/VintageDad\/i-find-a-female-partnercompanion-in",
     "date":"2025-12-05"
   },
@@ -499,7 +541,7 @@
   },
   {
     "question":"Will Texas Tech Defeat BYU on December 6th, 2025?",
-    "probability":0.67,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/Ayrtonite\/will-texas-tech-defeat-byu-on-decem",
     "date":"2025-12-05"
   },
@@ -511,7 +553,7 @@
   },
   {
     "question":"Will Georgia Defeat Alabama on December 6th, 2025?",
-    "probability":0.73,
+    "probability":0.79,
     "link":"https:\/\/manifold.markets\/Ayrtonite\/will-georgia-defeat-alabama-in-the",
     "date":"2025-12-05"
   },
@@ -541,7 +583,7 @@
   },
   {
     "question":"Will the gold price be above 4250 USD\/oz by the end of December 5, 2025?",
-    "probability":0.69,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/MinX\/will-the-gold-price-be-above-4250-u",
     "date":"2025-12-05"
   },
@@ -1443,24 +1485,6 @@
     "question":"Pipeline construction starts in BC, Canada before 2031?",
     "probability":0.67,
     "link":"https:\/\/manifold.markets\/UnconditionalProbability\/pipeline-construction-starts-in-bc",
-    "date":"2025-12-05"
-  },
-  {
-    "question":"Did Olivia Nuzzi cheat with RFK Jr?",
-    "probability":0.69,
-    "link":"https:\/\/manifold.markets\/CivilizedGuy\/did-olivia-nuzzi-cheat-with-rfk-jr",
-    "date":"2025-12-05"
-  },
-  {
-    "question":"Is the sky blue",
-    "probability":0.72,
-    "link":"https:\/\/manifold.markets\/KeithBetley\/is-the-sky-blue",
-    "date":"2025-12-05"
-  },
-  {
-    "question":"Will Alexey Guzey get TMS\/tFUS by EOY2029?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-alexey-guzey-get-tmstfus-by-eo",
     "date":"2025-12-05"
   }
 ]
