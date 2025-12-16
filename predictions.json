@@ -1,19 +1,43 @@
 [
   {
+    "question":"Will Stoke Space fly to space by 2027?",
+    "probability":0.51,
+    "link":"https:\/\/manifold.markets\/LarsOsborne\/will-stoke-space-fly-to-space-by-20-9RgEhh6pzt",
+    "date":"2025-12-16"
+  },
+  {
+    "question":"Will Iron Lung have a higher IMDB rating than The Edge of Sleep?",
+    "probability":0.3,
+    "link":"https:\/\/manifold.markets\/kamn\/will-iron-lung-have-a-higher-imdb-r",
+    "date":"2025-12-16"
+  },
+  {
+    "question":"Manifold Wrapped: Is the total trade count broken?",
+    "probability":0.16,
+    "link":"https:\/\/manifold.markets\/Bayesian\/manifold-wrapped-is-the-total-trade",
+    "date":"2025-12-16"
+  },
+  {
+    "question":"Will Trump reclassify Marijuana\/Cannabis this week? (12-15-2025 to 12-21-2025)",
+    "probability":0.1,
+    "link":"https:\/\/manifold.markets\/card4man\/will-trump-reclassify-marijuanacann",
+    "date":"2025-12-16"
+  },
+  {
     "question":"Will Donald Trump Jr run in the 2026 midterm elections?",
-    "probability":0.21,
+    "probability":0.15,
     "link":"https:\/\/manifold.markets\/strutheo\/will-donald-trump-jr-run-in-the-202",
     "date":"2025-12-16"
   },
   {
     "question":"Will MAA change the AIME cutoffs?",
-    "probability":0.25,
+    "probability":0.17,
     "link":"https:\/\/manifold.markets\/johnNZOy\/will-maa-change-the-aime-cutoffs",
     "date":"2025-12-16"
   },
   {
     "question":"Will I be accepted to MIT EA?",
-    "probability":0.5,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/EvanXiang\/will-i-be-accepted-to-mit-ea",
     "date":"2025-12-16"
   },
@@ -55,7 +79,7 @@
   },
   {
     "question":"Will there be over 1 GW of data center on the moon by EOY 2032?",
-    "probability":0.53,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/VincentCate\/will-there-be-over-1-gw-of-data-cen",
     "date":"2025-12-16"
   },
@@ -115,7 +139,7 @@
   },
   {
     "question":"Free Lottery",
-    "probability":0.37,
+    "probability":0.43,
     "link":"https:\/\/manifold.markets\/ttoe\/free-lottery-5NQ6zScyuI",
     "date":"2025-12-16"
   },
@@ -127,7 +151,7 @@
   },
   {
     "question":"Rob Reiner and Michele Singer\u2019s deaths ruled homicide by 2027",
-    "probability":0.39,
+    "probability":0.5,
     "link":"https:\/\/manifold.markets\/MachiNi\/bob-and-michele-reiners-death-ruled",
     "date":"2025-12-16"
   },
@@ -175,7 +199,7 @@
   },
   {
     "question":"Resolves to the side with the most holders at market close",
-    "probability":0.11,
+    "probability":0.21,
     "link":"https:\/\/manifold.markets\/NzJack0n\/resolves-to-the-side-with-the-most-ALtdhz065c",
     "date":"2025-12-16"
   },
@@ -187,7 +211,7 @@
   },
   {
     "question":"Can Claude run Manifold locally?",
-    "probability":0.43,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/EvanDaniel\/can-claude-run-manifold-locally",
     "date":"2025-12-16"
   },
@@ -349,7 +373,7 @@
   },
   {
     "question":"Will the Fed change its 2% inflation target before the end of Trump\u2019s term?",
-    "probability":0.7,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/Tyler31\/will-the-fed-change-its-2-inflation",
     "date":"2025-12-16"
   },
@@ -913,7 +937,7 @@
   },
   {
     "question":"New METR SOTA by EOY?",
-    "probability":0.39,
+    "probability":0.38,
     "link":"https:\/\/manifold.markets\/jim\/new-metr-sota-by-eoy",
     "date":"2025-12-16"
   },
@@ -1213,7 +1237,7 @@
   },
   {
     "question":"Will Robotaxis in Austin have no safety monitors in 3 weeks?",
-    "probability":0.09,
+    "probability":0.08,
     "link":"https:\/\/manifold.markets\/kamn\/will-robotaxis-in-austin-have-no-sa",
     "date":"2025-12-16"
   },
@@ -1305,30 +1329,6 @@
     "question":"Coinflip",
     "probability":0.37,
     "link":"https:\/\/manifold.markets\/InvestorOakmont\/coinflip-pNySLRAqE6",
-    "date":"2025-12-16"
-  },
-  {
-    "question":"AI time horizon of 20 hours by January 1st 2027?",
-    "probability":0.21,
-    "link":"https:\/\/manifold.markets\/jim\/ai-time-horizon-of-20-hours-by-janu",
-    "date":"2025-12-16"
-  },
-  {
-    "question":"AI time horizon of 10 hours by September 1st 2026?",
-    "probability":0.14,
-    "link":"https:\/\/manifold.markets\/jim\/ai-time-horizon-of-10-hours-by-sept",
-    "date":"2025-12-16"
-  },
-  {
-    "question":"Will I stick to my study schedule (3h daily target) until EOY?",
-    "probability":0.26,
-    "link":"https:\/\/manifold.markets\/redcat\/will-i-stick-to-my-study-schedule-3",
-    "date":"2025-12-16"
-  },
-  {
-    "question":"Will DIMVA be upranked to B tier in 2026?",
-    "probability":0.6,
-    "link":"https:\/\/manifold.markets\/HannesWeissteiner\/will-dimva-be-upranked-to-b-tier-in",
     "date":"2025-12-16"
   }
 ]
