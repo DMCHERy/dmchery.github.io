@@ -1,7 +1,61 @@
 [
   {
+    "question":"Will Putin really use nuke weapons?",
+    "probability":0.31,
+    "link":"https:\/\/manifold.markets\/fzzr\/will-putin-really-use-nuke-weapons",
+    "date":"2025-12-17"
+  },
+  {
+    "question":"Will I get an A in ML",
+    "probability":0.42,
+    "link":"https:\/\/manifold.markets\/SophiaPhu\/will-i-get-an-a-in-ml",
+    "date":"2025-12-17"
+  },
+  {
+    "question":"Will \"Scientific breakthroughs of the year\" make the top fifty posts in LessWrong's 2025 Annual Review?",
+    "probability":0.32,
+    "link":"https:\/\/manifold.markets\/LessWrong\/will-scientific-breakthroughs-of-th",
+    "date":"2025-12-17"
+  },
+  {
+    "question":"Will Joel Davis be found guilty of Use Carriage Service to Menace, Harass, Offend. for \"rhetorically rape\" case.",
+    "probability":0.33,
+    "link":"https:\/\/manifold.markets\/SignalFlux\/will-joel-davis-be-found-guilty-of",
+    "date":"2025-12-17"
+  },
+  {
+    "question":"Temperature in New York City on Christmas Day > 39 Farenheit?",
+    "probability":0.26,
+    "link":"https:\/\/manifold.markets\/MikhailTal\/temperature-in-new-york-city-on-chr-unt2uCQ8SA",
+    "date":"2025-12-17"
+  },
+  {
+    "question":"Will the killer of Nuno Loureiro be caught before February 2026?",
+    "probability":0.06,
+    "link":"https:\/\/manifold.markets\/chrisjbillington\/will-the-killer-of-nuno-loureiro-be",
+    "date":"2025-12-17"
+  },
+  {
+    "question":"Temperature in New York City on Christmas Day plus 2*die roll > 46 Farenheit",
+    "probability":0.2,
+    "link":"https:\/\/manifold.markets\/MikhailTal\/temperature-in-new-york-city-on-chr",
+    "date":"2025-12-17"
+  },
+  {
+    "question":"Will OpenAi have a valuation of $1 trillion by the end of 2027?",
+    "probability":0.19,
+    "link":"https:\/\/manifold.markets\/DrewReynolds\/will-openai-have-a-valuation-of-1-t",
+    "date":"2025-12-17"
+  },
+  {
+    "question":"not tamu grad school",
+    "probability":0.31,
+    "link":"https:\/\/manifold.markets\/Rooni\/not-tamu-grad-school",
+    "date":"2025-12-17"
+  },
+  {
     "question":"Will the great meme reset actually happen?",
-    "probability":0.64,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/Im_steve\/will-the-great-meme-reset-actually",
     "date":"2025-12-17"
   },
@@ -25,19 +79,19 @@
   },
   {
     "question":"Will I break my streak day 283",
-    "probability":0.41,
+    "probability":0.32,
     "link":"https:\/\/manifold.markets\/121\/will-i-break-my-streak-day-283",
     "date":"2025-12-17"
   },
   {
     "question":"Will Weaver get into a T20?",
-    "probability":0.41,
+    "probability":0.32,
     "link":"https:\/\/manifold.markets\/GoldenOrbWeaver\/will-weaver-get-into-a-t20",
     "date":"2025-12-17"
   },
   {
     "question":"Will I get an A on my AP Lang final?",
-    "probability":0.42,
+    "probability":0.39,
     "link":"https:\/\/manifold.markets\/WyattBaek\/will-i-get-an-a-on-my-ap-lang-final",
     "date":"2025-12-17"
   },
@@ -61,19 +115,19 @@
   },
   {
     "question":"Will the MIT shooter be connected with the Brown shooter?",
-    "probability":0.32,
+    "probability":0.1,
     "link":"https:\/\/manifold.markets\/bens\/will-the-mit-shooter-be-connected-w",
     "date":"2025-12-17"
   },
   {
     "question":"Will my net worth be >9,000 mana at EOY?",
-    "probability":0.11,
+    "probability":0.1,
     "link":"https:\/\/manifold.markets\/waitblock\/will-i-hit-9000-mana-net-worth-by-e",
     "date":"2025-12-17"
   },
   {
     "question":"Claude Sonnet 4.7 Released before February 2026",
-    "probability":0.42,
+    "probability":0.43,
     "link":"https:\/\/manifold.markets\/JoshSnider\/claude-sonnet-47-released-before-fe",
     "date":"2025-12-17"
   },
@@ -91,7 +145,7 @@
   },
   {
     "question":"Will a major terrorist attack happen before December 20th?",
-    "probability":0.44,
+    "probability":0.24,
     "link":"https:\/\/manifold.markets\/LuckyBeLike\/will-a-major-terrorist-attack-happe",
     "date":"2025-12-17"
   },
@@ -109,13 +163,13 @@
   },
   {
     "question":"Free Lottery",
-    "probability":0.36,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/ttoe\/free-lottery-lUdtyNzSc6",
     "date":"2025-12-17"
   },
   {
     "question":"Susie Wiles out by end of January?",
-    "probability":0.2,
+    "probability":0.15,
     "link":"https:\/\/manifold.markets\/Ziddletwix\/susie-wiles-out-by-end-of-january",
     "date":"2025-12-17"
   },
@@ -157,7 +211,7 @@
   },
   {
     "question":"Will GTA 6 get delayed once again?",
-    "probability":0.3,
+    "probability":0.31,
     "link":"https:\/\/manifold.markets\/LuckyBeLike\/will-gta-6-get-delayed-once-again",
     "date":"2025-12-17"
   },
@@ -169,7 +223,7 @@
   },
   {
     "question":"If I get rid of my old macbook, will I regret it within 15 years?",
-    "probability":0.31,
+    "probability":0.33,
     "link":"https:\/\/manifold.markets\/IsaacKing\/if-i-get-rid-of-my-old-macbook-will",
     "date":"2025-12-17"
   },
@@ -253,7 +307,7 @@
   },
   {
     "question":"Will there be over 1 GW of data center on the moon by EOY 2032?",
-    "probability":0.37,
+    "probability":0.38,
     "link":"https:\/\/manifold.markets\/VincentCate\/will-there-be-over-1-gw-of-data-cen",
     "date":"2025-12-17"
   },
@@ -265,7 +319,7 @@
   },
   {
     "question":"Will manifolders propose  more than 51 options in \u201cWhat is Quroe\u2019s favorite animal?\u201d before January 31?",
-    "probability":0.02,
+    "probability":0.14,
     "link":"https:\/\/manifold.markets\/1000mana\/will-manifolders-propose-more-than",
     "date":"2025-12-17"
   },
@@ -343,7 +397,7 @@
   },
   {
     "question":"Will Alex get into a high tier UC",
-    "probability":0.14,
+    "probability":0.07,
     "link":"https:\/\/manifold.markets\/AlexLiUzn9\/will-alex-get-into-a-high-tier-uc",
     "date":"2025-12-17"
   },
@@ -379,7 +433,7 @@
   },
   {
     "question":"Will the DeathList get a 12th success?",
-    "probability":0.42,
+    "probability":0.33,
     "link":"https:\/\/manifold.markets\/NicBergman\/will-the-deathlist-get-a-12th-succe",
     "date":"2025-12-17"
   },
@@ -421,7 +475,7 @@
   },
   {
     "question":"NSW or Fed Govt to pass tougher gun laws by March?",
-    "probability":0.2,
+    "probability":0.38,
     "link":"https:\/\/manifold.markets\/MikhailTal\/nsw-or-fed-govt-to-pass-tougher-gun",
     "date":"2025-12-17"
   },
@@ -559,7 +613,7 @@
   },
   {
     "question":"Was there a third person involved in the Bondi Beach mass shooting?",
-    "probability":0.16,
+    "probability":0.09,
     "link":"https:\/\/manifold.markets\/Nat\/was-there-a-third-person-involved-i",
     "date":"2025-12-17"
   },
@@ -643,7 +697,7 @@
   },
   {
     "question":"Can anyone figure out who I work for? [M$10,000 reward]",
-    "probability":0.38,
+    "probability":0.39,
     "link":"https:\/\/manifold.markets\/IsaacKing\/can-anyone-figure-out-who-i-work-fo",
     "date":"2025-12-17"
   },
@@ -883,7 +937,7 @@
   },
   {
     "question":"Will SOUTHCOM, SECWAR, or another U.S. government entity announce a new \u201cdrug-boat\u201d strike between Dec 12-24 2025 UTC?",
-    "probability":0.33,
+    "probability":0.03,
     "link":"https:\/\/manifold.markets\/AlvaLindqvist\/will-southcom-secwar-or-another-us",
     "date":"2025-12-17"
   },
@@ -1009,7 +1063,7 @@
   },
   {
     "question":"Will US forces seize another Venezuela-linked oil tanker in 2025?",
-    "probability":0.24,
+    "probability":0.21,
     "link":"https:\/\/manifold.markets\/ChadCotty\/will-us-forces-seize-another-venezu",
     "date":"2025-12-17"
   },
@@ -1081,7 +1135,7 @@
   },
   {
     "question":"In 2028, will AI be a top 3 political issue for voters?",
-    "probability":0.38,
+    "probability":0.39,
     "link":"https:\/\/manifold.markets\/JoshSnider\/in-2028-will-ai-be-a-top-3-politica",
     "date":"2025-12-17"
   },
@@ -1293,54 +1347,6 @@
     "question":"Will Gervonta \"Tank\" Davis successfully defend the championship at 135 in 2026.",
     "probability":0.38,
     "link":"https:\/\/manifold.markets\/PMattW\/will-gervonta-tank-davis-successful",
-    "date":"2025-12-17"
-  },
-  {
-    "question":"Will Genshin Impact still be the most searched game term on Pornhub in 2026?",
-    "probability":0.12,
-    "link":"https:\/\/manifold.markets\/strutheo\/will-genshin-impact-still-be-the-mo",
-    "date":"2025-12-17"
-  },
-  {
-    "question":"Will SCOTUS hear a case challenging DOJ's Dec. 2025 update on disparate impact by 2027?",
-    "probability":0.32,
-    "link":"https:\/\/manifold.markets\/ae\/will-scotus-hear-a-case-challenging",
-    "date":"2025-12-17"
-  },
-  {
-    "question":"Will Plup lose 3 or more games in the Rivals of Aether 2 tournament at EVO 2026?",
-    "probability":0.32,
-    "link":"https:\/\/manifold.markets\/strutheo\/will-plup-lose-3-or-more-games-in-t",
-    "date":"2025-12-17"
-  },
-  {
-    "question":"Will someone deliver 4 kiwis to my doorstep? [HARD EDITION]",
-    "probability":0.28,
-    "link":"https:\/\/manifold.markets\/MaxE\/will-someone-deliver-4-kiwis-to-my-El0cLUuP6E",
-    "date":"2025-12-17"
-  },
-  {
-    "question":"Will \"OpenAI #12: Battle of the Board Redux\" make the top fifty posts in LessWrong's 2025 Annual Review?",
-    "probability":0.32,
-    "link":"https:\/\/manifold.markets\/LessWrong\/will-openai-12-battle-of-the-board",
-    "date":"2025-12-17"
-  },
-  {
-    "question":"Will the fed lower rates today?",
-    "probability":0.84,
-    "link":"https:\/\/manifold.markets\/JohnReynolds\/will-the-fed-lower-rates-today",
-    "date":"2025-12-17"
-  },
-  {
-    "question":"Luigi Mangione case declared a mistrial.",
-    "probability":0.19,
-    "link":"https:\/\/manifold.markets\/TeddyWon\/luigi-mangione-case-declared-a-mist",
-    "date":"2025-12-17"
-  },
-  {
-    "question":"Will U.S. production of battery-grade lithium exceed 10% of global supply by the end of 2030?",
-    "probability":0.14,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-production-of-batterygrade",
     "date":"2025-12-17"
   }
 ]
