@@ -1,13 +1,55 @@
 [
   {
+    "question":"Did Eyup Lovely get swatted?",
+    "probability":0.22,
+    "link":"https:\/\/manifold.markets\/a_l_e_x\/did-eyup-lovely-get-swatted",
+    "date":"2026-01-25"
+  },
+  {
+    "question":"Will a DHS agent die while on duty in Minneapolis before 2026-03-01?",
+    "probability":0.48,
+    "link":"https:\/\/manifold.markets\/EvanDaniel\/will-a-dhs-agent-die-while-on-duty",
+    "date":"2026-01-25"
+  },
+  {
+    "question":"Will Bitcoin exceed $93,000 USD at 18:00 UTC on January 25, 2026?",
+    "probability":0.08,
+    "link":"https:\/\/manifold.markets\/ShyriSkunk\/will-bitcoin-exceed-93000-usd-at-18-Ptn8NQpPEA",
+    "date":"2026-01-25"
+  },
+  {
+    "question":"Educational Lottery",
+    "probability":0.5,
+    "link":"https:\/\/manifold.markets\/ttoe\/educational-lottery-tnLqp0QAgg",
+    "date":"2026-01-25"
+  },
+  {
+    "question":"Government shutdown for more than 5 days in Q1 2026?",
+    "probability":0.84,
+    "link":"https:\/\/manifold.markets\/brod\/government-shutdown-for-more-than-5-t2QhNcguRE",
+    "date":"2026-01-25"
+  },
+  {
+    "question":"Daily market",
+    "probability":0.46,
+    "link":"https:\/\/manifold.markets\/ttoe\/daily-market-I8SzqZz2Oy",
+    "date":"2026-01-25"
+  },
+  {
+    "question":"Magna Carta repealed by 2049?",
+    "probability":0.23,
+    "link":"https:\/\/manifold.markets\/CJR\/magna-carta-repealed-by-2049",
+    "date":"2026-01-25"
+  },
+  {
     "question":"Confrontation between ICE and Minnesota police",
-    "probability":0.41,
+    "probability":0.23,
     "link":"https:\/\/manifold.markets\/DavidFWatson\/confrontation-between-ice-and-minne",
     "date":"2026-01-25"
   },
   {
     "question":"Trump eliminates federal income tax in 2026?",
-    "probability":0.77,
+    "probability":0.84,
     "link":"https:\/\/manifold.markets\/Bayesian\/trump-eliminates-federal-income-tax",
     "date":"2026-01-25"
   },
@@ -31,25 +73,25 @@
   },
   {
     "question":"Will a government agent kill another American citizen before February 28, 2026?",
-    "probability":0.53,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/CivilizedGuy\/will-a-government-agent-kill-anothe",
     "date":"2026-01-25"
   },
   {
     "question":"Will LLMs be banned at the 2027 MIT Mystery Hunt?",
-    "probability":0.13,
+    "probability":0.82,
     "link":"https:\/\/manifold.markets\/fortenforge\/will-llms-be-banned-at-the-2027-mit",
     "date":"2026-01-25"
   },
   {
     "question":"Xhekaj va-t-il se battre?",
-    "probability":0.49,
+    "probability":0.28,
     "link":"https:\/\/manifold.markets\/OlivierFNormandin\/xhekaj-vatil-se-battre",
     "date":"2026-01-25"
   },
   {
     "question":"Montembeault va tu avoir un taux d'arr\u00eat de 90% ou plus?",
-    "probability":0.43,
+    "probability":0.13,
     "link":"https:\/\/manifold.markets\/OlivierFNormandin\/montembeault-va-tu-avoir-un-taux-da",
     "date":"2026-01-25"
   },
@@ -67,7 +109,7 @@
   },
   {
     "question":"ICE agent murdered on duty by end of 2026?",
-    "probability":0.46,
+    "probability":0.78,
     "link":"https:\/\/manifold.markets\/BrunoJ\/ice-agent-murdered-on-duty-by-end-o-Z8QhNUggNA",
     "date":"2026-01-25"
   },
@@ -97,7 +139,7 @@
   },
   {
     "question":"Will Amanda Askell have a Wikipedia page throughout December 2026?",
-    "probability":0.72,
+    "probability":0.78,
     "link":"https:\/\/manifold.markets\/Conflux\/will-amanda-askell-have-a-wikipedia",
     "date":"2026-01-25"
   },
@@ -169,25 +211,25 @@
   },
   {
     "question":"will trump die before halloween ends?",
-    "probability":0.19,
+    "probability":0.2,
     "link":"https:\/\/manifold.markets\/strutheo\/will-trump-die-before-halloween-end",
     "date":"2026-01-25"
   },
   {
     "question":"Will Alex Honnold free solo Taipei 101 in January 2026?",
-    "probability":0.25,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/vdb\/will-alex-honnold-free-solo-taipei-8pgu6ZcPNP",
     "date":"2026-01-25"
   },
   {
     "question":"Will the US government try to go after the family of the recent ICE shooting victim?",
-    "probability":0.78,
+    "probability":0.81,
     "link":"https:\/\/manifold.markets\/CommanderKeen\/will-the-us-government-try-to-go-af",
     "date":"2026-01-25"
   },
   {
     "question":"If Manifest is the weekend of my middle school graduation, will I be able to convince my dad to go?",
-    "probability":0.76,
+    "probability":0.8,
     "link":"https:\/\/manifold.markets\/realDonaldTrump\/if-manifest-is-the-weekend-of-my-mi",
     "date":"2026-01-25"
   },
@@ -205,7 +247,7 @@
   },
   {
     "question":"Will I lose power in the coming snowstorm in southern Oklahoma?",
-    "probability":0.31,
+    "probability":0.14,
     "link":"https:\/\/manifold.markets\/Valerie\/will-i-lose-power-in-the-coming-sno",
     "date":"2026-01-25"
   },
@@ -241,7 +283,7 @@
   },
   {
     "question":"Is this a skill issue?",
-    "probability":0.45,
+    "probability":0.3,
     "link":"https:\/\/manifold.markets\/121\/is-this-a-skill-issue",
     "date":"2026-01-25"
   },
@@ -253,7 +295,7 @@
   },
   {
     "question":"Will Ethereum go up in the next 24 hours?",
-    "probability":0.09,
+    "probability":0.1,
     "link":"https:\/\/manifold.markets\/JDVance1\/will-ethereum-go-up-in-the-next-24",
     "date":"2026-01-25"
   },
@@ -267,12 +309,6 @@
     "question":"Will Trump tariff Canada 100%",
     "probability":0.33,
     "link":"https:\/\/manifold.markets\/PaulHabermas\/will-trump-tariff-canada-100",
-    "date":"2026-01-25"
-  },
-  {
-    "question":"Do you like 85% odds?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/4fa\/do-you-like-85-odds",
     "date":"2026-01-25"
   },
   {
@@ -309,12 +345,6 @@
     "question":"Will Jimmy Fallon repeat his \u201cstockbroker spooning with Zohran Mamdani\u201d joke again by end of February?",
     "probability":0.49,
     "link":"https:\/\/manifold.markets\/Conflux\/will-jimmy-fallon-repeat-his-stockb",
-    "date":"2026-01-25"
-  },
-  {
-    "question":"123",
-    "probability":0.49,
-    "link":"https:\/\/manifold.markets\/Hida\/123-9Qy6cOhyLA",
     "date":"2026-01-25"
   },
   {
@@ -369,12 +399,6 @@
     "question":"Will transit measure on the ballot pass?",
     "probability":0.1,
     "link":"https:\/\/manifold.markets\/EmilAbraham\/will-transit-measure-on-the-ballot",
-    "date":"2026-01-25"
-  },
-  {
-    "question":"Educational Lottery",
-    "probability":0.4,
-    "link":"https:\/\/manifold.markets\/ttoe\/educational-lottery-scZEEyAOzO",
     "date":"2026-01-25"
   },
   {
@@ -457,7 +481,7 @@
   },
   {
     "question":"Will my power go out during this winter storm? (Springfield, MO)",
-    "probability":0.14,
+    "probability":0.29,
     "link":"https:\/\/manifold.markets\/Robincvgr\/will-my-power-go-out-during-this-wi",
     "date":"2026-01-25"
   },
@@ -553,7 +577,7 @@
   },
   {
     "question":"Will I get a girlfriend before I get an award on USAMO?",
-    "probability":0.81,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/admit\/will-i-get-a-girlfriend-before-i-ge-Oq6dEEA0gN",
     "date":"2026-01-25"
   },
@@ -703,7 +727,7 @@
   },
   {
     "question":"Will Andy Burnham stand in the Gorton and Denton by-election?",
-    "probability":0.42,
+    "probability":0.74,
     "link":"https:\/\/manifold.markets\/JayDH\/will-andy-burnham-stand-in-the-gort",
     "date":"2026-01-25"
   },
@@ -1021,7 +1045,7 @@
   },
   {
     "question":"Eric rizz Carrie Chen",
-    "probability":0.84,
+    "probability":0.93,
     "link":"https:\/\/manifold.markets\/AustinWu\/eric-rizz-carrie-chen",
     "date":"2026-01-25"
   },
@@ -1389,42 +1413,6 @@
     "question":"Will the majority of Russians cease to support \"the actions of the Russian armed forces in Ukraine\" in 2026?",
     "probability":0.26,
     "link":"https:\/\/manifold.markets\/a_l_e_x\/will-the-majority-of-russians-cease",
-    "date":"2026-01-25"
-  },
-  {
-    "question":"Will two of my friends break up by the end of the semester?",
-    "probability":0.14,
-    "link":"https:\/\/manifold.markets\/GingerTablet\/will-two-of-my-friends-break-up-by",
-    "date":"2026-01-25"
-  },
-  {
-    "question":"Will NVIDIA acquire OpenAI by the end of 2028?",
-    "probability":0.27,
-    "link":"https:\/\/manifold.markets\/Anurag\/will-nvidia-acquire-openai-by-the-e",
-    "date":"2026-01-25"
-  },
-  {
-    "question":"Will Elon Musk buy Ryanair by the end of 2027?",
-    "probability":0.95,
-    "link":"https:\/\/manifold.markets\/Anurag\/will-elon-musk-buy-ryanair-by-the-e",
-    "date":"2026-01-25"
-  },
-  {
-    "question":"Bitcoin under $85K in January?",
-    "probability":0.94,
-    "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-under-85k-in-january",
-    "date":"2026-01-25"
-  },
-  {
-    "question":"If the AfD enters the federal government after the next Bundestag election, will \u00a786a StGB be repealed or altered?",
-    "probability":0.43,
-    "link":"https:\/\/manifold.markets\/asdf0ZQUz\/if-the-afd-enters-the-federal-gover",
-    "date":"2026-01-25"
-  },
-  {
-    "question":"Will Republican leaders say Trump lacks authority in 2026?",
-    "probability":0.14,
-    "link":"https:\/\/manifold.markets\/ajc\/will-republican-leaders-say-trump-l",
     "date":"2026-01-25"
   }
 ]
