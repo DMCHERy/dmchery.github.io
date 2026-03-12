@@ -1,25 +1,61 @@
 [
   {
-    "question":"Will snowythecat reach Codeforces Master before January 1st, 2027?",
+    "question":"Will the Democratic Party win a majority in the Senate in the 2026 mid-term election",
+    "probability":0.78,
+    "link":"https:\/\/manifold.markets\/MarcoMar\/will-the-democratic-party-win-a-maj",
+    "date":"2026-03-12"
+  },
+  {
+    "question":"will u will ?",
+    "probability":0.26,
+    "link":"https:\/\/manifold.markets\/quanke\/will-u-will",
+    "date":"2026-03-12"
+  },
+  {
+    "question":"Does Nectome's preservation protocol work?",
+    "probability":0.54,
+    "link":"https:\/\/manifold.markets\/IsaacKing\/does-nectomes-preservation-protocol",
+    "date":"2026-03-12"
+  },
+  {
+    "question":"Will MBG get defunded before 2027?",
+    "probability":0.51,
+    "link":"https:\/\/manifold.markets\/PemudaPrabowo\/will-mbg-get-defunded-before-2027",
+    "date":"2026-03-12"
+  },
+  {
+    "question":"Will North Korea enter the 2026 US-Iran war as a belligerent?",
     "probability":0.69,
+    "link":"https:\/\/manifold.markets\/LarsOsborne\/will-north-korea-enter-the-2026-usi",
+    "date":"2026-03-12"
+  },
+  {
+    "question":"Will David Lammy lose his seat at the next general election?",
+    "probability":0.69,
+    "link":"https:\/\/manifold.markets\/JoshuaWilkes\/will-david-lammy-lose-his-seat-at-t",
+    "date":"2026-03-12"
+  },
+  {
+    "question":"Will snowythecat reach Codeforces Master before January 1st, 2027?",
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/MattTheNub\/will-snowythecat-reach-codeforces-m",
     "date":"2026-03-12"
   },
   {
     "question":"Will Jake Paul run for and win any political office before EOY 2028?",
-    "probability":0.71,
+    "probability":0.37,
     "link":"https:\/\/manifold.markets\/Marnix\/will-jake-paul-run-for-and-win-any",
     "date":"2026-03-12"
   },
   {
     "question":"Will 3I\/ATLAS maintain a steady-state outgassing rate through April 15, 2026?",
-    "probability":0.72,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/kutzkev\/will-3iatlas-maintain-a-steadystate",
     "date":"2026-03-12"
   },
   {
     "question":"Will 3I\/ATLAS show a Z-axis residual breakout >10km by June 15, 2026?",
-    "probability":0.61,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/kutzkev\/will-3iatlas-show-a-zaxis-residual",
     "date":"2026-03-12"
   },
@@ -43,7 +79,7 @@
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.12,
+    "probability":0.14,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-UyQZ2dpAPO",
     "date":"2026-03-12"
   },
@@ -79,7 +115,7 @@
   },
   {
     "question":"Will the WTI Crude Oil Spot Price be above $95 on March 20, 2026?",
-    "probability":0.4,
+    "probability":0.43,
     "link":"https:\/\/manifold.markets\/ShaneBo\/will-the-wti-crude-oil-spot-price-b-NUlNqydPhq",
     "date":"2026-03-12"
   },
@@ -97,7 +133,7 @@
   },
   {
     "question":"Will Trump declare the Iran war to be won in the next month?",
-    "probability":0.41,
+    "probability":0.4,
     "link":"https:\/\/manifold.markets\/CommanderKeen\/will-trump-declare-the-iran-war-to",
     "date":"2026-03-12"
   },
@@ -121,7 +157,7 @@
   },
   {
     "question":"Will Mamdani freeze NYC rents in 2026?",
-    "probability":0.24,
+    "probability":0.35,
     "link":"https:\/\/manifold.markets\/BillClintonBubba\/will-mamdani-freeze-nyc-rents-in-20",
     "date":"2026-03-12"
   },
@@ -198,14 +234,8 @@
     "date":"2026-03-12"
   },
   {
-    "question":"Wat Kiezen Jullie: Trading of Websites Ontwikkelen?",
-    "probability":0.61,
-    "link":"https:\/\/manifold.markets\/DanielHarris\/wat-kiezen-jullie-trading-of-websit",
-    "date":"2026-03-12"
-  },
-  {
     "question":"Will \"Less Dead\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.55,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-less-dead-make-the-top-fifty-p",
     "date":"2026-03-12"
   },
@@ -264,21 +294,9 @@
     "date":"2026-03-12"
   },
   {
-    "question":"NOHUWIN",
-    "probability":0.39,
-    "link":"https:\/\/manifold.markets\/NOHUWIN\/nohuwin",
-    "date":"2026-03-12"
-  },
-  {
     "question":"Will something happen in Iran this month?",
     "probability":0.29,
     "link":"https:\/\/manifold.markets\/Bandors\/will-something-happen-in-iran-this",
-    "date":"2026-03-12"
-  },
-  {
-    "question":"IMG Worlds of Adventure with BookMyBooking",
-    "probability":0.62,
-    "link":"https:\/\/manifold.markets\/itsniteshsunia\/img-worlds-of-adventure-with-bookmy",
     "date":"2026-03-12"
   },
   {
@@ -343,7 +361,7 @@
   },
   {
     "question":"China will directly engage in a military conflict before end of 2026",
-    "probability":0.78,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/ScottO\/china-will-directly-engage-in-a-mil",
     "date":"2026-03-12"
   },
@@ -361,7 +379,7 @@
   },
   {
     "question":"Will USA be the 2026 World Baseball Classic Champions?",
-    "probability":0.42,
+    "probability":0.43,
     "link":"https:\/\/manifold.markets\/2ndPairofBoots\/will-usa-be-the-2026-world-baseball",
     "date":"2026-03-12"
   },
@@ -403,7 +421,7 @@
   },
   {
     "question":"Will Civilization VII player count exceed that of Civilization V at any point in the year 2026",
-    "probability":0.49,
+    "probability":0.54,
     "link":"https:\/\/manifold.markets\/AlexanderRudiuk\/will-civilization-vii-player-count",
     "date":"2026-03-12"
   },
@@ -625,7 +643,7 @@
   },
   {
     "question":"Will Mojtaba Khamenei be shown alive on video between March 8th and April 1, 2026?",
-    "probability":0.78,
+    "probability":0.77,
     "link":"https:\/\/manifold.markets\/JoeandSeth\/will-mojtaba-khamenei-be-shown-aliv",
     "date":"2026-03-12"
   },
@@ -805,13 +823,13 @@
   },
   {
     "question":"Will Tiger Zhang finish problem set 3 for 18.905 on time?",
-    "probability":0.4,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/rewind\/will-tiger-zhang-finish-problem-set-0QslP8zQEQ",
     "date":"2026-03-12"
   },
   {
     "question":"Will \"Solar Storms\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.63,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-solar-storms-make-the-top-fift",
     "date":"2026-03-12"
   },
@@ -889,7 +907,7 @@
   },
   {
     "question":"Will Enho be on the banzuke in Juryo for the May 2026 Grand Sumo Tournament (Natsu basho)",
-    "probability":0.68,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/Eliza\/will-enho-be-on-banzuke-in-juryo-fo",
     "date":"2026-03-12"
   },
@@ -1171,7 +1189,7 @@
   },
   {
     "question":"Will Israel attack South Africa before end of 2026",
-    "probability":0.3,
+    "probability":0.26,
     "link":"https:\/\/manifold.markets\/JeffAD\/will-israel-attack-south-africa-bef",
     "date":"2026-03-12"
   },
@@ -1213,7 +1231,7 @@
   },
   {
     "question":"If Khamenei or Epstein faked their deaths, will Trump do a backflip, XOR will Putin not release a sex tape, by 2100?",
-    "probability":0.55,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/TheAllMemeingEye\/if-khamenei-or-epstein-faked-their",
     "date":"2026-03-12"
   },
@@ -1395,42 +1413,6 @@
     "question":"Will Russia occupy Dnipro ( Dnepropetrovs'k ) at the end of 2026?",
     "probability":0.61,
     "link":"https:\/\/manifold.markets\/SavaC\/will-russia-occupy-dnipro-dnepropet",
-    "date":"2026-03-12"
-  },
-  {
-    "question":"Will Pam Bondi resign or be fired before July 2026?",
-    "probability":0.22,
-    "link":"https:\/\/manifold.markets\/arnoldsoko\/will-pam-bondi-resign-or-be-fired-b",
-    "date":"2026-03-12"
-  },
-  {
-    "question":"\"Will Drututt face public allegations of sexual misconduct by end of March 2027?\"",
-    "probability":0.51,
-    "link":"https:\/\/manifold.markets\/BlindNode\/will-drututt-face-public-allegation",
-    "date":"2026-03-12"
-  },
-  {
-    "question":"Will I be awarded the NSF GRFP this year?",
-    "probability":0.17,
-    "link":"https:\/\/manifold.markets\/MarcoBazzaniOQdE\/will-i-be-awarded-the-nsf-grfp-this",
-    "date":"2026-03-12"
-  },
-  {
-    "question":"Will 10+ AI models get released in March?",
-    "probability":0.48,
-    "link":"https:\/\/manifold.markets\/Rice\/will-10-ai-models-get-released-in-m",
-    "date":"2026-03-12"
-  },
-  {
-    "question":"Will GPT-5.4 outperform Claude Opus 4.6 at METR 50% time horizon?",
-    "probability":0.46,
-    "link":"https:\/\/manifold.markets\/Bayesian\/will-gpt54-outperform-claude-opus-4",
-    "date":"2026-03-12"
-  },
-  {
-    "question":"Will Joe Biden live to see Project Helix release?",
-    "probability":0.17,
-    "link":"https:\/\/manifold.markets\/Robincvgr\/will-joe-biden-live-to-see-project",
     "date":"2026-03-12"
   }
 ]
