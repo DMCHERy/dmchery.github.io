@@ -1,5 +1,29 @@
 [
   {
+    "question":"Will the inflation rate in the US reach 4% before it reaches 2%?",
+    "probability":0.69,
+    "link":"https:\/\/manifold.markets\/SIMOROBO\/will-the-inflation-rate-in-the-us-r-PRlS8QLPIO",
+    "date":"2026-04-07"
+  },
+  {
+    "question":"Will this market have 10k trades?",
+    "probability":0.68,
+    "link":"https:\/\/manifold.markets\/Rice\/will-this-market-have-10k-trades",
+    "date":"2026-04-07"
+  },
+  {
+    "question":"Will two Democratic and two GOP Senators cosponsor an AI bill that mentions widespread job loss from AI before 2030?",
+    "probability":0.76,
+    "link":"https:\/\/manifold.markets\/waterlilly\/will-two-democratic-and-two-gop-sen",
+    "date":"2026-04-07"
+  },
+  {
+    "question":"Will Anthropic reach 50 billion in ARR by the end of June?",
+    "probability":0.64,
+    "link":"https:\/\/manifold.markets\/BenAybar\/will-anthropic-reach-50-billion-in",
+    "date":"2026-04-07"
+  },
+  {
     "question":"Free Lottery (Sunspots)",
     "probability":0.69,
     "link":"https:\/\/manifold.markets\/ttoe\/free-lottery-sunspots",
@@ -19,7 +43,7 @@
   },
   {
     "question":"Will Putin make a public statement on the US-Iran conflict between April 7 and 8?",
-    "probability":0.23,
+    "probability":0.2,
     "link":"https:\/\/manifold.markets\/gabriele_mn\/will-putin-make-a-public-statement",
     "date":"2026-04-07"
   },
@@ -37,7 +61,7 @@
   },
   {
     "question":"Will the price of WTI Crude Oil experience a single-day drop of $7.00 or more before Friday, April 10?",
-    "probability":0.72,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/ShaneBo\/will-the-price-of-wti-crude-oil-exp",
     "date":"2026-04-07"
   },
@@ -49,13 +73,13 @@
   },
   {
     "question":"\ud83c\uddfa\ud83c\uddf8\ud83d\udca5\ud83c\uddea\ud83c\uddfa Will there be a war between the United States and an EU country or European Union as a whole by end of 2028?",
-    "probability":0.55,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/Hypermental\/-will-there-be-a-war-between-the-un",
     "date":"2026-04-07"
   },
   {
     "question":"Anthropic 60B revenue on July 6, 2026?",
-    "probability":0.7,
+    "probability":0.71,
     "link":"https:\/\/manifold.markets\/Bayesian\/anthropic-60b-revenue-on-july-6-202",
     "date":"2026-04-07"
   },
@@ -79,7 +103,7 @@
   },
   {
     "question":"Will Trump attack Iran's infrastructure before April 13th",
-    "probability":0.55,
+    "probability":0.54,
     "link":"https:\/\/manifold.markets\/Meek\/will-trump-attack-irans-infrastruct",
     "date":"2026-04-07"
   },
@@ -115,13 +139,13 @@
   },
   {
     "question":"Do you like 84% odds?",
-    "probability":0.76,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/4fa\/do-you-like-84-odds",
     "date":"2026-04-07"
   },
   {
     "question":"Will Futarchy Chess end in a draw?",
-    "probability":0.45,
+    "probability":0.54,
     "link":"https:\/\/manifold.markets\/Qq\/will-futarchy-chess-end-in-a-draw",
     "date":"2026-04-07"
   },
@@ -427,13 +451,13 @@
   },
   {
     "question":"Trump will nuke Iran by 8pm EST 10 April 2026",
-    "probability":0.62,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/MichaeldelaMaza\/trump-will-nuke-iran-by-8pm-est-10",
     "date":"2026-04-07"
   },
   {
     "question":"Will I be able to change my gmail in the way Pitchai explained, in 2026?",
-    "probability":0.63,
+    "probability":0.45,
     "link":"https:\/\/manifold.markets\/jellywastaken\/will-i-be-able-to-change-my-gmail-i-lZzLqhdInC",
     "date":"2026-04-07"
   },
@@ -451,13 +475,13 @@
   },
   {
     "question":"Underdog win in 2025\/26 UEFA Champions League round of 8?",
-    "probability":0.51,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/vdb\/underdog-win-in-202526-uefa-champio",
     "date":"2026-04-07"
   },
   {
     "question":"America is going to lose one or more warships in Iran war during 18th to 23rd April 2026?",
-    "probability":0.71,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/MrEarthworm\/america-is-going-to-lose-one-or-mor",
     "date":"2026-04-07"
   },
@@ -469,7 +493,7 @@
   },
   {
     "question":"Avengers Doomsday to be delayed",
-    "probability":0.67,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/Ari6pE6t\/avengers-doomsday-to-be-delayed",
     "date":"2026-04-07"
   },
@@ -553,7 +577,7 @@
   },
   {
     "question":"Will Tiger Zhang finish problem set 4 for 18.905 on time?",
-    "probability":0.66,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/rewind\/will-tiger-zhang-finish-problem-set-LdyPU8uuS2",
     "date":"2026-04-07"
   },
@@ -565,7 +589,7 @@
   },
   {
     "question":"Will Iran get substantial sanctions relief AND tolls on ships in exchange for reopening Hormuz?",
-    "probability":0.74,
+    "probability":0.71,
     "link":"https:\/\/manifold.markets\/SaviorofPlant\/will-iran-get-substantial-sanctions",
     "date":"2026-04-07"
   },
@@ -643,7 +667,7 @@
   },
   {
     "question":"Will LeBron James average at least 42.0 (Points + Rebounds + Assists) per game over the final 5 games?",
-    "probability":0.76,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/ShaneBo\/will-lebron-james-average-at-least",
     "date":"2026-04-07"
   },
@@ -1003,13 +1027,13 @@
   },
   {
     "question":"Will UConn win the 2026 NCAA Division I Men's Basketball Championship?",
-    "probability":0.68,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/Ceryx\/will-uconn-win-the-2026-ncaa-divisi-cAn6hON6CS",
     "date":"2026-04-07"
   },
   {
     "question":"Will UConn defeat Illinois in the 2026 NCAA Men's Final Four semifinal on April 4?",
-    "probability":0.69,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/Barb\/will-uconn-defeat-illinois-in-the-2-n86RQtLyNQ",
     "date":"2026-04-07"
   },
@@ -1099,7 +1123,7 @@
   },
   {
     "question":"Will the US CPI-U year-over-year for March 2026 be above 2.4%?",
-    "probability":0.69,
+    "probability":0.46,
     "link":"https:\/\/manifold.markets\/FabulousFab\/will-the-us-cpiu-yearoveryear-for-m",
     "date":"2026-04-07"
   },
@@ -1219,7 +1243,7 @@
   },
   {
     "question":"Will I earn at least $25 per hour grading USA(J)MO?",
-    "probability":0.73,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/rewind\/will-i-earn-at-least-25-per-hour-gr",
     "date":"2026-04-07"
   },
@@ -1357,7 +1381,7 @@
   },
   {
     "question":"Chris Taylor wins Wisconsin Supreme Court election on April 7?",
-    "probability":0.67,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/Jack1\/chris-taylor-wins-wisconsin-supreme",
     "date":"2026-04-07"
   },
@@ -1497,18 +1521,6 @@
     "question":"Will the Trump administration successfully overturn the Anthropic injunction on appeal by September 30, 2026?",
     "probability":0.73,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-the-trump-administration-succe",
-    "date":"2026-04-07"
-  },
-  {
-    "question":"Will Ohio House Bill 249 be signed into law in the 136th General Assembly?",
-    "probability":0.49,
-    "link":"https:\/\/manifold.markets\/Gabrielle\/will-ohio-house-bill-249-be-signed",
-    "date":"2026-04-07"
-  },
-  {
-    "question":"Will Nectome perform 1,000+ brain preservations in a single calendar year before 2030?",
-    "probability":0.55,
-    "link":"https:\/\/manifold.markets\/MaxHarms\/will-nectome-perform-1000-brain-pre-NLEAPP8EzA",
     "date":"2026-04-07"
   }
 ]
