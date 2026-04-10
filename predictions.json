@@ -1,5 +1,29 @@
 [
   {
+    "question":"Will the date for the next Israeli legislative election be postponed?",
+    "probability":0.51,
+    "link":"https:\/\/manifold.markets\/AaronSimansky\/will-the-date-for-the-next-israeli",
+    "date":"2026-04-10"
+  },
+  {
+    "question":"Will John Hopkins' nine-week trial of lithium for Alzheimer's take more than four years?",
+    "probability":0.54,
+    "link":"https:\/\/manifold.markets\/JasonMurphy\/will-john-hopkins-nineweek-trial-of",
+    "date":"2026-04-10"
+  },
+  {
+    "question":"Will the upcoming documentary \"Finding Satoshi\" actually find Satoshi?",
+    "probability":0.51,
+    "link":"https:\/\/manifold.markets\/Dssc\/will-the-upcoming-documentary-findi",
+    "date":"2026-04-10"
+  },
+  {
+    "question":"Did Tetraspace use foreign labor to sandbag her 70lb fly-chest attempt?",
+    "probability":0.51,
+    "link":"https:\/\/manifold.markets\/georgehQzR\/did-tetraspace-use-foreign-labor-to",
+    "date":"2026-04-10"
+  },
+  {
     "question":"Will there be a data leak of personal information sent to Roblox's age verification system before 2027?",
     "probability":0.52,
     "link":"https:\/\/manifold.markets\/RealityGame\/will-there-be-a-data-leak-of-person",
@@ -7,13 +31,13 @@
   },
   {
     "question":"Will Samuel Alito leave Supreme Court in 2026?",
-    "probability":0.53,
+    "probability":0.35,
     "link":"https:\/\/manifold.markets\/AnonUser\/will-samuel-alito-leave-supreme-cou",
     "date":"2026-04-10"
   },
   {
     "question":"Will Hunter Biden fight Donald Trump Jr or Eric Trump in 2026?",
-    "probability":0.3,
+    "probability":0.26,
     "link":"https:\/\/manifold.markets\/Jack1\/will-hunter-biden-fight-donald-trum",
     "date":"2026-04-10"
   },
@@ -85,7 +109,7 @@
   },
   {
     "question":"Will manifolders think that the ID verification for new users should be reversed?",
-    "probability":0.33,
+    "probability":0.2,
     "link":"https:\/\/manifold.markets\/100Anonymous\/will-manifolders-think-that-the-id",
     "date":"2026-04-10"
   },
@@ -127,7 +151,7 @@
   },
   {
     "question":"Will Trump be excommunicated by Pope Leo XIV in 2026?",
-    "probability":0.11,
+    "probability":0.05,
     "link":"https:\/\/manifold.markets\/ShascoLaugs\/will-trump-be-excommunicated-by-pop",
     "date":"2026-04-10"
   },
@@ -151,7 +175,7 @@
   },
   {
     "question":"Will an individualised ransomware campaign materially harm 100k people by 9 April 2027?",
-    "probability":0.09,
+    "probability":0.07,
     "link":"https:\/\/manifold.markets\/distbit\/will-an-individualised-ransomware-c",
     "date":"2026-04-10"
   },
@@ -2439,48 +2463,6 @@
     "question":"Will ASM KMP zirconium metal production for March 2027 exceed 75 t?",
     "probability":0.51,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-asm-kmp-zirconium-metal-produc-cRz2qL8StP",
-    "date":"2026-04-10"
-  },
-  {
-    "question":"Will ASM KMP zirconium metal production for March 2027 exceed 200 t?",
-    "probability":0.51,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-asm-kmp-zirconium-metal-produc-OSscsdQt0N",
-    "date":"2026-04-10"
-  },
-  {
-    "question":"Will ASM KMP zirconium metal production for March 2027 exceed 20 t?",
-    "probability":0.51,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-asm-kmp-zirconium-metal-produc-6ENp6CShnO",
-    "date":"2026-04-10"
-  },
-  {
-    "question":"Will ASM KMP zirconium metal production for December 2026 exceed 75 t?",
-    "probability":0.51,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-asm-kmp-zirconium-metal-produc-u2P6ylOAqL",
-    "date":"2026-04-10"
-  },
-  {
-    "question":"Will ASM KMP zirconium metal production for December 2026 exceed 200 t?",
-    "probability":0.51,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-asm-kmp-zirconium-metal-produc-9sp6hdtCz8",
-    "date":"2026-04-10"
-  },
-  {
-    "question":"Will ASM KMP zirconium metal production for September 2026 exceed 75 t?",
-    "probability":0.51,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-asm-kmp-zirconium-metal-produc-UyCE8nUQ6C",
-    "date":"2026-04-10"
-  },
-  {
-    "question":"Will ASM KMP zirconium metal production for September 2026 exceed 200 t?",
-    "probability":0.51,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-asm-kmp-zirconium-metal-produc-tdQUcs26IN",
-    "date":"2026-04-10"
-  },
-  {
-    "question":"Will ASM KMP zirconium metal production for December 2026 exceed 20 t?",
-    "probability":0.51,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-asm-kmp-zirconium-metal-produc-6CddznqECI",
     "date":"2026-04-10"
   }
 ]
