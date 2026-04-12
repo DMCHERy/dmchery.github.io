@@ -1,5 +1,83 @@
 [
   {
+    "question":"Will \"Dario probably doesn't believe in superintell...\" make the top fifty posts in LessWrong's 2026 Annual Review?",
+    "probability":0.77,
+    "link":"https:\/\/manifold.markets\/LessWrong\/will-dario-probably-doesnt-believe",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will Kino Casino be unbanned on Youtube by the end of 4\/20?",
+    "probability":0.76,
+    "link":"https:\/\/manifold.markets\/strutheo\/will-kino-casino-be-unbanned-on-you",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will London high temperature exceed 15\u00b0C on 2026-04-14?",
+    "probability":0.77,
+    "link":"https:\/\/manifold.markets\/samlcell\/will-london-high-temperature-exceed-sC0uU0gq5Z",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will it rain in London on 2026-04-13?",
+    "probability":0.91,
+    "link":"https:\/\/manifold.markets\/samlcell\/will-it-rain-in-london-on-20260413",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will London high temperature exceed 17\u00b0C on 2026-04-13?",
+    "probability":0.78,
+    "link":"https:\/\/manifold.markets\/samlcell\/will-london-high-temperature-exceed",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will it rain in Bratislava on 2026-04-14?",
+    "probability":0.88,
+    "link":"https:\/\/manifold.markets\/samlcell\/will-it-rain-in-bratislava-on-20260",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will Bratislava high temperature exceed 21\u00b0C on 2026-04-14?",
+    "probability":0.75,
+    "link":"https:\/\/manifold.markets\/samlcell\/will-bratislava-high-temperature-ex-uh8SPRQl6A",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will Bratislava high temperature exceed 20\u00b0C on 2026-04-13?",
+    "probability":0.75,
+    "link":"https:\/\/manifold.markets\/samlcell\/will-bratislava-high-temperature-ex",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will Bibinje high temperature exceed 23\u00b0C on 2026-04-14?",
+    "probability":0.75,
+    "link":"https:\/\/manifold.markets\/samlcell\/will-bibinje-high-temperature-excee-yI5NNEsyRZ",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will it rain in Bibinje on 2026-04-13?",
+    "probability":0.92,
+    "link":"https:\/\/manifold.markets\/samlcell\/will-it-rain-in-bibinje-on-20260413",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will Bibinje high temperature exceed 26\u00b0C on 2026-04-13?",
+    "probability":0.8,
+    "link":"https:\/\/manifold.markets\/samlcell\/will-bibinje-high-temperature-excee",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will Bansk\u00e1 \u0160tiavnica high temperature exceed 12\u00b0C on 2026-04-14?",
+    "probability":0.75,
+    "link":"https:\/\/manifold.markets\/samlcell\/will-banska-stiavnica-high-temperat-2SyEq6cLg9",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will Bansk\u00e1 \u0160tiavnica high temperature exceed 17\u00b0C on 2026-04-13?",
+    "probability":0.78,
+    "link":"https:\/\/manifold.markets\/samlcell\/will-banska-stiavnica-high-temperat",
+    "date":"2026-04-12"
+  },
+  {
     "question":"Will Caryslia Rodr\u00edguez be replaced as President of the Venezuelan Supreme Tribunal of Justice (TSJ) before May 1, 2026?",
     "probability":0.76,
     "link":"https:\/\/manifold.markets\/ElCaneloVZLA\/will-caryslia-rodriguez-be-replaced",
@@ -7,7 +85,7 @@
   },
   {
     "question":"Free Lottery (Mars)",
-    "probability":0.41,
+    "probability":0.3,
     "link":"https:\/\/manifold.markets\/ttoe\/free-lottery-mars",
     "date":"2026-04-12"
   },
@@ -19,25 +97,25 @@
   },
   {
     "question":"Artemis program lunar landing success discourages chinese moon landing ambitions?",
-    "probability":0.78,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/JussiVilleHeiskanen\/artemis-program-lunar-landing-succe",
     "date":"2026-04-12"
   },
   {
     "question":"By EOY2100, will the Moon host a giant toilet?",
-    "probability":0.85,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/Chumchulum\/by-eoy2100-will-the-moon-host-a-gia",
     "date":"2026-04-12"
   },
   {
     "question":"Will \"Chicken-Free Egg Whites\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.77,
+    "probability":0.76,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-chickenfree-egg-whites-make-th",
     "date":"2026-04-12"
   },
   {
     "question":"Will \"Mythos-class\" model be called Mythos?",
-    "probability":0.7,
+    "probability":0.38,
     "link":"https:\/\/manifold.markets\/NayutaIto\/will-mythosclass-model-be-called-my",
     "date":"2026-04-12"
   },
@@ -49,7 +127,7 @@
   },
   {
     "question":"Will Eric Swalwell complete his current term in the House?",
-    "probability":0.61,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/BRTD\/will-eric-swalwell-complete-his-cur",
     "date":"2026-04-12"
   },
@@ -61,7 +139,7 @@
   },
   {
     "question":"Will I promote to Masters this season?",
-    "probability":0.84,
+    "probability":0.77,
     "link":"https:\/\/manifold.markets\/WobertqUIQz\/will-i-promote-to-masters-this-seas-9AS8S9uysI",
     "date":"2026-04-12"
   },
@@ -115,7 +193,7 @@
   },
   {
     "question":"Will the United Kingdom become more authoritarian in 2026?",
-    "probability":0.61,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/cash\/will-the-united-kingdom-become-more-RttphEh6ud",
     "date":"2026-04-12"
   },
@@ -217,7 +295,7 @@
   },
   {
     "question":"Will Eric Swalwell end his bid for California governor before 21 April, 2026?",
-    "probability":0.3,
+    "probability":0.32,
     "link":"https:\/\/manifold.markets\/Edvard\/will-eric-swalwell-end-his-bid-for",
     "date":"2026-04-12"
   },
@@ -265,7 +343,7 @@
   },
   {
     "question":"WIll I get A grilfirend before next friday?",
-    "probability":0.27,
+    "probability":0.26,
     "link":"https:\/\/manifold.markets\/HussleBird\/will-i-get-a-grilfirend-before-next",
     "date":"2026-04-12"
   },
@@ -361,7 +439,7 @@
   },
   {
     "question":"Will Javokhir Sindarov lose a game in the Candidates Tournament 2026?",
-    "probability":0.77,
+    "probability":0.73,
     "link":"https:\/\/manifold.markets\/goldduck\/will-javokhir-sindarov-lose-a-game",
     "date":"2026-04-12"
   },
@@ -1483,7 +1561,7 @@
   },
   {
     "question":"Will China July 2027 Sm2O3 export volume exceed 80 tonnes?",
-    "probability":0.76,
+    "probability":0.75,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-july-2027-sm2o3-export-v-zhdN6IOE2Q",
     "date":"2026-04-12"
   },
@@ -2139,132 +2217,6 @@
     "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 2500 USD\/kg on December 31, 2026?",
     "probability":0.76,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-RApqNl0CSd",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will China rhenium imports exceed 20 thousand kg in the year ending December 2029?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-rhenium-imports-exceed-2-ppnl900y8n",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will China rhenium imports exceed 42 thousand kg in the year ending December 2028?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-rhenium-imports-exceed-4-Q99N6p8lz9",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 8000 USD\/kg on November 30, 2026?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-AAAtzSgRCn",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 5000 USD\/kg on November 30, 2026?",
-    "probability":0.77,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-6LU6SzZyd2",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 2500 USD\/kg on November 30, 2026?",
-    "probability":0.77,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-tgduRc0Uzn",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will China rhenium imports exceed 30 thousand kg in the year ending December 2028?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-rhenium-imports-exceed-3-RAyOIOttlN",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will China rhenium imports exceed 20 thousand kg in the year ending December 2028?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-rhenium-imports-exceed-2-tqNyCC6h9Q",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 8000 USD\/kg on October 31, 2026?",
-    "probability":0.77,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-ldqES9huZp",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 2500 USD\/kg on October 31, 2026?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-IgSORR6Sph",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will China rhenium imports exceed 42 thousand kg in the year ending December 2027?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-rhenium-imports-exceed-4-Uls5hnzpLc",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 5000 USD\/kg on October 31, 2026?",
-    "probability":0.77,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-5ZllCPyusl",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will China rhenium imports exceed 30 thousand kg in the year ending December 2027?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-rhenium-imports-exceed-3-LIOCu8NlzS",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 8000 USD\/kg on September 30, 2026?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-5yqzLhq28U",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will China rhenium imports exceed 20 thousand kg in the year ending December 2027?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-rhenium-imports-exceed-2-8EIQQPuU8L",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 5000 USD\/kg on September 30, 2026?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-qOC66qSLUO",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 2500 USD\/kg on September 30, 2026?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-gnnOuCOpOl",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will China rhenium imports exceed 42 thousand kg in the year ending December 2026?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-rhenium-imports-exceed-4",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 8000 USD\/kg on August 31, 2026?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-2pRUlCuNOP",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will China rhenium imports exceed 30 thousand kg in the year ending December 2026?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-rhenium-imports-exceed-3",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 5000 USD\/kg on August 31, 2026?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-RS8PP9OlCc",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will China rhenium imports exceed 20 thousand kg in the year ending December 2026?",
-    "probability":0.76,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-rhenium-imports-exceed-2",
     "date":"2026-04-12"
   }
 ]

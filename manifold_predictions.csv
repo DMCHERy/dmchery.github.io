@@ -1,15 +1,28 @@
 questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,date,predicted_prob_yes
+115,0.0,0,659.7216578587963,0.5,Fnty2JpQ6W,"Will ""Dario probably doesn't believe in superintell..."" make the top fifty posts in LessWrong's 2026 Annual Review?",https://manifold.markets/LessWrong/will-dario-probably-doesnt-believe,2026-04-12,0.77
+59,0.0,0,263.8098221412037,0.5,zcdNU8u0nZ,Will Kino Casino be unbanned on Youtube by the end of 4/20?,https://manifold.markets/strutheo/will-kino-casino-be-unbanned-on-you,2026-04-12,0.76
+55,41.99999999999999,3,2.8321455208333335,0.5,qldcl8AQpZ,Will London high temperature exceed 15°C on 2026-04-14?,https://manifold.markets/samlcell/will-london-high-temperature-exceed-sC0uU0gq5Z,2026-04-12,0.77
+37,30.0,1,1.8321480902777778,0.5,OyysC9t2An,Will it rain in London on 2026-04-13?,https://manifold.markets/samlcell/will-it-rain-in-london-on-20260413,2026-04-12,0.91
+55,20.0,1,1.8321508217592593,0.5,gAAtCPqZ8L,Will London high temperature exceed 17°C on 2026-04-13?,https://manifold.markets/samlcell/will-london-high-temperature-exceed,2026-04-12,0.78
+41,0.0,0,2.8321703125,0.5,t2Cl85yUup,Will it rain in Bratislava on 2026-04-14?,https://manifold.markets/samlcell/will-it-rain-in-bratislava-on-20260,2026-04-12,0.88
+59,25.0,1,2.8321726273148147,0.5,slylU0R90p,Will Bratislava high temperature exceed 21°C on 2026-04-14?,https://manifold.markets/samlcell/will-bratislava-high-temperature-ex-uh8SPRQl6A,2026-04-12,0.75
+59,81.95395782836303,1,1.8321750925925926,0.5,ds0h8IZyql,Will Bratislava high temperature exceed 20°C on 2026-04-13?,https://manifold.markets/samlcell/will-bratislava-high-temperature-ex,2026-04-12,0.75
+56,22.0,1,2.8322036574074074,0.5,yp6dySuZSA,Will Bibinje high temperature exceed 23°C on 2026-04-14?,https://manifold.markets/samlcell/will-bibinje-high-temperature-excee-yI5NNEsyRZ,2026-04-12,0.75
+38,0.0,0,1.8322061689814815,0.5,9RtzEuq952,Will it rain in Bibinje on 2026-04-13?,https://manifold.markets/samlcell/will-it-rain-in-bibinje-on-20260413,2026-04-12,0.92
+56,68.0,2,1.8322086805555555,0.5,6PzQQ22E0p,Will Bibinje high temperature exceed 26°C on 2026-04-13?,https://manifold.markets/samlcell/will-bibinje-high-temperature-excee,2026-04-12,0.8
+65,25.0,1,2.832281261574074,0.5,qPzQgN6Rgp,Will Banská Štiavnica high temperature exceed 12°C on 2026-04-14?,https://manifold.markets/samlcell/will-banska-stiavnica-high-temperat-2SyEq6cLg9,2026-04-12,0.75
+65,10.0,1,1.8322877314814814,0.5,R9pQ0zgqlt,Will Banská Štiavnica high temperature exceed 17°C on 2026-04-13?,https://manifold.markets/samlcell/will-banska-stiavnica-high-temperat,2026-04-12,0.78
 120,3.0,1,18.922982800925926,0.5,2Ldd29cqLR,"Will Caryslia Rodríguez be replaced as President of the Venezuelan Supreme Tribunal of Justice (TSJ) before May 1, 2026?",https://manifold.markets/ElCaneloVZLA/will-caryslia-rodriguez-be-replaced,2026-04-12,0.76
-19,1544.0000000000698,4,0.9946476041666666,0.5,cAq8UcU6l6,Free Lottery (Mars),https://manifold.markets/ttoe/free-lottery-mars,2026-04-12,0.41
+19,1548.0000000000914,6,0.9946476041666666,0.5,cAq8UcU6l6,Free Lottery (Mars),https://manifold.markets/ttoe/free-lottery-mars,2026-04-12,0.3
 12,9.0,1,1.0994634722222223,0.5,C9qZg2nACU,Daily market,https://manifold.markets/ttoe/daily-market-0p8ulLPNc0,2026-04-12,0.88
-81,67.64139173199268,3,1745.0366080787037,0.5,ICydNdnS0h,Artemis program lunar landing success discourages chinese moon landing ambitions?,https://manifold.markets/JussiVilleHeiskanen/artemis-program-lunar-landing-succe,2026-04-12,0.78
-46,59.0,4,27292.001079907408,0.5,AdURcO02Cc,"By EOY2100, will the Moon host a giant toilet?",https://manifold.markets/Chumchulum/by-eoy2100-will-the-moon-host-a-gia,2026-04-12,0.85
-90,0.0,0,660.0165689236111,0.5,3bnsWnWG3u,"Will ""Chicken-Free Egg Whites"" make the top fifty posts in LessWrong's 2026 Annual Review?",https://manifold.markets/LessWrong/will-chickenfree-egg-whites-make-th,2026-04-12,0.77
-43,411.0,4,628.9962715046296,0.5,hqhURsUOA9,"Will ""Mythos-class"" model be called Mythos?",https://manifold.markets/NayutaIto/will-mythosclass-model-be-called-my,2026-04-12,0.7
+81,87.64139173199268,5,1745.0366080787037,0.5,ICydNdnS0h,Artemis program lunar landing success discourages chinese moon landing ambitions?,https://manifold.markets/JussiVilleHeiskanen/artemis-program-lunar-landing-succe,2026-04-12,0.72
+46,159.0,5,27292.001079907408,0.5,AdURcO02Cc,"By EOY2100, will the Moon host a giant toilet?",https://manifold.markets/Chumchulum/by-eoy2100-will-the-moon-host-a-gia,2026-04-12,0.67
+90,10.0,1,660.0165689236111,0.5,3bnsWnWG3u,"Will ""Chicken-Free Egg Whites"" make the top fifty posts in LessWrong's 2026 Annual Review?",https://manifold.markets/LessWrong/will-chickenfree-egg-whites-make-th,2026-04-12,0.76
+43,621.0,8,628.9962715046296,0.5,hqhURsUOA9,"Will ""Mythos-class"" model be called Mythos?",https://manifold.markets/NayutaIto/will-mythosclass-model-be-called-my,2026-04-12,0.38
 61,222.0,3,264.0335902430555,0.5,0hpcgtI0qO,AI wins FTL using screen input and mouse/keyboard before 2027,https://manifold.markets/singer/ai-wins-ftl-using-screen-input-and,2026-04-12,0.62
-58,122.0,3,267.15830938657405,0.5,u6PynONdlQ,Will Eric Swalwell complete his current term in the House?,https://manifold.markets/BRTD/will-eric-swalwell-complete-his-cur,2026-04-12,0.61
+58,147.0,4,267.15830938657405,0.5,u6PynONdlQ,Will Eric Swalwell complete his current term in the House?,https://manifold.markets/BRTD/will-eric-swalwell-complete-his-cur,2026-04-12,0.57
 115,50.0,1,660.1594272337964,0.5,Jga7PHMzfZ,"Will ""If Mythos actually made Anthropic employees 4..."" make the top fifty posts in LessWrong's 2026 Annual Review?",https://manifold.markets/LessWrong/will-if-mythos-actually-made-anthro,2026-04-12,0.76
-38,32.77515907191765,5,20.21801537037037,0.5,gh2glRlh8C,Will I promote to Masters this season?,https://manifold.markets/WobertqUIQz/will-i-promote-to-masters-this-seas-9AS8S9uysI,2026-04-12,0.84
+38,42.77515907191765,6,20.21801537037037,0.5,gh2glRlh8C,Will I promote to Masters this season?,https://manifold.markets/WobertqUIQz/will-i-promote-to-masters-this-seas-9AS8S9uysI,2026-04-12,0.77
 27,125.22654706968702,4,29.999347361111113,0.5,A8tOuEPh8s,Zetamac score>80 in a month,https://manifold.markets/frankg/zetamac-score80-in-a-month,2026-04-12,0.6
 56,0.0,0,3652.999313263889,0.5,5cuzuUQNhZ,will @OfficialStellar be a millionaire in 10 years time?,https://manifold.markets/Morka/will-officialstellar-be-a-millionai,2026-04-12,0.76
 49,186.0,9,354.2462221180555,0.5,uPhALPEPOZ,Will the world become more authoritarian in 2026?,https://manifold.markets/cash/will-the-world-become-more-authorit-2R20yhg9dh,2026-04-12,0.33
@@ -18,7 +31,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 46,112.0,3,354.2532359722222,0.5,zn8NQLq2ll,Will Russia become more authoritarian in 2026?,https://manifold.markets/cash/will-russia-become-more-authoritari-IdZ9S8n2OC,2026-04-12,0.86
 47,94.0,3,354.2533811921296,0.5,6QpN5qlhEy,Will Germany become more authoritarian in 2026?,https://manifold.markets/cash/will-germany-become-more-authoritar-2yzt80C9Ed,2026-04-12,0.86
 45,137.0,4,354.2543157986111,0.5,QAIhlcP86P,Will India become more authoritarian in 2026?,https://manifold.markets/cash/will-india-become-more-authoritaria-stcugnnShp,2026-04-12,0.69
-58,138.0,3,354.2545463773148,0.5,ldy9qUqQls,Will the United Kingdom become more authoritarian in 2026?,https://manifold.markets/cash/will-the-united-kingdom-become-more-RttphEh6ud,2026-04-12,0.61
+58,172.22239437616633,4,354.2545463773148,0.5,ldy9qUqQls,Will the United Kingdom become more authoritarian in 2026?,https://manifold.markets/cash/will-the-united-kingdom-become-more-RttphEh6ud,2026-04-12,0.58
 46,72.0,2,354.2547428125,0.5,NlzyuhpCu5,Will France become more authoritarian in 2026?,https://manifold.markets/cash/will-france-become-more-authoritari-06qZItS55S,2026-04-12,0.86
 46,87.0,3,354.2549557523148,0.5,CRSundSygU,Will Canada become more authoritarian in 2026?,https://manifold.markets/cash/will-canada-become-more-authoritari-yCclsR29cz,2026-04-12,0.86
 47,50.0,1,354.58847777777777,0.5,6E2CQN2ctL,Will Ukraine become more authoritarian in 2026?,https://manifold.markets/cash/will-ukraine-become-more-authoritar-8tlNEgnpyI,2026-04-12,0.87
@@ -32,18 +45,18 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 44,239.99000000000007,5,354.26158539351854,0.5,SRyCqtAp2s,Will Iran become more authoritarian in 2026?,https://manifold.markets/cash/will-iran-become-more-authoritarian-dq20gc8u2I,2026-04-12,0.67
 45,125.0,3,354.262081400463,0.5,U9Pzs50LLz,Will Japan become more authoritarian in 2026?,https://manifold.markets/cash/will-japan-become-more-authoritaria-NQQs2s0PEs,2026-04-12,0.73
 51,85.0,4,354.26221850694446,0.5,SSPOsCAIsu,Will South Korea become more authoritarian in 2026?,https://manifold.markets/cash/will-south-korea-become-more-author-zsypSd8Eu2,2026-04-12,0.77
-70,26.0,2,265.37114493055554,0.5,sLplcdpCUd,"Will Squadron 42 be commercially released by end of December 31, 2026?",https://manifold.markets/RileyuZyEC/will-squadron-42-be-commercially-re,2026-04-12,0.77
+70,26.0,2,264.70517269675923,0.5,sLplcdpCUd,"Will Squadron 42 be commercially released by end of December 31, 2026?",https://manifold.markets/RileyuZyEC/will-squadron-42-be-commercially-re,2026-04-12,0.77
 69,893.0,11,80.37429262731482,0.5,9ppn5cCLld,Will we see a destroyed tanker in the Straight of Hormuz by mid 2026?,https://manifold.markets/Ernie/will-an-oil-tankerbe-destroyed-in-t,2026-04-12,0.13
 61,574.0,4,629.3790491666666,0.5,LydCCy9EyR,Can the public ride in a waymo or similar in Dec 2027 in NYC?,https://manifold.markets/Ernie/can-the-public-ride-in-a-waymo-or-s,2026-04-12,0.49
-77,235.6196874443286,10,9.40541019675926,0.5,6hP05tgIPl,"Will Eric Swalwell end his bid for California governor before 21 April, 2026?",https://manifold.markets/Edvard/will-eric-swalwell-end-his-bid-for,2026-04-12,0.3
+77,492.0842982149577,10,9.40541019675926,0.5,6hP05tgIPl,"Will Eric Swalwell end his bid for California governor before 21 April, 2026?",https://manifold.markets/Edvard/will-eric-swalwell-end-his-bid-for,2026-04-12,0.32
 43,647.8830152517935,16,206.4152471412037,0.5,tL8OCyhgQn,Will Democrats win back the House in 2026 ?,https://manifold.markets/AlbanGonzalezPetit/will-democrats-win-back-the-house-i,2026-04-12,0.26
 14,13.996007984032076,3,1.6834839930555556,0.5,P5zusl5pRl,Daily Coinflip,https://manifold.markets/johnNZOy/daily-coinflip-LZyRpPZ5PA,2026-04-12,0.84
 53,342.29514668671106,6,629.5348363425926,0.5,LthsRZuQls,How far east will In-N-Out have expanded by EOY 2027?,https://manifold.markets/realDonaldTrump/how-far-east-will-innout-have-expan,2026-04-12,0.52
 97,666.0735027795364,10,995.5399804861111,0.5,uAzg2dR9uP,Will there still be an Apollo moonwalker alive on the day the Artemis III crew walks on the moon?,https://manifold.markets/realDonaldTrump/will-there-still-be-an-apollo-moonw,2026-04-12,0.26
 34,37.89208233519683,4,6.999216134259259,0.5,6CEtpANzRn,Godrej Bannerghatta Road Bangalore,https://manifold.markets/RealEstateProps/godrej-bannerghatta-road-bangalore,2026-04-12,0.86
-113,1362.447704014961,16,2.578282685185185,0.5,52ChpN99z8,[SHORT FUSE] Will the US publicly confirm that they agreed to unfreezing some of Iran's assets before April 14th?,https://manifold.markets/AIBear/short-fuse-will-the-us-publicly-con,2026-04-12,0.16
+113,1401.6715560224413,17,2.578282685185185,0.5,52ChpN99z8,[SHORT FUSE] Will the US publicly confirm that they agreed to unfreezing some of Iran's assets before April 14th?,https://manifold.markets/AIBear/short-fuse-will-the-us-publicly-con,2026-04-12,0.16
 98,70.0,5,111.62635052083333,0.5,s5E5NSzudP,"Will a meeting between former President Obama and Pope Leo XIV be announced before August 1, 2026?",https://manifold.markets/Edvard/will-a-meeting-between-former-presi,2026-04-12,0.72
-43,532.4911647334776,21,5.792201238425926,0.5,z00Z0dIchP,WIll I get A grilfirend before next friday?,https://manifold.markets/HussleBird/will-i-get-a-grilfirend-before-next,2026-04-12,0.27
+43,659.7509314331671,23,5.792201238425926,0.5,z00Z0dIchP,WIll I get A grilfirend before next friday?,https://manifold.markets/HussleBird/will-i-get-a-grilfirend-before-next,2026-04-12,0.26
 68,51.0,4,324.8695734953704,0.5,RgCUyQcOsR,Will Nirvanna The Band The Show The Movie be nominated for an Oscar?,https://manifold.markets/asmith/will-nirvanna-the-band-the-show-the,2026-04-12,0.73
 12,3.999999999999999,2,1.0752262962962964,0.5,ZcIlSun8uu,Daily market,https://manifold.markets/ttoe/daily-market-Lzgd9IR2cp,2026-04-12,0.89
 32,250.30858290997327,8,356.14657416666665,0.5,PypNPCPyn6,Will Trump win Trump v. Barbara?,https://manifold.markets/waitblock/will-trump-win-trump-v-barbara,2026-04-12,0.43
@@ -53,17 +66,17 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 69,105.0,4,1361.1063535300925,0.5,y0dQIndcnZ,Will there be a novel bioengineered STD confirmed by WHOI by EOY2029?,https://manifold.markets/AutopoieticErgodicity/will-there-be-a-novel-bioengineered,2026-04-12,0.7
 84,10.0,1,630.1068704513889,0.5,qlcgCcg086,Will the OPM-MEG be used for a neuroimaging study of sex on psychedelics by EOY2027?,https://manifold.markets/AutopoieticErgodicity/will-the-opmmeg-be-used-for-a-neuro,2026-04-12,0.76
 90,10.0,1,630.1072952662037,0.5,8hSdPyE9yd,Will the Kernel Flow 2 be used for a neuroimaging study of sex on psychedelics by EOY2027?,https://manifold.markets/AutopoieticErgodicity/will-the-kernel-flow-2-be-used-for,2026-04-12,0.76
-41,2112.10805980937,34,4.164297719907408,0.5,dLRPstqu9g,"Will LAUSD go on strike on April 14, 2026",https://manifold.markets/Abgghi/will-lausd-go-on-strike-on-april-14,2026-04-12,0.16
+41,2113.091524628273,34,4.164297719907408,0.5,dLRPstqu9g,"Will LAUSD go on strike on April 14, 2026",https://manifold.markets/Abgghi/will-lausd-go-on-strike-on-april-14,2026-04-12,0.16
 47,0.0,0,630.1647543402778,0.5,PLPhEntdN5,Will JOSE LUIS RICON get a REDNOTE by EOY2027>?,https://manifold.markets/AutopoieticErgodicity/will-jose-luis-ricon-get-a-rednote,2026-04-12,0.88
 47,266.8596237823026,10,39.9972380787037,0.5,0Lt5C568NZ,"In the boys, will Marie Moreau kill Homelander?",https://manifold.markets/gabriele_mn/in-the-boys-will-marie-moreau-kill,2026-04-12,0.3
-65,686.2757144915114,12,10.197746770833334,0.5,sLtAudcPqO,"Will the WTI Crude Oil Spot Price be above $98 on April 20, 2026?",https://manifold.markets/ShaneBo/will-the-wti-crude-oil-spot-price-b-yCndszhgyt,2026-04-12,0.23
+65,786.2757144915114,12,10.197746770833334,0.5,sLtAudcPqO,"Will the WTI Crude Oil Spot Price be above $98 on April 20, 2026?",https://manifold.markets/ShaneBo/will-the-wti-crude-oil-spot-price-b-yCndszhgyt,2026-04-12,0.23
 100,267.6540514751156,8,1017.2198256018519,0.5,CCZUOSuZSd,Will a 250-foot triumphal arch be built across from the Lincoln Memorial before Trump leaves office?,https://manifold.markets/kmajc/will-a-250foot-triumphal-arch-be-bu,2026-04-12,0.43
 115,235.55678238387588,5,661.2428821875,0.5,2HfuvYzRZg,"Will ""Help me launch Obsolete: a book aimed at buil..."" make the top fifty posts in LessWrong's 2026 Annual Review?",https://manifold.markets/LessWrong/will-help-me-launch-obsolete-a-book,2026-04-12,0.59
-69,28.496881634198626,3,20.249729837962963,0.5,cRh0llgsUA,Will Javokhir Sindarov lose a game in the Candidates Tournament 2026?,https://manifold.markets/goldduck/will-javokhir-sindarov-lose-a-game,2026-04-12,0.77
+69,40.99974283497519,4,20.249729837962963,0.5,cRh0llgsUA,Will Javokhir Sindarov lose a game in the Candidates Tournament 2026?,https://manifold.markets/goldduck/will-javokhir-sindarov-lose-a-game,2026-04-12,0.73
 109,151.0,3,265.2972258101852,0.5,q9yn8pNQyQ,"Prompt caching is seen as the wrong path for context management, in December 2026? [0.005 Seconds prediction]",https://manifold.markets/Bayesian/prompt-caching-is-seen-as-the-wrong,2026-04-12,0.62
 77,50.0,1,361.50974921296296,0.5,IOQqAlUqpt,"In 2027, Will Frankie Fleetwood land on the Ninth green on the Masters Par-3?",https://manifold.markets/Iamczecksy/in-2027-will-frankie-fleetwood-land,2026-04-12,0.76
-70,2514.220648104682,28,51.31413506944445,0.5,2ItEg96spt,Strait of Hormuz traffic returns to normal by end of May? [Polymarket],https://manifold.markets/vdb/strait-of-hormuz-traffic-returns-to-n28Zdl8Nd6,2026-04-12,0.13
-54,1695.940036777848,13,51.315537256944445,0.5,ghI9lZO0CP,US x Iran permanent peace deal by May 31? [Polymarket],https://manifold.markets/vdb/us-x-iran-permanent-peace-deal-by-m,2026-04-12,0.13
+70,2741.9938464337897,31,51.31413506944445,0.5,2ItEg96spt,Strait of Hormuz traffic returns to normal by end of May? [Polymarket],https://manifold.markets/vdb/strait-of-hormuz-traffic-returns-to-n28Zdl8Nd6,2026-04-12,0.13
+54,1770.940036777848,14,51.315537256944445,0.5,ghI9lZO0CP,US x Iran permanent peace deal by May 31? [Polymarket],https://manifold.markets/vdb/us-x-iran-permanent-peace-deal-by-m,2026-04-12,0.13
 52,279.99999999999994,6,266.3200299652778,0.5,Zh5sdE5gdS,Will I be able to do a muscle-up by the end of 2026?,https://manifold.markets/PhilipDowdell/will-i-be-able-to-do-a-muscleup-by,2026-04-12,0.52
 39,2111.0153472397765,7,6.999243842592593,0.5,uLCtA6En8g,Who is win rcb vs rr yes rcb no rr wins,https://manifold.markets/Hitu/who-is-win-rcb-vs-rr-yes-rcb-no-rr,2026-04-12,0.24
 14,1899.709258300721,17,1.5796658101851853,0.5,EcuLgUNsdy,Daily Coinflip,https://manifold.markets/Traveel/daily-coinflip-8l252Q2E5l,2026-04-12,0.06
@@ -72,14 +85,14 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 100,0.0,0,112.47466482638889,0.5,OAhcqpcPuh,Will the unemployment rate in the Chicago metropolitan area be higher in June 2026 than in May 2026?,https://manifold.markets/Saul/will-the-unemployment-rate-in-the-c-6Ch2CRgU88,2026-04-12,0.77
 106,25.0,2,112.47600435185186,0.5,00qtpOtALC,Will the unemployment rate in the New York City metropolitan area be higher in June 2026 than in May 2026?,https://manifold.markets/Saul/will-the-unemployment-rate-in-the-n-Qdu9tcNLuy,2026-04-12,0.78
 44,2143.124286508397,23,265.040759525463,0.5,CI6ZOgcPES,Will this market appear in Business Insider?,https://manifold.markets/realDonaldTrump/will-this-market-appear-in-business,2026-04-12,0.16
-47,536.670838489225,17,29.544930520833333,0.5,uNNEglu2sg,"Will Pete Hegseth be fired before 10 May, 2026?",https://manifold.markets/Edvard/will-pete-hegseth-be-fired-before-1,2026-04-12,0.26
+47,561.670838489225,17,29.544930520833333,0.5,uNNEglu2sg,"Will Pete Hegseth be fired before 10 May, 2026?",https://manifold.markets/Edvard/will-pete-hegseth-be-fired-before-1,2026-04-12,0.26
 14,4.999000999001282,5,1.7136344444444445,0.5,8q5gIht5g2,Daily Coinflip,https://manifold.markets/johnNZOy/daily-coinflip-psUll0AUnZ,2026-04-12,0.74
 57,51.0,2,1725.9570043171295,0.5,qSQgczgUEy,Next James Bond is Callum Turner or Aaron Taylor-Johnson?,https://manifold.markets/Jack1/next-james-bond-is-callum-turner-or,2026-04-12,0.77
 69,107.22766852960874,4,199.9908242939815,0.5,td2chgy5Cl,Will the date for the next Israeli legislative election be postponed?,https://manifold.markets/AaronSimansky/will-the-date-for-the-next-israeli,2026-04-12,0.7
 88,10.0,1,1460.998786724537,0.5,pnRL5qPAqq,Will John Hopkins' nine-week trial of lithium for Alzheimer's take more than four years?,https://manifold.markets/JasonMurphy/will-john-hopkins-nineweek-trial-of,2026-04-12,0.76
 70,683.6461058432137,16,12.28607519675926,0.5,6uh9QSRgsz,"Will the upcoming documentary ""Finding Satoshi"" actually find Satoshi?",https://manifold.markets/Dssc/will-the-upcoming-documentary-findi,2026-04-12,0.23
 71,244.0,6,20.997844780092592,0.5,9665ccChLS,Did Tetraspace use foreign labor to sandbag her 70lb fly-chest attempt?,https://manifold.markets/georgehQzR/did-tetraspace-use-foreign-labor-to,2026-04-12,0.52
-103,30.0,2,265.85204263888886,0.5,8Pu5dPIP0S,Will there be a data leak of personal information sent to Roblox's age verification system before 2027?,https://manifold.markets/RealityGame/will-there-be-a-data-leak-of-person,2026-04-12,0.78
+103,50.0,2,265.85204263888886,0.5,8Pu5dPIP0S,Will there be a data leak of personal information sent to Roblox's age verification system before 2027?,https://manifold.markets/RealityGame/will-there-be-a-data-leak-of-person,2026-04-12,0.78
 46,282.14854920544775,14,265.87585025462965,0.5,ySq2USO0hq,Will Samuel Alito leave Supreme Court in 2026?,https://manifold.markets/AnonUser/will-samuel-alito-leave-supreme-cou,2026-04-12,0.3
 62,7800.027136564612,8,265.9193643634259,0.5,quylgtL0OO,Will Hunter Biden fight Donald Trump Jr or Eric Trump in 2026?,https://manifold.markets/Jack1/will-hunter-biden-fight-donald-trum,2026-04-12,0.16
 98,82.34855112667654,6,265.9366883912037,0.5,OSgysuny8u,Will either Dianna Russini or Mike Vrabel (or either of their spouses) file for divorce this year?,https://manifold.markets/Qq/will-either-dianna-russini-or-mike,2026-04-12,0.68
@@ -108,7 +121,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 33,157.41036590722925,7,783.6896119212963,0.5,QNyQlP0slu,Will Max Verstappen race in 2028?,https://manifold.markets/Fedor/will-max-verstappen-race-in-2028,2026-04-12,0.45
 34,13968.970476478975,13,266.7578883564815,0.5,ngN8cULCyO,Will MNX hit $100m in volume 2026?,https://manifold.markets/SG/will-mnx-hit-100m-in-volume-2026,2026-04-12,0.12
 50,20404.0,16,144.75924309027778,0.5,Ec0yEIp2ty,Will MNX have $1m in volume before September 2026?,https://manifold.markets/SG/will-mnx-have-1m-in-volume-before-s,2026-04-12,0.11
-63,7284.61299166267,86,91.98467646990741,0.5,USpnpA6Idq,Will the ID verification requirement for new users be reversed?,https://manifold.markets/xjp/will-the-id-verification-requiremen,2026-04-12,0.09
+63,7717.711864703724,87,91.98467646990741,0.5,USpnpA6Idq,Will the ID verification requirement for new users be reversed?,https://manifold.markets/xjp/will-the-id-verification-requiremen,2026-04-12,0.09
 40,70.0,4,29.99328494212963,0.5,QqdduzQC22,will my company allow me to work remote?,https://manifold.markets/eeeeee/will-my-company-allow-me-to-work-re,2026-04-12,0.82
 74,49.52874361474158,2,266.8650354398148,0.5,zn9QdtIuLl,Will the HappyHorse-1.0 weights become publicly available before EOY 2026?,https://manifold.markets/ShankarSivarajan/will-the-happyhorse10-weights-becom,2026-04-12,0.77
 115,5.0,1,662.8739480902777,0.5,vefsxkGWkE,"Will ""The effects of caffeine consumption do not de..."" make the top fifty posts in LessWrong's 2026 Annual Review?",https://manifold.markets/LessWrong/will-the-effects-of-caffeine-consum,2026-04-12,0.76
@@ -118,7 +131,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 48,299.9705533204141,13,6.99893900462963,0.5,Cc9zA20IUO,Will Argentina's March 2026 inflation exceed 3%?,https://manifold.markets/CaliforniaGaucha/will-argentinas-march-2026-inflatio,2026-04-12,0.3
 67,71.0,4,267.05022342592594,0.5,uqAsZOuU0Q,Will Claude surpass ChatGPT in monthly active users by end of 2026?,https://manifold.markets/CaliforniaGaucha/will-claude-surpass-chatgpt-in-mont,2026-04-12,0.7
 15,70.33994772939559,5,22.021347881944443,0.5,dtQRCcupRl,goog ath april?,https://manifold.markets/jim/goog-ath-april,2026-04-12,0.7
-42,917.9428243204526,30,29.998505405092594,0.5,2c5uqSUngL,Will the current US x Iran ceasefire hold?,https://manifold.markets/Mochi/will-the-current-us-x-iran-ceasefir,2026-04-12,0.16
+42,976.8506772724354,33,29.998505405092594,0.5,2c5uqSUngL,Will the current US x Iran ceasefire hold?,https://manifold.markets/Mochi/will-the-current-us-x-iran-ceasefir,2026-04-12,0.16
 74,145.0,3,632.2122760416667,0.5,OUlqU2QCc9,Will the US government functionally seize control of Anthropic by EOY2027?,https://manifold.markets/AutopoieticErgodicity/will-the-us-government-functionally,2026-04-12,0.61
 69,100.0,4,267.213719212963,0.5,96uINsgQzC,Will https://clawinstitute.aiscientist.tools/ still exist by EOY2026?,https://manifold.markets/AutopoieticErgodicity/will-httpsclawinstituteaiscientistt,2026-04-12,0.7
 41,549.9112902788864,15,7.0084078125,0.5,p9c6INORqI,Who will win: Arsenal or Sporting Lisboa?,https://manifold.markets/HotPotato/who-will-win-psg-or-liverpool,2026-04-12,0.26
@@ -247,7 +260,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 71,30.0,1,447.5687078587963,0.5,SNSzCzdtlA,Will Energy Fuels White Mesa Sm2O3 production exceed 20 tonnes in 2026?,https://manifold.markets/MikhailTal/will-energy-fuels-white-mesa-sm2o3,2026-04-12,0.75
 61,0.0,0,631.6103945949075,0.5,Q5cl9q8gsp,Will China October 2027 Sm2O3 export volume exceed 80 tonnes?,https://manifold.markets/MikhailTal/will-china-october-2027-sm2o3-expor-RhPpcO8UR2,2026-04-12,0.76
 61,5.0,1,631.6106756597222,0.5,9tyQ0t0A2Q,Will China October 2027 Sm2O3 export volume exceed 50 tonnes?,https://manifold.markets/MikhailTal/will-china-october-2027-sm2o3-expor-S9A6RpgEgz,2026-04-12,0.75
-58,0.0,0,539.5690170138889,0.5,l8S0A02hOR,Will China July 2027 Sm2O3 export volume exceed 80 tonnes?,https://manifold.markets/MikhailTal/will-china-july-2027-sm2o3-export-v-zhdN6IOE2Q,2026-04-12,0.76
+58,5.0,1,539.5690170138889,0.5,l8S0A02hOR,Will China July 2027 Sm2O3 export volume exceed 80 tonnes?,https://manifold.markets/MikhailTal/will-china-july-2027-sm2o3-export-v-zhdN6IOE2Q,2026-04-12,0.75
 61,5.0,1,631.6106903356482,0.5,LEs8plZuZC,Will China October 2027 Sm2O3 export volume exceed 20 tonnes?,https://manifold.markets/MikhailTal/will-china-october-2027-sm2o3-expor,2026-04-12,0.75
 58,5.0,1,539.5690307407407,0.5,lQu20NPps8,Will China July 2027 Sm2O3 export volume exceed 50 tonnes?,https://manifold.markets/MikhailTal/will-china-july-2027-sm2o3-export-v-dNE5czONpP,2026-04-12,0.75
 59,15.0,1,447.5692933912037,0.5,UqUSIRs8cE,Will China April 2027 Sm2O3 export volume exceed 50 tonnes?,https://manifold.markets/MikhailTal/will-china-april-2027-sm2o3-export-z9CugIPn6O,2026-04-12,0.75
@@ -284,7 +297,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 16,150.96250358986018,8,30.17454900462963,0.5,cZ566psE2L,伊朗提出的停战十条美国会接受吗？,https://manifold.markets/alpmoon/-5PUC5655Nc,2026-04-12,0.27
 77,60.0,2,1363.5238448842592,0.5,9AdNCS2Pdd,Will Hollywood release an Iran F-15E rescue mission movie by the end of 2029?,https://manifold.markets/yasir/will-hollywood-release-an-iran-f15e,2026-04-12,0.78
 98,65.0,3,663.5674476967592,0.5,WjaGAA4xCA,"Will ""My picture of the present in AI"" make the top fifty posts in LessWrong's 2026 Annual Review?",https://manifold.markets/LessWrong/will-my-picture-of-the-present-in-a,2026-04-12,0.78
-33,640.6272777924578,16,267.5707615277778,0.5,zdcOzLZ5qR,Will Donald Trump Die before 2027,https://manifold.markets/AlbanGonzalezPetit/will-donald-trump-die-before-2027,2026-04-12,0.26
+33,655.6272777924578,17,267.5707615277778,0.5,zdcOzLZ5qR,Will Donald Trump Die before 2027,https://manifold.markets/AlbanGonzalezPetit/will-donald-trump-die-before-2027,2026-04-12,0.26
 5,10.0,1,30.342058969907406,0.5,gy62pu5Ou9,LUCK8,https://manifold.markets/LUCK8tNzE/luck8-2Z6gSsOlAL,2026-04-12,0.83
 53,1372.4042090990288,18,89.99923453703704,0.5,cyA88y5URR,"Hegseth, Patel, or RFK is out within the next 90 days",https://manifold.markets/TheWabiSabi/hegseth-patel-or-rfk-is-out-within-LRUCtl0Rhg,2026-04-12,0.13
 57,555.0,6,632.6412607175926,0.5,dAELAOQuAc,Ben Roberts-Smith found guilty of war crimes before 2028?,https://manifold.markets/brod/ben-robertssmith-found-guilty-of-wa,2026-04-12,0.45
@@ -357,24 +370,3 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 87,15.0,1,267.2274058912037,0.5,qQNRdphl60,"Will APR (ammonium perrhenate) Rotterdam price exceed 8000 USD/kg on December 31, 2026?",https://manifold.markets/MikhailTal/will-apr-ammonium-perrhenate-rotter-SEtpl5q9O8,2026-04-12,0.76
 87,15.0,1,267.22758842592594,0.5,NzqUPOqncy,"Will APR (ammonium perrhenate) Rotterdam price exceed 5000 USD/kg on December 31, 2026?",https://manifold.markets/MikhailTal/will-apr-ammonium-perrhenate-rotter-Ln09ERALSc,2026-04-12,0.76
 87,15.0,1,267.22759581018516,0.5,Rync2SESQg,"Will APR (ammonium perrhenate) Rotterdam price exceed 2500 USD/kg on December 31, 2026?",https://manifold.markets/MikhailTal/will-apr-ammonium-perrhenate-rotter-RApqNl0CSd,2026-04-12,0.76
-82,15.0,1,1453.1859487962963,0.5,E9P5ZcRzCg,Will China rhenium imports exceed 20 thousand kg in the year ending December 2029?,https://manifold.markets/MikhailTal/will-china-rhenium-imports-exceed-2-ppnl900y8n,2026-04-12,0.76
-82,5.0,1,1088.1859765740742,0.5,lcCUd62csl,Will China rhenium imports exceed 42 thousand kg in the year ending December 2028?,https://manifold.markets/MikhailTal/will-china-rhenium-imports-exceed-4-Q99N6p8lz9,2026-04-12,0.76
-87,15.0,1,236.22774369212962,0.5,SgpqCc8ppQ,"Will APR (ammonium perrhenate) Rotterdam price exceed 8000 USD/kg on November 30, 2026?",https://manifold.markets/MikhailTal/will-apr-ammonium-perrhenate-rotter-AAAtzSgRCn,2026-04-12,0.76
-87,0.0,0,236.22788643518518,0.5,2cqPynIclh,"Will APR (ammonium perrhenate) Rotterdam price exceed 5000 USD/kg on November 30, 2026?",https://manifold.markets/MikhailTal/will-apr-ammonium-perrhenate-rotter-6LU6SzZyd2,2026-04-12,0.77
-87,0.0,0,236.22789502314814,0.5,USLOpClztp,"Will APR (ammonium perrhenate) Rotterdam price exceed 2500 USD/kg on November 30, 2026?",https://manifold.markets/MikhailTal/will-apr-ammonium-perrhenate-rotter-tgduRc0Uzn,2026-04-12,0.77
-82,15.0,1,1088.1862426041666,0.5,Pc9ZSpZcRS,Will China rhenium imports exceed 30 thousand kg in the year ending December 2028?,https://manifold.markets/MikhailTal/will-china-rhenium-imports-exceed-3-RAyOIOttlN,2026-04-12,0.76
-82,15.0,1,1088.1862589930556,0.5,RZtgU0c0UI,Will China rhenium imports exceed 20 thousand kg in the year ending December 2028?,https://manifold.markets/MikhailTal/will-china-rhenium-imports-exceed-2-tqNyCC6h9Q,2026-04-12,0.76
-86,0.0,0,206.18639130787037,0.5,qhqhy2CQgc,"Will APR (ammonium perrhenate) Rotterdam price exceed 8000 USD/kg on October 31, 2026?",https://manifold.markets/MikhailTal/will-apr-ammonium-perrhenate-rotter-ldqES9huZp,2026-04-12,0.77
-86,5.0,1,206.18654372685185,0.5,gzOdLuZlps,"Will APR (ammonium perrhenate) Rotterdam price exceed 2500 USD/kg on October 31, 2026?",https://manifold.markets/MikhailTal/will-apr-ammonium-perrhenate-rotter-IgSORR6Sph,2026-04-12,0.76
-82,15.0,1,723.1865534143518,0.5,EE8ZlPQyy2,Will China rhenium imports exceed 42 thousand kg in the year ending December 2027?,https://manifold.markets/MikhailTal/will-china-rhenium-imports-exceed-4-Uls5hnzpLc,2026-04-12,0.76
-86,0.0,0,206.18656054398147,0.5,s6qnPlgCSc,"Will APR (ammonium perrhenate) Rotterdam price exceed 5000 USD/kg on October 31, 2026?",https://manifold.markets/MikhailTal/will-apr-ammonium-perrhenate-rotter-5ZllCPyusl,2026-04-12,0.77
-82,5.0,1,723.1865755439815,0.5,296QqzAEZS,Will China rhenium imports exceed 30 thousand kg in the year ending December 2027?,https://manifold.markets/MikhailTal/will-china-rhenium-imports-exceed-3-LIOCu8NlzS,2026-04-12,0.76
-88,5.0,1,175.18671599537038,0.5,Snyg8lLdy5,"Will APR (ammonium perrhenate) Rotterdam price exceed 8000 USD/kg on September 30, 2026?",https://manifold.markets/MikhailTal/will-apr-ammonium-perrhenate-rotter-5yqzLhq28U,2026-04-12,0.76
-82,15.0,1,723.1868530439815,0.5,9ZLU2UNydI,Will China rhenium imports exceed 20 thousand kg in the year ending December 2027?,https://manifold.markets/MikhailTal/will-china-rhenium-imports-exceed-2-8EIQQPuU8L,2026-04-12,0.76
-88,5.0,1,175.18686099537038,0.5,nRldPIAchq,"Will APR (ammonium perrhenate) Rotterdam price exceed 5000 USD/kg on September 30, 2026?",https://manifold.markets/MikhailTal/will-apr-ammonium-perrhenate-rotter-qOC66qSLUO,2026-04-12,0.76
-88,5.0,1,175.18688476851852,0.5,CO0dApup8p,"Will APR (ammonium perrhenate) Rotterdam price exceed 2500 USD/kg on September 30, 2026?",https://manifold.markets/MikhailTal/will-apr-ammonium-perrhenate-rotter-gnnOuCOpOl,2026-04-12,0.76
-82,5.0,1,357.1868995949074,0.5,CIh8ycUPSd,Will China rhenium imports exceed 42 thousand kg in the year ending December 2026?,https://manifold.markets/MikhailTal/will-china-rhenium-imports-exceed-4,2026-04-12,0.76
-85,5.0,1,145.18715684027777,0.5,29QRdOqOuZ,"Will APR (ammonium perrhenate) Rotterdam price exceed 8000 USD/kg on August 31, 2026?",https://manifold.markets/MikhailTal/will-apr-ammonium-perrhenate-rotter-2pRUlCuNOP,2026-04-12,0.76
-82,5.0,1,357.18716265046294,0.5,yRuNS9A0tU,Will China rhenium imports exceed 30 thousand kg in the year ending December 2026?,https://manifold.markets/MikhailTal/will-china-rhenium-imports-exceed-3,2026-04-12,0.76
-85,5.0,1,145.18718912037036,0.5,h8LtglquR5,"Will APR (ammonium perrhenate) Rotterdam price exceed 5000 USD/kg on August 31, 2026?",https://manifold.markets/MikhailTal/will-apr-ammonium-perrhenate-rotter-RS8PP9OlCc,2026-04-12,0.76
-82,5.0,1,357.1872032638889,0.5,LUt8qEQCCy,Will China rhenium imports exceed 20 thousand kg in the year ending December 2026?,https://manifold.markets/MikhailTal/will-china-rhenium-imports-exceed-2,2026-04-12,0.76
