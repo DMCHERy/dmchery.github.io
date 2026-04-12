@@ -1,61 +1,121 @@
 [
   {
+    "question":"Will the USA blockade the Strait of Hormuz before April 19th",
+    "probability":0.86,
+    "link":"https:\/\/manifold.markets\/Meek\/will-the-usa-blockade-the-strait-of",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Free Lottery (Jupiter)",
+    "probability":0.9,
+    "link":"https:\/\/manifold.markets\/ttoe\/free-lottery-jupiter",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Daily Coinflip",
+    "probability":0.23,
+    "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-AqNpghtS9N",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will victor orban flee to US by EOY2028?",
+    "probability":0.94,
+    "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-victor-orban-flee-to-us-by-eoy",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will I complete all of my assignments before midnight tonight (Apr. 12)?",
+    "probability":0.91,
+    "link":"https:\/\/manifold.markets\/ZYX\/will-i-complete-all-of-my-assignmen",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will I leave the house before 11 a.m. every day next week?",
+    "probability":0.83,
+    "link":"https:\/\/manifold.markets\/redcat\/will-i-leave-the-house-before-11-am-zZtAzlZ0zy",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will I stick to my study schedule (24h target) next week?",
+    "probability":0.83,
+    "link":"https:\/\/manifold.markets\/redcat\/will-i-stick-to-my-study-schedule-2-snq0LccZg0",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Tilda Swinton plays Voldemort in the TV series?",
+    "probability":0.94,
+    "link":"https:\/\/manifold.markets\/JussiVilleHeiskanen\/tilda-swinton-plays-voldemort-in-th",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"D\u00e4il\u00ff C\u00f6in Flip - Day 321",
+    "probability":0.54,
+    "link":"https:\/\/manifold.markets\/Velaris\/daily-coin-flip-day-321",
+    "date":"2026-04-12"
+  },
+  {
+    "question":"Will the Crime and Policing Bill pass with a provision to require taking into account cumulative impact?",
+    "probability":0.84,
+    "link":"https:\/\/manifold.markets\/Tetraspace\/will-the-crime-and-policing-bill-pa",
+    "date":"2026-04-12"
+  },
+  {
     "question":"Will the US attack Iran's infrastructure before June 1st?",
-    "probability":0.73,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/Jo2e2b\/will-the-us-attack-irans-infrastruc",
     "date":"2026-04-12"
   },
   {
     "question":"Will Rec Room extend its closing date?",
-    "probability":0.92,
+    "probability":0.95,
     "link":"https:\/\/manifold.markets\/NoScore\/will-rec-room-extend-its-closing-da",
     "date":"2026-04-12"
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.93,
+    "probability":0.81,
     "link":"https:\/\/manifold.markets\/johnNZOy\/daily-coinflip-5NIcyuOSns",
     "date":"2026-04-12"
   },
   {
     "question":"Will the feed-in tariff (Einspeiseverg\u00fctung) of small of small photovoltaics be repealed in Germany in 2026?",
-    "probability":0.85,
+    "probability":0.88,
     "link":"https:\/\/manifold.markets\/CerdoDeLaBolsa\/will-the-feedin-tariff-einspeisever",
     "date":"2026-04-12"
   },
   {
     "question":"Will Coefficient Giving make a grant to MIRI in 2026, 2027 or 2028?",
-    "probability":0.8,
+    "probability":0.87,
     "link":"https:\/\/manifold.markets\/Tetraspace\/will-coefficient-giving-make-a-gran",
     "date":"2026-04-12"
   },
   {
     "question":"Will \"Dario probably doesn't believe in superintell...\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-dario-probably-doesnt-believe",
     "date":"2026-04-12"
   },
   {
     "question":"Will Kino Casino be unbanned on Youtube by the end of 4\/20?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/strutheo\/will-kino-casino-be-unbanned-on-you",
     "date":"2026-04-12"
   },
   {
     "question":"Will London high temperature exceed 15\u00b0C on 2026-04-14?",
-    "probability":0.83,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/samlcell\/will-london-high-temperature-exceed-sC0uU0gq5Z",
     "date":"2026-04-12"
   },
   {
     "question":"Will it rain in London on 2026-04-13?",
-    "probability":0.95,
+    "probability":0.6,
     "link":"https:\/\/manifold.markets\/samlcell\/will-it-rain-in-london-on-20260413",
     "date":"2026-04-12"
   },
   {
     "question":"Will London high temperature exceed 17\u00b0C on 2026-04-13?",
-    "probability":0.82,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/samlcell\/will-london-high-temperature-exceed",
     "date":"2026-04-12"
   },
@@ -67,175 +127,169 @@
   },
   {
     "question":"Will Bratislava high temperature exceed 21\u00b0C on 2026-04-14?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/samlcell\/will-bratislava-high-temperature-ex-uh8SPRQl6A",
     "date":"2026-04-12"
   },
   {
     "question":"Will Bratislava high temperature exceed 20\u00b0C on 2026-04-13?",
-    "probability":0.73,
+    "probability":0.79,
     "link":"https:\/\/manifold.markets\/samlcell\/will-bratislava-high-temperature-ex",
     "date":"2026-04-12"
   },
   {
     "question":"Will Bibinje high temperature exceed 23\u00b0C on 2026-04-14?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/samlcell\/will-bibinje-high-temperature-excee-yI5NNEsyRZ",
     "date":"2026-04-12"
   },
   {
     "question":"Will it rain in Bibinje on 2026-04-13?",
-    "probability":0.95,
+    "probability":0.91,
     "link":"https:\/\/manifold.markets\/samlcell\/will-it-rain-in-bibinje-on-20260413",
     "date":"2026-04-12"
   },
   {
     "question":"Will Bibinje high temperature exceed 26\u00b0C on 2026-04-13?",
-    "probability":0.55,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/samlcell\/will-bibinje-high-temperature-excee",
     "date":"2026-04-12"
   },
   {
     "question":"Will Bansk\u00e1 \u0160tiavnica high temperature exceed 12\u00b0C on 2026-04-14?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/samlcell\/will-banska-stiavnica-high-temperat-2SyEq6cLg9",
     "date":"2026-04-12"
   },
   {
     "question":"Will Bansk\u00e1 \u0160tiavnica high temperature exceed 17\u00b0C on 2026-04-13?",
-    "probability":0.82,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/samlcell\/will-banska-stiavnica-high-temperat",
     "date":"2026-04-12"
   },
   {
     "question":"Will Caryslia Rodr\u00edguez be replaced as President of the Venezuelan Supreme Tribunal of Justice (TSJ) before May 1, 2026?",
-    "probability":0.82,
+    "probability":0.88,
     "link":"https:\/\/manifold.markets\/ElCaneloVZLA\/will-caryslia-rodriguez-be-replaced",
     "date":"2026-04-12"
   },
   {
-    "question":"Free Lottery (Mars)",
-    "probability":0.1,
-    "link":"https:\/\/manifold.markets\/ttoe\/free-lottery-mars",
-    "date":"2026-04-12"
-  },
-  {
     "question":"Daily market",
-    "probability":0.93,
+    "probability":0.96,
     "link":"https:\/\/manifold.markets\/ttoe\/daily-market-0p8ulLPNc0",
     "date":"2026-04-12"
   },
   {
     "question":"Artemis program lunar landing success discourages chinese moon landing ambitions?",
-    "probability":0.74,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/JussiVilleHeiskanen\/artemis-program-lunar-landing-succe",
     "date":"2026-04-12"
   },
   {
     "question":"By EOY2100, will the Moon host a giant toilet?",
-    "probability":0.62,
+    "probability":0.74,
     "link":"https:\/\/manifold.markets\/Chumchulum\/by-eoy2100-will-the-moon-host-a-gia",
     "date":"2026-04-12"
   },
   {
     "question":"Will \"Chicken-Free Egg Whites\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-chickenfree-egg-whites-make-th",
     "date":"2026-04-12"
   },
   {
     "question":"Will \"Mythos-class\" model be called Mythos?",
-    "probability":0.11,
+    "probability":0.19,
     "link":"https:\/\/manifold.markets\/NayutaIto\/will-mythosclass-model-be-called-my",
     "date":"2026-04-12"
   },
   {
     "question":"AI wins FTL using screen input and mouse\/keyboard before 2027",
-    "probability":0.52,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/singer\/ai-wins-ftl-using-screen-input-and",
     "date":"2026-04-12"
   },
   {
     "question":"Will Eric Swalwell complete his current term in the House?",
-    "probability":0.53,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/BRTD\/will-eric-swalwell-complete-his-cur",
     "date":"2026-04-12"
   },
   {
     "question":"Will \"If Mythos actually made Anthropic employees 4...\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.82,
+    "probability":0.88,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-if-mythos-actually-made-anthro",
     "date":"2026-04-12"
   },
   {
     "question":"Will I promote to Masters this season?",
-    "probability":0.92,
+    "probability":0.76,
     "link":"https:\/\/manifold.markets\/WobertqUIQz\/will-i-promote-to-masters-this-seas-9AS8S9uysI",
     "date":"2026-04-12"
   },
   {
     "question":"Zetamac score>80 in a month",
-    "probability":0.62,
+    "probability":0.66,
     "link":"https:\/\/manifold.markets\/frankg\/zetamac-score80-in-a-month",
     "date":"2026-04-12"
   },
   {
     "question":"will @OfficialStellar be a millionaire in 10 years time?",
-    "probability":0.81,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/Morka\/will-officialstellar-be-a-millionai",
     "date":"2026-04-12"
   },
   {
     "question":"Will the world become more authoritarian in 2026?",
-    "probability":0.23,
+    "probability":0.38,
     "link":"https:\/\/manifold.markets\/cash\/will-the-world-become-more-authorit-2R20yhg9dh",
     "date":"2026-04-12"
   },
   {
     "question":"Will the United States become more authoritarian in 2026?",
-    "probability":0.08,
+    "probability":0.18,
     "link":"https:\/\/manifold.markets\/cash\/will-the-united-states-become-more-QNC56OL95y",
     "date":"2026-04-12"
   },
   {
     "question":"Will China become more authoritarian in 2026?",
-    "probability":0.62,
+    "probability":0.75,
     "link":"https:\/\/manifold.markets\/cash\/will-china-become-more-authoritaria-tQRh2Cq2Rq",
     "date":"2026-04-12"
   },
   {
     "question":"Will Russia become more authoritarian in 2026?",
-    "probability":0.83,
+    "probability":0.9,
     "link":"https:\/\/manifold.markets\/cash\/will-russia-become-more-authoritari-IdZ9S8n2OC",
     "date":"2026-04-12"
   },
   {
     "question":"Will Germany become more authoritarian in 2026?",
-    "probability":0.62,
+    "probability":0.75,
     "link":"https:\/\/manifold.markets\/cash\/will-germany-become-more-authoritar-2yzt80C9Ed",
     "date":"2026-04-12"
   },
   {
     "question":"Will India become more authoritarian in 2026?",
-    "probability":0.62,
+    "probability":0.75,
     "link":"https:\/\/manifold.markets\/cash\/will-india-become-more-authoritaria-stcugnnShp",
     "date":"2026-04-12"
   },
   {
     "question":"Will the United Kingdom become more authoritarian in 2026?",
-    "probability":0.53,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/cash\/will-the-united-kingdom-become-more-RttphEh6ud",
     "date":"2026-04-12"
   },
   {
     "question":"Will France become more authoritarian in 2026?",
-    "probability":0.82,
+    "probability":0.89,
     "link":"https:\/\/manifold.markets\/cash\/will-france-become-more-authoritari-06qZItS55S",
     "date":"2026-04-12"
   },
   {
     "question":"Will Canada become more authoritarian in 2026?",
-    "probability":0.79,
+    "probability":0.89,
     "link":"https:\/\/manifold.markets\/cash\/will-canada-become-more-authoritari-yCclsR29cz",
     "date":"2026-04-12"
   },
@@ -253,25 +307,25 @@
   },
   {
     "question":"Will Turkey become more authoritarian in 2026?",
-    "probability":0.91,
+    "probability":0.94,
     "link":"https:\/\/manifold.markets\/cash\/will-turkey-become-more-authoritari-UhPcCICSps",
     "date":"2026-04-12"
   },
   {
     "question":"Will Poland become more authoritarian in 2026?",
-    "probability":0.91,
+    "probability":0.94,
     "link":"https:\/\/manifold.markets\/cash\/will-poland-become-more-authoritari-dlShlu0Ih5",
     "date":"2026-04-12"
   },
   {
     "question":"Will Argentina become more authoritarian in 2026?",
-    "probability":0.84,
+    "probability":0.91,
     "link":"https:\/\/manifold.markets\/cash\/will-argentina-become-more-authorit-ySct8hSZOz",
     "date":"2026-04-12"
   },
   {
     "question":"Will South Africa become more authoritarian in 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/cash\/will-south-africa-become-more-autho-uhLnQ6Zq90",
     "date":"2026-04-12"
   },
@@ -289,1916 +343,1736 @@
   },
   {
     "question":"Will Iran become more authoritarian in 2026?",
-    "probability":0.62,
+    "probability":0.74,
     "link":"https:\/\/manifold.markets\/cash\/will-iran-become-more-authoritarian-dq20gc8u2I",
     "date":"2026-04-12"
   },
   {
     "question":"Will Japan become more authoritarian in 2026?",
-    "probability":0.62,
+    "probability":0.75,
     "link":"https:\/\/manifold.markets\/cash\/will-japan-become-more-authoritaria-NQQs2s0PEs",
     "date":"2026-04-12"
   },
   {
     "question":"Will South Korea become more authoritarian in 2026?",
-    "probability":0.57,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/cash\/will-south-korea-become-more-author-zsypSd8Eu2",
     "date":"2026-04-12"
   },
   {
     "question":"Will Squadron 42 be commercially released by end of December 31, 2026?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/RileyuZyEC\/will-squadron-42-be-commercially-re",
     "date":"2026-04-12"
   },
   {
     "question":"Will we see a destroyed tanker in the Straight of Hormuz by mid 2026?",
-    "probability":0.08,
+    "probability":0.18,
     "link":"https:\/\/manifold.markets\/Ernie\/will-an-oil-tankerbe-destroyed-in-t",
     "date":"2026-04-12"
   },
   {
     "question":"Can the public ride in a waymo or similar in Dec 2027 in NYC?",
-    "probability":0.31,
+    "probability":0.36,
     "link":"https:\/\/manifold.markets\/Ernie\/can-the-public-ride-in-a-waymo-or-s",
     "date":"2026-04-12"
   },
   {
     "question":"Will Eric Swalwell end his bid for California governor before 21 April, 2026?",
-    "probability":0.1,
+    "probability":0.2,
     "link":"https:\/\/manifold.markets\/Edvard\/will-eric-swalwell-end-his-bid-for",
     "date":"2026-04-12"
   },
   {
     "question":"Will Democrats win back the House in 2026 ?",
-    "probability":0.09,
+    "probability":0.19,
     "link":"https:\/\/manifold.markets\/AlbanGonzalezPetit\/will-democrats-win-back-the-house-i",
     "date":"2026-04-12"
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.94,
+    "probability":0.95,
     "link":"https:\/\/manifold.markets\/johnNZOy\/daily-coinflip-LZyRpPZ5PA",
     "date":"2026-04-12"
   },
   {
     "question":"How far east will In-N-Out have expanded by EOY 2027?",
-    "probability":0.54,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/realDonaldTrump\/how-far-east-will-innout-have-expan",
     "date":"2026-04-12"
   },
   {
     "question":"Will there still be an Apollo moonwalker alive on the day the Artemis III crew walks on the moon?",
-    "probability":0.1,
+    "probability":0.2,
     "link":"https:\/\/manifold.markets\/realDonaldTrump\/will-there-still-be-an-apollo-moonw",
     "date":"2026-04-12"
   },
   {
-    "question":"Godrej Bannerghatta Road Bangalore",
-    "probability":0.93,
-    "link":"https:\/\/manifold.markets\/RealEstateProps\/godrej-bannerghatta-road-bangalore",
-    "date":"2026-04-12"
-  },
-  {
     "question":"[SHORT FUSE] Will the US publicly confirm that they agreed to unfreezing some of Iran's assets before April 14th?",
-    "probability":0.07,
+    "probability":0.2,
     "link":"https:\/\/manifold.markets\/AIBear\/short-fuse-will-the-us-publicly-con",
     "date":"2026-04-12"
   },
   {
     "question":"Will a meeting between former President Obama and Pope Leo XIV be announced before August 1, 2026?",
-    "probability":0.81,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/Edvard\/will-a-meeting-between-former-presi",
     "date":"2026-04-12"
   },
   {
     "question":"WIll I get A grilfirend before next friday?",
-    "probability":0.09,
+    "probability":0.19,
     "link":"https:\/\/manifold.markets\/HussleBird\/will-i-get-a-grilfirend-before-next",
     "date":"2026-04-12"
   },
   {
     "question":"Will Nirvanna The Band The Show The Movie be nominated for an Oscar?",
-    "probability":0.82,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/asmith\/will-nirvanna-the-band-the-show-the",
     "date":"2026-04-12"
   },
   {
-    "question":"Daily market",
-    "probability":0.93,
-    "link":"https:\/\/manifold.markets\/ttoe\/daily-market-Lzgd9IR2cp",
-    "date":"2026-04-12"
-  },
-  {
     "question":"Will Trump win Trump v. Barbara?",
-    "probability":0.45,
+    "probability":0.43,
     "link":"https:\/\/manifold.markets\/waitblock\/will-trump-win-trump-v-barbara",
     "date":"2026-04-12"
   },
   {
     "question":"Will ML-KEM-768 break before X25519?",
-    "probability":0.07,
+    "probability":0.19,
     "link":"https:\/\/manifold.markets\/retr0id\/will-mlkem768-break-before-x25519",
     "date":"2026-04-12"
   },
   {
     "question":"Will Until Labs preserve Ben Sasse?",
-    "probability":0.93,
+    "probability":0.75,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-until-labs-save-ben-sasse-pres",
     "date":"2026-04-12"
   },
   {
     "question":"Stephen Casper: by EOY2026, a system with comparable cyber capabilities to Mythos will be widely available?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/stephen-casper-by-eoy2026-a-system",
     "date":"2026-04-12"
   },
   {
     "question":"Will there be a novel bioengineered STD confirmed by WHOI by EOY2029?",
-    "probability":0.73,
+    "probability":0.82,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-there-be-a-novel-bioengineered",
     "date":"2026-04-12"
   },
   {
     "question":"Will the OPM-MEG be used for a neuroimaging study of sex on psychedelics by EOY2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-the-opmmeg-be-used-for-a-neuro",
     "date":"2026-04-12"
   },
   {
     "question":"Will the Kernel Flow 2 be used for a neuroimaging study of sex on psychedelics by EOY2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-the-kernel-flow-2-be-used-for",
     "date":"2026-04-12"
   },
   {
     "question":"Will LAUSD go on strike on April 14, 2026",
-    "probability":0.06,
+    "probability":0.19,
     "link":"https:\/\/manifold.markets\/Abgghi\/will-lausd-go-on-strike-on-april-14",
     "date":"2026-04-12"
   },
   {
     "question":"Will JOSE LUIS RICON get a REDNOTE by EOY2027>?",
-    "probability":0.92,
+    "probability":0.91,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-jose-luis-ricon-get-a-rednote",
     "date":"2026-04-12"
   },
   {
     "question":"In the boys, will Marie Moreau kill Homelander?",
-    "probability":0.21,
+    "probability":0.36,
     "link":"https:\/\/manifold.markets\/gabriele_mn\/in-the-boys-will-marie-moreau-kill",
     "date":"2026-04-12"
   },
   {
     "question":"Will the WTI Crude Oil Spot Price be above $98 on April 20, 2026?",
-    "probability":0.08,
+    "probability":0.18,
     "link":"https:\/\/manifold.markets\/ShaneBo\/will-the-wti-crude-oil-spot-price-b-yCndszhgyt",
     "date":"2026-04-12"
   },
   {
     "question":"Will a 250-foot triumphal arch be built across from the Lincoln Memorial before Trump leaves office?",
-    "probability":0.48,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/kmajc\/will-a-250foot-triumphal-arch-be-bu",
     "date":"2026-04-12"
   },
   {
     "question":"Will \"Help me launch Obsolete: a book aimed at buil...\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.56,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-help-me-launch-obsolete-a-book",
     "date":"2026-04-12"
   },
   {
     "question":"Will Javokhir Sindarov lose a game in the Candidates Tournament 2026?",
-    "probability":0.82,
+    "probability":0.87,
     "link":"https:\/\/manifold.markets\/goldduck\/will-javokhir-sindarov-lose-a-game",
     "date":"2026-04-12"
   },
   {
     "question":"Prompt caching is seen as the wrong path for context management, in December 2026? [0.005 Seconds prediction]",
-    "probability":0.55,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/Bayesian\/prompt-caching-is-seen-as-the-wrong",
     "date":"2026-04-12"
   },
   {
     "question":"In 2027, Will Frankie Fleetwood land on the Ninth green on the Masters Par-3?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/Iamczecksy\/in-2027-will-frankie-fleetwood-land",
     "date":"2026-04-12"
   },
   {
     "question":"Strait of Hormuz traffic returns to normal by end of May? [Polymarket]",
-    "probability":0.05,
+    "probability":0.18,
     "link":"https:\/\/manifold.markets\/vdb\/strait-of-hormuz-traffic-returns-to-n28Zdl8Nd6",
     "date":"2026-04-12"
   },
   {
     "question":"US x Iran permanent peace deal by May 31? [Polymarket]",
-    "probability":0.05,
+    "probability":0.17,
     "link":"https:\/\/manifold.markets\/vdb\/us-x-iran-permanent-peace-deal-by-m",
     "date":"2026-04-12"
   },
   {
     "question":"Will I be able to do a muscle-up by the end of 2026?",
-    "probability":0.54,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/PhilipDowdell\/will-i-be-able-to-do-a-muscleup-by",
     "date":"2026-04-12"
   },
   {
     "question":"Who is win rcb vs rr yes rcb no rr wins",
-    "probability":0.33,
+    "probability":0.31,
     "link":"https:\/\/manifold.markets\/Hitu\/who-is-win-rcb-vs-rr-yes-rcb-no-rr",
     "date":"2026-04-12"
   },
   {
-    "question":"Daily Coinflip",
-    "probability":0.05,
-    "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-8l252Q2E5l",
-    "date":"2026-04-12"
-  },
-  {
     "question":"Sabres win at least one playoff series",
-    "probability":0.92,
+    "probability":0.94,
     "link":"https:\/\/manifold.markets\/MikeBerezny\/sabres-win-at-least-one-playoff-ser",
     "date":"2026-04-12"
   },
   {
     "question":"Will the unemployment rate in the Los Angeles metropolitan area be higher in June 2026 than in May 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/Saul\/will-the-unemployment-rate-in-the-l-9tPLqQ8PhI",
     "date":"2026-04-12"
   },
   {
     "question":"Will the unemployment rate in the Chicago metropolitan area be higher in June 2026 than in May 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/Saul\/will-the-unemployment-rate-in-the-c-6Ch2CRgU88",
     "date":"2026-04-12"
   },
   {
     "question":"Will the unemployment rate in the New York City metropolitan area be higher in June 2026 than in May 2026?",
-    "probability":0.82,
+    "probability":0.88,
     "link":"https:\/\/manifold.markets\/Saul\/will-the-unemployment-rate-in-the-n-Qdu9tcNLuy",
     "date":"2026-04-12"
   },
   {
     "question":"Will this market appear in Business Insider?",
-    "probability":0.06,
+    "probability":0.19,
     "link":"https:\/\/manifold.markets\/realDonaldTrump\/will-this-market-appear-in-business",
     "date":"2026-04-12"
   },
   {
     "question":"Will Pete Hegseth be fired before 10 May, 2026?",
-    "probability":0.09,
+    "probability":0.19,
     "link":"https:\/\/manifold.markets\/Edvard\/will-pete-hegseth-be-fired-before-1",
     "date":"2026-04-12"
   },
   {
     "question":"Next James Bond is Callum Turner or Aaron Taylor-Johnson?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/Jack1\/next-james-bond-is-callum-turner-or",
     "date":"2026-04-12"
   },
   {
     "question":"Will the date for the next Israeli legislative election be postponed?",
-    "probability":0.73,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/AaronSimansky\/will-the-date-for-the-next-israeli",
     "date":"2026-04-12"
   },
   {
     "question":"Will John Hopkins' nine-week trial of lithium for Alzheimer's take more than four years?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/JasonMurphy\/will-john-hopkins-nineweek-trial-of",
     "date":"2026-04-12"
   },
   {
     "question":"Will the upcoming documentary \"Finding Satoshi\" actually find Satoshi?",
-    "probability":0.08,
+    "probability":0.18,
     "link":"https:\/\/manifold.markets\/Dssc\/will-the-upcoming-documentary-findi",
     "date":"2026-04-12"
   },
   {
     "question":"Did Tetraspace use foreign labor to sandbag her 70lb fly-chest attempt?",
-    "probability":0.54,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/georgehQzR\/did-tetraspace-use-foreign-labor-to",
     "date":"2026-04-12"
   },
   {
     "question":"Will there be a data leak of personal information sent to Roblox's age verification system before 2027?",
-    "probability":0.82,
+    "probability":0.88,
     "link":"https:\/\/manifold.markets\/RealityGame\/will-there-be-a-data-leak-of-person",
     "date":"2026-04-12"
   },
   {
     "question":"Will Samuel Alito leave Supreme Court in 2026?",
-    "probability":0.21,
+    "probability":0.36,
     "link":"https:\/\/manifold.markets\/AnonUser\/will-samuel-alito-leave-supreme-cou",
     "date":"2026-04-12"
   },
   {
     "question":"Will Hunter Biden fight Donald Trump Jr or Eric Trump in 2026?",
-    "probability":0.06,
+    "probability":0.18,
     "link":"https:\/\/manifold.markets\/Jack1\/will-hunter-biden-fight-donald-trum",
     "date":"2026-04-12"
   },
   {
     "question":"Will either Dianna Russini or Mike Vrabel (or either of their spouses) file for divorce this year?",
-    "probability":0.76,
+    "probability":0.8,
     "link":"https:\/\/manifold.markets\/Qq\/will-either-dianna-russini-or-mike",
     "date":"2026-04-12"
   },
   {
     "question":"Will I get a refund on my US tax return",
-    "probability":0.92,
+    "probability":0.95,
     "link":"https:\/\/manifold.markets\/ArtimisFowl\/will-i-get-a-refund-on-my-us-tax-re",
     "date":"2026-04-12"
   },
   {
     "question":"Will The Super Mario Galaxy Movie drop 50% or less in its second domestic weekend?",
-    "probability":0.48,
+    "probability":0.38,
     "link":"https:\/\/manifold.markets\/ShaneBo\/will-the-super-mario-galaxy-movie-d",
     "date":"2026-04-12"
   },
   {
     "question":"Will there be a separate, second ceasefire in the America \/ Iran war in 2026?",
-    "probability":0.07,
+    "probability":0.2,
     "link":"https:\/\/manifold.markets\/Panfilo\/will-there-be-a-separate-second-cea",
     "date":"2026-04-12"
   },
   {
     "question":"Will iDenfy leak user identification data by 2027-12-31?",
-    "probability":0.31,
+    "probability":0.36,
     "link":"https:\/\/manifold.markets\/EvanDaniel\/will-idenfy-leak-user-identificatio",
     "date":"2026-04-12"
   },
   {
     "question":"Will a publicly known AI model achieve an 80% time horizon of 3 weeks by  April 2027?",
-    "probability":0.84,
+    "probability":0.89,
     "link":"https:\/\/manifold.markets\/Blocksterpen3\/will-a-publicly-known-ai-model-achi-c2N9zZdL50",
     "date":"2026-04-12"
   },
   {
     "question":"Will Delcy Rodr\u00edguez increase Venezuela's minimum wage above 40,000 VES by May 1st, 2026?",
-    "probability":0.78,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/ElCaneloVZLA\/will-delcy-rodriguez-increase-venez",
     "date":"2026-04-12"
   },
   {
     "question":"Will Apple release a new iMac before July 1, 2026?",
-    "probability":0.57,
+    "probability":0.75,
     "link":"https:\/\/manifold.markets\/Edvard\/will-apple-release-a-new-imac-befor",
     "date":"2026-04-12"
   },
   {
     "question":"Will Aleph Alpha and Cohere merge in 2026?",
-    "probability":0.61,
+    "probability":0.74,
     "link":"https:\/\/manifold.markets\/Simon74fe\/will-aleph-alpha-and-cohere-merge-i",
     "date":"2026-04-12"
   },
   {
     "question":"Will a named tropical cyclone make landfall in Delaware, Maryland, or Virginia between June 1 and November 30?",
-    "probability":0.75,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/PMattW\/will-a-named-tropical-cyclone-make",
     "date":"2026-04-12"
   },
   {
     "question":"Will manifolders think that the ID verification for new users should be reversed?",
-    "probability":0.07,
+    "probability":0.2,
     "link":"https:\/\/manifold.markets\/100Anonymous\/will-manifolders-think-that-the-id",
     "date":"2026-04-12"
   },
   {
     "question":"Will \"Do not be surprised if LessWrong gets hacked\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.55,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-do-not-be-surprised-if-lesswro",
     "date":"2026-04-12"
   },
   {
     "question":"UFC 328: Chimaev win against Strickland?\n ",
-    "probability":0.91,
+    "probability":0.94,
     "link":"https:\/\/manifold.markets\/MarcoMar\/ufc-328-chimaev-vs-strickland",
     "date":"2026-04-12"
   },
   {
     "question":"Will the Lakers advance past the first round of the 2026 NBA Playoffs?",
-    "probability":0.79,
+    "probability":0.84,
     "link":"https:\/\/manifold.markets\/pythia\/will-the-lakers-advance-past-the-fi",
     "date":"2026-04-12"
   },
   {
     "question":"Will the next Minecraft April Fools' Version feature a change to the hotbar or one or more dimensions?",
-    "probability":0.76,
+    "probability":0.84,
     "link":"https:\/\/manifold.markets\/MollTheCoder\/will-the-next-minecraft-april-fools",
     "date":"2026-04-12"
   },
   {
     "question":"Will Trump be excommunicated by Pope Leo XIV in 2026?",
-    "probability":0.08,
+    "probability":0.17,
     "link":"https:\/\/manifold.markets\/ShascoLaugs\/will-trump-be-excommunicated-by-pop",
     "date":"2026-04-12"
   },
   {
     "question":"Will there be any new driver on podium in F1 Miami Grand Prix race, other than those who were on the podium during 2026?",
-    "probability":0.84,
+    "probability":0.89,
     "link":"https:\/\/manifold.markets\/whotookmycup\/will-there-be-any-new-driver-on-pod",
     "date":"2026-04-12"
   },
   {
     "question":"Will I pass all 3 of my A-Levels this year?",
-    "probability":0.91,
+    "probability":0.94,
     "link":"https:\/\/manifold.markets\/AryangRRgN\/will-i-pass-all-3-of-my-alevels-thi",
     "date":"2026-04-12"
   },
   {
     "question":"Will a individual-directed ransomware campaign materially harm 100k people by 9 April 2027?",
-    "probability":0.07,
+    "probability":0.2,
     "link":"https:\/\/manifold.markets\/distbit\/will-an-individualised-ransomware-c",
     "date":"2026-04-12"
   },
   {
     "question":"will I be in masters league in every season in 2026?",
-    "probability":0.52,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/brod\/will-i-be-in-masters-league-in-ever",
     "date":"2026-04-12"
   },
   {
     "question":"Do you think Sabrina Carpenter\u2019s \u201cHouse Tour (Official Video)\u201d will cross 20M YouTube views before April 2026 ends?",
-    "probability":0.48,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/SuryaVino\/do-you-think-sabrina-carpenters-hou",
     "date":"2026-04-12"
   },
   {
     "question":"Will I appear on TBPN in 2026?",
-    "probability":0.04,
+    "probability":0.08,
     "link":"https:\/\/manifold.markets\/SG\/will-i-appear-on-tbpn-in-2026",
     "date":"2026-04-12"
   },
   {
     "question":"Will Max Verstappen race in 2028?",
-    "probability":0.56,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/Fedor\/will-max-verstappen-race-in-2028",
     "date":"2026-04-12"
   },
   {
     "question":"Will MNX hit $100m in volume 2026?",
-    "probability":0.06,
+    "probability":0.19,
     "link":"https:\/\/manifold.markets\/SG\/will-mnx-hit-100m-in-volume-2026",
     "date":"2026-04-12"
   },
   {
     "question":"Will MNX have $1m in volume before September 2026?",
-    "probability":0.04,
+    "probability":0.19,
     "link":"https:\/\/manifold.markets\/SG\/will-mnx-have-1m-in-volume-before-s",
     "date":"2026-04-12"
   },
   {
     "question":"Will the ID verification requirement for new users be reversed?",
-    "probability":0.04,
+    "probability":0.18,
     "link":"https:\/\/manifold.markets\/xjp\/will-the-id-verification-requiremen",
     "date":"2026-04-12"
   },
   {
     "question":"will my company allow me to work remote?",
-    "probability":0.88,
+    "probability":0.93,
     "link":"https:\/\/manifold.markets\/eeeeee\/will-my-company-allow-me-to-work-re",
     "date":"2026-04-12"
   },
   {
     "question":"Will the HappyHorse-1.0 weights become publicly available before EOY 2026?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/ShankarSivarajan\/will-the-happyhorse10-weights-becom",
     "date":"2026-04-12"
   },
   {
     "question":"Will \"The effects of caffeine consumption do not de...\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-the-effects-of-caffeine-consum",
     "date":"2026-04-12"
   },
   {
     "question":"Will I win a prize in the prize drawing?",
-    "probability":0.92,
+    "probability":0.95,
     "link":"https:\/\/manifold.markets\/Jack1\/will-i-win-a-prize-in-the-prize-dra",
     "date":"2026-04-12"
   },
   {
     "question":"Will there be a second Manifold Prize Drawing in 2026?",
-    "probability":0.05,
+    "probability":0.17,
     "link":"https:\/\/manifold.markets\/PlasmaPower\/will-there-be-a-second-manifold-pri",
     "date":"2026-04-12"
   },
   {
     "question":"Will Javokhir Sindarov break the record for most points in the FIDE candidates tournament?",
-    "probability":0.56,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/FrankJiang\/will-javokhir-sindarov-break-the-re",
     "date":"2026-04-12"
   },
   {
     "question":"Will Argentina's March 2026 inflation exceed 3%?",
-    "probability":0.21,
+    "probability":0.36,
     "link":"https:\/\/manifold.markets\/CaliforniaGaucha\/will-argentinas-march-2026-inflatio",
     "date":"2026-04-12"
   },
   {
     "question":"Will Claude surpass ChatGPT in monthly active users by end of 2026?",
-    "probability":0.78,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/CaliforniaGaucha\/will-claude-surpass-chatgpt-in-mont",
     "date":"2026-04-12"
   },
   {
     "question":"goog ath april?",
-    "probability":0.89,
+    "probability":0.88,
     "link":"https:\/\/manifold.markets\/jim\/goog-ath-april",
     "date":"2026-04-12"
   },
   {
     "question":"Will the current US x Iran ceasefire hold?",
-    "probability":0.09,
+    "probability":0.19,
     "link":"https:\/\/manifold.markets\/Mochi\/will-the-current-us-x-iran-ceasefir",
     "date":"2026-04-12"
   },
   {
     "question":"Will the US government functionally seize control of Anthropic by EOY2027?",
-    "probability":0.53,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-the-us-government-functionally",
     "date":"2026-04-12"
   },
   {
     "question":"Will https:\/\/clawinstitute.aiscientist.tools\/ still exist by EOY2026?",
-    "probability":0.73,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-httpsclawinstituteaiscientistt",
     "date":"2026-04-12"
   },
   {
     "question":"Who will win: Arsenal or Sporting Lisboa?",
-    "probability":0.09,
+    "probability":0.19,
     "link":"https:\/\/manifold.markets\/HotPotato\/who-will-win-psg-or-liverpool",
     "date":"2026-04-12"
   },
   {
     "question":"\"Will Orion (AI EdTech Startup) reach a $1B 'Unicorn' valuation by end of December 31, 2028?\"",
-    "probability":0.53,
+    "probability":0.66,
     "link":"https:\/\/manifold.markets\/ECSTASYFIRE\/will-orion-ai-edtech-startup-reach",
     "date":"2026-04-12"
   },
   {
     "question":"Will I judge that trump has TACO'd again before the end of 2026?",
-    "probability":0.82,
+    "probability":0.87,
     "link":"https:\/\/manifold.markets\/agi202something\/will-i-judge-that-trump-has-tacod-a",
     "date":"2026-04-12"
   },
   {
     "question":"\u0429\u0435 \u0438\u0437\u043f\u043b\u0438\u0441\u043a\u0430 \u043b\u0438 \u043b\u0435\u0433\u0435\u043d\u0430 \u0421\u0442\u043e\u044f\u043d \u041a\u043e\u043b\u0435\u0432",
-    "probability":0.82,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/KokiDroga\/-sRsyCRLqI6",
     "date":"2026-04-12"
   },
   {
     "question":"Will The Devil Wears Prada 2 debut with a Rotten Tomatoes Critic Score > 75%?",
-    "probability":0.68,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/ShaneBo\/will-the-devil-wears-prada-2-debut",
     "date":"2026-04-12"
   },
   {
     "question":"Will The Mandalorian and Grogu (May 22) beat The Super Mario Galaxy Movie\u2019s $130.9M opening weekend?",
-    "probability":0.48,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/ShaneBo\/will-the-mandalorian-and-grogu-may",
     "date":"2026-04-12"
   },
   {
     "question":"Will Apple's foldable iPhone be called 'iPhone Ultra'?",
-    "probability":0.2,
+    "probability":0.35,
     "link":"https:\/\/manifold.markets\/Edvard\/will-apples-foldable-iphone-be-call",
     "date":"2026-04-12"
   },
   {
     "question":"Will Wizzrobe ever win another Major? (Melee)",
-    "probability":0.83,
+    "probability":0.9,
     "link":"https:\/\/manifold.markets\/Tumbles\/will-wizzrobe-ever-win-another-majo-2PyhOdARCy",
     "date":"2026-04-12"
   },
   {
     "question":"Will there be any kinetic action between India and Pakistan by the end of May 2026?",
-    "probability":0.24,
+    "probability":0.4,
     "link":"https:\/\/manifold.markets\/subhamsingh\/will-there-be-any-kinetic-action-be",
     "date":"2026-04-12"
   },
   {
     "question":"Any Canadian federal MPs floor-cross in the next year?",
-    "probability":0.32,
+    "probability":0.31,
     "link":"https:\/\/manifold.markets\/Seanny123\/any-federal-mps-floorcross-in-the-n-zSpc2SOO9c",
     "date":"2026-04-12"
   },
   {
     "question":"Will \"Project Hail Mary\" receive more Oscar nominations than \"Dune: Part Three\"?",
-    "probability":0.07,
+    "probability":0.2,
     "link":"https:\/\/manifold.markets\/Ziddletwix\/will-project-hail-mary-receive-more",
     "date":"2026-04-12"
   },
   {
     "question":"Will China's MOFCOM samarium export controls be actively in force on June 30, 2026?",
-    "probability":0.55,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-chinas-mofcom-samarium-export-29NUzC2c6s",
     "date":"2026-04-12"
   },
   {
     "question":"Will China's MOFCOM samarium export controls be actively in force on June 30, 2027?",
-    "probability":0.82,
+    "probability":0.88,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-chinas-mofcom-samarium-export-qROt05s02Z",
     "date":"2026-04-12"
   },
   {
     "question":"Will Ucore's Alaska Strategic Metals Complex be producing Sm2O3 at commercial scale on June 30, 2028?",
-    "probability":0.76,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-ucores-alaska-strategic-metals-C8SdLzpL5E",
     "date":"2026-04-12"
   },
   {
     "question":"Will Ucore's Alaska Strategic Metals Complex be producing Sm2O3 at commercial scale on December 31, 2027?",
-    "probability":0.82,
+    "probability":0.88,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-ucores-alaska-strategic-metals-2hy2UOtZQh",
     "date":"2026-04-12"
   },
   {
     "question":"Will Ucore's Alaska Strategic Metals Complex be producing Sm2O3 at commercial scale on June 30, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-ucores-alaska-strategic-metals",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 500 USD\/kg on December 31, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-55AIQlhpR6",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 300 USD\/kg on December 31, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-IphlRgyszd",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 150 USD\/kg on December 31, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-nPyO9ll8Rd",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 500 USD\/kg on September 30, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-q655L2QsRz",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 150 USD\/kg on September 30, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-sS9tUSlEC5",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 500 USD\/kg on June 30, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-LIItz6CdLu",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 300 USD\/kg on September 30, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-n5LUEgEnUt",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 300 USD\/kg on June 30, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-nzQcU9NUsU",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 300 USD\/kg on March 31, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-N6pznc6s6P",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 150 USD\/kg on June 30, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-IyS0S95q8R",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 500 USD\/kg on March 31, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-ZIpdUddn8c",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 150 USD\/kg on March 31, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-AlzgQhZNZQ",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 500 USD\/kg on December 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-5g26szqI8E",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 300 USD\/kg on December 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-UUz56059A5",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 150 USD\/kg on December 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-cLyLlA0qRP",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 500 USD\/kg on September 30, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-U0ERUUCgyE",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 150 USD\/kg on September 30, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester-QqA6ALlCO6",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2Co17 sintered magnet (Western) commercial price exceed 300 USD\/kg on September 30, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2co17-sintered-magnet-wester",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 25 USD\/kg on December 31, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-9pqRc20Ryt",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 17 USD\/kg on December 31, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-uQp8ynRINc",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 12 USD\/kg on December 31, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-cllSzlON20",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 25 USD\/kg on September 30, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-NqSZZsSUEC",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 17 USD\/kg on September 30, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-sqpupAPu8S",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 12 USD\/kg on September 30, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-ZZUntSRCPA",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 25 USD\/kg on June 30, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-00Rc8pC5UI",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 17 USD\/kg on June 30, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-65IQZIzc9A",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 12 USD\/kg on June 30, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-pdPszNA5R6",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 25 USD\/kg on March 31, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-slOpUpqNtZ",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 12 USD\/kg on March 31, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-tSZQ65ZS0l",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 25 USD\/kg on December 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-EZsNtZRqU5",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 17 USD\/kg on March 31, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-s6gqSlgLuR",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 17 USD\/kg on December 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-2ILqOSLCLp",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 12 USD\/kg on December 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-0dsuzqs9gn",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 25 USD\/kg on October 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-L2uIdRzPIc",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 17 USD\/kg on October 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-ALS00SChZp",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 12 USD\/kg on October 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-zSIE582yAh",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 25 USD\/kg on September 30, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-IQCZAs0sZE",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 17 USD\/kg on September 30, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-R0EEQs9hsu",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 12 USD\/kg on September 30, 2026?",
-    "probability":0.82,
+    "probability":0.88,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-009hnq2t9P",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 25 USD\/kg on August 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-CcgqyZqzp9",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 25 USD\/kg on July 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-sdZI0yt9RN",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 12 USD\/kg on August 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-Ezz59yA5q2",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 17 USD\/kg on August 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-ptqgNn0ctA",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 17 USD\/kg on July 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-AznRN6uLyO",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 25 USD\/kg on June 30, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-Eqduz6uZh2",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 12 USD\/kg on July 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-OLLP6I0l6E",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 17 USD\/kg on June 30, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-gyQh6pA9QQ",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 12 USD\/kg on June 30, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-IIqRd65ANL",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 25 USD\/kg on May 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-QE2SyONSAh",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 17 USD\/kg on May 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp-P8ZtlczCdp",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm2O3 Western (CIF Rotterdam) spot price exceed 12 USD\/kg on May 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm2o3-western-cif-rotterdam-sp",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 50 USD\/kg on December 31, 2027?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-tUlgdzOcAZ",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 100 USD\/kg on December 31, 2027?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-zduCgtQ0hp",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 200 USD\/kg on December 31, 2027?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-NcqZtI2LdQ",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 50 USD\/kg on September 30, 2027?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-PQLOtR9NE9",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 200 USD\/kg on September 30, 2027?",
-    "probability":0.81,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-2OqzQpANZZ",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 100 USD\/kg on September 30, 2027?",
-    "probability":0.81,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-y9QZEqS0tI",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 50 USD\/kg on June 30, 2027?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-EERCyOctqU",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 200 USD\/kg on June 30, 2027?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-Z6cpugg6pp",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 100 USD\/kg on June 30, 2027?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-9EAlC9tyqp",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 200 USD\/kg on March 31, 2027?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-C6dRE9pCzR",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 50 USD\/kg on March 31, 2027?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-As9Ns8ch0l",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 100 USD\/kg on March 31, 2027?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-Q2hOspgLd0",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 50 USD\/kg on December 31, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-9CNLQ6yssq",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 100 USD\/kg on December 31, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-zdcAZlP2Cy",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 200 USD\/kg on December 31, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-SuqAy9Sgdp",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 50 USD\/kg on October 31, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-EtUptz9dcP",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 200 USD\/kg on October 31, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-UugEny0tpp",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 50 USD\/kg on September 30, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-lR2Al6UAsS",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 100 USD\/kg on October 31, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-UUp8ZuAq2Q",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 200 USD\/kg on September 30, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-QtN2P8ZSA6",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 100 USD\/kg on September 30, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-66568nh5hd",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 200 USD\/kg on August 31, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-ycPqdOyqnq",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 50 USD\/kg on August 31, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-0R8NyugsZ9",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 100 USD\/kg on August 31, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-dqA5ung8Ry",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 50 USD\/kg on July 31, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-PO22py9EUU",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 200 USD\/kg on July 31, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-OQsy0l5n6c",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 100 USD\/kg on July 31, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-UyA6UzpPAc",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 50 USD\/kg on June 30, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-Zyq9LUNtlU",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 200 USD\/kg on June 30, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-USPPgyhqzL",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 100 USD\/kg on June 30, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-dZ0qZRStO9",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 50 USD\/kg on May 31, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-Ct0s9QN5gd",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 200 USD\/kg on May 31, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex-600OCLPpCL",
     "date":"2026-04-12"
   },
   {
     "question":"Will Sm metal (Western) spot price exceed 100 USD\/kg on May 31, 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-sm-metal-western-spot-price-ex",
     "date":"2026-04-12"
   },
   {
     "question":"Will Lockheed Martin deliver more than 190 F-35 aircraft in 2029?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-lockheed-martin-deliver-more-t-lqlgR9hs5S",
     "date":"2026-04-12"
   },
   {
     "question":"Will Lockheed Martin deliver more than 155 F-35 aircraft in 2029?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-lockheed-martin-deliver-more-t-AQ2lgNAq9P",
     "date":"2026-04-12"
   },
   {
     "question":"Will Lockheed Martin deliver more than 120 F-35 aircraft in 2029?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-lockheed-martin-deliver-more-t-5cphu6CZCn",
     "date":"2026-04-12"
   },
   {
     "question":"Will Lockheed Martin deliver more than 190 F-35 aircraft in 2028?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-lockheed-martin-deliver-more-t-2yLlE5gEn0",
     "date":"2026-04-12"
   },
   {
     "question":"Will Lockheed Martin deliver more than 120 F-35 aircraft in 2028?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-lockheed-martin-deliver-more-t-U90pz8gcCL",
     "date":"2026-04-12"
   },
   {
     "question":"Will Lockheed Martin deliver more than 155 F-35 aircraft in 2028?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-lockheed-martin-deliver-more-t-QAPdy9zA2u",
     "date":"2026-04-12"
   },
   {
     "question":"Will Lockheed Martin deliver more than 190 F-35 aircraft in 2027?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-lockheed-martin-deliver-more-t-USpqs90ZLA",
     "date":"2026-04-12"
   },
   {
     "question":"Will Lockheed Martin deliver more than 155 F-35 aircraft in 2027?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-lockheed-martin-deliver-more-t-9UEO8u2Eq8",
     "date":"2026-04-12"
   },
   {
     "question":"Will Lockheed Martin deliver more than 120 F-35 aircraft in 2027?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-lockheed-martin-deliver-more-t-IqCCpp6Eyt",
     "date":"2026-04-12"
   },
   {
     "question":"Will Lockheed Martin deliver more than 190 F-35 aircraft in 2026?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-lockheed-martin-deliver-more-t-ggRCqgElQC",
     "date":"2026-04-12"
   },
   {
     "question":"Will Lockheed Martin deliver more than 155 F-35 aircraft in 2026?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-lockheed-martin-deliver-more-t-ZI2huCdIlE",
     "date":"2026-04-12"
   },
   {
     "question":"Will Lockheed Martin deliver more than 120 F-35 aircraft in 2026?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-lockheed-martin-deliver-more-t-NqpshCR2N6",
     "date":"2026-04-12"
   },
   {
     "question":"Will Energy Fuels White Mesa Sm2O3 production exceed 5 tonnes in 2029?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-energy-fuels-white-mesa-sm2o3-tROndCO28c",
     "date":"2026-04-12"
   },
   {
     "question":"Will Energy Fuels White Mesa Sm2O3 production exceed 20 tonnes in 2029?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-energy-fuels-white-mesa-sm2o3-82hAdOsEcU",
     "date":"2026-04-12"
   },
   {
     "question":"Will Energy Fuels White Mesa Sm2O3 production exceed 12 tonnes in 2029?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-energy-fuels-white-mesa-sm2o3-p8lIInO68P",
     "date":"2026-04-12"
   },
   {
     "question":"Will Energy Fuels White Mesa Sm2O3 production exceed 5 tonnes in 2028?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-energy-fuels-white-mesa-sm2o3-5NI28hqhqc",
     "date":"2026-04-12"
   },
   {
     "question":"Will Energy Fuels White Mesa Sm2O3 production exceed 20 tonnes in 2028?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-energy-fuels-white-mesa-sm2o3-0AQzORnRcC",
     "date":"2026-04-12"
   },
   {
     "question":"Will Energy Fuels White Mesa Sm2O3 production exceed 12 tonnes in 2028?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-energy-fuels-white-mesa-sm2o3-dE6L228Cht",
     "date":"2026-04-12"
   },
   {
     "question":"Will Energy Fuels White Mesa Sm2O3 production exceed 5 tonnes in 2027?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-energy-fuels-white-mesa-sm2o3-ltUAEgdUtU",
     "date":"2026-04-12"
   },
   {
     "question":"Will Energy Fuels White Mesa Sm2O3 production exceed 20 tonnes in 2027?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-energy-fuels-white-mesa-sm2o3-nLphCOCyEd",
     "date":"2026-04-12"
   },
   {
     "question":"Will Energy Fuels White Mesa Sm2O3 production exceed 12 tonnes in 2027?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-energy-fuels-white-mesa-sm2o3-ulPqQERlyg",
     "date":"2026-04-12"
   },
   {
     "question":"Will Energy Fuels White Mesa Sm2O3 production exceed 12 tonnes in 2026?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-energy-fuels-white-mesa-sm2o3-CySAlsd2dn",
     "date":"2026-04-12"
   },
   {
     "question":"Will Energy Fuels White Mesa Sm2O3 production exceed 5 tonnes in 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-energy-fuels-white-mesa-sm2o3-6ly8u0zh52",
     "date":"2026-04-12"
   },
   {
     "question":"Will Energy Fuels White Mesa Sm2O3 production exceed 20 tonnes in 2026?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-energy-fuels-white-mesa-sm2o3",
     "date":"2026-04-12"
   },
   {
     "question":"Will China October 2027 Sm2O3 export volume exceed 80 tonnes?",
-    "probability":0.81,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-october-2027-sm2o3-expor-RhPpcO8UR2",
     "date":"2026-04-12"
   },
   {
     "question":"Will China October 2027 Sm2O3 export volume exceed 50 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-october-2027-sm2o3-expor-S9A6RpgEgz",
     "date":"2026-04-12"
   },
   {
     "question":"Will China July 2027 Sm2O3 export volume exceed 80 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-july-2027-sm2o3-export-v-zhdN6IOE2Q",
     "date":"2026-04-12"
   },
   {
     "question":"Will China October 2027 Sm2O3 export volume exceed 20 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-october-2027-sm2o3-expor",
     "date":"2026-04-12"
   },
   {
     "question":"Will China July 2027 Sm2O3 export volume exceed 50 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-july-2027-sm2o3-export-v-dNE5czONpP",
     "date":"2026-04-12"
   },
   {
     "question":"Will China April 2027 Sm2O3 export volume exceed 50 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-april-2027-sm2o3-export-z9CugIPn6O",
     "date":"2026-04-12"
   },
   {
     "question":"Will China July 2027 Sm2O3 export volume exceed 20 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-july-2027-sm2o3-export-v",
     "date":"2026-04-12"
   },
   {
     "question":"Will China April 2027 Sm2O3 export volume exceed 80 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-april-2027-sm2o3-export-cypPdE2R0C",
     "date":"2026-04-12"
   },
   {
     "question":"Will China April 2027 Sm2O3 export volume exceed 20 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-april-2027-sm2o3-export",
     "date":"2026-04-12"
   },
   {
     "question":"Will China January 2027 Sm2O3 export volume exceed 50 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-january-2027-sm2o3-expor-LUAzyLIlPZ",
     "date":"2026-04-12"
   },
   {
     "question":"Will China January 2027 Sm2O3 export volume exceed 80 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-january-2027-sm2o3-expor-PcgqRnQnOI",
     "date":"2026-04-12"
   },
   {
     "question":"Will China October 2026 Sm2O3 export volume exceed 80 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-october-2026-sm2o3-expor-yCyAgC2IAL",
     "date":"2026-04-12"
   },
   {
     "question":"Will China January 2027 Sm2O3 export volume exceed 20 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-january-2027-sm2o3-expor",
     "date":"2026-04-12"
   },
   {
     "question":"Will China October 2026 Sm2O3 export volume exceed 20 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-october-2026-sm2o3-expor-2n9Qyu05NS",
     "date":"2026-04-12"
   },
   {
     "question":"Will China October 2026 Sm2O3 export volume exceed 50 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-october-2026-sm2o3-expor",
     "date":"2026-04-12"
   },
   {
     "question":"Will China August 2026 Sm2O3 export volume exceed 80 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-august-2026-sm2o3-export-O2RgQ9Ph8C",
     "date":"2026-04-12"
   },
   {
     "question":"Will China August 2026 Sm2O3 export volume exceed 50 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-august-2026-sm2o3-export-hA5g8Ss82g",
     "date":"2026-04-12"
   },
   {
     "question":"Will China August 2026 Sm2O3 export volume exceed 20 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-august-2026-sm2o3-export",
     "date":"2026-04-12"
   },
   {
     "question":"Will China July 2026 Sm2O3 export volume exceed 80 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-july-2026-sm2o3-export-v-S6hItnnNsP",
     "date":"2026-04-12"
   },
   {
     "question":"Will China July 2026 Sm2O3 export volume exceed 50 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-july-2026-sm2o3-export-v-zRCLyZPIEd",
     "date":"2026-04-12"
   },
   {
     "question":"Will China July 2026 Sm2O3 export volume exceed 20 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-july-2026-sm2o3-export-v",
     "date":"2026-04-12"
   },
   {
     "question":"Will China June 2026 Sm2O3 export volume exceed 80 tonnes?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-june-2026-sm2o3-export-v-Nyz2ggpRyL",
     "date":"2026-04-12"
   },
   {
     "question":"Will China June 2026 Sm2O3 export volume exceed 50 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-june-2026-sm2o3-export-v-Ip08CEznng",
     "date":"2026-04-12"
   },
   {
     "question":"Will China June 2026 Sm2O3 export volume exceed 20 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-june-2026-sm2o3-export-v",
     "date":"2026-04-12"
   },
   {
     "question":"Will China May 2026 Sm2O3 export volume exceed 80 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-may-2026-sm2o3-export-vo-Ct2LSpz60A",
     "date":"2026-04-12"
   },
   {
     "question":"Will China May 2026 Sm2O3 export volume exceed 50 tonnes?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-may-2026-sm2o3-export-vo-U6hylOICO8",
     "date":"2026-04-12"
   },
   {
     "question":"Will China May 2026 Sm2O3 export volume exceed 20 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-may-2026-sm2o3-export-vo",
     "date":"2026-04-12"
   },
   {
     "question":"Will China April 2026 Sm2O3 export volume exceed 80 tonnes?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-april-2026-sm2o3-export-dO8UthQNLQ",
     "date":"2026-04-12"
   },
   {
     "question":"Will China April 2026 Sm2O3 export volume exceed 50 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-april-2026-sm2o3-export-NISzRh2nZl",
     "date":"2026-04-12"
   },
   {
     "question":"Will China April 2026 Sm2O3 export volume exceed 20 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-april-2026-sm2o3-export",
     "date":"2026-04-12"
   },
   {
     "question":"Will China March 2026 Sm2O3 export volume exceed 80 tonnes?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-march-2026-sm2o3-export-Cc8l9PuAqp",
     "date":"2026-04-12"
   },
   {
     "question":"Will China March 2026 Sm2O3 export volume exceed 50 tonnes?",
-    "probability":0.8,
+    "probability":0.86,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-march-2026-sm2o3-export-qRsRnR92uR",
     "date":"2026-04-12"
   },
   {
     "question":"Will China March 2026 Sm2O3 export volume exceed 20 tonnes?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-china-march-2026-sm2o3-export",
     "date":"2026-04-12"
   },
   {
     "question":"Will China's MOFCOM samarium export controls be actively in force on December 31, 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-chinas-mofcom-samarium-export-lA6szIPcZE",
     "date":"2026-04-12"
   },
   {
     "question":"Will China's MOFCOM samarium export controls be actively in force on December 31, 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-chinas-mofcom-samarium-export",
     "date":"2026-04-12"
   },
   {
     "question":"\u4f0a\u6717\u8fd9\u4e2a\u6708\u4f1a\u5b8c\u5168\u5f00\u653e\u970d\u5c14\u6728\u5179\u6d77\u5ce1\u5417\uff1f",
-    "probability":0.93,
+    "probability":0.95,
     "link":"https:\/\/manifold.markets\/alpmoon\/-CCUn9zRtLs",
     "date":"2026-04-12"
   },
   {
     "question":"\u4f0a\u6717\u63d0\u51fa\u7684\u505c\u6218\u5341\u6761\u7f8e\u56fd\u4f1a\u63a5\u53d7\u5417\uff1f",
-    "probability":0.45,
+    "probability":0.4,
     "link":"https:\/\/manifold.markets\/alpmoon\/-5PUC5655Nc",
     "date":"2026-04-12"
   },
   {
     "question":"Will Hollywood release an Iran F-15E rescue mission movie by the end of 2029?",
-    "probability":0.55,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/yasir\/will-hollywood-release-an-iran-f15e",
     "date":"2026-04-12"
   },
   {
     "question":"Will \"My picture of the present in AI\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.84,
+    "probability":0.89,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-my-picture-of-the-present-in-a",
     "date":"2026-04-12"
   },
   {
     "question":"Will Donald Trump Die before 2027",
-    "probability":0.07,
+    "probability":0.18,
     "link":"https:\/\/manifold.markets\/AlbanGonzalezPetit\/will-donald-trump-die-before-2027",
     "date":"2026-04-12"
   },
   {
     "question":"LUCK8",
-    "probability":0.94,
+    "probability":0.95,
     "link":"https:\/\/manifold.markets\/LUCK8tNzE\/luck8-2Z6gSsOlAL",
     "date":"2026-04-12"
   },
   {
     "question":"Hegseth, Patel, or RFK is out within the next 90 days",
-    "probability":0.05,
+    "probability":0.17,
     "link":"https:\/\/manifold.markets\/TheWabiSabi\/hegseth-patel-or-rfk-is-out-within-LRUCtl0Rhg",
     "date":"2026-04-12"
   },
   {
     "question":"Ben Roberts-Smith found guilty of war crimes before 2028?",
-    "probability":0.32,
+    "probability":0.31,
     "link":"https:\/\/manifold.markets\/brod\/ben-robertssmith-found-guilty-of-wa",
     "date":"2026-04-12"
   },
   {
     "question":"Will Comcast\/Xfinity partner with Project Glasswing by EOY2027?",
-    "probability":0.82,
+    "probability":0.87,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-comcastxfinity-partner-with-pr",
     "date":"2026-04-12"
   },
   {
     "question":"Will KMT Chair Cheng Li-wun meet in person with Donald Trump before 2027?",
-    "probability":0.68,
+    "probability":0.78,
     "link":"https:\/\/manifold.markets\/JoshuaWilkes\/will-kmt-chair-cheng-liwun-meet-in",
     "date":"2026-04-12"
   },
   {
     "question":"will I make FNCS",
-    "probability":0.61,
+    "probability":0.71,
     "link":"https:\/\/manifold.markets\/aaark\/will-i-make-fncs",
     "date":"2026-04-12"
   },
   {
     "question":"S&p500 all time high close in April?",
-    "probability":0.21,
+    "probability":0.36,
     "link":"https:\/\/manifold.markets\/Jack1\/sp500-all-time-high-close-in-april",
     "date":"2026-04-12"
   },
   {
     "question":"Will ceasefire between US and Iran hold the two weeks announced by Trump ?",
-    "probability":0.08,
+    "probability":0.18,
     "link":"https:\/\/manifold.markets\/GP\/will-ceasefire-between-us-and-iran",
     "date":"2026-04-12"
   },
   {
     "question":"Will the next nuclear bomb end a worldwide conflict, or be the beginning of one?",
-    "probability":0.84,
+    "probability":0.89,
     "link":"https:\/\/manifold.markets\/researching\/will-the-next-nuclear-bomb-end-a-wo",
     "date":"2026-04-12"
   },
   {
     "question":"Will SpaceX IPA by the end of 2026?",
-    "probability":0.89,
+    "probability":0.93,
     "link":"https:\/\/manifold.markets\/realDonaldTrump\/will-spacex-ipa-by-the-end-of-2026",
     "date":"2026-04-12"
   },
   {
     "question":"Iran charges \"Strait of Hormuz fees\" on June 1?",
-    "probability":0.09,
+    "probability":0.19,
     "link":"https:\/\/manifold.markets\/Ziddletwix\/iran-charges-strait-of-hormuz-fees",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium net import reliance exceed 82% in the year ending December 2029?",
-    "probability":0.82,
+    "probability":0.88,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-net-import-reliance-OUOIOP9Sl8",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium net import reliance exceed 72% in the year ending December 2029?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-net-import-reliance-dtP8q9QLph",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium net import reliance exceed 62% in the year ending December 2029?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-net-import-reliance-gsZO2Z8tpZ",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium net import reliance exceed 82% in the year ending December 2028?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-net-import-reliance-8pNA0Lhght",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium net import reliance exceed 72% in the year ending December 2028?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-net-import-reliance-2sNOUIIyCy",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium net import reliance exceed 62% in the year ending December 2028?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-net-import-reliance-58RCtnLczh",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium net import reliance exceed 82% in the year ending December 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-net-import-reliance-zuhE9ECqzU",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium net import reliance exceed 72% in the year ending December 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-net-import-reliance-uqACzOqtzy",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium net import reliance exceed 62% in the year ending December 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-net-import-reliance-5ZIync2OdL",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium net import reliance exceed 82% in the year ending December 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-net-import-reliance-OSzq5N0Egl",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium net import reliance exceed 72% in the year ending December 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-net-import-reliance-UPUEE0UchR",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium net import reliance exceed 62% in the year ending December 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-net-import-reliance",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium apparent consumption exceed 48 thousand kg in the year ending December 2029?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-apparent-consumptio-ZtUgLO0N6Z",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium apparent consumption exceed 35 thousand kg in the year ending December 2029?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-apparent-consumptio-Uu65nOlO2q",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium apparent consumption exceed 25 thousand kg in the year ending December 2029?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-apparent-consumptio-O0A9QO0OCu",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium apparent consumption exceed 48 thousand kg in the year ending December 2028?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-apparent-consumptio-u6zzRIhNPz",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium apparent consumption exceed 35 thousand kg in the year ending December 2028?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-apparent-consumptio-RN9ydth59S",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium apparent consumption exceed 25 thousand kg in the year ending December 2028?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-apparent-consumptio-LngSCqq8Us",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium apparent consumption exceed 48 thousand kg in the year ending December 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-apparent-consumptio-nchApRugQq",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium apparent consumption exceed 35 thousand kg in the year ending December 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-apparent-consumptio-Uy5ln0qgRn",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium apparent consumption exceed 25 thousand kg in the year ending December 2027?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-apparent-consumptio-hZyzCh5nLs",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium apparent consumption exceed 48 thousand kg in the year ending December 2026?",
-    "probability":0.73,
+    "probability":0.84,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-apparent-consumptio-2gs2U8zPzg",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium apparent consumption exceed 35 thousand kg in the year ending December 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-apparent-consumptio-plURRRP68E",
     "date":"2026-04-12"
   },
   {
     "question":"Will US rhenium apparent consumption exceed 25 thousand kg in the year ending December 2026?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-us-rhenium-apparent-consumptio",
     "date":"2026-04-12"
   },
   {
     "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 8000 USD\/kg on March 31, 2028?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-IphlSq8A0U",
     "date":"2026-04-12"
   },
   {
     "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 5000 USD\/kg on March 31, 2028?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-2cPht8ZyLd",
     "date":"2026-04-12"
   },
   {
     "question":"Will global primary rhenium production exceed 95 thousand kg in the year ending December 2029?",
-    "probability":0.82,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/MikhailTal\/will-global-primary-rhenium-product-EusngzZszp",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 5000 USD\/kg on March 31, 2028?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-hzn288z6EC",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will global primary rhenium production exceed 82 thousand kg in the year ending December 2029?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-global-primary-rhenium-product-NQyLzPPlRl",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 2500 USD\/kg on March 31, 2028?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-NhOtNOI6EN",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will global primary rhenium production exceed 70 thousand kg in the year ending December 2029?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-global-primary-rhenium-product-6lnIyPCu6l",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 8000 USD\/kg on December 31, 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-sqAgOcC9hg",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 8000 USD\/kg on December 31, 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-UcE5uSZzSI",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will global primary rhenium production exceed 95 thousand kg in the year ending December 2028?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-global-primary-rhenium-product-sUnSl2QLdg",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will global primary rhenium production exceed 82 thousand kg in the year ending December 2028?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-global-primary-rhenium-product-ndlnpRpcOy",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 5000 USD\/kg on December 31, 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-6UINdyhARl",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 2500 USD\/kg on December 31, 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-NnS58LO9ES",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 2500 USD\/kg on December 31, 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-82cLZddpSy",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will global primary rhenium production exceed 70 thousand kg in the year ending December 2028?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-global-primary-rhenium-product-ZnqtqnRQzu",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 8000 USD\/kg on September 30, 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-09dq92NquE",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 5000 USD\/kg on September 30, 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-ChRqn2tQt9",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will global primary rhenium production exceed 95 thousand kg in the year ending December 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-global-primary-rhenium-product-sQcQ6p0QEy",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 5000 USD\/kg on September 30, 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-Q6tLplR2np",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will global primary rhenium production exceed 82 thousand kg in the year ending December 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-global-primary-rhenium-product-9O5gNqn9L2",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will global primary rhenium production exceed 70 thousand kg in the year ending December 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-global-primary-rhenium-product-z2pCqsENER",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 2500 USD\/kg on September 30, 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-dOupgSZSnZ",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 8000 USD\/kg on June 30, 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-tggLqunSEA",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will global primary rhenium production exceed 95 thousand kg in the year ending December 2026?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-global-primary-rhenium-product-uzpQUsuQhO",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 8000 USD\/kg on June 30, 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-C5y5tOzSE8",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will global primary rhenium production exceed 82 thousand kg in the year ending December 2026?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-global-primary-rhenium-product-6NlOz8qQPn",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 5000 USD\/kg on June 30, 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-2cEdZzssUN",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 2500 USD\/kg on June 30, 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-NQuAtgdzdy",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will global primary rhenium production exceed 70 thousand kg in the year ending December 2026?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-global-primary-rhenium-product",
-    "date":"2026-04-12"
-  },
-  {
-    "question":"Will APR (ammonium perrhenate) Rotterdam price exceed 8000 USD\/kg on March 31, 2027?",
-    "probability":0.82,
-    "link":"https:\/\/manifold.markets\/MikhailTal\/will-apr-ammonium-perrhenate-rotter-II2hn2y0l9",
     "date":"2026-04-12"
   }
 ]
