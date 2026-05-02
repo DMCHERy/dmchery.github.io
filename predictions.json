@@ -1,13 +1,19 @@
 [
   {
+    "question":"Will \"How Go Players Disempower Themselves to AI\" make the top fifty posts in LessWrong's 2026 Annual Review?",
+    "probability":0.7,
+    "link":"https:\/\/manifold.markets\/LessWrong\/will-how-go-players-disempower-them",
+    "date":"2026-05-02"
+  },
+  {
     "question":"Will I get an AI lab offer?",
-    "probability":0.44,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/perfperfperf\/will-i-get-an-ai-lab-offer",
     "date":"2026-05-02"
   },
   {
     "question":"Will USD strengthen against EUR in the next 24h?",
-    "probability":0.33,
+    "probability":0.37,
     "link":"https:\/\/manifold.markets\/JDVance1\/will-usd-strengthen-against-eur-in-sZdstnuSS8",
     "date":"2026-05-02"
   },
@@ -19,13 +25,13 @@
   },
   {
     "question":"Will I get kicked out of the singing workshop tomorrow",
-    "probability":0.48,
+    "probability":0.35,
     "link":"https:\/\/manifold.markets\/typeofemale\/will-i-get-kicked-out-of-the-singin",
     "date":"2026-05-02"
   },
   {
     "question":"Will Iran's food stockpile run out within 3 months?",
-    "probability":0.55,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/AlexMiller3a5e\/will-irans-food-stockpile-run-out-w",
     "date":"2026-05-02"
   },
@@ -37,7 +43,7 @@
   },
   {
     "question":"XQC plays RLcraft again before June?",
-    "probability":0.55,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/jzAQhRq\/xqc-plays-rlcraft-again-before-june",
     "date":"2026-05-02"
   },
@@ -49,13 +55,13 @@
   },
   {
     "question":"Will \"The Devil Wears Prada 2\" gross  greater than $102.5M in its domestic opening weekend?",
-    "probability":0.52,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/ShaneBo\/will-the-devil-wears-prada-2-gross",
     "date":"2026-05-02"
   },
   {
     "question":"Will the WTI Crude Oil Spot Price be above $100 on May 11, 2026?",
-    "probability":0.57,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/ShaneBo\/will-the-wti-crude-oil-spot-price-b-uQc5l8UgUI",
     "date":"2026-05-02"
   },
@@ -67,7 +73,7 @@
   },
   {
     "question":"D\u00e4il\u00ff C\u00f6in Flip - Day 010",
-    "probability":0.35,
+    "probability":0.31,
     "link":"https:\/\/manifold.markets\/Velaris\/daily-coin-flip-day-010",
     "date":"2026-05-02"
   },
@@ -127,7 +133,7 @@
   },
   {
     "question":"Anthropic announces dedicated \"Operon\" tool for bio\/health\/other research before June 1, 2026",
-    "probability":0.67,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/JacobBrooke\/anthropic-announces-dedicated-opero",
     "date":"2026-05-02"
   },
@@ -157,19 +163,19 @@
   },
   {
     "question":"Bitcoin $69K in May?",
-    "probability":0.45,
+    "probability":0.46,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-69k-in-may",
     "date":"2026-05-02"
   },
   {
     "question":"Bitcoin $67K in May?",
-    "probability":0.44,
+    "probability":0.46,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-67k-in-may",
     "date":"2026-05-02"
   },
   {
     "question":"Bitcoin $65K in May?",
-    "probability":0.65,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-65k-in-may",
     "date":"2026-05-02"
   },
@@ -187,7 +193,7 @@
   },
   {
     "question":"Bitcoin $80K in May?",
-    "probability":0.64,
+    "probability":0.61,
     "link":"https:\/\/manifold.markets\/predyx_markets\/bitcoin-80k-in-may",
     "date":"2026-05-02"
   },
@@ -199,13 +205,13 @@
   },
   {
     "question":"Will the S&P500 be within 1% of all time high at the end of May 2026?",
-    "probability":0.84,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/Magnify\/will-the-sp500-be-within-1-of-all-t-cSs0lsLNqz",
     "date":"2026-05-02"
   },
   {
     "question":"Will I get 90%+ in all my courses this semester?",
-    "probability":0.45,
+    "probability":0.43,
     "link":"https:\/\/manifold.markets\/Dssc\/will-i-get-90-in-all-my-courses-thi",
     "date":"2026-05-02"
   },
@@ -283,7 +289,7 @@
   },
   {
     "question":"Will Kamala announce a run in 2028",
-    "probability":0.7,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/RCain\/will-kamala-announce-a-run-in-2028",
     "date":"2026-05-02"
   },
@@ -313,7 +319,7 @@
   },
   {
     "question":"If the PM after the next election is Conservative, will hitting children be banned in England within 5 years?",
-    "probability":0.75,
+    "probability":0.79,
     "link":"https:\/\/manifold.markets\/Tetraspace\/if-the-pm-after-the-next-election-i-8dAAONQS8y",
     "date":"2026-05-02"
   },
@@ -361,7 +367,7 @@
   },
   {
     "question":"Will Mr. Beast run a red button vs. blue button video by the end of the year?",
-    "probability":0.59,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/IsaacKing\/will-mr-beast-run-a-red-button-vs-b",
     "date":"2026-05-02"
   },
@@ -475,7 +481,7 @@
   },
   {
     "question":"Will the US and Iran sign a formal end-of-war agreement by August 31, 2026?",
-    "probability":0.68,
+    "probability":0.8,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-the-us-and-iran-sign-a-formal",
     "date":"2026-05-02"
   },
@@ -655,7 +661,7 @@
   },
   {
     "question":"Will any driver classified in the top 8 of the F1 2026 Miami Sprint make at least one pit stop during the Sprint?",
-    "probability":0.7,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/whotookmycup\/will-any-driver-classified-in-the-t",
     "date":"2026-05-02"
   },
@@ -763,7 +769,7 @@
   },
   {
     "question":"Will the 2026 Kentucky Derby have a close finish?",
-    "probability":0.81,
+    "probability":0.87,
     "link":"https:\/\/manifold.markets\/Zeolite\/will-the-2026-kentucky-derby-have-a",
     "date":"2026-05-02"
   },
@@ -1141,7 +1147,7 @@
   },
   {
     "question":"California Voter ID ballot proposition passes?",
-    "probability":0.59,
+    "probability":0.91,
     "link":"https:\/\/manifold.markets\/Jack1\/california-voter-id-ballot-proposit",
     "date":"2026-05-02"
   },
@@ -1245,24 +1251,6 @@
     "question":"Will I receive my manifold markets t-shirt?",
     "probability":0.9,
     "link":"https:\/\/manifold.markets\/Kire_\/will-i-receive-my-manifold-markets",
-    "date":"2026-05-02"
-  },
-  {
-    "question":"Will Putin attend the G20 Summit in the US in 2026?",
-    "probability":0.88,
-    "link":"https:\/\/manifold.markets\/JoshuaWilkes\/will-putin-attend-the-g20-summit-in-huRR9Z2U6n",
-    "date":"2026-05-02"
-  },
-  {
-    "question":"Will Ben Yan experience AI psychosis in 2026?",
-    "probability":0.51,
-    "link":"https:\/\/manifold.markets\/xTimeCrystal\/will-ben-yan-experience-ai-psychosi",
-    "date":"2026-05-02"
-  },
-  {
-    "question":"Did Niki Minaj get a gold card?",
-    "probability":0.45,
-    "link":"https:\/\/manifold.markets\/HillaryClinton\/did-niki-minaj-get-a-gold-card",
     "date":"2026-05-02"
   }
 ]
