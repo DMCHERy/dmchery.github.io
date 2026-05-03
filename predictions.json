@@ -1,55 +1,67 @@
 [
   {
+    "question":"By the end of 2028, will the lowest cost way to generate AI compute be in space?",
+    "probability":0.59,
+    "link":"https:\/\/manifold.markets\/perfperfperf\/by-the-end-of-2028-will-the-lowest",
+    "date":"2026-05-03"
+  },
+  {
+    "question":"Will SPY be above 720.65 on market close May 8th?",
+    "probability":0.54,
+    "link":"https:\/\/manifold.markets\/kamn\/will-spy-be-above-72065-on-market-c",
+    "date":"2026-05-03"
+  },
+  {
     "question":"Will I stay in masters this season?",
-    "probability":0.64,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/Jack1\/will-i-stay-in-masters-this-season",
     "date":"2026-05-03"
   },
   {
     "question":"Will Tucker Carlson and Graham Platner meet before election day?",
-    "probability":0.63,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/Jack1\/will-tucker-carlson-and-graham-plat",
     "date":"2026-05-03"
   },
   {
     "question":"Will HackerNews #1 story score go up in 24h?",
-    "probability":0.43,
+    "probability":0.61,
     "link":"https:\/\/manifold.markets\/JDVance1\/will-hackernews-1-story-score-go-up-RtyCPOPCOg",
     "date":"2026-05-03"
   },
   {
     "question":"Free Lottery (Pierre Auger Observatory)",
-    "probability":0.63,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/ttoe\/free-lottery-pierre-auger-observato",
     "date":"2026-05-03"
   },
   {
     "question":"Is my number squarefree?",
-    "probability":0.83,
+    "probability":0.81,
     "link":"https:\/\/manifold.markets\/jatloe\/is-my-number-squarefree",
     "date":"2026-05-03"
   },
   {
     "question":"Will the 2026 Kentucky Derby winner, Golden Tempo win another race?",
-    "probability":0.52,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/Jack1\/will-the-2026-kentucky-derby-winner",
     "date":"2026-05-03"
   },
   {
     "question":"Will the YSWS review queue be cleared after midnight EST?",
-    "probability":0.52,
+    "probability":0.43,
     "link":"https:\/\/manifold.markets\/AGQp8q\/will-the-ysws-review-queue-be-clear",
     "date":"2026-05-03"
   },
   {
     "question":"Will SBF get back into crypto after being released?",
-    "probability":0.72,
+    "probability":0.75,
     "link":"https:\/\/manifold.markets\/realDonaldTrump\/will-sbf-get-back-into-crypto-after",
     "date":"2026-05-03"
   },
   {
     "question":"Will I pay any money to Manifold during 2026 for something in the site?",
-    "probability":0.8,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/realDonaldTrump\/will-i-pay-any-money-to-manifold-du",
     "date":"2026-05-03"
   },
@@ -61,13 +73,13 @@
   },
   {
     "question":"Pat Gelsinger's bet: Wavelength below 13.5nm (EUV) used in lithography before April 2036?",
-    "probability":0.54,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/adonisds\/pat-gelsingers-bet-wavelength-below",
     "date":"2026-05-03"
   },
   {
     "question":"D\u00e4il\u00ff C\u00f6in Flip - Day 845",
-    "probability":0.86,
+    "probability":0.95,
     "link":"https:\/\/manifold.markets\/Velaris\/daily-coin-flip-day-845",
     "date":"2026-05-03"
   },
@@ -79,7 +91,7 @@
   },
   {
     "question":"Will the US complete withdrawal of 5,000+ troops from Germany by August 31, 2026?",
-    "probability":0.78,
+    "probability":0.89,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-the-us-complete-withdrawal-of",
     "date":"2026-05-03"
   },
@@ -169,7 +181,7 @@
   },
   {
     "question":"Will \"The Devil Wears Prada 2\" gross  greater than $102.5M in its domestic opening weekend?",
-    "probability":0.53,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/ShaneBo\/will-the-devil-wears-prada-2-gross",
     "date":"2026-05-03"
   },
@@ -187,7 +199,7 @@
   },
   {
     "question":"Trump announces US blockade of Hormuz lifted by May 31? [Polymarket]",
-    "probability":0.89,
+    "probability":0.88,
     "link":"https:\/\/manifold.markets\/vdb\/trump-announces-us-blockade-of-horm-czz952EPtU",
     "date":"2026-05-03"
   },
@@ -367,7 +379,7 @@
   },
   {
     "question":"Will a Chinese airline announce a purchase of at least 25 Boeing aircraft before June?",
-    "probability":0.6,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/JoshuaWilkes\/will-a-chinese-airline-announce-a-p-NR26dt5ZpE",
     "date":"2026-05-03"
   },
@@ -691,7 +703,7 @@
   },
   {
     "question":"Will Cyprus join the Schengen Area by December 31, 2026?",
-    "probability":0.58,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/AndreiRpZ62\/will-cyprus-join-the-schengen-area-Z6SO9AyNZs",
     "date":"2026-05-03"
   },
@@ -1203,36 +1215,6 @@
     "question":"A new entrant (not in top 100) on arena.ai enters top 50 before EOY 2027?",
     "probability":0.65,
     "link":"https:\/\/manifold.markets\/ShankarSivarajan\/a-new-entrant-not-in-top-100-on-are",
-    "date":"2026-05-03"
-  },
-  {
-    "question":"If OpenAI goes public before 2028, will I consider their claimed ARR revenue figures to be misleading?",
-    "probability":0.49,
-    "link":"https:\/\/manifold.markets\/JaundicedBaboon\/if-openai-goes-public-before-2028-w",
-    "date":"2026-05-03"
-  },
-  {
-    "question":"Title:Will a Kessler Syndrome cascade begin in Low Earth Orbit before 2046?",
-    "probability":0.81,
-    "link":"https:\/\/manifold.markets\/debris2045\/titlewill-a-kessler-syndrome-cascad",
-    "date":"2026-05-03"
-  },
-  {
-    "question":"Will semiconductors outperform the S&P 500 in 2026?",
-    "probability":0.55,
-    "link":"https:\/\/manifold.markets\/Bayesian\/will-semiconductors-outperform-the",
-    "date":"2026-05-03"
-  },
-  {
-    "question":"California Voter ID ballot proposition passes?",
-    "probability":0.92,
-    "link":"https:\/\/manifold.markets\/Jack1\/california-voter-id-ballot-proposit",
-    "date":"2026-05-03"
-  },
-  {
-    "question":"Will Manifold be mentioned by exact name in the Zizian docuseries on HBO?",
-    "probability":0.8,
-    "link":"https:\/\/manifold.markets\/strutheo\/will-manifold-be-mentioned-by-exact",
     "date":"2026-05-03"
   }
 ]

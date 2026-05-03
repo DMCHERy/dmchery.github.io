@@ -1,25 +1,27 @@
 questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,date,predicted_prob_yes
-35,555.0,3,29.866587060185186,0.5,0u0LdllyhO,Will I stay in masters this season?,https://manifold.markets/Jack1/will-i-stay-in-masters-this-season,2026-05-03,0.64
-64,10.0,1,183.86804136574074,0.5,z8PERIuEnl,Will Tucker Carlson and Graham Platner meet before election day?,https://manifold.markets/Jack1/will-tucker-carlson-and-graham-plat,2026-05-03,0.63
-44,0.0,0,0.9999910416666666,0.5,6sI5gn8C9E,Will HackerNews #1 story score go up in 24h?,https://manifold.markets/JDVance1/will-hackernews-1-story-score-go-up-RtyCPOPCOg,2026-05-03,0.43
-39,44.00000000000513,3,0.9985748263888888,0.5,tczP8t6ZNN,Free Lottery (Pierre Auger Observatory),https://manifold.markets/ttoe/free-lottery-pierre-auger-observato,2026-05-03,0.63
-24,171.28341068079342,7,6.995524282407407,0.5,y9NhzRtzdc,Is my number squarefree?,https://manifold.markets/jatloe/is-my-number-squarefree,2026-05-03,0.83
-67,425.0,2,242.96221215277777,0.5,EO6cQ0Q0zZ,"Will the 2026 Kentucky Derby winner, Golden Tempo win another race?",https://manifold.markets/Jack1/will-the-2026-kentucky-derby-winner,2026-05-03,0.52
-57,355.62680894298194,7,0.9777494444444444,0.5,nqsSZgOtdO,Will the YSWS review queue be cleared after midnight EST?,https://manifold.markets/AGQp8q/will-the-ysws-review-queue-be-clear,2026-05-03,0.52
-51,40.0,3,27027.99973025463,0.5,UldCq2Zt60,Will SBF get back into crypto after being released?,https://manifold.markets/realDonaldTrump/will-sbf-get-back-into-crypto-after,2026-05-03,0.72
-71,115.0,2,243.0112579050926,0.5,yShUyRnlIl,Will I pay any money to Manifold during 2026 for something in the site?,https://manifold.markets/realDonaldTrump/will-i-pay-any-money-to-manifold-du,2026-05-03,0.8
-85,1084.0,3,243.0687213310185,0.5,0AZZqcUlgt,Will the Experience Machines substack post 2+ times a month for the rest of the year?,https://manifold.markets/Rodeo/will-the-experience-machines-substa-PqzP9sNId2,2026-05-03,0.34
-89,18.0,1,3621.070051736111,0.5,PN6Up9pInZ,Pat Gelsinger's bet: Wavelength below 13.5nm (EUV) used in lithography before April 2036?,https://manifold.markets/adonisds/pat-gelsingers-bet-wavelength-below,2026-05-03,0.54
-25,65.92337426587073,3,0.9992311921296296,0.5,8I2NPIgl6O,Däilÿ Cöin Flip - Day 845,https://manifold.markets/Velaris/daily-coin-flip-day-845,2026-05-03,0.86
+80,1.0,1,973.6714842708334,0.5,pO92suhhLP,"By the end of 2028, will the lowest cost way to generate AI compute be in space?",https://manifold.markets/perfperfperf/by-the-end-of-2028-will-the-lowest,2026-05-03,0.59
+49,1.0,1,5.448121689814815,0.5,zsZP2QzqEq,Will SPY be above 720.65 on market close May 8th?,https://manifold.markets/kamn/will-spy-be-above-72065-on-market-c,2026-05-03,0.54
+35,1307.0,7,29.866587060185186,0.5,0u0LdllyhO,Will I stay in masters this season?,https://manifold.markets/Jack1/will-i-stay-in-masters-this-season,2026-05-03,0.65
+64,31.0,3,183.86804136574074,0.5,z8PERIuEnl,Will Tucker Carlson and Graham Platner meet before election day?,https://manifold.markets/Jack1/will-tucker-carlson-and-graham-plat,2026-05-03,0.67
+44,51.0,2,0.9999910416666666,0.5,6sI5gn8C9E,Will HackerNews #1 story score go up in 24h?,https://manifold.markets/JDVance1/will-hackernews-1-story-score-go-up-RtyCPOPCOg,2026-05-03,0.61
+39,48.00000000000786,6,0.9985748263888888,0.5,tczP8t6ZNN,Free Lottery (Pierre Auger Observatory),https://manifold.markets/ttoe/free-lottery-pierre-auger-observato,2026-05-03,0.68
+24,191.28341068079342,8,6.995524282407407,0.5,y9NhzRtzdc,Is my number squarefree?,https://manifold.markets/jatloe/is-my-number-squarefree,2026-05-03,0.81
+67,426.0,3,242.96221215277777,0.5,EO6cQ0Q0zZ,"Will the 2026 Kentucky Derby winner, Golden Tempo win another race?",https://manifold.markets/Jack1/will-the-2026-kentucky-derby-winner,2026-05-03,0.51
+57,365.62680894298194,8,0.9777494444444444,0.5,nqsSZgOtdO,Will the YSWS review queue be cleared after midnight EST?,https://manifold.markets/AGQp8q/will-the-ysws-review-queue-be-clear,2026-05-03,0.43
+51,41.0,4,27027.99973025463,0.5,UldCq2Zt60,Will SBF get back into crypto after being released?,https://manifold.markets/realDonaldTrump/will-sbf-get-back-into-crypto-after,2026-05-03,0.75
+71,117.08,4,243.0112579050926,0.5,yShUyRnlIl,Will I pay any money to Manifold during 2026 for something in the site?,https://manifold.markets/realDonaldTrump/will-i-pay-any-money-to-manifold-du,2026-05-03,0.83
+85,1085.0,4,243.0687213310185,0.5,0AZZqcUlgt,Will the Experience Machines substack post 2+ times a month for the rest of the year?,https://manifold.markets/Rodeo/will-the-experience-machines-substa-PqzP9sNId2,2026-05-03,0.34
+89,19.0,2,3621.070051736111,0.5,PN6Up9pInZ,Pat Gelsinger's bet: Wavelength below 13.5nm (EUV) used in lithography before April 2036?,https://manifold.markets/adonisds/pat-gelsingers-bet-wavelength-below,2026-05-03,0.57
+25,75.92167595306819,7,0.9992311921296296,0.5,8I2NPIgl6O,Däilÿ Cöin Flip - Day 845,https://manifold.markets/Velaris/daily-coin-flip-day-845,2026-05-03,0.95
 96,160.0,3,90.11702230324074,0.5,yLz2dSRd52,"Will Iran physically hand over its 'nuclear dust' / enriched uranium stockpile by July 31, 2026?",https://manifold.markets/CalibratedGhosts/will-iran-physically-hand-over-its,2026-05-03,0.56
-81,88.56423774443743,5,121.11702502314814,0.5,L8pQ9cczqy,"Will the US complete withdrawal of 5,000+ troops from Germany by August 31, 2026?",https://manifold.markets/CalibratedGhosts/will-the-us-complete-withdrawal-of,2026-05-03,0.78
+81,108.56423774443743,6,121.11702502314814,0.5,L8pQ9cczqy,"Will the US complete withdrawal of 5,000+ troops from Germany by August 31, 2026?",https://manifold.markets/CalibratedGhosts/will-the-us-complete-withdrawal-of,2026-05-03,0.89
 70,224.91,5,90.11702988425925,0.5,y9LtCAyQOO,"Will Spirit Airlines complete shutdown of operations by July 31, 2026?",https://manifold.markets/CalibratedGhosts/will-spirit-airlines-complete-shutd,2026-05-03,0.61
 32,6.0,2,2435.2153475578702,0.5,Nt2lgIuZRA,Will Israel attack Iraq in 2032?,https://manifold.markets/NickAllenPANp/will-israel-attack-iraq-in-2032,2026-05-03,0.71
 94,51.0,3,3530.3347270601853,0.5,OQOpLLLIAz,"Will there be a new religious movement in the USA that achieves 10,000+ followers before 2036?",https://manifold.markets/JaundicedBaboon/will-there-be-a-new-religious-movem,2026-05-03,0.66
 62,64.0,4,7548.36302125,0.5,0Q5sRnzgRu,Will a rover from Earth land on the moon Ganymede by EOY 2046?,https://manifold.markets/EliG/will-a-rover-from-earth-land-on-the-0hZ6LCPsdC,2026-05-03,0.83
 55,124.78286379477993,9,6.431947384259259,0.5,UInnscSunp,"Will Brent Crude Oil close above $115 on May 8th, 2026?",https://manifold.markets/arnv/will-brent-crude-oil-close-above-11-Atq9clgnRS,2026-05-03,0.8
 32,6.0,2,2069.4598993055556,0.5,cUy2nh2lA8,Will Israel attack Iraq in 2031?,https://manifold.markets/NickAllenPANp/will-israel-attack-iraq-in-2031,2026-05-03,0.71
-49,312.7202497842587,13,21.54498121527778,0.5,sqzst6tsld,Will Claude Sonnet 4.8 be released before May 24?,https://manifold.markets/Edvard/will-claude-sonnet-48-be-released-b,2026-05-03,0.78
+49,331.5431197618672,14,21.54498121527778,0.5,sqzst6tsld,Will Claude Sonnet 4.8 be released before May 24?,https://manifold.markets/Edvard/will-claude-sonnet-48-be-released-b,2026-05-03,0.78
 83,151.0,6,2069.6211929166666,0.5,0g2dst90SU,Will there be a publicly explicated Scientific Theory of Deep Learning before 2032?,https://manifold.markets/AdamK/will-there-be-a-publicly-explicated,2026-05-03,0.79
 109,707.1393911458108,8,639.7291259375,0.5,nR3DkyivzF,"Will ""How Go Players Disempower Themselves to AI"" make the top fifty posts in LessWrong's 2026 Annual Review?",https://manifold.markets/LessWrong/will-how-go-players-disempower-them,2026-05-03,0.34
 27,80.99999999999994,6,244.04076373842594,0.5,lN5CzlyEhh,Will I get an AI lab offer?,https://manifold.markets/perfperfperf/will-i-get-an-ai-lab-offer,2026-05-03,0.92
@@ -27,10 +29,10 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 53,260.0,5,244.02031064814815,0.5,QNOsusnC2L,Will Mexico's real GDP grow by at least 1.4% in 2026?,https://manifold.markets/MiguelSanchezB/will-mexicos-real-gdp-grow-by-at-le,2026-05-03,0.55
 36,64.0,3,30.09327542824074,0.5,ZhQqAdlUtp,XQC plays RLcraft again before June?,https://manifold.markets/jzAQhRq/xqc-plays-rlcraft-again-before-june,2026-05-03,0.76
 49,5.0,1,30.094397766203702,0.5,lp66ztPpLh,Will Mr. Wengel give Arjun Harkar an A in AP Euro,https://manifold.markets/shlok/will-mr-wengel-give-arjun-harkar-an,2026-05-03,0.56
-91,5102.336189043207,8,2.998090775462963,0.5,PIUt9ZNlqN,"Will ""The Devil Wears Prada 2"" gross  greater than $102.5M in its domestic opening weekend?",https://manifold.markets/ShaneBo/will-the-devil-wears-prada-2-gross,2026-05-03,0.53
+91,9602.336189043206,9,2.998090775462963,0.5,PIUt9ZNlqN,"Will ""The Devil Wears Prada 2"" gross  greater than $102.5M in its domestic opening weekend?",https://manifold.markets/ShaneBo/will-the-devil-wears-prada-2-gross,2026-05-03,0.62
 64,489.0,9,9.214399178240742,0.5,APzUZNUS8I,"Will the WTI Crude Oil Spot Price be above $100 on May 11, 2026?",https://manifold.markets/ShaneBo/will-the-wti-crude-oil-spot-price-b-uQc5l8UgUI,2026-05-03,0.6
 69,162.0,3,71466.22622962962,0.5,PQPczN9R9t,Will the face of Jose Luis Ricon be minted on a physical coin by 2222,https://manifold.markets/AutopoieticErgodicity/will-the-face-of-jose-luis-ricon-be,2026-05-03,0.7
-68,994.7345799783952,20,30.297896655092593,0.5,EgPqNEQq89,Trump announces US blockade of Hormuz lifted by May 31? [Polymarket],https://manifold.markets/vdb/trump-announces-us-blockade-of-horm-czz952EPtU,2026-05-03,0.89
+68,1148.0210611456314,23,30.297896655092593,0.5,EgPqNEQq89,Trump announces US blockade of Hormuz lifted by May 31? [Polymarket],https://manifold.markets/vdb/trump-announces-us-blockade-of-horm-czz952EPtU,2026-05-03,0.88
 116,56.32933654776491,7,2436.041473391204,0.5,O8Lq5PupOI,Will codex or Claude code be shown to mass deleting someone's hard drive if it suspects biorisk or illegal activity?,https://manifold.markets/AutopoieticErgodicity/will-codex-or-claude-code-be-shown,2026-05-03,0.73
 44,48.19672227231827,3,26906.997096574076,0.5,AhcLR5ClNs,Will Couriway finish his 100k run challenge?,https://manifold.markets/RaymondChristopherTanto/will-couriway-finish-his-100k-run-c,2026-05-03,0.73
 73,130.90981151524215,7,30.35049033564815,0.5,cy5EQutZNg,Will I restrict my food-buying behaviour in line with this market in May?,https://manifold.markets/redcat/will-i-restrict-my-foodbuying-behav-np6ZI9lPnp,2026-05-03,0.88
@@ -49,9 +51,9 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 20,2214.719326669981,16,30.971646631944445,0.5,S8g9zQdL9g,Bitcoin $65K in May?,https://manifold.markets/predyx_markets/bitcoin-65k-in-may,2026-05-03,0.93
 20,483.604362562897,11,30.973365787037036,0.5,zASdLnIEzR,Bitcoin $84K in May?,https://manifold.markets/predyx_markets/bitcoin-84k-in-may,2026-05-03,0.86
 20,488.10782735316087,10,30.974699247685184,0.5,9PZUh08RA8,Bitcoin $82K in May?,https://manifold.markets/predyx_markets/bitcoin-82k-in-may,2026-05-03,0.81
-20,2916.877966426569,30,30.995188252314815,0.5,hhSC2Q5pAN,Bitcoin $80K in May?,https://manifold.markets/predyx_markets/bitcoin-80k-in-may,2026-05-03,0.94
+20,2931.877966426569,31,30.995188252314815,0.5,hhSC2Q5pAN,Bitcoin $80K in May?,https://manifold.markets/predyx_markets/bitcoin-80k-in-may,2026-05-03,0.94
 14,7087.329429112174,39,1.906027673611111,0.5,qOAn9UNISc,Daily Coinflip,https://manifold.markets/Traveel/daily-coinflip-y6CCCCct8P,2026-05-03,0.96
-69,274.7316354446139,16,30.752324467592594,0.5,qQ9zqIpnCl,Will the S&P500 be within 1% of all time high at the end of May 2026?,https://manifold.markets/Magnify/will-the-sp500-be-within-1-of-all-t-cSs0lsLNqz,2026-05-03,0.85
+69,284.7316354446139,16,30.752324467592594,0.5,qQ9zqIpnCl,Will the S&P500 be within 1% of all time high at the end of May 2026?,https://manifold.markets/Magnify/will-the-sp500-be-within-1-of-all-t-cSs0lsLNqz,2026-05-03,0.85
 48,234.0429824793198,7,30.757224918981482,0.5,O5APSScnRN,Will I get 90%+ in all my courses this semester?,https://manifold.markets/Dssc/will-i-get-90-in-all-my-courses-thi,2026-05-03,0.64
 100,2099.4911970382354,13,60.80633438657407,0.5,ul625Agy2E,"Will Network Ten (Australia), The Cheap Seats, mention Manifold Markets before the end of June 2026?",https://manifold.markets/Henry99406/will-network-ten-australia-the-chea,2026-05-03,0.84
 67,32.0,3,3531.850169513889,0.5,Ru2tzRRp26,Will a movie based on the game R.E.P.O. be released before EO 2035?,https://manifold.markets/HankyUSA/will-a-movie-based-on-the-game-repo,2026-05-03,0.67
@@ -59,12 +61,12 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 49,290.54568137539786,6,30.88538440972222,0.5,SQSdNnylEu,"S&P500 closes at 7,500.00 before End Of May 2026?",https://manifold.markets/Jack1/sp500-closes-at-750000-before-end-o,2026-05-03,0.69
 80,452.0,6,1705.9289169212964,0.5,5LdOtOdLP9,Will an AI system discover information theory from first principles before 2031?,https://manifold.markets/AdamK/will-an-ai-system-discover-informat,2026-05-03,0.56
 23,189.61387509038298,6,975.9891506712963,0.5,qZRnzEzt08,Will I make IMO in 2028,https://manifold.markets/ArjunS/will-i-make-imo-in-2028,2026-05-03,0.83
-50,3035.2394132142263,44,42.995814861111114,0.5,RRyLNl9AOp,Will MNX hire a backend developer before Manifest?,https://manifold.markets/ian/will-mnx-hire-a-backend-developer-b,2026-05-03,0.92
-86,216.4406381532377,9,31.071623738425927,0.5,ERyUOhRlN0,Will a Chinese airline announce a purchase of at least 25 Boeing aircraft before June?,https://manifold.markets/JoshuaWilkes/will-a-chinese-airline-announce-a-p-NR26dt5ZpE,2026-05-03,0.6
+50,3065.009980110316,44,42.995814861111114,0.5,RRyLNl9AOp,Will MNX hire a backend developer before Manifest?,https://manifold.markets/ian/will-mnx-hire-a-backend-developer-b,2026-05-03,0.92
+86,224.4406381532377,9,31.071623738425927,0.5,ERyUOhRlN0,Will a Chinese airline announce a purchase of at least 25 Boeing aircraft before June?,https://manifold.markets/JoshuaWilkes/will-a-chinese-airline-announce-a-p-NR26dt5ZpE,2026-05-03,0.57
 103,204.2658617489697,6,641.1061257175926,0.5,zWfaSnxM3n,"Will ""On today's panel with Bernie Sanders"" make the top fifty posts in LessWrong's 2026 Annual Review?",https://manifold.markets/LessWrong/will-on-todays-panel-with-bernie-sa,2026-05-03,0.66
 30,519.6077645944301,14,80.12095168981482,0.5,sddULhstUt,USA vs Iran in World Cup 2026?,https://manifold.markets/Facundo/usa-vs-iran-in-world-cup-2026,2026-05-03,0.89
-45,38319.20828017732,202,6.997429247685186,0.5,Cu662CORlh,"Red vs. Blue button (Free Mana, resolves N/A)",https://manifold.markets/vi/red-vs-blue-button-free-mana,2026-05-03,0.91
-72,3791.7074060833347,32,31.14711553240741,0.5,dlydgnEP59,Will US Average Gas Prices rise or fall 10 cents in one day in May 2026?,https://manifold.markets/Jack1/will-us-average-gas-prices-rise-or,2026-05-03,0.91
+45,38474.133794877955,202,6.997429247685186,0.5,Cu662CORlh,"Red vs. Blue button (Free Mana, resolves N/A)",https://manifold.markets/vi/red-vs-blue-button-free-mana,2026-05-03,0.91
+72,3841.7074060833347,32,31.14711553240741,0.5,dlydgnEP59,Will US Average Gas Prices rise or fall 10 cents in one day in May 2026?,https://manifold.markets/Jack1/will-us-average-gas-prices-rise-or,2026-05-03,0.91
 34,221.15469104757517,16,976.1737434375,0.5,80SCEh5tgO,Will Kamala announce a run in 2028,https://manifold.markets/RCain/will-kamala-announce-a-run-in-2028,2026-05-03,0.87
 52,688.8203791671119,18,1095.9987828819444,0.5,qyORlIznCR,Humanoid robot walking around me within three years?,https://manifold.markets/Bandors/humanoid-robot-walking-around-me-wi-QcypugynEd,2026-05-03,0.84
 51,2312.7329139762764,33,31.338379409722222,0.5,lqhq6OQQPp,Will US average gas price reach $4.690 in May 2026?,https://manifold.markets/vdb/will-us-average-gas-price-reach-469,2026-05-03,0.92
@@ -83,7 +85,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 80,4278.65974766646,31,9012.059212708333,0.5,SOUOIIh5Pp,Will a former pornstar become US president before China overtakes the US in GDP?,https://manifold.markets/Stralor/will-a-former-pornstar-become-us-pr,2026-05-03,0.89
 63,2186.998625916813,23,6.072802696759259,0.5,p2zNEhRSOC,"Arsenal vs Atletico, Champions League Semi Final Leg 2, May 5th",https://manifold.markets/Mochi/arsenal-vs-atletico-champions-leagu,2026-05-03,0.91
 58,61.0,5,62.085021168981484,0.5,OgnPORZEgs,Will Qwen 3.6+ 122B A10B be open weights before July 2026?,https://manifold.markets/NielsW/will-qwen-36-122b-a10b-be-open-weig,2026-05-03,0.84
-35,1080.780664026324,12,611.1979099537037,0.5,cRsLgp2Lpq,Will I qualify for the 2027 USA TST,https://manifold.markets/grins/will-i-qualify-for-the-2027-usa-tst,2026-05-03,0.9
+35,1086.2460310971219,12,611.1979099537037,0.5,cRsLgp2Lpq,Will I qualify for the 2027 USA TST,https://manifold.markets/grins/will-i-qualify-for-the-2027-usa-tst,2026-05-03,0.9
 115,266.0,4,642.2416572453703,0.5,FuauQjjbTC,"Will ""Not a Paper: ""Frontier Lab CEOs are Capable o..."" make the top fifty posts in LessWrong's 2026 Annual Review?",https://manifold.markets/LessWrong/will-not-a-paper-frontier-lab-ceos,2026-05-03,0.4
 64,95.05495819912564,9,7.254766053240741,0.5,A5UI62N2hq,"Bayern vs PSG, Champions League Semi Final Leg 2 6th May of 2026",https://manifold.markets/MoadFattali/bayern-vs-psg-champions-league-semi-OEqAqSdCtQ,2026-05-03,0.84
 68,70.73912102196603,8,1707.3036366435185,0.5,NlOlPgntqE,Will 50% or more of the Erdos problems be solved at the end of 2030?,https://manifold.markets/strutheo/will-50-or-more-of-the-erdos-proble,2026-05-03,0.85
@@ -114,7 +116,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 115,306.0,4,643.1847914583333,0.5,2WkeiYFT5p,"Will ""Quick Paper Review: ""There Will Be a Scientif..."" make the top fifty posts in LessWrong's 2026 Annual Review?",https://manifold.markets/LessWrong/will-quick-paper-review-there-will,2026-05-03,0.38
 33,249.64025232758917,10,978.1881978472222,0.5,SssgCOqczy,Artemis III launches before 2029?,https://manifold.markets/waitblock/artemis-iii-launches-before-2029,2026-05-03,0.79
 28,271.1965718990524,11,6.992029351851852,0.5,IsCNCnnzyu,Will I get hired by Walmart?,https://manifold.markets/Cvill/will-i-get-hired-by-walmart,2026-05-03,0.85
-56,250.77267373507945,8,247.23749912037036,0.5,A98nLnd5QU,"Will Cyprus join the Schengen Area by December 31, 2026?",https://manifold.markets/AndreiRpZ62/will-cyprus-join-the-schengen-area-Z6SO9AyNZs,2026-05-03,0.58
+56,263.5745768816595,9,247.23749912037036,0.5,A98nLnd5QU,"Will Cyprus join the Schengen Area by December 31, 2026?",https://manifold.markets/AndreiRpZ62/will-cyprus-join-the-schengen-area-Z6SO9AyNZs,2026-05-03,0.59
 52,58.0,4,13.997640486111111,0.5,dLZZRSOzI5,Will I finish my library takeouts before theyre due?,https://manifold.markets/No_uh/will-i-finish-my-library-takeouts-b,2026-05-03,0.76
 64,51.0,3,1344.0403708333333,0.5,6NLQNn85hz,Will Ineffable Intelligence release a paper or model before SSI?,https://manifold.markets/JaundicedBaboon/will-ineffable-intelligence-release,2026-05-03,0.79
 115,56.0,3,643.2703127199075,0.5,YSsp9x8qrB,"Will ""LessWrong Shows You Social Signals Before the..."" make the top fifty posts in LessWrong's 2026 Annual Review?",https://manifold.markets/LessWrong/will-lesswrong-shows-you-social-sig,2026-05-03,0.59
@@ -138,7 +140,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 43,411.21927897163715,22,18.187254710648148,0.5,CI6dz5p6ht,Will Caroline Ellison Attend Manifest 2026?,https://manifold.markets/ConnorTabarrok/will-caroline-ellison-attend-manife,2026-05-03,0.89
 30,3557.172328695652,11,613.0403927662037,0.5,2ZZcEZ6A5q,Will I solve an Erdos problem?,https://manifold.markets/spiderduckpig/will-i-solve-an-erdos-problem,2026-05-03,0.9
 117,72.99283464418902,4,248.04075204861113,0.5,g52LuLnInh,Will the Virginia Supreme Court uphold the April 21 redistricting referendum and overturn the Tazewell County ruling?,https://manifold.markets/szepvagy/will-the-virginia-supreme-court-uph,2026-05-03,0.61
-43,1351.0,13,190.25681844907407,0.5,AuLy2n9906,Florida Redistricting Before 2026 Midterms?,https://manifold.markets/archvenison/florida-redistricting-before-2026-m,2026-05-03,0.85
+43,1362.0,13,190.25681844907407,0.5,AuLy2n9906,Florida Redistricting Before 2026 Midterms?,https://manifold.markets/archvenison/florida-redistricting-before-2026-m,2026-05-03,0.85
 20,10246.821168124696,13,7.004108981481481,0.5,1wLY6p4Hy0,Do you like 4% odds?,https://manifold.markets/4fa/do-you-like-4-odds,2026-05-03,0.93
 42,127.36820025820687,6,41.30883017361111,0.5,cd8Cdq8R0S,Will Jannik Sinner win Roland Garros 2026?,https://manifold.markets/goldduck/will-jannik-sinner-win-roland-garro,2026-05-03,0.78
 68,41.0,2,64.33937693287037,0.5,IlNuhulg0u,"Will anyone find the fifth term of OEIS A390875 before July 1, 2026?",https://manifold.markets/Reed/will-anyone-find-the-fifth-term-of,2026-05-03,0.79
@@ -171,7 +173,7 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 52,166.8283925550535,8,6.9985566666666665,0.5,NOlc9PPpOd,Will I ban mobile devices from my bedroom next week?,https://manifold.markets/redcat/will-i-ban-mobile-devices-from-my-b-I2Cp90sUI0,2026-05-03,0.68
 58,113.99761123845478,6,6.952561087962963,0.5,pP5cRCIydZ,Will I leave the house before 11 a.m. every day next week?,https://manifold.markets/redcat/will-i-leave-the-house-before-11-am-5QlsC5LSgd,2026-05-03,0.94
 53,114.89252536501985,7,249.49469712962963,0.5,gCznC2Q0pP,Putin shakes hands with Trump at G20 Summit in Miami?,https://manifold.markets/Predictor/putin-shakes-hands-with-trump-at-g2,2026-05-03,0.85
-67,9383.018156172631,61,614.7580280439814,0.5,ht8PzcPAc2,LLM agent is able to reliably beat Slay the Spire 2 before EOY 2027,https://manifold.markets/Quillist/llm-agent-is-able-to-reliably-beat,2026-05-03,0.93
+67,9433.018156172631,61,614.7580280439814,0.5,ht8PzcPAc2,LLM agent is able to reliably beat Slay the Spire 2 before EOY 2027,https://manifold.markets/Quillist/llm-agent-is-able-to-reliably-beat,2026-05-03,0.93
 47,3858.8464237641856,41,364.99853712962965,0.5,5C0cPuPsNA,Humanoid robot walking around me within a year?,https://manifold.markets/Bandors/humanoid-robot-walking-around-me-wi,2026-05-03,0.93
 115,593.7188692944262,8,645.8433575925926,0.5,WCutvyr9rr,"Will ""Forecasting is Way Overrated, and We Should S..."" make the top fifty posts in LessWrong's 2026 Annual Review?",https://manifold.markets/LessWrong/will-forecasting-is-way-overrated-a,2026-05-03,0.42
 34,720.9864048045738,17,29.993411944444443,0.5,8nlcntpOzu,Was the shooter a Trump supporter?,https://manifold.markets/Grothenfla/was-the-shooter-a-trump-supporter,2026-05-03,0.92
@@ -195,13 +197,8 @@ questionLength,volume,numTraders,timeOpen,gpt_pos_confidence,id,question,link,da
 58,44.957403359266706,6,97.99977848379629,0.5,QO9pZuUt5Q,Will the Venom symbiote appear in Spider-man Brand New Day,https://manifold.markets/SteveDiggins/will-the-venom-symbiote-appear-in-s,2026-05-03,0.93
 88,291.92654687604227,18,250.70430966435185,0.5,uOE6z8qE6Q,"Will Gavin Newsom formally announce a 2028 presidential campaign before January 1, 2027?",https://manifold.markets/szepvagy/will-gavin-newsom-formally-announce,2026-05-03,0.78
 64,1189.2522241567417,8,371.99728055555556,0.5,RnQLCnt8qR,Long Thanh airport becomes a national embarrassment for Vietnam?,https://manifold.markets/Bandors/long-thanh-airport-becomes-a-nation,2026-05-03,0.53
-31,5534.373043282545,18,66.72329894675926,0.5,RyZcsusLn9,Trump visits China by EOF June?,https://manifold.markets/predyx_markets/trump-visits-china-by-eof-june,2026-05-03,0.94
+31,6045.8930432825455,19,66.72329894675926,0.5,RyZcsusLn9,Trump visits China by EOF June?,https://manifold.markets/predyx_markets/trump-visits-china-by-eof-june,2026-05-03,0.94
 68,501.0,2,193.84167347222223,0.5,6UytuZ0cQh,"Will the ""Local Taxpayer Protection Act to Save Proposition 13"" pass",https://manifold.markets/BenM/will-the-local-taxpayer-protection,2026-05-03,0.51
 112,150.0,3,164.03636842592593,0.5,S2sOuCq9sS,Will Paulo Kogos be elected state deputy of São Paulo? / Paulo Kogos será eleito deputado estadual de São Paulo?,https://manifold.markets/GazetaLibertaria/will-paulo-kogos-be-elected-state-d,2026-05-03,0.49
 95,150.72937749886393,7,29.997532627314815,0.5,gAl2q9zPRR,this market will resolve to yes if it closes with a greater than 50% chance of resolving to yes,https://manifold.markets/ignoperigno/this-market-will-resolve-to-yes-if-ySllsZd0qn,2026-05-03,0.71
 73,32.0,3,616.0818539583333,0.5,zuzEqNCtNR,A new entrant (not in top 100) on arena.ai enters top 50 before EOY 2027?,https://manifold.markets/ShankarSivarajan/a-new-entrant-not-in-top-100-on-are,2026-05-03,0.65
-102,1.0,1,616.0878557638889,0.5,NtuC8UlSnR,"If OpenAI goes public before 2028, will I consider their claimed ARR revenue figures to be misleading?",https://manifold.markets/JaundicedBaboon/if-openai-goes-public-before-2028-w,2026-05-03,0.49
-75,81.22273249903327,5,7191.099174120371,0.5,c0ncpOEz0Q,Title:Will a Kessler Syndrome cascade begin in Low Earth Orbit before 2046?,https://manifold.markets/debris2045/titlewill-a-kessler-syndrome-cascad,2026-05-03,0.81
-51,1116.0,8,251.11803356481482,0.5,URcRS6dCIU,Will semiconductors outperform the S&P 500 in 2026?,https://manifold.markets/Bayesian/will-semiconductors-outperform-the,2026-05-03,0.55
-46,9258.53461087324,63,193.1453432060185,0.5,lRZgqlQttA,California Voter ID ballot proposition passes?,https://manifold.markets/Jack1/california-voter-id-ballot-proposit,2026-05-03,0.92
-73,261.7073397973184,15,982.0411180671297,0.5,S2tLhACCsC,Will Manifold be mentioned by exact name in the Zizian docuseries on HBO?,https://manifold.markets/strutheo/will-manifold-be-mentioned-by-exact,2026-05-03,0.8
