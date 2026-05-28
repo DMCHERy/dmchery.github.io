@@ -1,31 +1,61 @@
 [
   {
+    "question":"Will the Strait of Hormuz fully reopen to commercial traffic before June 10, 2026?",
+    "probability":0.63,
+    "link":"https:\/\/manifold.markets\/JaimeM\/will-the-strait-of-hormuz-fully-reo-nytpLyunq6",
+    "date":"2026-05-28"
+  },
+  {
+    "question":"Will Nigeria's 2027 general election be free and fair?",
+    "probability":0.64,
+    "link":"https:\/\/manifold.markets\/jonatanmagaji\/will-nigerias-2027-general-election",
+    "date":"2026-05-28"
+  },
+  {
+    "question":"Will anyone beat the 281.85 wpm Monkeytype English 60 record before 2027?",
+    "probability":0.63,
+    "link":"https:\/\/manifold.markets\/Cy\/will-anyone-beat-the-28185-wpm-monk",
+    "date":"2026-05-28"
+  },
+  {
+    "question":"If Felix Gall signs for Lidl Trek for the 2027 season, will he win at least 1 UCI race for Lidl Trek before 2030?",
+    "probability":0.64,
+    "link":"https:\/\/manifold.markets\/Eliza\/if-felix-gall-signs-for-lidl-trek-f",
+    "date":"2026-05-28"
+  },
+  {
+    "question":"Will data centers consume more than 10% of US electricity usage by EOY 2028?",
+    "probability":0.63,
+    "link":"https:\/\/manifold.markets\/LucasKlein\/will-data-centers-consume-more-than",
+    "date":"2026-05-28"
+  },
+  {
     "question":"Will \"Donating 80% While It Still Counts\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.65,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-donating-80-while-it-still-cou",
     "date":"2026-05-28"
   },
   {
     "question":"Will any nobel laureate donate their brain to https:\/\/bexorg.com\/ by eoy2039?",
-    "probability":0.65,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-any-nobel-laureate-donate-thei",
     "date":"2026-05-28"
   },
   {
     "question":"Will the Green Bay Packers win the Super Bowl in 2027?",
-    "probability":0.63,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/Web3ICP\/will-the-green-bay-packers-win-the-UdC5tcNL2s",
     "date":"2026-05-28"
   },
   {
     "question":"Will Phil Scott run for reelection in 2026? (Filing deadline tomorrow)",
-    "probability":0.64,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/Jack1\/will-phil-scott-run-for-reelection",
     "date":"2026-05-28"
   },
   {
     "question":"Free Lottery (Galactic wind)",
-    "probability":0.42,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/ttoe\/free-lottery-galactic-wind",
     "date":"2026-05-28"
   },
@@ -61,7 +91,7 @@
   },
   {
     "question":"Will Victor Wembanyama get 3 or more 3-pointers in Thursday's game?",
-    "probability":0.75,
+    "probability":0.76,
     "link":"https:\/\/manifold.markets\/Web3ICP\/will-victor-wembanyama-get-3-or-mor",
     "date":"2026-05-28"
   },
@@ -79,7 +109,7 @@
   },
   {
     "question":"Will a prediction market-related court case reach the Supreme Court before 2029?",
-    "probability":0.6,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/realTomBayes\/will-a-prediction-marketrelated-cou",
     "date":"2026-05-28"
   },
@@ -91,7 +121,7 @@
   },
   {
     "question":"Will 2+ bots beat master league in 2026?",
-    "probability":0.22,
+    "probability":0.33,
     "link":"https:\/\/manifold.markets\/Mochi\/will-2-bots-beat-master-league-in-2",
     "date":"2026-05-28"
   },
@@ -109,7 +139,7 @@
   },
   {
     "question":"Will Donald Trump make an appearance at the NBA Finals?",
-    "probability":0.65,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/OnlySlides\/will-donald-trump-make-an-appearanc",
     "date":"2026-05-28"
   },
@@ -169,19 +199,19 @@
   },
   {
     "question":"Hawk Tuah themed sidequest in Gta6?",
-    "probability":0.32,
+    "probability":0.26,
     "link":"https:\/\/manifold.markets\/Bandors\/hawk-tuah-themed-sidequest-in-gta6",
     "date":"2026-05-28"
   },
   {
     "question":"Will all 18 \"safe\" Senate seats be won by their incumbent parties?",
-    "probability":0.67,
+    "probability":0.66,
     "link":"https:\/\/manifold.markets\/EvanDaniel\/will-all-18-safe-senate-seats-by-wo",
     "date":"2026-05-28"
   },
   {
     "question":"Oklahoma City Thunder vs San Antonio Spurs, game 6 May 28th",
-    "probability":0.61,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/Mochi\/oklahoma-city-thunder-vs-san-antoni-l2chRdESlt",
     "date":"2026-05-28"
   },
@@ -211,25 +241,25 @@
   },
   {
     "question":"30T market cap company before 2027?",
-    "probability":0.26,
+    "probability":0.23,
     "link":"https:\/\/manifold.markets\/jim\/30t-market-cap-company-before-2027",
     "date":"2026-05-28"
   },
   {
     "question":"30T market cap company before 2030?",
-    "probability":0.24,
+    "probability":0.23,
     "link":"https:\/\/manifold.markets\/Bayesian\/30t-market-cap-company-before-2030",
     "date":"2026-05-28"
   },
   {
     "question":"GOOG > AMD at market close on August 31st?",
-    "probability":0.39,
+    "probability":0.4,
     "link":"https:\/\/manifold.markets\/jim\/goog-amd-at-market-close-on-august",
     "date":"2026-05-28"
   },
   {
     "question":"Double digit USD inflation before 2028 election?",
-    "probability":0.5,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/SpeaksForTrees\/double-digit-usd-inflation-before-2",
     "date":"2026-05-28"
   },
@@ -307,7 +337,7 @@
   },
   {
     "question":"US Gas Price $4.400 or below in May 2026?",
-    "probability":0.3,
+    "probability":0.29,
     "link":"https:\/\/manifold.markets\/Jack1\/us-gas-price-4400-or-below-in-may-2",
     "date":"2026-05-28"
   },
@@ -409,7 +439,7 @@
   },
   {
     "question":"2026 rate hike parlay (Fed + ECB + BOJ + BOE + PBC)",
-    "probability":0.62,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/brod\/2026-rate-hike-parlay-fed-ecb-boj-b",
     "date":"2026-05-28"
   },
@@ -499,7 +529,7 @@
   },
   {
     "question":"Will both Aeonglass and Infested Prism receive balance changes in the next Slay the Spire 2 Beta Patch?",
-    "probability":0.61,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/Dssc\/will-both-aeonglass-and-infested-pr",
     "date":"2026-05-28"
   },
@@ -649,7 +679,7 @@
   },
   {
     "question":"Will Ukraine gain more territory than it loses this week, according to pro-Ukraine mappers?",
-    "probability":0.66,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/a_l_e_x\/will-ukraine-gain-more-territory-th-Q2PqZLlyUQ",
     "date":"2026-05-28"
   },
@@ -775,7 +805,7 @@
   },
   {
     "question":"Claude is the best LLM [Convince the Machine #16]",
-    "probability":0.57,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/Terminator2\/claude-is-the-best-llm-convince-the",
     "date":"2026-05-28"
   },
@@ -793,7 +823,7 @@
   },
   {
     "question":"If Forbes & Bloomberg disagree about whether Musk is a trillionaire before July 2026, will Ynad23's market resolve YES?",
-    "probability":0.6,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/morallawwithin\/if-forbes-bloomberg-disagree-about",
     "date":"2026-05-28"
   },
@@ -1353,42 +1383,6 @@
     "question":"Will Shira Eisenberg and Jose Luis Ricon fall in love\/date by EOY2030?",
     "probability":0.65,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-shira-eisenberg-and-jose-luis",
-    "date":"2026-05-28"
-  },
-  {
-    "question":"Raul Castro in USA before end of June?",
-    "probability":0.32,
-    "link":"https:\/\/manifold.markets\/Predictor\/raul-castro-in-usa-before-end-of-ju",
-    "date":"2026-05-28"
-  },
-  {
-    "question":"Raul Castro in USA before end of May?",
-    "probability":0.32,
-    "link":"https:\/\/manifold.markets\/Predictor\/raul-castro-in-usa-before-end-of-ma",
-    "date":"2026-05-28"
-  },
-  {
-    "question":"Will Canada pass Bill C-22 in 2026?",
-    "probability":0.22,
-    "link":"https:\/\/manifold.markets\/TonyGao\/will-canada-pass-bill-c22-in-2026",
-    "date":"2026-05-28"
-  },
-  {
-    "question":"Will Jose Luis Ricon get a https:\/\/www.generationlab.com\/the-systemage-test blood test (Alina Su's) by 2031",
-    "probability":0.65,
-    "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-jose-luis-ricon-get-a-httpswww",
-    "date":"2026-05-28"
-  },
-  {
-    "question":"Do you like 98% odds?",
-    "probability":0.38,
-    "link":"https:\/\/manifold.markets\/4fa\/do-you-like-98-odds",
-    "date":"2026-05-28"
-  },
-  {
-    "question":"Will Abelardo de la Espriella be the next president in Colombia?",
-    "probability":0.5,
-    "link":"https:\/\/manifold.markets\/EmanuelNunez\/who-will-be-the-new-presindent-in-c",
     "date":"2026-05-28"
   }
 ]
