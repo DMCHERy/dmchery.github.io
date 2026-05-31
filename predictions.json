@@ -1,5 +1,17 @@
 [
   {
+    "question":"Will the second ascentionist of Elias Iagnemma's Exodia agree with the V18 (9A+) grade?",
+    "probability":0.7,
+    "link":"https:\/\/manifold.markets\/Weepinbell\/will-the-second-ascentionist-of-eli",
+    "date":"2026-05-31"
+  },
+  {
+    "question":"Will a US open-weights LLM outrank every Chinese open-weights LLM on LMArena at the end of 2027?",
+    "probability":0.7,
+    "link":"https:\/\/manifold.markets\/DefiViscount\/will-a-us-openweights-llm-outrank-e",
+    "date":"2026-05-31"
+  },
+  {
     "question":"Will Jannik Sinner reach the 2026 Wimbledon men's singles final?",
     "probability":0.68,
     "link":"https:\/\/manifold.markets\/Terminator2\/will-jannik-sinner-reach-the-2026-w",
@@ -37,13 +49,13 @@
   },
   {
     "question":"Will Daniel Negreanu win a World Series of Poker Bracelet in 2026",
-    "probability":0.65,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/ZacharyKleinfa41\/will-daniel-negreanu-win-a-world-se-sc8AzOO8d8",
     "date":"2026-05-31"
   },
   {
     "question":"Will Norway defeat Senegal in the first round of World Cup 2026?",
-    "probability":0.55,
+    "probability":0.4,
     "link":"https:\/\/manifold.markets\/Web3ICP\/will-norway-defeat-senegal-in-the-f",
     "date":"2026-05-31"
   },
@@ -67,19 +79,19 @@
   },
   {
     "question":"OPQA (OpenAI-proof QA) hits 20% before 2027",
-    "probability":0.54,
+    "probability":0.42,
     "link":"https:\/\/manifold.markets\/JacobPfau\/opqa-openaiproof-qa-hits-20-before",
     "date":"2026-05-31"
   },
   {
     "question":"Will the winner of Eurovision in 2027 be from Europe?",
-    "probability":0.37,
+    "probability":0.33,
     "link":"https:\/\/manifold.markets\/AskingForPie\/will-the-winner-of-eurovision-in-20",
     "date":"2026-05-31"
   },
   {
     "question":"Will I hold a session at Less.Online 2026",
-    "probability":0.49,
+    "probability":0.37,
     "link":"https:\/\/manifold.markets\/JoeandSeth\/will-i-hold-a-session-at-lessonline",
     "date":"2026-05-31"
   },
@@ -163,7 +175,7 @@
   },
   {
     "question":"Will the S&P500 be within 1% of all time high at the end of June 2026?",
-    "probability":0.7,
+    "probability":0.45,
     "link":"https:\/\/manifold.markets\/Magnify\/will-the-sp500-be-within-1-of-all-t-LO2USq2yIt",
     "date":"2026-05-31"
   },
@@ -205,7 +217,7 @@
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.36,
+    "probability":0.3,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-qQIlEdtq0s",
     "date":"2026-05-31"
   },
@@ -283,13 +295,13 @@
   },
   {
     "question":"Will Bitcoin be higher than right now, exactly 7 days from now?",
-    "probability":0.68,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/OnlySlides\/will-bitcoin-be-higher-or-lower-tha",
     "date":"2026-05-31"
   },
   {
     "question":"Will The Mandalorian and Grogu experience a 60.0% or greater drop in its second weekend at the domestic box office?",
-    "probability":0.92,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/ShaneBo\/will-the-mandalorian-and-grogu-expe",
     "date":"2026-05-31"
   },
@@ -1081,7 +1093,7 @@
   },
   {
     "question":"Will this market get between 50-100 unique traders?",
-    "probability":0.19,
+    "probability":0.23,
     "link":"https:\/\/manifold.markets\/Mochi\/will-this-market-get-between-50100",
     "date":"2026-05-31"
   },
@@ -1305,18 +1317,6 @@
     "question":"Will the US recognise Argentine sovereignty over the Falklands in 2026?",
     "probability":0.71,
     "link":"https:\/\/manifold.markets\/a_l_e_x\/free-mana-will-the-us-recognise-arg",
-    "date":"2026-05-31"
-  },
-  {
-    "question":"Will Waymo still have serious problems with flooded streets in 2027?",
-    "probability":0.67,
-    "link":"https:\/\/manifold.markets\/PlasmaPower\/will-waymo-still-have-serious-probl",
-    "date":"2026-05-31"
-  },
-  {
-    "question":"Will I get Unicode to make a new emoji by the end of 2030?",
-    "probability":0.64,
-    "link":"https:\/\/manifold.markets\/strutheo\/will-i-get-unicode-to-make-a-new-em",
     "date":"2026-05-31"
   }
 ]
