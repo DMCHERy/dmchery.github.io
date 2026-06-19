@@ -1,5 +1,59 @@
 [
   {
+    "question":"Does China have an ASML EUV machine? (as of June 19, 2026)",
+    "probability":0.35,
+    "link":"https:\/\/manifold.markets\/JamesSanders\/does-china-have-an-asml-euv-machine",
+    "date":"2026-06-19"
+  },
+  {
+    "question":"Sweet & Sour Showdown: Will Michigan Sweet be priced higher than Wyoming Sour crude oil on Juneteenth 2027?",
+    "probability":0.59,
+    "link":"https:\/\/manifold.markets\/strutheo\/sweet-sour-showdown-will-michigan-s-0l2n6UOOgh",
+    "date":"2026-06-19"
+  },
+  {
+    "question":"Will the US be at full employment in December 2026?",
+    "probability":0.52,
+    "link":"https:\/\/manifold.markets\/EnopoletusHarding\/will-the-us-be-at-full-employment-i-cRZI5IN02z",
+    "date":"2026-06-19"
+  },
+  {
+    "question":"2026 FIFA World Cup: Will there be exactly 6 or 7 knockout matches ending 3\u20130?",
+    "probability":0.49,
+    "link":"https:\/\/manifold.markets\/Web3ICP\/2026-fifa-world-cup-will-there-be-e",
+    "date":"2026-06-19"
+  },
+  {
+    "question":"2026 FIFA World Cup: Will there be at least one 4\u20130 knockout match AND fewer than 8 total 3\u20130 knockout matches?",
+    "probability":0.59,
+    "link":"https:\/\/manifold.markets\/Web3ICP\/2026-fifa-world-cup-will-there-be-a",
+    "date":"2026-06-19"
+  },
+  {
+    "question":"Will a country do a bombing live stream by EOY 2030?",
+    "probability":0.56,
+    "link":"https:\/\/manifold.markets\/ILikeAnanas\/will-a-country-do-a-bombing-live-st",
+    "date":"2026-06-19"
+  },
+  {
+    "question":"2026 FIFA World Cup: Will exactly 2 knockout matches be decided by penalty shootouts?",
+    "probability":0.44,
+    "link":"https:\/\/manifold.markets\/Web3ICP\/2026-fifa-world-cup-will-exactly-2",
+    "date":"2026-06-19"
+  },
+  {
+    "question":"Pourrait il avoir un attentat au USA pendant la coupe du monde 2026?",
+    "probability":0.7,
+    "link":"https:\/\/manifold.markets\/JnMcMckzy\/pourrait-il-avoir-un-attentat-au-us",
+    "date":"2026-06-19"
+  },
+  {
+    "question":"Will Sam altman have visible grey hair by eoy2028?",
+    "probability":0.55,
+    "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-sam-altman-have-visible-grey-h",
+    "date":"2026-06-19"
+  },
+  {
     "question":"Will the FCDO advise against travel to  Manama, Bahrain at any time by the end of 2026?",
     "probability":0.44,
     "link":"https:\/\/manifold.markets\/Tetraspace\/will-the-fcdo-advise-against-travel",
@@ -7,181 +61,181 @@
   },
   {
     "question":"Will Tumbles and Polymarket resolve the same way regarding \"Will China invade Taiwan by end of 2027?\"",
-    "probability":0.53,
+    "probability":0.6,
     "link":"https:\/\/manifold.markets\/Tumbles\/will-tumbles-and-polymarket-resolve",
     "date":"2026-06-19"
   },
   {
     "question":"Will China invade Taiwan by end of 2027? (Tumbles Judgement)",
-    "probability":0.5,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/Tumbles\/will-china-invade-taiwan-by-end-of-2Ny29lyU6Q",
     "date":"2026-06-19"
   },
   {
     "question":"Will Dario Amodei still be CEO of Anthropic by the end of August 2026?",
-    "probability":0.5,
+    "probability":0.79,
     "link":"https:\/\/manifold.markets\/JohnDavidPressman\/will-dario-amodei-still-be-ceo-of-a",
     "date":"2026-06-19"
   },
   {
     "question":"Will a sample from the Martian system be returned to Earth by an Asian space agency before a Western space agency?",
-    "probability":0.53,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/SpaceEngineer\/will-a-sample-from-the-martian-syst",
     "date":"2026-06-19"
   },
   {
     "question":"On January 1st 2027 will there be any part of Niger the FCDO does not recommend against all travel to?",
-    "probability":0.53,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/Tetraspace\/on-january-1st-2027-will-there-be-a",
     "date":"2026-06-19"
   },
   {
     "question":"Free Lottery (dark matter)",
-    "probability":0.34,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/ttoe\/free-lottery-dark-matter",
     "date":"2026-06-19"
   },
   {
     "question":"World's first quadrillionaire before EOY 2040",
-    "probability":0.65,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/NicBergman\/worlds-first-quadrillionaire-before",
     "date":"2026-06-19"
   },
   {
     "question":"Will SpaceX valuation drop by -50% or more from its ATH?",
-    "probability":0.73,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/BillClintonBubba\/will-spacex-valuation-drop-by-50-or-Zq85udRyRl",
     "date":"2026-06-19"
   },
   {
     "question":"FISA Section 702 reauthorization by EOY 2026?",
-    "probability":0.56,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/Balasar\/fisa-section-702-reauthorization-by",
     "date":"2026-06-19"
   },
   {
     "question":"Will I get the Manifold Hat (Merch) By EOY?",
-    "probability":0.44,
+    "probability":0.6,
     "link":"https:\/\/manifold.markets\/Mrdudeguy\/will-i-get-the-manifold-hat-merch-b",
     "date":"2026-06-19"
   },
   {
     "question":"Will the Twin prime Conjecture be proven before 2030?",
-    "probability":0.59,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/Grothenfla\/will-the-twin-prime-conjecture-be-p",
     "date":"2026-06-19"
   },
   {
     "question":"Daily Coinflip",
-    "probability":0.78,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/Traveel\/daily-coinflip-sULCuS8QtZ",
     "date":"2026-06-19"
   },
   {
     "question":"Will someone on Manifold Markets DM me about network marketing or multi-level marketing by 2\/22\/27?",
-    "probability":0.69,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/Web3ICP\/will-someone-on-manifold-markets-dm",
     "date":"2026-06-19"
   },
   {
     "question":"Oliver Tree is still alive",
-    "probability":0.67,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/Technocrat\/oliver-tree-is-still-alive",
     "date":"2026-06-19"
   },
   {
     "question":"Will I finish the first draft of my novel by the end of the year?",
-    "probability":0.58,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/JoshuaFosse\/will-i-finish-the-first-draft-of-my",
     "date":"2026-06-19"
   },
   {
     "question":"By Aug 26, 2026 (8\/26\/26), will I refer at least one person to a rehab ministry? (I'm an evangelist.)",
-    "probability":0.6,
+    "probability":0.61,
     "link":"https:\/\/manifold.markets\/Web3ICP\/by-aug-26-2026-82626-will-i-refer-a",
     "date":"2026-06-19"
   },
   {
     "question":"Will Jamie Joyce win the 2026 12th California Congressional district race?",
-    "probability":0.78,
+    "probability":0.66,
     "link":"https:\/\/manifold.markets\/PhilipDowdell\/will-jamie-joyce-win-the-2026-12th",
     "date":"2026-06-19"
   },
   {
     "question":"Will Adam Chase or Ben Doyle endorse Alex Bores for Congress?",
-    "probability":0.84,
+    "probability":0.77,
     "link":"https:\/\/manifold.markets\/Conflux\/will-adam-chase-or-ben-doyle-endors",
     "date":"2026-06-19"
   },
   {
     "question":"Will Fable be reenabled for Europeans before Americans?",
-    "probability":0.76,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/jcb\/will-fable-be-reenabled-for-europea-yZdpQu69UU",
     "date":"2026-06-19"
   },
   {
     "question":"Will OpenAI be one of the top 10 most valuable public companies in the world at the end of 2028?",
-    "probability":0.72,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/strutheo\/will-openai-be-one-of-the-top-10-mo",
     "date":"2026-06-19"
   },
   {
     "question":"Will Nvidia be the most valuable public company in the world at the end of 2028?",
-    "probability":0.52,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/strutheo\/will-nvidia-be-the-most-valuable-pu",
     "date":"2026-06-19"
   },
   {
     "question":"Do you like 62% odds?",
-    "probability":0.48,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/4fa\/do-you-like-62-odds",
     "date":"2026-06-19"
   },
   {
     "question":"Will Bitcoin close above $150,000 on December 31, 2026?",
-    "probability":0.82,
+    "probability":0.79,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-bitcoin-close-above-150000-on",
     "date":"2026-06-19"
   },
   {
     "question":"Will the S&P 500 close above 7000 on December 31, 2026?",
-    "probability":0.66,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-the-sp-500-close-above-7000-on-lZSUc6dyRZ",
     "date":"2026-06-19"
   },
   {
     "question":"Will the winning pumpkin at the 2026 Safeway World Championship Pumpkin Weigh-Off weigh at least 2,424 lbs?",
-    "probability":0.6,
+    "probability":0.61,
     "link":"https:\/\/manifold.markets\/Web3ICP\/will-the-winning-pumpkin-at-the-202",
     "date":"2026-06-19"
   },
   {
     "question":"I'm very likely to be #1 in my silver group. In the JULY season, will I be top 5 (next season)?",
-    "probability":0.51,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/Web3ICP\/im-very-likely-to-be-1-in-my-silver",
     "date":"2026-06-19"
   },
   {
     "question":"Will December 2026 headline CPI-U rise at least 0.3% month-over-month?",
-    "probability":0.5,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-december-2026-headline-cpiu-ri",
     "date":"2026-06-19"
   },
   {
     "question":"Will \"Learnings from starting an AI safety research...\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.53,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-learnings-from-starting-an-ai",
     "date":"2026-06-19"
   },
   {
     "question":"Will I finish this season in 3rd place in the Gold division?",
-    "probability":0.5,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/CombatWombat\/will-i-finish-this-season-in-3rd-pl",
     "date":"2026-06-19"
   },
   {
     "question":"Will October 2026 U.S. PPI final demand rise at least 0.3% month-over-month?",
-    "probability":0.5,
+    "probability":0.45,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-october-2026-us-ppi-final-dema",
     "date":"2026-06-19"
   },
@@ -193,19 +247,19 @@
   },
   {
     "question":"Will Aella publish an insider account of Thiel's Dialog conferences\/\"secret society\"?",
-    "probability":0.56,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/AlexMiller3a5e\/will-aella-publish-an-insider-accou",
     "date":"2026-06-19"
   },
   {
     "question":"Will Islam Makhachev beat Ian Machado Garry at UFC 330?",
-    "probability":0.7,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/Tripping\/will-islam-makhachev-beat-ian-macha",
     "date":"2026-06-19"
   },
   {
     "question":"Will the Midjourney Scanner be higher quality than an MRI?",
-    "probability":0.74,
+    "probability":0.71,
     "link":"https:\/\/manifold.markets\/AlexMiller3a5e\/will-the-midjourney-scanner-be-high",
     "date":"2026-06-19"
   },
@@ -217,7 +271,7 @@
   },
   {
     "question":"\u041d\u0430\u0447\u043d\u0451\u0442\u0441\u044f \u043b\u0438 \u043d\u0430\u0431\u043e\u0440 \u043d\u0430 \u0434\u043e\u043b\u0436\u043d\u043e\u0441\u0442\u0438 \u043c\u043e\u0434\u0435\u0440\u0430\u0442\u043e\u0440\u043e\u0432 \/ \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u043e\u0432 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u043d\u0435\u0434\u0435\u043b\u0438?",
-    "probability":0.74,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/toffexcrf\/-uzSqIhyZ0l",
     "date":"2026-06-19"
   },
@@ -229,295 +283,295 @@
   },
   {
     "question":"INTC to $215 by eoy2026",
-    "probability":0.48,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/intc-to-215-by-eoy2026",
     "date":"2026-06-19"
   },
   {
     "question":"Strait of Hormuz traffic returns to normal by August 15? [Polymarket]",
-    "probability":0.69,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/HillaryClinton\/strait-of-hormuz-traffic-returns-to-ShRpNyAIO9",
     "date":"2026-06-19"
   },
   {
     "question":"Will \"Gears for political races\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.45,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-gears-for-political-races-make",
     "date":"2026-06-19"
   },
   {
     "question":"Brazil Election 2026: Will Eduardo Bolsonaro attend a Brazil World Cup match after being convicted in Brazil?",
-    "probability":0.53,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/Brierbr\/brazil-election-2026-will-eduardo-b",
     "date":"2026-06-19"
   },
   {
     "question":"Will Polymarket refund a million dollars on any market before 2028?",
-    "probability":0.5,
+    "probability":0.46,
     "link":"https:\/\/manifold.markets\/AviEisenberg\/will-polymarket-refund-a-million-do",
     "date":"2026-06-19"
   },
   {
     "question":"Will the Fed cut rates by at least 25 bps at the Oct. 28, 2026 FOMC meeting?",
-    "probability":0.66,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-the-fed-cut-rates-by-at-least-gsyCdSpcsg",
     "date":"2026-06-19"
   },
   {
     "question":"Will UNC beat Oklahoma in the College World Series Finals?",
-    "probability":0.51,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/Hayden5utCL\/will-unc-beat-oklahoma-in-the-colle",
     "date":"2026-06-19"
   },
   {
     "question":"Will this market get 20-30 unique traders by June 29?",
-    "probability":0.74,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/rg26\/will-this-market-get-2030-unique-tr",
     "date":"2026-06-19"
   },
   {
     "question":"2\u043a \u043d\u0430 \u0442\u0433\u043a \u0434\u043e \u043a\u043e\u043d\u0446\u0430 \u043d\u0435\u0434\u0435\u043b\u0438?",
-    "probability":0.86,
+    "probability":0.81,
     "link":"https:\/\/manifold.markets\/toffexcrf\/2-0chz6SOyIC",
     "date":"2026-06-19"
   },
   {
     "question":"Will SpaceX launch Starship Flight 13 before August 1, 2026?",
-    "probability":0.67,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/Terminator2\/will-spacex-launch-starship-flight-INhhZAI2RI",
     "date":"2026-06-19"
   },
   {
     "question":"US\/Israel strike on Iran by end of 2030?",
-    "probability":0.92,
+    "probability":0.81,
     "link":"https:\/\/manifold.markets\/CryptoNeoLiberalist\/usisrael-strike-on-iran-by-end-of-2",
     "date":"2026-06-19"
   },
   {
     "question":"Will Decathlon CMA CGM Team bring this exact team to the 2026 Tour de France?",
-    "probability":0.62,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/Eliza\/will-decathlon-cma-cgm-team-bring-t",
     "date":"2026-06-19"
   },
   {
     "question":"Before 2028, will over 50 Anthropic employees show up in office in cat ears?",
-    "probability":0.8,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/ms\/before-2028-will-over-50-anthropic",
     "date":"2026-06-19"
   },
   {
     "question":"Will a Midjourney Scanner be available for paid public full-body scans in the US by Dec 31, 2027?",
-    "probability":0.83,
+    "probability":0.78,
     "link":"https:\/\/manifold.markets\/AlexMiller3a5e\/will-a-midjourney-scanner-be-availa",
     "date":"2026-06-19"
   },
   {
     "question":"Will Trump be in the World Cup Champions Photo? [Polymarket]",
-    "probability":0.72,
+    "probability":0.66,
     "link":"https:\/\/manifold.markets\/vdb\/will-trump-be-in-the-world-cup-cham",
     "date":"2026-06-19"
   },
   {
     "question":"This market resolves to whatever the comments convince me to resolve it to",
-    "probability":0.58,
+    "probability":0.43,
     "link":"https:\/\/manifold.markets\/Ludacrisllama\/this-market-resolves-to-whatever-th",
     "date":"2026-06-19"
   },
   {
     "question":"Will anyone other than me make mana on this market?",
-    "probability":0.59,
+    "probability":0.61,
     "link":"https:\/\/manifold.markets\/Ludacrisllama\/will-anyone-other-than-me-make-mana-hZZ8dUCNgO",
     "date":"2026-06-19"
   },
   {
     "question":"Will Donald Trump Tweet within the next 7 days?",
-    "probability":0.78,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/OnlySlides\/will-donald-trump-tweet-within-the",
     "date":"2026-06-19"
   },
   {
     "question":"Fable 5 reenabled for Americans by July 31?",
-    "probability":0.73,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/predyx_markets\/fable-5-reenabled-for-americans-by-Ntncy8gzOg",
     "date":"2026-06-19"
   },
   {
     "question":"Free 10 mana [read description]",
-    "probability":0.79,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/ZandaZhu\/free-10-mana-read-description",
     "date":"2026-06-19"
   },
   {
     "question":"Will I finish Ironman 70.3 Ohio in under 4h30m?",
-    "probability":0.43,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/PhillyK\/will-i-finish-ironman-703-ohio-in-u",
     "date":"2026-06-19"
   },
   {
     "question":"Will the Fed cut rates by at least 25 bps at the July 29, 2026 FOMC meeting?",
-    "probability":0.79,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-the-fed-cut-rates-by-at-least-2hsQA2uq92",
     "date":"2026-06-19"
   },
   {
     "question":"Will Croatia make it to at LEAST 3rd place of the 2026 FIFA World Cup?",
-    "probability":0.91,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/johnNZOy\/will-croatia-make-it-to-at-least-3r",
     "date":"2026-06-19"
   },
   {
     "question":"2026 MLB All-Star Game: Will the winning team score at least 6 runs OR will at least 3 home runs be hit?",
-    "probability":0.53,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/Web3ICP\/2026-mlb-allstar-game-will-the-winn",
     "date":"2026-06-19"
   },
   {
     "question":"Will the Fed cut rates by at least 25 bps at the Sept. 16, 2026 FOMC meeting?",
-    "probability":0.57,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-the-fed-cut-rates-by-at-least",
     "date":"2026-06-19"
   },
   {
     "question":"Will SSFHS Class of 07 have a 20 Year Class Reunion?",
-    "probability":0.48,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/GT0zQqC\/will-ssfhs-class-of-07-have-a-20-ye",
     "date":"2026-06-19"
   },
   {
     "question":"Will Anthropic release a non-Fable model before Fable is rereleased?",
-    "probability":0.87,
+    "probability":0.78,
     "link":"https:\/\/manifold.markets\/JoshSnider\/will-anthropic-release-a-nonfable-m",
     "date":"2026-06-19"
   },
   {
     "question":"Will the US attack Cuba before the 2026 midterm elections?",
-    "probability":0.75,
+    "probability":0.74,
     "link":"https:\/\/manifold.markets\/CommanderKeen\/will-the-us-attack-cuba-before-the",
     "date":"2026-06-19"
   },
   {
     "question":"Will Lionel Messi get another hat trick at the 2026 World Cup?",
-    "probability":0.72,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/Jack1\/will-lionel-messi-get-another-hat-t",
     "date":"2026-06-19"
   },
   {
     "question":"Custom liquidity market creation before end of month?",
-    "probability":0.48,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/Jack1\/custom-liquidity-market-creation-be",
     "date":"2026-06-19"
   },
   {
     "question":"Will a current moderator lose their role before end of month?",
-    "probability":0.76,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/Jack1\/will-a-current-moderator-lose-their",
     "date":"2026-06-19"
   },
   {
     "question":"Will the \"5000 Gazans\" market bankrupt @Chumchulum?",
-    "probability":0.43,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/Chumchulum\/will-the-5000-gazans-market-bankrup",
     "date":"2026-06-19"
   },
   {
     "question":"Will ufc Michael morales vs Carlos prates happen",
-    "probability":0.43,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/MarshallWolf\/will-ufc-michael-morales-vs-carlos",
     "date":"2026-06-19"
   },
   {
     "question":"will i win 100 mana in the next 10 seconds?",
-    "probability":0.47,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/skwsk20\/will-i-win-100-mana-in-the-next-10",
     "date":"2026-06-19"
   },
   {
     "question":"Ronald dela Rosa arrested by EOY 2026?",
-    "probability":0.41,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/NicBergman\/ronald-dela-rosa-arrested-by-eoy-20",
     "date":"2026-06-19"
   },
   {
     "question":"Anthropic 2026 Revenue > $60B?",
-    "probability":0.77,
+    "probability":0.74,
     "link":"https:\/\/manifold.markets\/JaundicedBaboon\/anthropic-2026-revenue-60b",
     "date":"2026-06-19"
   },
   {
     "question":"Anthropic 2026 Revenue > $50B?",
-    "probability":0.53,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/JaundicedBaboon\/anthropics-2026-revenue-50b",
     "date":"2026-06-19"
   },
   {
     "question":"Will Bitcoin be at or above 75k by the end of the month?",
-    "probability":0.57,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/Eternal\/will-bitcoin-be-at-or-above-75k-by",
     "date":"2026-06-19"
   },
   {
     "question":"Will the August 2026 U.S. unemployment rate be at least 4.5%?",
-    "probability":0.49,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-the-august-2026-us-unemploymen",
     "date":"2026-06-19"
   },
   {
     "question":"Will my cat recover from pneumonia in one week?",
-    "probability":0.76,
+    "probability":0.73,
     "link":"https:\/\/manifold.markets\/CombatWombat\/well-i-cant-recover-from-pneumonia",
     "date":"2026-06-19"
   },
   {
     "question":"Will BTC hit $70k in June after market creation?",
-    "probability":0.59,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/100Anonymous\/will-btc-hit-70k-in-july-after-mark",
     "date":"2026-06-19"
   },
   {
     "question":"Will I leave the house before 11 a.m. every day until July? (\u1e4010 Bonus)",
-    "probability":0.73,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/redcat\/will-i-leave-the-house-before-11-am-zs09Z68Od6",
     "date":"2026-06-19"
   },
   {
     "question":"Will my color-based web game exceed 100 users in a single day?",
-    "probability":0.82,
+    "probability":0.76,
     "link":"https:\/\/manifold.markets\/NBAP\/will-my-colorbased-web-game-exceed",
     "date":"2026-06-19"
   },
   {
     "question":"Will SpaceX have a higher market cap than Amazon at the end of 2026?",
-    "probability":0.77,
+    "probability":0.74,
     "link":"https:\/\/manifold.markets\/BillClintonBubba\/will-spacex-have-a-higher-market-ca",
     "date":"2026-06-19"
   },
   {
     "question":"Will the DJIA rise or fall by 1,000 points in a single session by November 12, 2026 (11\/12\/26)?",
-    "probability":0.51,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/Web3ICP\/will-the-djia-rise-or-fall-by-1000",
     "date":"2026-06-19"
   },
   {
     "question":"Will there be at least two MLB games in which a single player hits 3 HR between June 17 and July 17, 2026 (7\/17\/26)?",
-    "probability":0.53,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/Web3ICP\/will-there-be-at-least-two-mlb-game",
     "date":"2026-06-19"
   },
   {
     "question":"Will August 2026 U.S. nonfarm payroll employment increase by at least 150,000?",
-    "probability":0.48,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-august-2026-us-nonfarm-payroll",
     "date":"2026-06-19"
   },
   {
     "question":"Will Jon Ossoff or Raphael Warnock be on the Democratic ticket in 2028?",
-    "probability":0.62,
+    "probability":0.6,
     "link":"https:\/\/manifold.markets\/Jack1\/will-jon-ossoff-or-raphael-warnock",
     "date":"2026-06-19"
   },
   {
     "question":"Will August 2026 U.S. advance retail sales rise at least 0.5% month-over-month?",
-    "probability":0.46,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-august-2026-us-advance-retail",
     "date":"2026-06-19"
   },
@@ -529,223 +583,223 @@
   },
   {
     "question":"Will August 2026 core CPI-U rise at least 0.3% month-over-month?",
-    "probability":0.5,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-august-2026-core-cpiu-rise-at",
     "date":"2026-06-19"
   },
   {
     "question":"Putin, Xi Jinping, or Kim Jong Un out by 2028",
-    "probability":0.85,
+    "probability":0.71,
     "link":"https:\/\/manifold.markets\/rg26\/putin-xi-jinping-or-kim-jong-un-out",
     "date":"2026-06-19"
   },
   {
     "question":"Will August 2026 headline CPI-U rise at least 0.3% month-over-month?",
-    "probability":0.5,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-august-2026-headline-cpiu-rise",
     "date":"2026-06-19"
   },
   {
     "question":"Starmer out by the end of this week",
-    "probability":0.86,
+    "probability":0.54,
     "link":"https:\/\/manifold.markets\/rg26\/starmer-out-by-the-end-of-this-week",
     "date":"2026-06-19"
   },
   {
     "question":"Will Marjorie Taylor Greene have a heart attack before the end of May 12th 2027?",
-    "probability":0.68,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/strutheo\/will-marjorie-taylor-greene-have-a-QtZZP8s6Q9",
     "date":"2026-06-19"
   },
   {
     "question":"Will Angie Craig be appointed to Amy Klobuchars Senate Seat?",
-    "probability":0.5,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/Jack1\/will-angie-craig-be-appointed-to-am",
     "date":"2026-06-19"
   },
   {
     "question":"Does Starship flight 150 happen before New Glenn 15?",
-    "probability":0.71,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/EvanDaniel\/does-starship-flight-150-happen-bef",
     "date":"2026-06-19"
   },
   {
     "question":"Will SpaceX launch Starship Flight 13 on or before July 31, 2026?",
-    "probability":0.74,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/Terminator2\/will-spacex-launch-starship-flight-Isn9L2ysPc",
     "date":"2026-06-19"
   },
   {
     "question":"Fable 5 reenabled for Americans by July 15?",
-    "probability":0.77,
+    "probability":0.74,
     "link":"https:\/\/manifold.markets\/predyx_markets\/fable-5-reenabled-for-americans-by",
     "date":"2026-06-19"
   },
   {
     "question":"Will AI be charged with a crime before 2027? [Polymarket]",
-    "probability":0.75,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/vdb\/will-ai-be-charged-with-a-crime-bef",
     "date":"2026-06-19"
   },
   {
     "question":"Will there be a FPS\/CTF\/GTA game based on the terrain of any US, Canadian, NZ, AU, or European National Park by EOY2031?",
-    "probability":0.53,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-there-be-a-fps-game-based-on-t",
     "date":"2026-06-19"
   },
   {
     "question":"Win by betting \"yes\"",
-    "probability":0.63,
+    "probability":0.54,
     "link":"https:\/\/manifold.markets\/Avatar\/win-by-betting-yes",
     "date":"2026-06-19"
   },
   {
     "question":"Will the Packers win 2 games in the 2026 regular season decided on the final possession, with at least 1 by field goal?",
-    "probability":0.53,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/Web3ICP\/will-the-packers-win-2-games-in-the",
     "date":"2026-06-19"
   },
   {
     "question":"Will greyhound racing be banned in the US by the end of 2027?",
-    "probability":0.63,
+    "probability":0.6,
     "link":"https:\/\/manifold.markets\/NathanScott\/will-greyhound-racing-be-banned-in",
     "date":"2026-06-19"
   },
   {
     "question":"Will I make my bot @gluten blazingly fast, before the World Cup Knockout Rounds?",
-    "probability":0.6,
+    "probability":0.46,
     "link":"https:\/\/manifold.markets\/Mochi\/will-i-make-my-bot-gluten-blazingly",
     "date":"2026-06-19"
   },
   {
     "question":"Waymo in Portland in 2026?",
-    "probability":0.76,
+    "probability":0.8,
     "link":"https:\/\/manifold.markets\/dreev\/waymo-in-portland-in-2026",
     "date":"2026-06-19"
   },
   {
     "question":"Will the US enact AI regulation for all Mythos+ models in 2026?",
-    "probability":0.74,
+    "probability":0.61,
     "link":"https:\/\/manifold.markets\/trvon\/will-the-us-enact-ai-regulation-for",
     "date":"2026-06-19"
   },
   {
     "question":"Will Sabine Hossenfelder mention any prediction markets on string theory or BSM physics before the end of 2027?",
-    "probability":0.8,
+    "probability":0.76,
     "link":"https:\/\/manifold.markets\/HamishTodd\/will-sabine-hossenfelder-mention-an",
     "date":"2026-06-19"
   },
   {
     "question":"Will silver hit $75\/oz this week by close of market on Friday?",
-    "probability":0.78,
+    "probability":0.68,
     "link":"https:\/\/manifold.markets\/CombatWombat\/will-silver-hit-75oz-this-week-by-c",
     "date":"2026-06-19"
   },
   {
     "question":"US-Iran deal text released by June 19? [Polymarket]",
-    "probability":0.6,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/vdb\/usiran-deal-text-released-by-june-1",
     "date":"2026-06-19"
   },
   {
     "question":"Will July 2026 U.S. export prices rise at least 0.5% month-over-month?",
-    "probability":0.5,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-july-2026-us-export-prices-ris",
     "date":"2026-06-19"
   },
   {
     "question":"SpaceX closes above $250 at end of month?",
-    "probability":0.92,
+    "probability":0.84,
     "link":"https:\/\/manifold.markets\/waitblock\/spacex-closes-above-250-at-end-of-m",
     "date":"2026-06-19"
   },
   {
     "question":"Will Trump annex\/take military action against Brazil by EOY 2028?",
-    "probability":0.85,
+    "probability":0.77,
     "link":"https:\/\/manifold.markets\/WilliamBrodhead\/will-trump-annextake-military-actio",
     "date":"2026-06-19"
   },
   {
     "question":"I woke up to find 500 unique traders in my markets today. Will I reach 900 by 7\/17\/26?",
-    "probability":0.58,
+    "probability":0.43,
     "link":"https:\/\/manifold.markets\/Web3ICP\/i-woke-up-to-find-500-unique-trader",
     "date":"2026-06-19"
   },
   {
     "question":"Will the Green Bay Packers be 2-0 in the NFL regular season?",
-    "probability":0.5,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/Web3ICP\/will-the-green-bay-packers-be-20-in",
     "date":"2026-06-19"
   },
   {
     "question":"Will there be a VAR\/refereeing controversy that causes a team to officially protest a World Cup 2026 group-stage result",
-    "probability":0.65,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/JaimeM\/will-there-be-a-varrefereeing-contr",
     "date":"2026-06-19"
   },
   {
     "question":"Will July 2026 U.S. new home sales be at least 650,000 (SAAR)?",
-    "probability":0.49,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-july-2026-us-new-home-sales-be",
     "date":"2026-06-19"
   },
   {
     "question":"Will Robin Hanson receive the Nobel Prize in Economics?",
-    "probability":0.9,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/bbb\/will-robin-hanson-receive-the-nobel",
     "date":"2026-06-19"
   },
   {
     "question":"Will I make mana on this market?",
-    "probability":0.58,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/Ludacrisllama\/will-i-make-mana-on-this-market",
     "date":"2026-06-19"
   },
   {
     "question":"Will I manage to get a question included in Tom Scott's Lateral podcast in 2026?",
-    "probability":0.62,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/ADings\/will-i-manage-to-get-a-question-inc",
     "date":"2026-06-19"
   },
   {
     "question":"Will I ban mobile devices from my bedroom until July? (\u1e4010 Bonus)",
-    "probability":0.84,
+    "probability":0.76,
     "link":"https:\/\/manifold.markets\/redcat\/will-i-ban-mobile-devices-from-my-b-glUtcOClUS",
     "date":"2026-06-19"
   },
   {
     "question":"Fable 5 reenabled for Americans by June 30?",
-    "probability":0.85,
+    "probability":0.79,
     "link":"https:\/\/manifold.markets\/predyx_markets\/fable-reenabled-for-americans-by-ju",
     "date":"2026-06-19"
   },
   {
     "question":"pltr up in 1 month",
-    "probability":0.52,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/jim\/pltr-up-in-1-month",
     "date":"2026-06-19"
   },
   {
     "question":"Will \"A frontier AI company should shut down\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.53,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-a-frontier-ai-company-should-s",
     "date":"2026-06-19"
   },
   {
     "question":"Will I (Student at UC Irvine) Win the Barry Goldwater Fellowship before I graduate",
-    "probability":0.56,
+    "probability":0.54,
     "link":"https:\/\/manifold.markets\/AdvaiSrinivasanLgZ0\/will-i-student-at-uc-irvine-win-the",
     "date":"2026-06-19"
   },
   {
     "question":"Discovered tracing mecanisems on gpt in june",
-    "probability":0.55,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/MarkoSammul\/discovered-tracing-mecanisems-on-gp",
     "date":"2026-06-19"
   },
   {
     "question":"Will Tetraspace have any qualification in Chinese proficiency at the end of 2027?",
-    "probability":0.45,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/Tetraspace\/will-tetraspace-have-any-qualificat-ARqdpLyZty",
     "date":"2026-06-19"
   },
@@ -757,103 +811,103 @@
   },
   {
     "question":"Will factory farming ever be banned (or regulated out of practice) by the American government?",
-    "probability":0.59,
+    "probability":0.54,
     "link":"https:\/\/manifold.markets\/SpeaksForTrees\/will-factory-farming-ever-be-banned",
     "date":"2026-06-19"
   },
   {
     "question":"Will unlimited 3% cash back on the Robinhood Gold Card last at least until the end of 2030?",
-    "probability":0.44,
+    "probability":0.29,
     "link":"https:\/\/manifold.markets\/benjaminIkuta\/will-unlimited-3-cash-back-on-the-r-ppEshOS90O",
     "date":"2026-06-19"
   },
   {
     "question":"Will Mistral AI release a model named \"le chaton fat\" by EOY 2026",
-    "probability":0.5,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/Butanium\/will-mistral-ai-release-a-model-nam",
     "date":"2026-06-19"
   },
   {
     "question":"Export controls on Fable 5 get rescinded within 72 hours of the release of GPT 5.6?",
-    "probability":0.58,
+    "probability":0.41,
     "link":"https:\/\/manifold.markets\/DanielJohnston\/export-controls-on-fable-5-get-resc",
     "date":"2026-06-19"
   },
   {
     "question":"Will Griffin-1 succeed its Moon landing?",
-    "probability":0.43,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/PaulBlanc\/will-griffin1-succeed-its-moon-land",
     "date":"2026-06-19"
   },
   {
     "question":"Will July 2026 headline PCE inflation be at least 0.3% month-over-month?",
-    "probability":0.5,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-july-2026-headline-pce-inflati",
     "date":"2026-06-19"
   },
   {
     "question":"Any other soccer league\/tournament implements 4 quarters (2 hydration breaks) in the next year?",
-    "probability":0.8,
+    "probability":0.71,
     "link":"https:\/\/manifold.markets\/UniversalFC\/any-other-soccer-leaguetournament-i",
     "date":"2026-06-19"
   },
   {
     "question":"Will July 2026 U.S. import prices rise at least 0.5% month-over-month?",
-    "probability":0.5,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-july-2026-us-import-prices-ris",
     "date":"2026-06-19"
   },
   {
     "question":"Will the US reintroduce naval blockade before July?",
-    "probability":0.87,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/apol\/will-the-us-reintroduce-naval-block",
     "date":"2026-06-19"
   },
   {
     "question":"Will 2026 be Denver's warmest year ever?",
-    "probability":0.67,
+    "probability":0.73,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-2026-easily-be-denver-warmest",
     "date":"2026-06-19"
   },
   {
     "question":"Will Tensordyne\u2019s Logarithmic AI Compute Matter in any way before 2028?",
-    "probability":0.5,
+    "probability":0.48,
     "link":"https:\/\/manifold.markets\/JaundicedBaboon\/will-tensordynes-logarithmic-ai-com",
     "date":"2026-06-19"
   },
   {
     "question":"Will one new couple who met at 2026 LO--->Vibecamp festival season have a healthy baby by the first day of August 2027",
-    "probability":0.53,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/Synz\/will-one-new-couple-who-met-at-lovi",
     "date":"2026-06-19"
   },
   {
     "question":"Will the Padres score 10 or more runs in a game between June 16 and July 7, 2026?",
-    "probability":0.45,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/Web3ICP\/will-the-padres-score-10-or-more-ru",
     "date":"2026-06-19"
   },
   {
     "question":"Will the CFTC clear Polymarket for US traders by end of 2027?",
-    "probability":0.62,
+    "probability":0.61,
     "link":"https:\/\/manifold.markets\/LucasKlein\/will-the-cftc-clear-polymarket-for",
     "date":"2026-06-19"
   },
   {
     "question":"Will there be a Cabbages and Condoms restaurant branch opened in the USA by the end of 2030?",
-    "probability":0.45,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/strutheo\/will-there-be-a-cabbages-and-condom",
     "date":"2026-06-19"
   },
   {
     "question":"Will \"Game Recognizes Game\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.44,
+    "probability":0.41,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-game-recognizes-game-make-the",
     "date":"2026-06-19"
   },
   {
     "question":"Does Saudi Arabia normalize with Israel before December 31 2028?",
-    "probability":0.68,
+    "probability":0.66,
     "link":"https:\/\/manifold.markets\/PMattW\/does-saudi-arabia-normalize-with-is",
     "date":"2026-06-19"
   },
@@ -865,121 +919,121 @@
   },
   {
     "question":"Will the price of silver exceed $70 at the end of June",
-    "probability":0.62,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/WilliamGLeonard\/will-the-price-of-silver-exceed-70",
     "date":"2026-06-19"
   },
   {
     "question":"Will Microsoft close or divest itself of Rare in 2026?",
-    "probability":0.78,
+    "probability":0.75,
     "link":"https:\/\/manifold.markets\/BillyOnions\/will-microsoft-close-or-divest-itse",
     "date":"2026-06-19"
   },
   {
     "question":"Will OpenAI publicly release a GPT-5.6 model by August 31, 2026?",
-    "probability":0.85,
+    "probability":0.77,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-openai-publicly-release-a-gpt5-PuAU9gyINz",
     "date":"2026-06-19"
   },
   {
     "question":"Will US unemployment be 4.4% or higher in June 2026?",
-    "probability":0.7,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/Terminator2\/will-us-unemployment-be-44-or-highe",
     "date":"2026-06-19"
   },
   {
     "question":"Will Github Copilot revert back to their original token usage plan?",
-    "probability":0.58,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/OnlySlides\/will-github-copilot-revert-back-to",
     "date":"2026-06-19"
   },
   {
     "question":"Will commercial nuclear fusion exist in April of 2027?",
-    "probability":0.9,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/Lastmonogon\/will-commercial-nuclear-fusion-exis",
     "date":"2026-06-19"
   },
   {
     "question":"Will Jack Ceroni win the fields medal?",
-    "probability":0.41,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/AutopoieticErgodicity\/will-jack-ceroni-win-the-fields-med",
     "date":"2026-06-19"
   },
   {
     "question":"Will Micron (MU) close at least 10% above its June 24, 2026 regular-session close by the end of June 25, 2026?",
-    "probability":0.6,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/DefiViscount\/will-micron-mu-close-at-least-10-ab",
     "date":"2026-06-19"
   },
   {
     "question":"Will I go to the gym at least 2 times this week",
-    "probability":0.78,
+    "probability":0.73,
     "link":"https:\/\/manifold.markets\/Dojitza\/will-i-go-to-the-gym-at-least-2-tim-cQ2uycA0Cp",
     "date":"2026-06-19"
   },
   {
     "question":"Will Solana be higher exactly a week from now?",
-    "probability":0.64,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/OnlySlides\/will-solana-be-higher-exactly-a-wee",
     "date":"2026-06-19"
   },
   {
     "question":"Will Ethereum be higher exactly a week from now?",
-    "probability":0.61,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/OnlySlides\/will-ethereum-be-higher-exactly-a-w",
     "date":"2026-06-19"
   },
   {
     "question":"Will Bitcoin be exactly higher 7 days from now?",
-    "probability":0.77,
+    "probability":0.66,
     "link":"https:\/\/manifold.markets\/OnlySlides\/will-bitcoin-be-exactly-higher-7-da-S2U6UULyhn",
     "date":"2026-06-19"
   },
   {
     "question":"Will my account be restricted or removed by Monday, June 22?",
-    "probability":0.72,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/CombatWombat\/will-my-account-be-restricted-or-re",
     "date":"2026-06-19"
   },
   {
     "question":"Will OpenAI's primary consumer AI product still be branded 'ChatGPT' on December 31, 2033?",
-    "probability":0.5,
+    "probability":0.29,
     "link":"https:\/\/manifold.markets\/Web3ICP\/will-openais-primary-consumer-ai-pr",
     "date":"2026-06-19"
   },
   {
     "question":"Will the number of U.S. Supreme Court Justices confirmed between June 15, 2026 and January 20, 2029 be at least one?",
-    "probability":0.73,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/Web3ICP\/will-the-number-of-us-supreme-court",
     "date":"2026-06-19"
   },
   {
     "question":"Will more US AI models be subject to US export control directives by the end of 2026?",
-    "probability":0.7,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/PhilipDowdell\/will-more-us-ai-models-be-subject-t",
     "date":"2026-06-19"
   },
   {
     "question":"Strait of Hormuz traffic returns to normal by July 15? [Polymarket]",
-    "probability":0.84,
+    "probability":0.73,
     "link":"https:\/\/manifold.markets\/HillaryClinton\/strait-of-hormuz-traffic-returns-to-P2ZghLz5Q8",
     "date":"2026-06-19"
   },
   {
     "question":"Will OpenAI publicly release a GPT-5.6 model by September 30, 2026?",
-    "probability":0.87,
+    "probability":0.76,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-openai-publicly-release-a-gpt5",
     "date":"2026-06-19"
   },
   {
     "question":"Will the July 2026 U.S. U-6 unemployment rate be at least 8.0%?",
-    "probability":0.52,
+    "probability":0.44,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-the-july-2026-us-u6-unemployme",
     "date":"2026-06-19"
   },
   {
     "question":"Will Z win the 2026 Fields Medal?",
-    "probability":0.72,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/Yuming\/will-z-win-the-2026-fields-medal",
     "date":"2026-06-19"
   },
@@ -991,25 +1045,25 @@
   },
   {
     "question":"Will I reach a streak of 1000?",
-    "probability":0.68,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/TonyGao\/will-i-reach-a-streak-of-1000",
     "date":"2026-06-19"
   },
   {
     "question":"Will \"Jackass: Best and Last\" earn more than $25M in domestic gross earnings (in US dollars) during their opening weeken",
-    "probability":0.64,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/AritificialJudgement\/will-jackass-best-and-last-earn-mor",
     "date":"2026-06-19"
   },
   {
     "question":"Will July 2026 U.S. average hourly earnings rise at least 0.3% month-over-month?",
-    "probability":0.52,
+    "probability":0.47,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-july-2026-us-average-hourly-ea",
     "date":"2026-06-19"
   },
   {
     "question":"Will TSMC exceed Nvidia in market capitalization at any point before 2032?",
-    "probability":0.58,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/rg26\/will-tsmc-exceed-nvidia-in-market-c",
     "date":"2026-06-19"
   },
@@ -1021,31 +1075,31 @@
   },
   {
     "question":"Will the 2026 FIFA World Cup winner concede 5 or fewer total goals throughout the tournament?",
-    "probability":0.59,
+    "probability":0.56,
     "link":"https:\/\/manifold.markets\/DieterBlume\/will-the-2026-fifa-world-cup-winner",
     "date":"2026-06-19"
   },
   {
     "question":"Will Backrooms be nominated for an Oscar in any category?",
-    "probability":0.67,
+    "probability":0.71,
     "link":"https:\/\/manifold.markets\/asmith\/will-backrooms-be-nominated-for-an",
     "date":"2026-06-19"
   },
   {
     "question":"Will Toy Story 5 gross $162.5M or more domestically in its opening weekend?",
-    "probability":0.76,
+    "probability":0.73,
     "link":"https:\/\/manifold.markets\/ShaneBo\/will-toy-story-5-gross-1625m-or-mor",
     "date":"2026-06-19"
   },
   {
     "question":"Will somebody managram me at least 1500 mana before market close?",
-    "probability":0.73,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/ZandaZhu\/will-somebody-managram-me-at-least-05EdCsILZn",
     "date":"2026-06-19"
   },
   {
     "question":"Will Anthropic be the first among the \"Big Three\" private AI labs to achieve profitable quarterly earnings?",
-    "probability":0.53,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/janeblue\/will-anthropic-be-the-first-among-t",
     "date":"2026-06-19"
   },
@@ -1057,7 +1111,7 @@
   },
   {
     "question":"Will \"American Government Takes Down Claude Fable\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.53,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-american-government-takes-down",
     "date":"2026-06-19"
   },
@@ -1068,20 +1122,14 @@
     "date":"2026-06-19"
   },
   {
-    "question":"Will I drop 4.4 pounds in 111 hours and 11 minutes? (I'm 313.0 and down 13 lbs. in 5 weeks.)",
-    "probability":0.51,
-    "link":"https:\/\/manifold.markets\/Web3ICP\/will-i-drop-44-pounds-in-111-hours",
-    "date":"2026-06-19"
-  },
-  {
     "question":"What are the odds of Jesai fucking over Aryaman?",
-    "probability":0.43,
+    "probability":0.52,
     "link":"https:\/\/manifold.markets\/AviralPoddar\/what-are-the-odds-of-jesai-fucking",
     "date":"2026-06-19"
   },
   {
     "question":"Will July 2026 core PCE inflation be at least 0.3% month-over-month?",
-    "probability":0.5,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-july-2026-core-pce-inflation-b",
     "date":"2026-06-19"
   },
@@ -1093,91 +1141,91 @@
   },
   {
     "question":"Will Victor Wembanyama go on another training arc this summer?",
-    "probability":0.57,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/OnlySlides\/will-victor-wembanyama-go-on-anothe",
     "date":"2026-06-19"
   },
   {
     "question":"Will \"How well do models follow their constitutions?\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.53,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-how-well-do-models-follow-thei",
     "date":"2026-06-19"
   },
   {
     "question":"Will I make USA TST Group 2027?",
-    "probability":0.89,
+    "probability":0.74,
     "link":"https:\/\/manifold.markets\/megahertz13\/will-i-make-usa-tst-group-2027",
     "date":"2026-06-19"
   },
   {
     "question":"Will July 2026 U.S. building permits be at least 1.45 million (SAAR)?",
-    "probability":0.5,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-july-2026-us-building-permits",
     "date":"2026-06-19"
   },
   {
     "question":"Will I go to church next Sunday? (Today I'll watch REV Church, Vista, CA on YouTube. I went last week.)",
-    "probability":0.53,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/Web3ICP\/will-i-go-to-church-next-sunday-tod",
     "date":"2026-06-19"
   },
   {
     "question":"Will Anthropic\u2019s GAAP Net Income be Higher in fiscal year 2026 than fiscal year 2025?",
-    "probability":0.5,
+    "probability":0.42,
     "link":"https:\/\/manifold.markets\/JaundicedBaboon\/will-anthropics-gaap-net-income-be",
     "date":"2026-06-19"
   },
   {
     "question":"Will July 2026 U.S. housing starts be at least 1.4 million (SAAR)?",
-    "probability":0.5,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-july-2026-us-housing-starts-be",
     "date":"2026-06-19"
   },
   {
     "question":"Will Anthropic release a system card of a model at a new frontier of intellegence by August 31st?",
-    "probability":0.86,
+    "probability":0.82,
     "link":"https:\/\/manifold.markets\/BenAybar\/will-anthropic-release-the-system-c",
     "date":"2026-06-19"
   },
   {
     "question":"Will the Fed cut the federal funds rate at its July 2026 FOMC meeting?",
-    "probability":0.86,
+    "probability":0.76,
     "link":"https:\/\/manifold.markets\/Terminator2\/will-the-fed-cut-the-federal-funds",
     "date":"2026-06-19"
   },
   {
     "question":"Will Stellaris 2 be released before 2031?",
-    "probability":0.62,
+    "probability":0.64,
     "link":"https:\/\/manifold.markets\/0xseraphim\/will-stellaris-2-be-released-before-cdzpu6Z65y",
     "date":"2026-06-19"
   },
   {
     "question":"Werden Robert und Leni auf KlauTa noch zusammenkommen?",
-    "probability":0.32,
+    "probability":0.31,
     "link":"https:\/\/manifold.markets\/VincentStormLRdI\/werden-robert-und-leni-auf-klauta-n",
     "date":"2026-06-19"
   },
   {
     "question":"Une arme nucl\u00e9aire sera-t-elle utilis\u00e9e dans un conflit arm\u00e9 ou non avant le 31 d\u00e9cembre 2028 ?",
-    "probability":0.75,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/JnMcMckzy\/une-arme-nucleaire-seratelle-utilis",
     "date":"2026-06-19"
   },
   {
     "question":"Anthropic above 10T valuation on June 14 2027",
-    "probability":0.78,
+    "probability":0.74,
     "link":"https:\/\/manifold.markets\/Bayesian\/anthropic-above-10t-valuation-on-ju",
     "date":"2026-06-19"
   },
   {
     "question":"Anthropic above 20T valuation on June 14 2027",
-    "probability":0.78,
+    "probability":0.69,
     "link":"https:\/\/manifold.markets\/Bayesian\/anthropic-above-20t-valuation-on-ju",
     "date":"2026-06-19"
   },
   {
     "question":"Anthropic above 40T valuation on June 14 2027",
-    "probability":0.63,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/Bayesian\/anthropic-above-40t-valuation-on-ju",
     "date":"2026-06-19"
   },
@@ -1189,13 +1237,13 @@
   },
   {
     "question":"Will July 2026 U.S. industrial production rise at least 0.3% month-over-month?",
-    "probability":0.48,
+    "probability":0.49,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-july-2026-us-industrial-produc",
     "date":"2026-06-19"
   },
   {
     "question":"Will this market get between 20-60 unique traders by the end of June?",
-    "probability":0.86,
+    "probability":0.76,
     "link":"https:\/\/manifold.markets\/rg26\/will-this-market-get-between-2060-u",
     "date":"2026-06-19"
   },
@@ -1207,7 +1255,7 @@
   },
   {
     "question":"Average IMDB rating for House of the Dragon Season 3 \u2265 Season 2?",
-    "probability":0.5,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/ShankarSivarajan\/average-imdb-rating-for-house-of-th",
     "date":"2026-06-19"
   },
@@ -1225,43 +1273,43 @@
   },
   {
     "question":"Un r\u00e9f\u00e9rendum officiel sera-t-il organis\u00e9 par au moins un \u00c9tat membre de l\u2019AES avant le 31 d\u00e9Un r\u00e9f\u00e9rendum cembre 2027 ?",
-    "probability":0.6,
+    "probability":0.54,
     "link":"https:\/\/manifold.markets\/JnMcMckzy\/un-referendum-officiel-seratil-orga",
     "date":"2026-06-19"
   },
   {
     "question":"Macron va-t-il \u00eatre destitu\u00e9 ?",
-    "probability":0.74,
+    "probability":0.8,
     "link":"https:\/\/manifold.markets\/JnMcMckzy\/macron-vatil-etre-destitue",
     "date":"2026-06-19"
   },
   {
     "question":"Will \"Parkinson's Heuristic: The Only Time To Do An...\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.53,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-parkinsons-heuristic-the-only",
     "date":"2026-06-19"
   },
   {
     "question":"Will July 2026 core CPI-U rise at least 0.3% month-over-month?",
-    "probability":0.49,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-july-2026-core-cpiu-rise-at-le",
     "date":"2026-06-19"
   },
   {
     "question":"Will Claude Fable 5 be API Pricing Only when public access returns?",
-    "probability":0.6,
+    "probability":0.54,
     "link":"https:\/\/manifold.markets\/Shihan\/will-claude-fable-5-be-api-pricing",
     "date":"2026-06-19"
   },
   {
     "question":"Will July 2026 headline CPI-U rise at least 0.3% month-over-month?",
-    "probability":0.5,
+    "probability":0.53,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-july-2026-headline-cpiu-rise-a",
     "date":"2026-06-19"
   },
   {
     "question":"Glosso IPO By 2027?",
-    "probability":0.54,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/Lexer\/glosso-ipo-by-2027",
     "date":"2026-06-19"
   },
@@ -1273,31 +1321,31 @@
   },
   {
     "question":"Will the County of Los Angeles Department of Public Health's website support HTTPS before the end of 2028?",
-    "probability":0.7,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/CollectedOverSpread\/will-the-county-of-los-angeles-depa-PdOg5yRERl",
     "date":"2026-06-19"
   },
   {
     "question":"Will SpaceX stock crash and close below $100 this year?",
-    "probability":0.73,
+    "probability":0.62,
     "link":"https:\/\/manifold.markets\/BillClintonBubba\/will-spacex-stock-crash-and-close-b",
     "date":"2026-06-19"
   },
   {
     "question":"Will the US government introduce any domestic restrictions on open-weight LLMs by EOY 2026?",
-    "probability":0.67,
+    "probability":0.54,
     "link":"https:\/\/manifold.markets\/CharlesFoster\/will-the-us-government-introduce-an",
     "date":"2026-06-19"
   },
   {
     "question":"Will the Strategic Petroleum Reserve be 500M barrels of oil or more at the end of 2027?",
-    "probability":0.54,
+    "probability":0.43,
     "link":"https:\/\/manifold.markets\/strutheo\/will-the-strategic-petroleum-reserv-L5gSSdC5lI",
     "date":"2026-06-19"
   },
   {
     "question":"Will temperatures in Berlin, Germany, reach 40\u00b0C this summer?",
-    "probability":0.66,
+    "probability":0.63,
     "link":"https:\/\/manifold.markets\/CommanderKeen\/will-temperatures-in-berlin-germany",
     "date":"2026-06-19"
   },
@@ -1309,55 +1357,55 @@
   },
   {
     "question":"Will there be a data center on the planet Venus by 2127?",
-    "probability":0.75,
+    "probability":0.74,
     "link":"https:\/\/manifold.markets\/EliG\/will-there-be-a-data-center-on-the-QSU9cNtSAq",
     "date":"2026-06-19"
   },
   {
     "question":"Will Furnace Creek, Death Valley record a high temperature of at least 129.0\u00b0F by September 28, 2026 (9\/28\/26)?",
-    "probability":0.67,
+    "probability":0.58,
     "link":"https:\/\/manifold.markets\/Web3ICP\/will-furnace-creek-death-valley-rec",
     "date":"2026-06-19"
   },
   {
     "question":"Will I still be active on Manifold in 1 year?",
-    "probability":0.53,
+    "probability":0.6,
     "link":"https:\/\/manifold.markets\/2ndPairofBoots\/will-i-still-be-active-on-manifold-Lp52yLZ8cN",
     "date":"2026-06-19"
   },
   {
     "question":"Will someone manigram me 500 mana?",
-    "probability":0.63,
+    "probability":0.61,
     "link":"https:\/\/manifold.markets\/OnlySlides\/will-someone-manigram-me-500-mana",
     "date":"2026-06-19"
   },
   {
     "question":"Will Baltimore \"happen\" for the DC policy crowd before 2028?",
-    "probability":0.5,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/ErickBall\/will-baltimore-happen-for-the-dc-po",
     "date":"2026-06-19"
   },
   {
     "question":"Will US government action cause a non-Anthropic company to restrict availability of a model in 2026?",
-    "probability":0.66,
+    "probability":0.6,
     "link":"https:\/\/manifold.markets\/npt\/will-the-us-govt-take-action-that-c",
     "date":"2026-06-19"
   },
   {
     "question":"Will a non-Anthropic company make a Mythos-class model generally available worldwide in 2026?",
-    "probability":0.77,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/npt\/will-a-nonanthropic-company-make-a",
     "date":"2026-06-19"
   },
   {
     "question":"At least 3 San Diego Comic-Con 2026-related trailers will exceed 12 million YouTube views by August 2, 2026 (8\/2\/26).",
-    "probability":0.53,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/Web3ICP\/at-least-3-san-diego-comiccon-2026r",
     "date":"2026-06-19"
   },
   {
     "question":"Will Robinhood still be offering prediction markets in 2027",
-    "probability":0.66,
+    "probability":0.57,
     "link":"https:\/\/manifold.markets\/DarrinAllred\/will-robinhood-still-be-offering-pr",
     "date":"2026-06-19"
   },
@@ -1369,139 +1417,139 @@
   },
   {
     "question":"Will Anthropic substantially reduce its London office size?",
-    "probability":0.88,
+    "probability":0.84,
     "link":"https:\/\/manifold.markets\/glassbottle\/will-anthropic-substatially-reduce",
     "date":"2026-06-19"
   },
   {
     "question":"Will the next OpenAI model be closer to Fable-class than to Opus-class?",
-    "probability":0.76,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/eapache\/will-next-gpt-model-be-closer-to-op",
     "date":"2026-06-19"
   },
   {
     "question":"Will Fable be reenabled for Europeans before July 1?",
-    "probability":0.84,
+    "probability":0.8,
     "link":"https:\/\/manifold.markets\/Simon74fe\/will-fable-be-reenabled-for-europea",
     "date":"2026-06-19"
   },
   {
     "question":"Will Claude Fable 5 be re-enabled for Non-Americans before July 1st, 2026?",
-    "probability":0.87,
+    "probability":0.78,
     "link":"https:\/\/manifold.markets\/TheHouseAlwaysResolves\/will-claude-fable-5-be-reenabled-fo",
     "date":"2026-06-19"
   },
   {
     "question":"Will Anthropic legally challenge the US government directive to suspend access to Fable?",
-    "probability":0.63,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/Edvard\/will-anthropic-legally-challenge-th",
     "date":"2026-06-19"
   },
   {
     "question":"Will a government mandate restrict access to an OpenAI or xAI model on security or safety grounds before 2027?",
-    "probability":0.63,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/EmanuelR\/will-a-government-mandate-restrict",
     "date":"2026-06-19"
   },
   {
     "question":"Will any NFL team start the 2026 regular season 7-0?",
-    "probability":0.48,
+    "probability":0.5,
     "link":"https:\/\/manifold.markets\/JimD\/will-any-nfl-team-start-the-2026-re",
     "date":"2026-06-19"
   },
   {
     "question":"Will the US government restrict access to an OpenAI model in 2026?",
-    "probability":0.76,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/consnop\/will-the-us-government-restrict-acc",
     "date":"2026-06-19"
   },
   {
     "question":"Will Anthropic remove the data retention rule on Fable 5 before July?",
-    "probability":0.76,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/Bayesian\/will-anthropic-remove-the-data-rete",
     "date":"2026-06-19"
   },
   {
     "question":"Will OpenAI delay OR withdraw a model release due to demands by the US US government by EOY 2026?",
-    "probability":0.85,
+    "probability":0.84,
     "link":"https:\/\/manifold.markets\/Ziddletwix\/will-openai-delay-or-withdraw-a-mod",
     "date":"2026-06-19"
   },
   {
     "question":"Will Anthropic have KYC for customers before June 22?",
-    "probability":0.55,
+    "probability":0.67,
     "link":"https:\/\/manifold.markets\/Bayesian\/will-anthropic-have-kyc-for-custome",
     "date":"2026-06-19"
   },
   {
     "question":"Will the World Cup winner be a country from Europe?",
-    "probability":0.76,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/rg26\/will-the-world-cup-winner-be-a-coun",
     "date":"2026-06-19"
   },
   {
     "question":"Will Netanyahu lose the election and run away to Miami?",
-    "probability":0.86,
+    "probability":0.83,
     "link":"https:\/\/manifold.markets\/YairNeumann\/will-netanyahu-lose-the-election-an",
     "date":"2026-06-19"
   },
   {
     "question":"Will someone streak during the World Cup 2026 final match?",
-    "probability":0.7,
+    "probability":0.65,
     "link":"https:\/\/manifold.markets\/rg26\/will-someone-streak-during-the-worl",
     "date":"2026-06-19"
   },
   {
     "question":"Will IShowSpeed do an IRL livestream from inside the stadium during the 2026 FIFA World Cup Final?",
-    "probability":0.52,
+    "probability":0.47,
     "link":"https:\/\/manifold.markets\/Suiii\/will-ishowspeed-do-an-irl-livestrea",
     "date":"2026-06-19"
   },
   {
     "question":"Will the Jews admit that they control the weather before 2030?",
-    "probability":0.72,
+    "probability":0.7,
     "link":"https:\/\/manifold.markets\/Ludacrisllama\/will-the-jews-admit-that-they-contr",
     "date":"2026-06-19"
   },
   {
     "question":"Will the public officially be able to access Fable 5 again by the end of.July?",
-    "probability":0.87,
+    "probability":0.78,
     "link":"https:\/\/manifold.markets\/BenAybar\/will-the-public-officially-be-able",
     "date":"2026-06-19"
   },
   {
     "question":"Will the World Cup winner be decided off of penalty kicks?",
-    "probability":0.71,
+    "probability":0.73,
     "link":"https:\/\/manifold.markets\/OnlySlides\/will-the-world-cup-winner-be-decide",
     "date":"2026-06-19"
   },
   {
     "question":"Will Anthropic restore access to Fable 5 for US customers by the end of June?",
-    "probability":0.74,
+    "probability":0.71,
     "link":"https:\/\/manifold.markets\/PhilipDowdell\/will-anthropic-restore-access-to-fa-dQzO5lRQt8",
     "date":"2026-06-19"
   },
   {
     "question":"Will Anthropic restore access to Fable 5 to all customers by the end of June?",
-    "probability":0.87,
+    "probability":0.78,
     "link":"https:\/\/manifold.markets\/PhilipDowdell\/will-anthropic-restore-access-to-fa",
     "date":"2026-06-19"
   },
   {
     "question":"Will Fable be reenabled for Americans before June 20?",
-    "probability":0.84,
+    "probability":0.8,
     "link":"https:\/\/manifold.markets\/IsaacKing\/will-fable-be-reenabled-for-america",
     "date":"2026-06-19"
   },
   {
     "question":"Will Wales become a US state before 2045?",
-    "probability":0.92,
+    "probability":0.84,
     "link":"https:\/\/manifold.markets\/0xseraphim\/will-wales-become-a-us-state-before",
     "date":"2026-06-19"
   },
   {
     "question":"Will England become a US state before 2045?",
-    "probability":0.92,
+    "probability":0.85,
     "link":"https:\/\/manifold.markets\/0xseraphim\/will-england-become-a-us-state-befo",
     "date":"2026-06-19"
   },
@@ -1513,62 +1561,32 @@
   },
   {
     "question":"Will Elliott Lehrer and Caroline Ellison go on a date in June?",
-    "probability":0.82,
+    "probability":0.72,
     "link":"https:\/\/manifold.markets\/derikk\/will-elliott-lehrer-and-caroline-el",
     "date":"2026-06-19"
   },
   {
     "question":"Will \"Sympathy for both sides of the egregious misa...\" make the top fifty posts in LessWrong's 2026 Annual Review?",
-    "probability":0.53,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/LessWrong\/will-sympathy-for-both-sides-of-the",
     "date":"2026-06-19"
   },
   {
     "question":"At least 3 different songs will reach #1 on the Billboard Hot 100 between June 14, 2026 and July 26, 2026 (7\/26\/26).",
-    "probability":0.53,
+    "probability":0.59,
     "link":"https:\/\/manifold.markets\/Web3ICP\/at-least-3-different-songs-will-rea",
     "date":"2026-06-19"
   },
   {
     "question":"The 2026 MLB World Series will be tied 2-2 or stand at 4-0 after Game 4.",
-    "probability":0.5,
+    "probability":0.51,
     "link":"https:\/\/manifold.markets\/Web3ICP\/the-2026-mlb-world-series-will-be-t",
     "date":"2026-06-19"
   },
   {
     "question":"Will June 2026 U.S. capacity utilization be at least 76.5%?",
-    "probability":0.5,
+    "probability":0.55,
     "link":"https:\/\/manifold.markets\/CalibratedGhosts\/will-june-2026-us-capacity-utilizat",
-    "date":"2026-06-19"
-  },
-  {
-    "question":"Will a share of SpaceX be worth $150 or more one year after IPO?",
-    "probability":0.77,
-    "link":"https:\/\/manifold.markets\/strutheo\/will-a-share-of-spacex-be-worth-150",
-    "date":"2026-06-19"
-  },
-  {
-    "question":"What will Claude Fable 5 score on ARC-AGI-3?",
-    "probability":0.91,
-    "link":"https:\/\/manifold.markets\/eapache\/what-will-claude-fable-5-score-on-a",
-    "date":"2026-06-19"
-  },
-  {
-    "question":"Will Giannis Antetokounmpo be traded for a trade package including 6 or more draft picks(1st and 2nd rounders included)?",
-    "probability":0.6,
-    "link":"https:\/\/manifold.markets\/KingAK\/will-giannis-antetokounmpo-be-trade",
-    "date":"2026-06-19"
-  },
-  {
-    "question":"Wealth tax: Will a G7 country enact a 1% billionaire minimum tax before 2033?",
-    "probability":0.74,
-    "link":"https:\/\/manifold.markets\/CM\/wealth-tax-will-a-g7-country-enact",
-    "date":"2026-06-19"
-  },
-  {
-    "question":"Will a NBA team repeat win Back to Back Championships in the next 5 years?",
-    "probability":0.65,
-    "link":"https:\/\/manifold.markets\/OnlySlides\/will-a-nba-team-repeat-win-back-to",
     "date":"2026-06-19"
   }
 ]
