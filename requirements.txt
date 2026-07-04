@@ -1,6 +1,6 @@
 requests
 pandas
-openai
+openai==0.28.1
 python-dotenv
 scikit-learn
 matplotlib

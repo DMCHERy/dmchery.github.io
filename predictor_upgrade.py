@@ -2,6 +2,7 @@ import argparse
 import json
 import os
 import re
+import sys
 from datetime import datetime
 from html import unescape
 from urllib.parse import quote_plus
@@ -193,6 +194,7 @@ def run_manifold_predictor():
 JOB_PIN = os.getenv("JOB_PIN", "1469")
 NY_JOB_LOCATION = os.getenv("NY_JOB_LOCATION", "New York, NY")
 MAX_JOBS_PER_SOURCE = int(os.getenv("MAX_JOBS_PER_SOURCE", "50"))
+MAX_FRONTEND_JOBS = int(os.getenv("MAX_FRONTEND_JOBS", "75"))
 
 # These terms are limited to legitimate job fit signals: language, public job titles,
 # community-facing workplaces, and entry-level/pay signals. Do not use this to target,
@@ -606,6 +608,9 @@ def dedupe_jobs(jobs):
 
 def run_ny_job_finder(require_pin=True):
     if require_pin:
+        if not sys.stdin.isatty():
+            print("PIN prompt requested in a non-interactive environment. Use --no-pin for GitHub Actions/CI.")
+            return []
         pin = input("Enter NY jobs PIN: ").strip()
         if pin != JOB_PIN:
             print("Incorrect PIN. NY job finder did not run.")
@@ -618,7 +623,7 @@ def run_ny_job_finder(require_pin=True):
 
     jobs = dedupe_jobs(jobs)
     jobs.sort(key=lambda x: x.get("fit_score", 0), reverse=True)
-    jobs = jobs[:75]
+    jobs = jobs[:MAX_FRONTEND_JOBS]
 
     if not jobs:
         print("No NY job leads found. Try adding Adzuna keys in .env or expanding JOB_SEARCH_TERMS.")

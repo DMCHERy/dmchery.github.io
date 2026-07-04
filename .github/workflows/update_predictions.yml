@@ -1,0 +1,50 @@
+name: Update Predictions and NY Jobs
+
+on:
+  schedule:
+    # Runs every 6 hours. Change to "*/30 * * * *" only if you really want every 30 minutes.
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run predictor and NY job finder
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          JOB_PIN: ${{ secrets.JOB_PIN }}
+          MAX_FRONTEND_JOBS: "75"
+        run: |
+          python predictor_upgrade.py --all --no-pin
+
+      - name: Run backtest if script exists
+        run: |
+          if [ -f backtest.py ]; then python backtest.py; fi
+
+      - name: Commit and push generated files
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "github-actions"
+          git add predictions.json manifold_predictions.csv ny_job_leads.json ny_job_leads.csv job_outreach_drafts.json job_outreach_drafts.txt backtest_results.csv || true
+          git commit -m "Auto-update predictions and NY jobs" || echo "No changes to commit"
+          git push
